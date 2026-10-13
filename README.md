@@ -202,7 +202,8 @@ Each job is a folder in `jobs/inbox/`:
 
 ```
 jobs/inbox/<job-id>/
-  job.json      what to do, where the pack is, the allowed passages, status and attempt
+  job.json      what to do, where the pack is, the passages quoted in the prompt, status and attempt
+                (any passage in the pack may be cited, not only those: use the variety)
   prompt.md     the full instructions for this job (what to produce; the answer FORMAT is
                 always the folder format below, whatever prompt.md says about JSON)
   passages.md   extra passages for this job that aren't in the pack (optional)

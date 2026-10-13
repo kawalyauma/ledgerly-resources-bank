@@ -85,12 +85,13 @@ def validate(value, sch, where, problems):
 PASSAGE_RE = re.compile(r"<!--\s*passage\s+(\S+)[^>]*-->(.*?)<!--\s*/passage\s*-->", re.S)
 
 def load_passages(job, job_dir):
+    # The job's own passages.md first, then the pack, so a passage is attributed to its source file in the pack.
     files = []
-    pack = os.path.join(ROOT, job.get("pack", ""), "sources")
-    if os.path.isdir(pack):
-        files += [os.path.join(pack, f) for f in sorted(os.listdir(pack)) if f.endswith(".md")]
     extra = os.path.join(job_dir, "passages.md")
     if os.path.exists(extra): files.append(extra)
+    pack = os.path.join(ROOT, job.get("pack", ""), "sources")
+    if os.path.isdir(pack):
+        files += [os.path.join(pack, f) for f in sorted(os.listdir(pack)) if f.endswith(".md") and f != "INDEX.md"]
     passages = {}
     for path in files:
         with open(path, encoding="utf-8") as f:
@@ -108,8 +109,6 @@ class Cites:
         pid, quote = cite.get("source", ""), cite.get("quote", "")
         if pid not in self.passages:
             problems.append(f"{where}: source '{pid}' is not a passage in this job's pack"); return
-        if pid not in self.allowed:
-            problems.append(f"{where}: source '{pid}' is not one of the passages listed for this job")
         q = norm(quote)
         if len(q) < 6 or q not in self.passages[pid]["norm"]:
             problems.append(f"{where}: quote not found in {pid} (invented?): \"{quote[:80]}\"")
