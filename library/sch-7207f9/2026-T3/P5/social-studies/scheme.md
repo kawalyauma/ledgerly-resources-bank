@@ -12,16 +12,16 @@
 | 8 | 2 | Part B | The Government of Uganda | Practice: the Legislature — The organs of the government: Legislature | written |
 | 9 | 2 | teach | The Government of Uganda | The Judiciary and the courts of law — The organs of the government: Judiciary | written |
 | 10 | 2 | Part B | The Government of Uganda | Practice: the three organs of government — The organs of the government: Judiciary | written |
-| 11 | 3 | teach | The Government of Uganda | The constitution: meaning and Uganda's constitutions since independence — The constitution | writing |
-| 12 | 3 | teach | The Government of Uganda | The 1995 constitution, functions of a constitution and its relationship with elections — The constitution | writing |
-| 13 | 3 | Part B | The Government of Uganda | Practice: the constitution — The constitution | writing |
-| 14 | 3 | teach | The Government of Uganda | Duties of the government and social services — Duties of the government | writing |
-| 15 | 3 | teach | The Government of Uganda | Communication — Duties of the government: communication | writing |
-| 16 | 4 | Part B | The Government of Uganda | Practice: duties of the government and communication — Duties of the government | pending |
-| 17 | 4 | teach | The Government of Uganda | Sources of government revenue and taxation — Sources of revenue | pending |
-| 18 | 4 | teach | The Government of Uganda | The Uganda Revenue Authority, why people pay taxes and smuggling — Sources of revenue | pending |
-| 19 | 4 | teach | The Government of Uganda | Government expenditure and the national budget — Expenditure | pending |
-| 20 | 4 | Part B | The Government of Uganda | Practice: revenue, expenditure and budgets — Sources of revenue and expenditure | pending |
+| 11 | 3 | teach | The Government of Uganda | The constitution: meaning and Uganda's constitutions since independence — The constitution | written |
+| 12 | 3 | teach | The Government of Uganda | The 1995 constitution, functions of a constitution and its relationship with elections — The constitution | written |
+| 13 | 3 | Part B | The Government of Uganda | Practice: the constitution — The constitution | written |
+| 14 | 3 | teach | The Government of Uganda | Duties of the government and social services — Duties of the government | written |
+| 15 | 3 | teach | The Government of Uganda | Communication — Duties of the government: communication | written |
+| 16 | 4 | Part B | The Government of Uganda | Practice: duties of the government and communication — Duties of the government | writing |
+| 17 | 4 | teach | The Government of Uganda | Sources of government revenue and taxation — Sources of revenue | writing |
+| 18 | 4 | teach | The Government of Uganda | The Uganda Revenue Authority, why people pay taxes and smuggling — Sources of revenue | writing |
+| 19 | 4 | teach | The Government of Uganda | Government expenditure and the national budget — Expenditure | writing |
+| 20 | 4 | Part B | The Government of Uganda | Practice: revenue, expenditure and budgets — Sources of revenue and expenditure | writing |
 | 21 | 5 | teach | The Government of Uganda | Citizenship and responsibilities of citizens — Rights and responsibilities | pending |
 | 22 | 5 | teach | The Government of Uganda | Human rights — Rights and responsibilities | pending |
 | 23 | 5 | teach | The Government of Uganda | Children's rights, child abuse and child labour — Child labour | pending |

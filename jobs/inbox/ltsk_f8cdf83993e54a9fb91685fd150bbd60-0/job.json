@@ -1,0 +1,73 @@
+{
+  "job": "ltsk_f8cdf83993e54a9fb91685fd150bbd60-0",
+  "task": "ltsk_f8cdf83993e54a9fb91685fd150bbd60",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 66,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 4,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_529bf896c21648cabee818df6221c4b9",
+      "kind": "practice",
+      "week": 4,
+      "title": "Practice: duties of the government and communication",
+      "periods": 1,
+      "subtopic": "Duties of the government"
+    },
+    {
+      "id": "lles_3d493ec03f774947852bca69a4619b33",
+      "kind": "teach",
+      "week": 4,
+      "title": "Sources of government revenue and taxation",
+      "periods": 1,
+      "subtopic": "Sources of revenue"
+    },
+    {
+      "id": "lles_1d4da50b746348108a2445f276eab1ca",
+      "kind": "teach",
+      "week": 4,
+      "title": "The Uganda Revenue Authority, why people pay taxes and smuggling",
+      "periods": 1,
+      "subtopic": "Sources of revenue"
+    },
+    {
+      "id": "lles_14401be165eb46afafc2da17d9cfc70a",
+      "kind": "teach",
+      "week": 4,
+      "title": "Government expenditure and the national budget",
+      "periods": 1,
+      "subtopic": "Expenditure"
+    },
+    {
+      "id": "lles_03b1a41f0e4f4154bc98566da660f9fa",
+      "kind": "practice",
+      "week": 4,
+      "title": "Practice: revenue, expenditure and budgets",
+      "periods": 1,
+      "subtopic": "Sources of revenue and expenditure"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_6d2556c7c2cf4bdaab5bead60ded2e89",
+    "lchk_81d55cd06942488eb3d7927c27264ea9",
+    "lchk_4edd4afd1d254374a6c93da86c0debc8",
+    "lchk_25c87084edb64ed283eda12ac857fc84",
+    "lchk_c87f35f3e8f2469c85eaf42fab2293e6",
+    "lchk_18c7f38f15a34cac818d9f873981b6a6",
+    "lchk_fd05c8c2ac564ce5a4511b9fe2aa1468",
+    "lchk_b90a97cd7a9b42e7ad9e1945579a049e",
+    "lchk_7682272c0fdb4b93a290837e483bcf34"
+  ],
+  "created": "2026-10-13T21:24:45.546Z"
+}
