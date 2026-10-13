@@ -17,16 +17,16 @@
 | 13 | 3 | Part B | The Government of Uganda | Practice: the constitution — The constitution | written |
 | 14 | 3 | teach | The Government of Uganda | Duties of the government and social services — Duties of the government | written |
 | 15 | 3 | teach | The Government of Uganda | Communication — Duties of the government: communication | written |
-| 16 | 4 | Part B | The Government of Uganda | Practice: duties of the government and communication — Duties of the government | writing |
-| 17 | 4 | teach | The Government of Uganda | Sources of government revenue and taxation — Sources of revenue | writing |
-| 18 | 4 | teach | The Government of Uganda | The Uganda Revenue Authority, why people pay taxes and smuggling — Sources of revenue | writing |
-| 19 | 4 | teach | The Government of Uganda | Government expenditure and the national budget — Expenditure | writing |
-| 20 | 4 | Part B | The Government of Uganda | Practice: revenue, expenditure and budgets — Sources of revenue and expenditure | writing |
-| 21 | 5 | teach | The Government of Uganda | Citizenship and responsibilities of citizens — Rights and responsibilities | pending |
-| 22 | 5 | teach | The Government of Uganda | Human rights — Rights and responsibilities | pending |
-| 23 | 5 | teach | The Government of Uganda | Children's rights, child abuse and child labour — Child labour | pending |
-| 24 | 5 | Part B | The Government of Uganda | Practice: rights and responsibilities of citizens and child labour — Rights and responsibilities | pending |
-| 25 | 5 | teach | Population, Size and Distribution | Meaning of population and census — Meaning of population and census | pending |
+| 16 | 4 | Part B | The Government of Uganda | Practice: duties of the government and communication — Duties of the government | written |
+| 17 | 4 | teach | The Government of Uganda | Sources of government revenue and taxation — Sources of revenue | written |
+| 18 | 4 | teach | The Government of Uganda | The Uganda Revenue Authority, why people pay taxes and smuggling — Sources of revenue | written |
+| 19 | 4 | teach | The Government of Uganda | Government expenditure and the national budget — Expenditure | written |
+| 20 | 4 | Part B | The Government of Uganda | Practice: revenue, expenditure and budgets — Sources of revenue and expenditure | written |
+| 21 | 5 | teach | The Government of Uganda | Citizenship and responsibilities of citizens — Rights and responsibilities | writing |
+| 22 | 5 | teach | The Government of Uganda | Human rights — Rights and responsibilities | writing |
+| 23 | 5 | teach | The Government of Uganda | Children's rights, child abuse and child labour — Child labour | writing |
+| 24 | 5 | Part B | The Government of Uganda | Practice: rights and responsibilities of citizens and child labour — Rights and responsibilities | writing |
+| 25 | 5 | teach | Population, Size and Distribution | Meaning of population and census — Meaning of population and census | writing |
 | 26 | 6 | teach | Population, Size and Distribution | Importance of a population census, information collected and problems faced — Importance of census | pending |
 | 27 | 6 | Part B | Population, Size and Distribution | Practice: population census — Importance of census | pending |
 | 28 | 6 | teach | Population, Size and Distribution | Population growth and the factors that influence it — Population growth | pending |

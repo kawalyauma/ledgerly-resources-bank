@@ -1,0 +1,73 @@
+{
+  "job": "ltsk_99bd282318294b1e9367370ee0d9f372-0",
+  "task": "ltsk_99bd282318294b1e9367370ee0d9f372",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 71,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 5,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_c8bb4f7bc386455ab766c0ecaa74b071",
+      "kind": "teach",
+      "week": 5,
+      "title": "Citizenship and responsibilities of citizens",
+      "periods": 1,
+      "subtopic": "Rights and responsibilities"
+    },
+    {
+      "id": "lles_8a73de64fc3040c58e720ef1a13746dd",
+      "kind": "teach",
+      "week": 5,
+      "title": "Human rights",
+      "periods": 1,
+      "subtopic": "Rights and responsibilities"
+    },
+    {
+      "id": "lles_3bb6529a3787427f985106672e609551",
+      "kind": "teach",
+      "week": 5,
+      "title": "Children's rights, child abuse and child labour",
+      "periods": 1,
+      "subtopic": "Child labour"
+    },
+    {
+      "id": "lles_2b70aad512364bf69bc3150e844618f9",
+      "kind": "practice",
+      "week": 5,
+      "title": "Practice: rights and responsibilities of citizens and child labour",
+      "periods": 1,
+      "subtopic": "Rights and responsibilities"
+    },
+    {
+      "id": "lles_ac0e70beda0f479ea48a91b94343ea29",
+      "kind": "teach",
+      "week": 5,
+      "title": "Meaning of population and census",
+      "periods": 1,
+      "subtopic": "Meaning of population and census"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_6d2556c7c2cf4bdaab5bead60ded2e89",
+    "lchk_81d55cd06942488eb3d7927c27264ea9",
+    "lchk_4edd4afd1d254374a6c93da86c0debc8",
+    "lchk_5b12ef04e65245cdb076e27f5801b923",
+    "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+    "lchk_34a5d4a3b16d47f5967a8c7c879ba1ab",
+    "lchk_5d9fca1a0c194c47a0d551561d1abf1b",
+    "lchk_0291abf81e8944708feb2b71e64574c2",
+    "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd"
+  ],
+  "created": "2026-10-13T21:30:45.767Z"
+}
