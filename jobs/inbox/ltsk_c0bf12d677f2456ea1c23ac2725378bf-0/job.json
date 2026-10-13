@@ -1,0 +1,73 @@
+{
+  "job": "ltsk_c0bf12d677f2456ea1c23ac2725378bf-0",
+  "task": "ltsk_c0bf12d677f2456ea1c23ac2725378bf",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 61,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 3,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_7fe2ec8e39724938b51744fc0f9a99f3",
+      "kind": "teach",
+      "week": 3,
+      "title": "The constitution: meaning and Uganda's constitutions since independence",
+      "periods": 1,
+      "subtopic": "The constitution"
+    },
+    {
+      "id": "lles_63209098de7544f6a9de80687b356a20",
+      "kind": "teach",
+      "week": 3,
+      "title": "The 1995 constitution, functions of a constitution and its relationship with elections",
+      "periods": 1,
+      "subtopic": "The constitution"
+    },
+    {
+      "id": "lles_e861344ca4ac4ba085bf41aa50160c52",
+      "kind": "practice",
+      "week": 3,
+      "title": "Practice: the constitution",
+      "periods": 1,
+      "subtopic": "The constitution"
+    },
+    {
+      "id": "lles_e4e0ebfa6c044cbdba337f0a55e0481e",
+      "kind": "teach",
+      "week": 3,
+      "title": "Duties of the government and social services",
+      "periods": 1,
+      "subtopic": "Duties of the government"
+    },
+    {
+      "id": "lles_80fbb03bed604c68980bb6fad198d9fd",
+      "kind": "teach",
+      "week": 3,
+      "title": "Communication",
+      "periods": 1,
+      "subtopic": "Duties of the government: communication"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_6d2556c7c2cf4bdaab5bead60ded2e89",
+    "lchk_81d55cd06942488eb3d7927c27264ea9",
+    "lchk_4edd4afd1d254374a6c93da86c0debc8",
+    "lchk_db3ff097ff99464aba2332c9d68a600d",
+    "lchk_8565a70475344911b9db098cef933069",
+    "lchk_f249775bfab9472fbaa5b06e03fb5230",
+    "lchk_461170f297794aa1b58cec46e2ae28f2",
+    "lchk_eca2cbe9906942cfad946678f2edb234",
+    "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd"
+  ],
+  "created": "2026-10-13T21:18:50.183Z"
+}

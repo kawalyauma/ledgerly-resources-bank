@@ -7,16 +7,16 @@
 | 3 | 1 | teach | The Government of Uganda | Organs of government: the Executive — The organs of the government: Executive | written |
 | 4 | 1 | teach | The Government of Uganda | The president, cabinet, ministers and civil servants — The organs of the government: Executive | written |
 | 5 | 1 | Part B | The Government of Uganda | Practice: the Executive — The organs of the government: Executive | written |
-| 6 | 2 | teach | The Government of Uganda | The Legislature: meaning, composition and duties — The organs of the government: Legislature | writing |
-| 7 | 2 | teach | The Government of Uganda | Officers of Parliament and terms used in Parliament — The organs of the government: Legislature | writing |
-| 8 | 2 | Part B | The Government of Uganda | Practice: the Legislature — The organs of the government: Legislature | writing |
-| 9 | 2 | teach | The Government of Uganda | The Judiciary and the courts of law — The organs of the government: Judiciary | writing |
-| 10 | 2 | Part B | The Government of Uganda | Practice: the three organs of government — The organs of the government: Judiciary | writing |
-| 11 | 3 | teach | The Government of Uganda | The constitution: meaning and Uganda's constitutions since independence — The constitution | pending |
-| 12 | 3 | teach | The Government of Uganda | The 1995 constitution, functions of a constitution and its relationship with elections — The constitution | pending |
-| 13 | 3 | Part B | The Government of Uganda | Practice: the constitution — The constitution | pending |
-| 14 | 3 | teach | The Government of Uganda | Duties of the government and social services — Duties of the government | pending |
-| 15 | 3 | teach | The Government of Uganda | Communication — Duties of the government: communication | pending |
+| 6 | 2 | teach | The Government of Uganda | The Legislature: meaning, composition and duties — The organs of the government: Legislature | written |
+| 7 | 2 | teach | The Government of Uganda | Officers of Parliament and terms used in Parliament — The organs of the government: Legislature | written |
+| 8 | 2 | Part B | The Government of Uganda | Practice: the Legislature — The organs of the government: Legislature | written |
+| 9 | 2 | teach | The Government of Uganda | The Judiciary and the courts of law — The organs of the government: Judiciary | written |
+| 10 | 2 | Part B | The Government of Uganda | Practice: the three organs of government — The organs of the government: Judiciary | written |
+| 11 | 3 | teach | The Government of Uganda | The constitution: meaning and Uganda's constitutions since independence — The constitution | writing |
+| 12 | 3 | teach | The Government of Uganda | The 1995 constitution, functions of a constitution and its relationship with elections — The constitution | writing |
+| 13 | 3 | Part B | The Government of Uganda | Practice: the constitution — The constitution | writing |
+| 14 | 3 | teach | The Government of Uganda | Duties of the government and social services — Duties of the government | writing |
+| 15 | 3 | teach | The Government of Uganda | Communication — Duties of the government: communication | writing |
 | 16 | 4 | Part B | The Government of Uganda | Practice: duties of the government and communication — Duties of the government | pending |
 | 17 | 4 | teach | The Government of Uganda | Sources of government revenue and taxation — Sources of revenue | pending |
 | 18 | 4 | teach | The Government of Uganda | The Uganda Revenue Authority, why people pay taxes and smuggling — Sources of revenue | pending |

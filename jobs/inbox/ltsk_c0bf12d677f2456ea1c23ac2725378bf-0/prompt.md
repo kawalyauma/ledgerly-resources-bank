@@ -1,4 +1,4 @@
-# Job ltsk_44f299cf82a1489a9eec24f0f05eae48-0
+# Job ltsk_c0bf12d677f2456ea1c23ac2725378bf-0
 
 You are the curriculum engine of Ledgerly AI for a Ugandan school.
 Work from the passages, page images and records given in this prompt. Do not invent facts, topics, notes, examples, activities, questions, answers or names: every one of them is taken from the passages. You choose, order, tidy and format the material; you never make it up.
@@ -6,31 +6,30 @@ If the material does not cover something, leave it out or set the field to null 
 Do not run commands, open files or browse. Everything you need is in this prompt.
 Reply with ONE JSON object only, exactly matching the requested shape. No prose before or after it.
 
-Task: write ALL 5 lesson(s) below of week 2 of the Social Studies scheme for Primary Five 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
+Task: write ALL 5 lesson(s) below of week 3 of the Social Studies scheme for Primary Five 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
 Return exactly one entry per lessonId, keeping each lessonId exactly. Write the lessons in order so they build on each other; a practice or review lesson works from the lessons before it in this week.
 Class-depth rule: P5: one 40-minute lesson: 3–4 ideas; 300–500 words; connected explanations and application; 5–8 activities.
 
-lessonId=lles_47abbc6155834f47abb36e70f2682d9b: lesson 6, Monday, 1 period(s), 40 minutes.
-  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: The Legislature: meaning, composition and duties — The organs of the government: Legislature.
-  Objectives: Explain what the Legislature is and who heads it.; Name the groups of people who make up Parliament.; State the duties of the Legislature.
+lessonId=lles_7fe2ec8e39724938b51744fc0f9a99f3: lesson 11, Monday, 1 period(s), 40 minutes.
+  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: The constitution: meaning and Uganda's constitutions since independence — The constitution.
+  Objectives: Give the meaning of a constitution and of by-laws.; Name the constitutions Uganda has had since independence.; State the results of the 1967 constitution.
 
-lessonId=lles_dba8b78d61464524915c0cb1c1913c3c: lesson 7, Tuesday, 1 period(s), 40 minutes.
-  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: Officers of Parliament and terms used in Parliament — The organs of the government: Legislature.
-  Objectives: State the roles of the speaker, clerk to parliament and sergeant at arms.; Explain the terms bill, act, Hansard and mace.; State the qualifications of a member of parliament.
+lessonId=lles_63209098de7544f6a9de80687b356a20: lesson 12, Tuesday, 1 period(s), 40 minutes.
+  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: The 1995 constitution, functions of a constitution and its relationship with elections — The constitution.
+  Objectives: Name the people who took part in making the 1995 constitution and their roles.; State the functions and importance of a constitution.; Explain the relationship between the constitution and elections.
 
-lessonId=lles_259a8454f1504688b77310e00291d882: lesson 8, Wednesday, 1 period(s), 40 minutes.
-  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: Practice: the Legislature — The organs of the government: Legislature.
-  Objectives: Answer exercise questions on the Legislature and officers of Parliament.
+lessonId=lles_e861344ca4ac4ba085bf41aa50160c52: lesson 13, Wednesday, 1 period(s), 40 minutes.
+  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: Practice: the constitution — The constitution.
+  Objectives: Answer exercise questions on the constitution.
   This is a PART B lesson: it continues the subtopic taught in the lesson before it. notes = '### Remember' with the key points (numbered, 4–8 lines); in Mathematics, English and Reading then NEW '### Example' sections not used in Part A; then '### Exercise' with NEW numbered activities learners copy and answer. All of it is taken from other passages (other notes, workbooks, past papers), never invented. Oral work, drawing and group activities go in methods. activities = those exercises.
 
-lessonId=lles_c71a1cc10a834a0fbe24f54fb64d3069: lesson 9, Thursday, 1 period(s), 40 minutes.
-  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: The Judiciary and the courts of law — The organs of the government: Judiciary.
-  Objectives: State who heads the Judiciary and who makes it up.; State the duties of the Judiciary and of the chief justice.; Name the courts of law in Uganda and who heads each.
+lessonId=lles_e4e0ebfa6c044cbdba337f0a55e0481e: lesson 14, Thursday, 1 period(s), 40 minutes.
+  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: Duties of the government and social services — Duties of the government.
+  Objectives: State the duties of the government to its citizens.; Explain what social services are and name those the government provides.; State problems the government faces when providing social services and their solutions.
 
-lessonId=lles_e1fcde4cc6f24df88b28c0873cdc9c0d: lesson 10, Friday, 1 period(s), 40 minutes.
-  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: Practice: the three organs of government — The organs of the government: Judiciary.
-  Objectives: Answer exercise questions on the Judiciary and match each organ of government with its head and composition.
-  This is a PART B lesson: it continues the subtopic taught in the lesson before it. notes = '### Remember' with the key points (numbered, 4–8 lines); in Mathematics, English and Reading then NEW '### Example' sections not used in Part A; then '### Exercise' with NEW numbered activities learners copy and answer. All of it is taken from other passages (other notes, workbooks, past papers), never invented. Oral work, drawing and group activities go in methods. activities = those exercises.
+lessonId=lles_80fbb03bed604c68980bb6fad198d9fd: lesson 15, Friday, 1 period(s), 40 minutes.
+  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: Communication — Duties of the government: communication.
+  Objectives: Give the meaning of communication and mass media.; Name traditional and modern ways of communication.; State the importance of communication, barriers to communication and their solutions.
 
 Write, using ONLY the passages below. Passages from "NCDC" documents are the official base for what to teach; NCDC lower-primary thematic curricula put every learning area in columns separated by " | ": use only the Social Studies column.
 For EACH lesson:
@@ -343,6 +342,268 @@ communities. | The new words are: | lead to population
 population growth:
 </passage>
 
+<passage id="lchk_db3ff097ff99464aba2332c9d68a600d" source="P.5 SST SCHEME TERM III 2019" part="3">
+-Description
+-Observation
+-Discussing importance of electing leaders.
+3
+5
+LIVING TOGETHER IN UGANDA
+Uganda as an independent nation
+Elections commission
+-Explain the meaning of the word elections
+Spell, reads , pronounces and writes words related to elections.
+The Electoral commission
+-Roles of the electoral commission.
+-Challenges of the electoral commission.
+-Respect for democracy and elections
+-Discovery
+-Discussion
+-Explanation
+-Question and answer
+-Critical thinking
+-Effective communication
+-Inquiry
+-Suggesting two things people who get the least votes should do after elections.
+-Role playing voting exercise.
+-Discussion importances of electing leaders
+-Text books
+4
+1
+&
+2
+LIVING TOGETHER IN UGANDA
+The government of Uganda
+The arms of the government (Legislature)
+-Explaining the government.
+-Naming the organs of the government.
+-Identifying the components of the legislature.
+-Stating the duties of the Legislature
+-Spells, reads, pronounce the words related to the gov’t .
+-Legislature
+-Read, spell, pronounce words related to
+-speaker
+-Clerk to the parliament
+-Sergeant at Arms.
+-Parliament
+The Government
+-Meaning
+-Organs of the government
+Executive
+Legislature
+Judiciary
+Legislature
+(Parliament )
+-Meaning
+-Duties of the parliament
+-Main officers of the parliament
+Clerk to the parliament
+Sergeant of Arms
+-Qualifications of a MP
+-Explanation
+-Discussion
+-Role play
+-Cooperation
+-Respect
+-Observation
+-Listening
+-Critical thinking
+-Debate
+-Reading and spelling words related to the government
+-Photographs of a parliament in session
+MK stdbk 5 pg 131-133
+4
+3
+LIVING TOGETHER IN UGANDA
+The government of Uganda
+Executive
+Explaining executive and give components of the executive .
+-Giving the functions of the executive
+-Executive
+-President
+-Minister
+-Civil servants
+Executive
+-Meaning
+-Components of the executive
+President
+Ministers
+-Functions of the executive
+-Description
+-Guided discovery
+-Explanation
+-Respect
+-Appreciation
+-Listening
+-Critical thinking
+-Discussing the roles of the executive government
+A chart showing the executive government
+Mk std BK 5 PAGE 132-133
+4
+Judiciary
+-Explaining and composition of the Judiciary.
+-Discussing the roles of the Judiciary
+-spells, reads and pronounces words related to Judiciary.
+Judiciary
+Chief Justice
+Judges
+Attorneys
+Lawyers
+Supreme Court
+Judiciary
+-Meaning
+-Composition of Judiciary
+Chief justice
+Principal judge
+Judges
+Justices
+Attorneys
+Lawyers
+Magistrates
+Supreme court
+Roles of the Judiciary
+Roles of a chief Justice
+-Explanation
+-Discussion
+-Role play
+-Observation
+-Analysing
+-Sharing
+-Reporting
+-Explaining the necessity of the separation of legislative and Judiciary
+-Pictures of judges
+-Resource person
+-Pictures of High Court building
+Mk std
+Bk 5
+Page 134
+5
+1
+&
+2
+LIVING TOGETHER IN UGANDA
+The government of Uganda
+Roles of the government
+-Explaining the roles of the government.
+-State the types of the gov’t and their roles.
+-spell, read and pronounce and use words like roles.
+Roles of the gov’t
+-Types of the gov’t
+-Central government (National)
+-Local government
+-Role of the central government.
+-Roles of the local government.
+-Question and answer
+-Discussion
+-Explanation
+-Role play
+-Respect
+-Co-operation
+-Critical thinking
+-Discussing the roles of the government.
+-Discussing how different types of the government carry out their duties
+-Pictures connected to the activities of the gov’t
+Mk stdbk 5
+Page 131
+Functional bk 5
+Pg 179
+3
+&
+4
+LIVING TOGETHER IN UGANDA
+The government of Uganda
+The Constitution
+</passage>
+
+<passage id="lchk_8565a70475344911b9db098cef933069" source="P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation" part="12">
+ Officials that were elected in 1994 to debate the 1995 constitution.
+29
+iii) Mr. Stephen Akabway
+ He was the chairperson of the Interim Electoral commission which organized the
+elections of the CADS.
+iv) Hon James Wapakhabulo
+ He was the chairperson of the Constituent Assembly.
+v) Professor Victoria Mwaka (Hon)
+ She was the deputy chairperson of the Constituent Assembly.
+A draft constitution
+ A constitution where the views of citizens were represented.
+ The Constituent Assembly debated and finalized the 1995 constitution.
+ It took a period of sixteen months.
+ On the 8 th October 1995, the 1995 – constitution was promulgated at the constitutional
+square formerly known as city square.
+Functions of a national constitution
+ It protects the rights of the citizens.
+ It guides the nation systematically in a particular direction of governance.
+ It provides the means through which conflicts can be solved peacefully.
+ It promotes national unity.
+ It provides a peaceful transition of leadership.
+The constitution promotes democracy in a country.
+Activity
+1. What is a national constitution
+2. Write down any two constitutions that Uganda has had since independence.
+3. What contribution was made by Godfrey Lukongwa Binaisa and Kofi Crable in 1967?
+4. Why is a constitution important in a democratic country like Uganda?
+5. Write short notes on the people below.
+a) Stephen Akabway
+b) Hon. James Wapakhabulo
+6. Why is 8 th October 1995 politically important?
+30
+7. Mention the way, the 1967 constitution was unfriendly to the kingdoms in Uganda.
+8. Write CADs in full.
+9. What contribution was made by the constituent Assembly in 1994?
+Date Class Subject No. of pupils Time
+P.5
+TOPIC: The Government of Uganda
+SUB –TOPIC: Democracy
+LANGUAGE COMPETENCE :
+The learner:- Spells and uses words related to the sub -topic: freedom, democracy, human rights
+, press
+Content : Democracy
+ What is democracy?
+ Democracy is a system of governance which gives people freedom of speech, worship
+and participation in politics
+Or
+ Democracy is the government of the people by the people and for the people.
+ Democracy was first introduced and practiced by the Greeks in the city of Athens in
+Greece.
+Signs of modern democracy in a democratic country
+ Elected political leaders.
+ Elected parliament
+ Freedom of speech
+ There is freedom of the press.
+ There is freedom of movement
+ There is freedom of worship.
+ Freedom to carry out business.
+ Observance of human rights.
+ Constitutional rule.
+ Competitive politics.
+Roles of citizens in promoting democracy
+ Obeying the law.
+31
+ Respecting other people’s rights.
+ Reporting wrong doers to the police.
+ Participating in elections.
+Ways through which Democracy is exercised in Uganda today
+ Through elections by giving people freedom of speech
+ By giving people freedom of press.
+ Through freedom of worship
+Ways how democracy is practiced in schools
+ By electing prefects.
+ By giving children freedom of expression.
+ Through freedom of worship.
+Activity
+1. Define democracy
+2. In which city was democracy first practiced?
+3. State one way democracy is practiced in Uganda today.
+4. How is democracy important in a country like Uganda?
+5. Give two roles of citizens in the promotion of democracy in a country.
+Date Class Subject No. of pupils Time
+P.5
+TOPIC: The Government of Uganda
+SUB –TOPIC: Human rights in Uganda
+LANGUAGE COMPETENCE :
+</passage>
+
 <passage id="lchk_f249775bfab9472fbaa5b06e03fb5230" source="P 5 SST Scheme Term III 2019 (ecolebooks Com)" part="3">
 related to
 elections
@@ -634,432 +895,247 @@ necessity of
 the separation
 </passage>
 
-<passage id="lchk_db3ff097ff99464aba2332c9d68a600d" source="P.5 SST SCHEME TERM III 2019" part="3">
--Description
--Observation
--Discussing importance of electing leaders.
-3
-5
-LIVING TOGETHER IN UGANDA
-Uganda as an independent nation
-Elections commission
--Explain the meaning of the word elections
-Spell, reads , pronounces and writes words related to elections.
-The Electoral commission
--Roles of the electoral commission.
--Challenges of the electoral commission.
--Respect for democracy and elections
--Discovery
--Discussion
--Explanation
--Question and answer
--Critical thinking
--Effective communication
--Inquiry
--Suggesting two things people who get the least votes should do after elections.
--Role playing voting exercise.
--Discussion importances of electing leaders
--Text books
-4
-1
-&
-2
-LIVING TOGETHER IN UGANDA
-The government of Uganda
-The arms of the government (Legislature)
--Explaining the government.
--Naming the organs of the government.
--Identifying the components of the legislature.
--Stating the duties of the Legislature
--Spells, reads, pronounce the words related to the gov’t .
--Legislature
--Read, spell, pronounce words related to
--speaker
--Clerk to the parliament
--Sergeant at Arms.
--Parliament
-The Government
--Meaning
--Organs of the government
-Executive
-Legislature
-Judiciary
-Legislature
-(Parliament )
--Meaning
--Duties of the parliament
--Main officers of the parliament
-Clerk to the parliament
-Sergeant of Arms
--Qualifications of a MP
--Explanation
--Discussion
--Role play
--Cooperation
--Respect
--Observation
--Listening
--Critical thinking
--Debate
--Reading and spelling words related to the government
--Photographs of a parliament in session
-MK stdbk 5 pg 131-133
-4
-3
-LIVING TOGETHER IN UGANDA
-The government of Uganda
-Executive
-Explaining executive and give components of the executive .
--Giving the functions of the executive
--Executive
--President
--Minister
--Civil servants
-Executive
--Meaning
--Components of the executive
-President
-Ministers
--Functions of the executive
--Description
--Guided discovery
--Explanation
--Respect
--Appreciation
--Listening
--Critical thinking
--Discussing the roles of the executive government
-A chart showing the executive government
-Mk std BK 5 PAGE 132-133
-4
-Judiciary
--Explaining and composition of the Judiciary.
--Discussing the roles of the Judiciary
--spells, reads and pronounces words related to Judiciary.
-Judiciary
-Chief Justice
-Judges
-Attorneys
-Lawyers
-Supreme Court
-Judiciary
--Meaning
--Composition of Judiciary
-Chief justice
-Principal judge
-Judges
-Justices
-Attorneys
-Lawyers
-Magistrates
-Supreme court
-Roles of the Judiciary
-Roles of a chief Justice
--Explanation
--Discussion
--Role play
--Observation
--Analysing
--Sharing
--Reporting
--Explaining the necessity of the separation of legislative and Judiciary
--Pictures of judges
--Resource person
--Pictures of High Court building
-Mk std
-Bk 5
-Page 134
-5
-1
-&
-2
-LIVING TOGETHER IN UGANDA
-The government of Uganda
-Roles of the government
--Explaining the roles of the government.
--State the types of the gov’t and their roles.
--spell, read and pronounce and use words like roles.
-Roles of the gov’t
--Types of the gov’t
--Central government (National)
--Local government
--Role of the central government.
--Roles of the local government.
--Question and answer
--Discussion
--Explanation
--Role play
--Respect
--Co-operation
--Critical thinking
--Discussing the roles of the government.
--Discussing how different types of the government carry out their duties
--Pictures connected to the activities of the gov’t
-Mk stdbk 5
-Page 131
-Functional bk 5
-Pg 179
-3
-&
-4
-LIVING TOGETHER IN UGANDA
-The government of Uganda
-The Constitution
-</passage>
+<passage id="lchk_461170f297794aa1b58cec46e2ae28f2" source="NCDC P5 Merged – Social Studies" part="19">
+- Identify the systems of election.
+- Outline the duties of the Electoral Commission.
+Materials you will need:
+A pen, note book, P. 5 text book (if possible)
+Introduction:
+In the previous lesson you learnt about democracy. Now in this lesson you
+are going to study about elections in Uganda.
+Step I
+i) Election is the action of choosing leaders. To elect means to select.
+ii) In Uganda, there are different kinds of elections exercised for exam-
+ple; elections for the president, elections for Members of Parliament, local
 
-<passage id="lchk_853d95d8ec1549f28a6ca4fadcc6f022" source="Excel P 5 SST Term III" part="21">
-2. State any two difference between the Central government and Local government.
-3. Name the body that is responsible for building major roads in Uganda.
-4. What title is given to a political head of a sub-county?
-5. Give one way a government is important to a country.
-6. Mention the three arms of a democratioc government.
-7. State any three duties performed by the executive organ of the government.
-8. Complete the table below correctly.
-Government organ Headed by Composition
-(i) ------------- ------------------- -civil servants -ministers
-(ii) ------------- Chief justice -------------- --------------
-(iii) ------------- ------------------- -Constituency MPs -Ex-officios
-9. State any two roles performed by the president of Uganda.
-10. Mention any three instruments of power given to the president on the swearing in ceremony.
-Page 39
-11. What title is given to the;
-(i) Political head of a ministry?
-(ii) Highest civil servant in a ministry?
-(iii) Highest civil servant in a district?
-12. How does the chief justice help the president to attain leadership powers?
-13. Mention any two examples of civil servants.
-14. State tany three ways the legislature in a democratic government.
-15. How is the work of the parliament similar to that of the defunct LEGCO?
-16. Give one way one can become a member of parliament in Uganda.
-17. How does the Legislature help the Judiciary to perform its work?
-18. Mention any three special groups of people represented in the par5liament of Uganda.
-19. How is a Bill different from an Act?
-20. State one role performed by the following people in the parliament of Uganda.
-(i) Speaker of parliament.
-(ii) Clerk
-(iii) Sergeant at arms
-21. When does a bill become a law?
-22. Give any two ways law brakers are punished by the Judiciary.
-23. Apart from punishing law breakers, give any two other ways the Judiciary is important to a
-country.
-24. State any three roles performed by the government.
-25. State any three problems the government faces when performing iots duties.
-26. Name the government ministry that is responsible for fighting againsty corruptio n in the
-country.
-27. What are Social services?
-28. Mention any three social services provided by the government to its citizens.
-29. Give the meaning of each of the following;
-(i) A constitution
-(ii) By-laws
-30. Which constitution made Uganda become a republic?
-31. How did the 1967 constitution affect cultural institutions in Uganda?
-32. Why is 8 th October, 1995 remembered in the history of Uganda?
-33. State any two ways a national constitution is important to acountry.
-34. Give the meaning of Mass media.
-35. Name the body that is responsible for regulatinmg media services in Uganda.
-36. State any two challenges hindering effective communication in Uganda.
-37. How does communication promote trade in an area?
-38. Mention any four sources of government revenue.
-39. Give any two ways the government spends its revenue.
-40. Name the type of tax charged on;
-(i) Locally manufactured goods.
-(ii) Imported goods.
-41. Mention the two types of taxes.
-42. Name the body that is responsible for collecting taxes in Uganda.
-43. State any three problems the above body faces when carrying out its work.
-44. Give the meaning of the term Smuggling.
-45. Name the body under URA that is responsible for controlling smuggling in Uganda.
-46. Give two any two ways smuggling affects the development of the country.
-47. Give the meaning of the following;
-Page 40
-(i) A Budget
-(ii) A National budget
-</passage>
+SELF-STUDY LEARNING
 
-<passage id="lchk_f3a20646343545bf90e63ce171b6cf0e" source="P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation" part="10">
- Ministers without constituencies (Ex. officials)
-Special groups of people represented in the parliament
- The youth
- The workers
- The women
- The army
- The disabled
-Duties of the parliament
- To make or set laws.
- To approve the national budget.
- To approve persons appointed in high public offices such as vice president, prime minister
-etc.
- To check on how the government spends public funds .
- To amend the constitution when need arises.
- Disciplines unruly ministers and civil servants.
- The parliament passes a vote of no confidence or censure on the president, ministers and
-other public officers if they are found corrupt or out of order.
-Main officers of parliament
-a) The speaker of the parliament
- The speaker is the chairperson of parliament.
- He/ she chairs all the debates in parliament.
-b) The clerk to parliament
- He is the administrative head of parliament who keeps records and property of
-parliament.
- He acts as the secretary to the parliament.
- He records all the parliamentary proceedings. (Hansard)
-c) The sergeant at arms
- He is in charge of security in the parliament.
- He ensures that there is discipline in the parliament.
- He alerts members of the parliament when the speaker is about to enter.
- He makes sure that no person disrupts the members of parliament during their meetings.
-Terms connected to the Parliament
-25
-A bill
- A bill is a proposed law in the parliament
-A law or an act
- A law or an act is a bill that has been signed by the president
-Hansard
- Hansard are the recorded proceedings of the parliament.
-A mace
- A mace is a symbol of authority that represents the power of the speaker and parliament
-Qualifications for one to become a member of parliament
- He or she should be a citizen of Uganda.
- Should be a registered voter.
- Should be eighteen years old or above.
- Should have completed a minimum level of formal education of senior six or equivalent.
+council elections, By – elections and referendum.
+Step II
+Let us find out the materials used during elections. Write them in your
+note book.
+Step III
+In Uganda, elections are organised by a body called The Independent
+Electoral Commission (I.E.C). It carries out different duties. below are
+some of its duties;
+- To register voters.
+-To print ballot papers
+- Displat voter’s registers
+-To organize and supervise elections.
 Activity
-1. What is legislature?
-2. State one duty of the legislature arm of the government.
-3. Who heads the legislature?
-4. What title is given to the chief administrative head of the parliament?
-5. Give the roles of the following officers in the parliament.
-a) The speaker of parliament
-b) Sergeant at arms
-c) Clerk to parliament
-Date Class Subject No. of pupils Time
-P.5
-TOPIC: The Government of Uganda
-SUB –TOPIC: The Judiciary arm of the government
-LANGUAGE COMPETENCE :
-The learner:- Spells and uses words related to the sub -topic: justice, judge, magistrates,
-attorneys , lawyers, supreme
-Content : The Judiciary arm of government
- The judiciary arm of the government is the custodian of the law.
-26
- It is headed by the chief justice.
- The chief justice is assisted by the principal judge.
-Officials/ people who make up the judiciary
- The judges
- The justices
- The attorneys
- The lawyers
- The magistrates
-The duties of the judiciary arm of government
- Punishes law breakers
- Settles disputes and conflicts in courts of laws.
- It makes sure that laws are observed and maintained in the country. .
- Interprets laws to the public.
- It protects the rights of every citizen by giving free and fair trial in courts of law.
-Duties of the chief justice
- He/ she guides the judges and magistrates in the way they should carry out their work.
- He/ she is responsible for the swearing in of the important political people the president
-and vice president.
- He is the head of the Supreme Court.
-What is the highest court in Uganda called?
- The Supreme Court
+In my village, ____________ where carried out at a _____________.
+People cast their votes in the ___________. After voting, the
+_____________ were counted for each candidate. The _____________
+announced the election results.
+
+Polling station, presiding officer, elections, votes, ballot box
+
+SOCIAL STUDIES | PRIMARY FIVE
+
+TOPIC: THE GOVERNMENT OF UGANDA
+Lesson 1: Organs of government
+You will be able to;
+- Give the meaning of government.
+- State the importance of government.
+- Mention the three organs of government.
+
+Materials you will need:
+Pens, Pencils, note book, P. 5 SST text book (If possible)
+Instructions:
+Get ready with your books. Today you are going to study about the or-
+gans of government.
+
+Introduction:
+At home, the mother prepares food on three cooking stones or a charcoal
+stove with also three stands. Find out what happens when one stone or
+stand is removed. In the same way the government is is made up of three
+organs or arms.
+
+Procedure:
+Step I: Give the meaning of government
+A government is a ruling body of a country.
+In Uganda, there are two levels under which people are governed. These
+include; Central government which manages the national affairs and the
+Local government which runs the district affairs.
+Step II:
+The government plays many roles to its citizens as listed below;
+- keeping law and order.
+-Building schools.
+-Building hospitals.
+-Defending the country from external attacks.
+
+SELF-STUDY LEARNING
+
+- Constructing roads
+
+Step III
+Now write the three organs of government relating to the cooking stones
+or stands of a charcoal stove at home.
+They are Executive, Legislature and Judiciary.
+
+Activity
+1. Name the three organs of government.
+2. What name is given to a group of people who govern a country?
+3. Mention the two levels of the government.
+4. State the importance of government to its people.
+
+Lesson 2: The Executive
+You will be able to;
+- Mention the groups of people who form the Executive.
+- State the functions of the Executive.
+- Identify the duties of the President.
+Materials you will need:
+Pens, Pencils, note book, P. 5 SST text book (If possible).
+Introduction:
+In this lesson, you are going to learn about the Executive, groups of peo-
+ple who form the Executive, functions of the Executive and duties of the
+President.
+
+Step I:
+The Executive.
+i. This is the ruling organ of the government.
+It is headed by the President. It is made up of; the president, the
+cabinet and civil servants.
+
+SOCIAL STUDIES | PRIMARY FIVE
 </passage>
 
-<passage id="lchk_a068c36f55a64155a9a2517aace9832f" source="P.5 Social Studies Lesson Notes Term 3" part="4">
- To provide clean water to people
- To implement the laws
- To protect people and their property.
-ARMS / ORGANS OF A DEMOCRATIC GOVERNMENT.
-Government has many responsibilities. It carries them out through organs.
-- The executive
-- The legislature
-- The judiciary.
-Duties of the executive
- To implement the law
- To plan for the country
-DIVINE EDUCATION CENTRE:0784540287/0751565742 Page 11
- To rule the country
- To protect people and their property.
-The executive organ does the work of government.
-Composition of the executive.
-- The president (head)
-- Cabinet ministers
-- Civil servants (government workers)
-Duties of the Legislature
- To discuss and pass laws.
- To give advice to the executive
- To approve the national budget
- To approve (vet) newly appointed minister and other senior government officials.
- To protect the national constitution
-Legislature is headed by the speaker of parliament.
-Important personalities in parliament.
-- The speaker of parliament
-- Sergeant at arms
-- Clerk to parliament
-Note: Roles of the speaker
- The speaker chairs parliamentary meetings
- The sergeant at arms keeps law and order in parliament.
- The clerk to parliament records minutes in parliament.
- Recorded minutes of parliament are called hansards
- Give the present speaker (and the deputy speaker) of parliament.
-Composition of parliament.
-- Constituency representatives.
-- Special groups / interest groups representatives.
-Special groups representatives:
- The army
- The youth
- Women
-DIVINE EDUCATION CENTRE:0784540287/0751565742 Page 12
- People with disabilities.
-Teacher should revise the work on Legco
-- Give similarities of Legco and today’s parliament
-- Differences between members of Legco and members of parliament.
-Duties of the judiciary
- To interpret the law
- To decide if the law has been broken or not.
- To settle disputes
- To punish law breakers.
-Composition of the judiciary
-- Judges
-- Magistrates
-- Court clerks
-- Lawyers
-The judiciary is headed by the chief justice.
-Teacher should give the similarities of the judiciary and local councils and the judiciary
-with prefects.
-CONSTITUTIONALISM AND THE RULE OF LAW
-A national constitution is a set of laws used to rule a country.
-A constitution is a set of laws used to govern a company, a society or an organization.
-Functions of a national constitution
- To unite people
- To promote peace and security
- To guide leaders
- To help change government peacefully
- To promote good governance
- To promote human rights.
-The constitutions Uganda has ever had.
-1961 constitution
-1962 constitution
-1966 constitution
-1967 constitution
-1995 constitution
-DIVINE EDUCATION CENTRE:0784540287/0751565742 Page 13
-The 1961 constitution
-This constitution was made in London between 18 th September. This constitution was
-made in London between 18 th September to 9 th October 1961.
-It was mainly made to enable Uganda get self government.
-Lord Munster Commission
-- This was a committee appointed in July 1961 to make a report about the kingdoms
-interests mainly those which refused to send representatives to Legco.
-- It was chaired by Lord Earl Munster.
-Recommendations:
- Buganda was to remain part of Uganda.
- Buganda was to send 21 members to the national assembly.
-Contributions of the Munster Commission
- It led to the Lancaster Conference which granted Uganda independence.
-The Lancaster Conference of September 1961
-This conference was held in Lancaster house in London.
-It granted Uganda independence.
+<passage id="lchk_eca2cbe9906942cfad946678f2edb234" source="NCDC P5 Merged – Social Studies" part="21">
+The Courts of law under the Judiciary.
+
+Level | Head
+Supreme Court | Chief Justice
+Court of Appeal | Deputy Chief Justice
+High Court | Principal judge
+Chief Magistrate’s Court | Chief magistrate
+Resident Magistrate’s Court | Magistrate
+Activity
+1. Name the Chief Justice Of Uganda.
+2. Name the highest court of the judiciary.
+3. What title is given to head of Judiciary?
+4. State the duties of the Judiciary.
+Lesson 5:
+The Constitution
+You will be able to;
+- Give the meaning of a Constitution.
+- List the examples of Constitutions.
+- Identify the importance of a Constitution.
+Materials you will need:
+A Pen, pencil, note book, P. 5 S.ST text book (if possible)
+
+SOCIAL STUDIES | PRIMARY FIVE
+
+Introduction:
+Do you have some rules at home that were set by your parents? List some
+of them. Also as a country, there are laws which the citizens must follow.
+These laws make up what we call a Constitution.
+Step I:
+The Constitution.
+i) A Constitution is a set of laws that govern a country.
+ii) The Constitution of the Republic of Uganda was written in 1995.
+iii) It is called the 1995 Constitution.
+
+Step II:
+Examples of constitutions in Uganda since independence.
+i) 1962 Constitution/Independence Constitution.
+ii) 1966 Constitution/Pigeon hole Constitution.
+iii) 1967 Constitution/Republican Constitution.
+v) 1995 Constitution/The people’s Constitution.
+Note: The 1995 constitution was made public on 8th October, 1995 at the
+Constitutional Square, formerly known as City Square
+
+Step III:
+a) The functions of the Constitution.
+i) It creates order in a country.
+ii) It protects people from unfair laws.
+iii) It protects people’s rights.
+b) Importance of the constitution.
+i) It promotes human rights.
+ii) It promotes democracy.
+iii) It promotes good governance.
+iv) It helps to change leadership peacefully.
+Activity
+
+SELF-STUDY LEARNING
+
+1. ____________ is a set of laws governing a country.
+2. Why should every school have rules and regulations?
+3. Give the importance of a constitution.
+
+Lesson 6:
+Sources of Revenue and Expenditure by the government.
+You will be able to;
+- Mention the sources of government revenue.
+- State the ways the government spends its money.
+- Identify the services on which government spends its revenue.
+
+Materials you will need:
+A pen, pencil, note book, P. 5 S.ST text book (if possible)
+
+Introduction:
+In this lesson you are now going to learn about the government revenue,
+ways the government spends its money and services on which govern-
+ment spends money.
+Step I:
+Find out the type of work that your parent or guardians do to get money.
+List them. Write down the things on which your parents spend money on.
+Step II:
+The sources of government revenue.
+i) Revenue is the money government gets or earns.
+ii) Expenditure is the money government spends or uses.
+iii) List the sources of government revenue. Check your list with these be-
+low; taxes, loans, donations, court fines, tourism, grants, licenses.
+Step III:
+a) Ways government spends its money.
+-Building of schools. | -Buying security equipments.
+
+SOCIAL STUDIES | PRIMARY FIVE
+
+-Paying civil servants. | -Building of hospitals.
+-Constructing and maintaining roads,
+-Paying loans . | -Providing safe and clean water.
+b) Services on which the government spends its money.
+-Education services. | -Security services.
+-Transport services. | -Health services.
+Communication services.
+
+Activity
+1. Give the meaning of revenue.
+2. Mention the sources of government revenue.
+</passage>
+
+<passage id="lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd" source="Excel P 5 SST Term III" part="27">
+5. Give any two economic benefits of a large population to the development of a country.
+6. Mention any three natural disasters that may lead to the reduction in the number of
+people in an area.
+7. Name the body that is responsible for conducting a national census in Uganda.
+8. Mention any three types of information that is collected by enumerators during the
+census.
+9. Which ministry is responsible for conducting a national census in Uganda?
+10. Give any one reason why a national census in Uganda is conducted after ten years.
+11. State any three reasons why the government conducts a national census.
+12. Mention any three problems faced by the enumerators during the census exercise.
+13. Why is population census in Uganda conducted after ten years?
+14. State any three problems the government faces when conducting a national population
+census.
+15. Give the meaning of Population distribution.
+16. Mention any three factors that influence population distribution.
+17. Give one reason why steep slopes of mountains are sparsely populated.
+18. Mention any three factors that lead to a sparse population in an area.
+19. State any one two reasons why slopes of most mountains in East Africa are densely
+populated.
+20. Why are there many people living around the shores of lake Victoria?
+21. Mention any three examples of sparsely populated areas in East Africa.
+22. Why is the North Eastern part of Uganda sparsely populated?
+23. Give the meaning of Population density.
+24. Which East African country has the biggest population density?
+25. Calculate the population density of town W which has a population of 4500 people living in
+an area of 90km 2 .
+26. Give one way the government can encourage the settlement of people in rural areas.
+27. What is Population structure?
+28. Give any two ways TASO helps AIDS victims in Uganda.
+29. How can married people safeguard themselves against AIDS?
+30. State any two ways HIV/ AIDS affects economic development in an area.
 </passage>
 </passages>
 
