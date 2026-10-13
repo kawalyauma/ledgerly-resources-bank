@@ -27,16 +27,16 @@
 | 23 | 5 | teach | The Government of Uganda | Children's rights, child abuse and child labour — Child labour | written |
 | 24 | 5 | Part B | The Government of Uganda | Practice: rights and responsibilities of citizens and child labour — Rights and responsibilities | written |
 | 25 | 5 | teach | Population, Size and Distribution | Meaning of population and census — Meaning of population and census | written |
-| 26 | 6 | teach | Population, Size and Distribution | Importance of a population census, information collected and problems faced — Importance of census | writing |
-| 27 | 6 | Part B | Population, Size and Distribution | Practice: population census — Importance of census | writing |
-| 28 | 6 | teach | Population, Size and Distribution | Population growth and the factors that influence it — Population growth | writing |
-| 29 | 6 | teach | Population, Size and Distribution | Advantages and dangers of fast population growth — Population growth | writing |
-| 30 | 6 | Part B | Population, Size and Distribution | Practice: population growth — Population growth | writing |
-| 31 | 7 | teach | Population, Size and Distribution | Population distribution and the factors that influence it — Population distribution | pending |
-| 32 | 7 | teach | Population, Size and Distribution | Densely populated areas of Uganda — Population distribution | pending |
-| 33 | 7 | teach | Population, Size and Distribution | Sparsely populated areas of Uganda — Population distribution | pending |
-| 34 | 7 | Part B | Population, Size and Distribution | Practice: population distribution — Population distribution | pending |
-| 35 | 7 | teach | Population, Size and Distribution | Population density — Population density | pending |
+| 26 | 6 | teach | Population, Size and Distribution | Importance of a population census, information collected and problems faced — Importance of census | written |
+| 27 | 6 | Part B | Population, Size and Distribution | Practice: population census — Importance of census | written |
+| 28 | 6 | teach | Population, Size and Distribution | Population growth and the factors that influence it — Population growth | written |
+| 29 | 6 | teach | Population, Size and Distribution | Advantages and dangers of fast population growth — Population growth | written |
+| 30 | 6 | Part B | Population, Size and Distribution | Practice: population growth — Population growth | written |
+| 31 | 7 | teach | Population, Size and Distribution | Population distribution and the factors that influence it — Population distribution | writing |
+| 32 | 7 | teach | Population, Size and Distribution | Densely populated areas of Uganda — Population distribution | writing |
+| 33 | 7 | teach | Population, Size and Distribution | Sparsely populated areas of Uganda — Population distribution | writing |
+| 34 | 7 | Part B | Population, Size and Distribution | Practice: population distribution — Population distribution | writing |
+| 35 | 7 | teach | Population, Size and Distribution | Population density — Population density | writing |
 | 36 | 8 | Part B | Population, Size and Distribution | Practice: calculating population density — Population density | pending |
 | 37 | 8 | teach | Population, Size and Distribution | High population density: advantages and problems — High population density | pending |
 | 38 | 8 | teach | Population, Size and Distribution | Solutions to problems of high population density — Solutions to high population density | pending |

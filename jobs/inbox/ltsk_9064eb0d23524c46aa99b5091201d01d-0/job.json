@@ -1,0 +1,74 @@
+{
+  "job": "ltsk_9064eb0d23524c46aa99b5091201d01d-0",
+  "task": "ltsk_9064eb0d23524c46aa99b5091201d01d",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 81,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 7,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_49060655929c411baa89e1e6b326898e",
+      "kind": "teach",
+      "week": 7,
+      "title": "Population distribution and the factors that influence it",
+      "periods": 1,
+      "subtopic": "Population distribution"
+    },
+    {
+      "id": "lles_585f0fad7b76424aa251245c4d8128eb",
+      "kind": "teach",
+      "week": 7,
+      "title": "Densely populated areas of Uganda",
+      "periods": 1,
+      "subtopic": "Population distribution"
+    },
+    {
+      "id": "lles_47445f22fff745c89b31314ed3b9a101",
+      "kind": "teach",
+      "week": 7,
+      "title": "Sparsely populated areas of Uganda",
+      "periods": 1,
+      "subtopic": "Population distribution"
+    },
+    {
+      "id": "lles_ce6e37ac483541e192bca33e8acc0c04",
+      "kind": "practice",
+      "week": 7,
+      "title": "Practice: population distribution",
+      "periods": 1,
+      "subtopic": "Population distribution"
+    },
+    {
+      "id": "lles_37f5f8212f0c4e4487d30455ba0a8a82",
+      "kind": "teach",
+      "week": 7,
+      "title": "Population density",
+      "periods": 1,
+      "subtopic": "Population density"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_4edd4afd1d254374a6c93da86c0debc8",
+    "lchk_e0031cef799c413f9438d6584be3e476",
+    "lchk_91e897c1be5f461ab3bbc9443993f48c",
+    "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+    "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+    "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+    "lchk_f68ad912b104484b8b665e3e19a53590",
+    "lchk_89377846af3241ba84ea0652b03431af",
+    "lchk_b532d3c1e8be45d5bfa157ec2d63678b",
+    "lchk_a8bf4b84729e467e90e868625ca681a3"
+  ],
+  "created": "2026-10-13T21:44:46.408Z"
+}

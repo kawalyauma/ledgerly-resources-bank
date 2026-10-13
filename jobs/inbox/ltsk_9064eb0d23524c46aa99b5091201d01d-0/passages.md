@@ -227,257 +227,6 @@ a. Population density
 b. Population distribution
 <!-- /passage -->
 
-<!-- passage lchk_de8fddce4e9d4f858bcd933118db47b3 part 7 -->
- Customs duty
- Exercise duty
-Definition of a
-budget
-Parts of the budget
-Definition of the
-national budget
-Reasons for
-budgeting
-Sources of
-government
-revenue
-Types of taxes
-Ways how the
-government spends
-its revenue
-Problems faced
-during collection of
-taxes
-Dangers of
-smuggling
-122 – 127
-Page 14
-Population
-size and
-distribution in
-Uganda and
-their
-relationship
-to economic
-planning and
-development
-Terms related
-to population
- By the end of all
-lessons the children
-should be able to
- Define all the terms
-related to population
- Population
- Population
-census
- National
-population
-census
- Enumerators
- Population
-growth
- Population
-distribution
- Population
-explosion
- Sparse
-population
- Dense
-population
- Optimum
-population
- Over population
- Census night
- Under
-population
-Writing
-Reading
-Answering
-oral
-questions
-Chalkboard
-Atlas
-Text book
-MK bk 5 pg 148
-Population
-size and
-distribution
-Population
-census
-Should
- Identify reasons why
-population census is
-conducted
- Identify information
-collected during
-census
- State the problem
-faced during census
- Identify the ministry
-responsible for
-census
- Reasons why
-census is
-conducted
-Information
-collected from
-people during
-census
-Problems the
-government faces
-during census
-Ministry
-responsible for
-conducting
-population census
-Answering
-oral
-questions
-151
-Factors
-affecting
-population
-distribution
- Should be able to
- Identify the factors
-affecting population
-distribution
- Identify factors that
-attract people in an
-area
- Sparse
- Dense
-Factors affecting
-population
-distribution
-Factors that attract
-people in an area
-Reasons why some
-areas are densely
-Text book
-And atlas
-Pg 141
-Page 15
- State reasons why
-some areas are
-sparsely populated
- State reasons why
-some areas are
-densely populated
-populated
-Reasons why some
-areas are sparsely
-populated
-Population
-growth
- Should be able to
- Identify the factors
-affecting population
-growth
- State the factors that
-lead to high
-population growth
- State the causes of
-high birth rate
- Ways of controlling
-high birth rate
- Way of controlling
-high population
-growth
- Birth rate
- Family planning
-Factors affecting
-population growth
-Factors that can
-lead to high
-population growth
-Causes of high
-birth rate
-Ways of controlling
-high birth rate
-Ways of controlling
-high population
-growth rate
-Text book
-And
-Atlas
-Pg 151
-Advantages
-and
-disadvantages
-of a large
-population
-Advantages
-and
-disadvantages
-of small
-population
- Should be able to
- Identify the economic
-advantages of a
-large population
- Identify the
-disadvantages of
-large population
- State the advantages
-of a small population
- Identify the
-disadvantages of a
-small population
- Economic
-advantages of a
-large population
-Disadvantages of a
-large population
-Advantages of a
-small population
-Disadvantages of a
-small population
-Writing
-Answering
-oral
-questions
-Text books
-and atlas
-Population
-size and
-distribution
-Hazards that
-check on
-population
-growth
- Should be able to
- Identify the natural
-hazards that check
-on population
-growth
- Identify the
-manmade disaster
-that check on
-population growth
- Hazards Natural hazards
-that check on
-population growth
-Manmade hazards
-that check on
-population growth
-Text books
-Page 16
-Effects of HIV
-/ AIDS on the
-population
- Mentions the social
-and economic
-effects of HIV /
-AIDS on the people.
- Discusses the
-effects of HIV /
-AIDS in society.
-Economic and
-social effects of
-HIV / AIDS.
-<!-- /passage -->
-
 <!-- passage lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd part 27 -->
 5. Give any two economic benefits of a large population to the development of a country.
 6. Mention any three natural disasters that may lead to the reduction in the number of
@@ -510,6 +259,219 @@ an area of 90km 2 .
 28. Give any two ways TASO helps AIDS victims in Uganda.
 29. How can married people safeguard themselves against AIDS?
 30. State any two ways HIV/ AIDS affects economic development in an area.
+<!-- /passage -->
+
+<!-- passage lchk_7c4fd5c6685b4ef5b553c7be3359c183 part 22 -->
+(iii) A Deficit budget.
+48. Mention the two parts of a budget.
+49. Name the government ministry responsible for making a national budget.
+50. Mention the three types of budgets.
+51. Give any two ways budgeting is important to an individual.
+52. State any two ways a surplus budget is important to a family.
+53. Mention any two causes of a deficit budget in a country.
+54. State any two ways a deficit budget is dangerous to a family.
+55. Give any two ways a country like Uganda can overcome a deficit budget.
+56. Give the meaning of the term Citizenship.
+57. Mention any two ways one can acquire citizenship of Uganda.
+58. State any three obligations of a good citizen.
+59. Give any one condition that can make one lose citizenship of Uganda.
+60. What name is given to an official government document that permits one to travel to other
+countries?
+61. Give any two ways a National identity card is useful to the citizens of Uganda.
+62. Why is food regarded to as a basic need?
+63. State any three problems people face when getting their basic needs.
+64. Mention any two forms of child abuse.
+65. State any two causes for the increasing cases of child abuse in Uganda today.
+66. Give any two ways children can contribute towards violation of their rights.
+67. How is the LC I Vice-chairperson useful to children in your community?
+68. Give any two ways cases of child abuse can be reduced in the society today.
+69. Give the meaning of Human rights.
+70. Mention any three examples of fundamental human rights.
+71. Name the body that is responsible for protecting therights of the people of Uganda.
+72. State one role a citizen can play to protect other people’s rights .
+73. Give any two ways children are subjected to child labour in the society today.
+74. Mention two ways child labour affects children in your community.
+75. Give any one way child abuse practices can be reduced in our community today.
+Page 41
+TOPIC 12: POPULATION SIZE AND DISTRIBUTION.
+.
+Population is the total number of people living in an area at a given time .
+Uganda has a population of over 45 million people according to the 2020 national
+population census statistics.
+Population distribution is the way people are spread in an area.
+Population growth is the increase in the number of people in an area.
+Population explosion is the sudden increase in the number of people in an area.
+Population census is the official counting of people in a country.
+Population density is the number of people living in an area per square kilometre.
+Population structure is the composition of people in terms of age and sex.
+POPULATION GROWTH .
+Population growth is an increase in the number of people in an area of a country.
+Factors that encourage Population growth.
+• High fertility rate among women.
+• Improved medical services.
+• Early marriages.
+• Polygamous marriage.
+• Availability of food.
+• Improved security and peace.
+• Unplanned family size.
+• Immigration.
+• Producing children for prestige.
+• Refugee influx.
+Cultural factors that promote population growth.
+• Polygamy
+• Producing children for prestige.
+• Forced early marriages.
+Advantages of population growth in an area.
+❖ It creates a large market for goods produced in an area.
+❖ It provides cheap labour force in an area.
+❖ The government collects more taxes from the people in areas with a large
+population.
+❖ It leads to development of an area.
+Disadvantages(dangers) of population growth.
+<!-- /passage -->
+
+<!-- passage lchk_f2bbe26a485b4f19a8d163a63cee3aef part 20 -->
+b)Why should a country have a national constitution?
+5. Mention the two parts of a national budget.
+6. Which government ministry is responsible for preparing the National Budget?
+7. State the ways through government revenue get revenue.
+8. Define
+a. A balanced budget
+b. A surplus budget
+9. Outline advantages of a surplus budget.
+10. Study the diagram below and answer questions that follows:
+a) What time of budget is illustrated?
+53
+b) Give the reason for your answer in (a) above.
+c) Give one disadvantage of the above type of budget.
+11. What is the major source of government revenue?
+Date Class Subject No. of pupils Time
+P.5
+TOPIC: Population size and distribution in Uganda
+SUB –TOPIC: Population distribution
+LANGUAGE COMPETENCE :
+The learner:- Spells and uses words related to the sub -topic: population, distribution, fertility
+Content: Population
+What is population?
+ Population is the total number of people living in an area.
+Population distribution
+ Population distributions the way people are spread in different areas of the country.
+OR
+ Population distribution is the differing number of people living in different areas.
+Factors that affect population distribution
+ Climate of the area.
+ Fertility of the land.
+ Social services
+ Economic opportunities
+a) Climate
+ Areas that have a good climate attract a high population density
+ Areas with poor climatic conditions are sparsely populated.
+b) Soil fertility
+ Areas that have fertile soils attract high population density to practice agriculture.
+c) Social services
+ Areas that have well developed social services like health , education, and transport
+attract large population.
+ People migrate to urban areas where social services are available.
+54
+How better health services lead to population increase
+ Better health services lead to decreased death rates in an area.
+ It increases fertility rate among women
+d) Economic opportunities
+ Economic opportunities refer to situations whereby people are able to work and earn
+income.
+ Economic opportunities lead to migration of people in search of employment in market
+places, schools , industries , hospitals, banks, and hotels.
+Examples of densely populated areas in Uganda
+ Areas of Kisoro
+ Areas of Kabale
+ Areas around L. Victoria
+ Areas around Mt. Elgon in Mbale and Kapchorwa , central, Eastern and western regions)
+Areas which are sparsely populated (have few people)
+ North Eastern Uganda (Karamoja due to poor climate)
+ Northern Uganda due to poor climate and insecurity
+Reasons why dry areas have few people
+ There is scarcity of food in dry areas.
+ There is scarcity of water in dry areas.
+ People migrate from dry areas to places with reliable rainfall.
+How does industrialization affect the population of an area?
+ people come from other areas to look for jobs in industries
+A map of Uganda showing population distribution
+55
+Activity
+1. Define the following terms:
+a) Population
+b) Population distribution
+2. Point out two factors that affect population distribution.
+3. Give two reasons why some places have many people than others.
+4. Explain how each of the factors below affect population of a place
+a) Urbanization
+b) Soil fertility
+c) Physical features
+d) Medical services
+Date Class Subject No. of pupils Time
+P.5
+TOPIC: Population size and distribution in Uganda
+SUB –TOPIC: Population density
+LANGUAGE COMPETENCE :
+The learner:- Spells and uses words related to the sub -topic:
+- Kilometer
+- Square
+- Growth
+- sudden
+<!-- /passage -->
+
+<!-- passage lchk_f68ad912b104484b8b665e3e19a53590 part 24 -->
+increase such as improved diet, immigration, polygamy, low death
+rates, improved medical care, early marriages.
+
+Lesson 3:
+Factors that influence population distribution.
+You will be able to;
+i) State the meaning of population distribution.
+ii) Identify the factors that influence population distribution.
+iii) Locate areas on a map of Uganda with large and small population.
+Materilas you will need:
+A pen, pencil, note book, P.5 S.ST text book (if possible)
+Instructions:
+You will need to get help from an adult to find out why some areas have
+many people while others few. Use the neighbouring villages or homes;
+take note of the ways houses are near or far from each other.
+Introduction:
+In this lesson, you are going to look at why some districts have more peo-
+ple than others. Urban areas have more people than rural areas. You will
+also be able to find out the areas in Uganda with large and small popula-
+tion.
+Procedure:
+Step I:
+Write the meaning of population distribution. Let an elder brother or sis-
+ter to help you to find out the places in your local area with many and few
+people. Ask him/her why the number of people in those areas is different.
+Step II:
+Identify the factors that influence population distribution.
+Population distribution is the way people are settled in an area or coun-
+try.
+This differs from place to place. Some areas have many people while oth-
+ers few . This means that some areas are densely populated while others
+are sparsely populated. The factors that influence population distribu-
+tion include; climate of an area, presence of soil fertility, the nature of
+relief, presence pests and diseases.
+
+SOCIAL STUDIES | PRIMARY FIVE
+
+Activity:
+1. Give the meaning of population distribution.
+2. Mention places in Uganda that have a very high population.
+3. Give factors that make the shores of Lake Victoria to have many peo-
+ple.
+4. Identify the type of work people in villages do.
+5. State factors that influence population distribution.
+
+National Curriculum
+Development Centre,
+P.O. Box 7002,
+Kampala.
+
+www.ncdc.go.ug
 <!-- /passage -->
 
 <!-- passage lchk_89377846af3241ba84ea0652b03431af part 23 -->
@@ -603,354 +565,129 @@ try or area. There are many factors that make the number of people
 SELF-STUDY LEARNING
 <!-- /passage -->
 
-<!-- passage lchk_c39ba86482504f359b37660b3e5a1d42 part 22 -->
-3. Give two benefits of a small family size.
-4. How can the government of Uganda deal with its fast growing population?
-Date Class Subject No. of pupils Time
-P.5
-TOPIC: Population size and distribution in Uganda
-SUB –TOPIC: Family planning
-LANGUAGE COMPETENCE :
-The learner:- Spells and uses words related to the sub -topic: sanitation , abortion, polygamy
-Content: Family planning
-What is family planning?
- Family planning is the spaced way of producing children.
-Methods used in family planning
-59
- Natural methods
- Artificial methods (use of condoms, injector plan)
-Advantages of family planning
- Prevents un wanted births
- Control population explosion
- Improves on the financial status of the family
- It reduces high maternal mortality rate among women
- It helps the family to plan for the children effectively.
-Disadvantages of family planning
- It discourages the population growth.
- It brings limited productive man power,
- It reduces tax base in a country.
- It brings shortage of labour force in a home.
-Advantages of having a small family
- Easy to plan for
- Easy to provide basic needs.
- Easy to educate the children
- Doesn’t need a lot of land
- Reduces quarrels among family members
- Children enjoy parental love
-Disadvantages of small family size
- Shortage of labour
- Shortage of security in a home
- Shortage of income due to less labour force
-Activity
-1. What is family planning?
-2. Why does the government of Uganda encourage family planning?
-3. Give two reasons why people have got negative attitude towards family planning.
-4. State how a small family is easy to plan for.
-60
-5. Give one problem that can be caused by small family size.
-6. Give two reasons why most families live in poor conditions.
-Date Class Subject No. of pupils Time
-P.5
-TOPIC: Population size and distribution in Uganda
-SUB –TOPIC: Population Census
-LANGUAGE COMPETENCE :
-The learner:- Spells and uses words related to the sub -topic: census, population census,
-enumerator, statistics, bureau
-Content: Population census
-a) Population census?
- Population census is the general counting of people in an area.
-b) National population census
- National population census is the general counting of people in a country.
-c) Census night
- Census night is the night before the census is carried out.
-People are advised not to move away from their homes before they are counted for the
-following day:
-Reasons for carrying out national population census
- To know the number of people and plan for them.
- To know the birth rate and death rate
- To know the rate of population growth
- It helps the government to know the population structure.
-Qn. Mention the ministry that carries out national population census
- The ministry of finance, planning and economic development
-Qn. Which body in Uganda, carries out national population census?
- The Uganda national bureau of statistics
-Information collected during population census
-61
- Sex
- Age
- Race
- Marital status
- Religion
- Language
- Level of education
- Types of housing
- Occupation
-Note : Uganda had its recent population census in the year 2003
-Qn. What title is given to the official who carry out population census.
-Enumerators
-Problems faced during national population census
- Poor transport in some areas.
- Some people give false information
- Ignorance among some people
- Poor climatic condition some times
-Qn. State the period when national population census is carried out.
- It is carried out every after ten years
-<!-- /passage -->
-
-<!-- passage lchk_401b8346cdcf44109b333a534b4a6b3d part 23 -->
-❖ It leads to shortage of land for settlement leading to land fragmentation.
-❖ It leads to development of slums.
-❖ It leads to easy spread of communicable diseases due to congestion.
-❖ It leads to high crime rate especially in urban centres.
-❖ It leads to inadequate social services in an area.
-❖ It leads to over exploitation of natural resources leading to environmental
-degradation.
-❖ It increases government expenditure and slows down other developments.
-❖ It leads to unemployment.
-Page 42
-Ways of controlling population growth.
-❖ By encouraging people to use family planning methods.
-❖ By promoting girl child education.
-❖ By discouraging polygamy.
-❖ By enforcing strict laws on immigration.
-❖ By rewarding families with a small population.
-❖ By discouraging early marriages.
-Natural disasters that may reduce the number of people in an area.
-- famine due to drought
-- lightning
-- volcanic eruption
-- epidemic diseases
-- landslides/mudslides
-- storms
-- earthquakes
-Artificial hazards that may reduce the number of people in an area.
-- Road accidents
-- fire outbreaks
-- wars
-- water and food poisoning
-- plane crush.
-Note:
-✓ Population explosion is the sudden / rapid increase in the number of people in
-an area.
-✓ The major cause of population explosion is the coming of refugees.
-✓ Refugee influx can bring about a sudden increase in the number of people in an
-area.
-✓ A refugee is a person who has been forced to leave his/ her country because of a
-disaster.
-Causes of refugees .
--Civil wars -landslides -famine -volcanic eruption -floods
-POPULATION CENSUS
-Population census is the official counting of people in a country.
-Population census is the process of collecting, analysing and using information about
-people in the country.
-Enumerators are trained people who collect information about people in the country
-during population census.
-The census exercise is organized by the Ministry of Finance, Planning and Economic
-development.
-The body in Uganda that is responsible for conducting the census exercise is the
-Uganda Bureau of Statistics (UBOS).
-A census night is the night before the census exercise is carried out.
-Population census in Uganda is carried out after every ten years.
-Reasons why the population census in Uganda is carried out after every ten years.
-• It is very expensive to carry out every year.
-• To allow population changes to take place.
-Page 43
-Importance of carrying out a population census in a country.
-• To effectively plan for the people.
-• To determine the birth and death rates.
-• To determine the population structure (composition of the population in terms of age
-and sex).
-• To know the level of people’s living standards.
-• To know the total number of people in a country.
-• To know the level of literacy in a country.
-Types of information collected during a population census.
-- Age of the family members.
-- Number of children produced by the
-couple.
-- Type of housing in a home stead.
-- Sex of the family members.
-- Religious status of the family members.
-- Occupation of the people in a family.
-- Major source of energy used at home
-- Level of education of the family
-members.
-Problems faced by enumerators during a population census.
-• Harsh weather conditions
-• Ignorance amongst the people
-• Moving long distances
-• Poor transport network in some areas.
-• Insecurity in some areas.
-Problems faced by the government during a population census.
-• Shortage of funds.
-• Insecurity in a country.
-• Poor transport and network.
-<!-- /passage -->
-
-<!-- passage lchk_79153d5583ac46fdb785f8aaf6c44c38 part 5 -->
-Responsibility
-Co-operation
-Respect
-Wall
-chart
-showing
-stages
-involved
-in an
-election
-MK Standard SST pupils book 5
-pages 1567 - 159
-3
-The Government
-Elections
-Ways how elections are conducted
-Bad practices before elections
-Bad practices during elections
-Bad practices after elections
-Importance of elections in the country
-Ministry responsible for elections
-Subject
-The learner;
-Gives the ways how elections are
-conducted.
-Identifies the bad practices before
-the elections
-Language
-The learner; pronounces, reads,
-spells and writes words correctly like
-manipulation, constituency, register,
-bribing
-Guided discussion
-Inquiry
-Listening the bad
-practices before,
-during and after
-elections
-Responsibility
-Co-operation
-Respect
-A ballot
-paper
-Voters
-card
-New MK standard SST pupils book 5 pages 154-
-155
-4
-The Government
-Government revenue
-Meaning of government revenue
-Sources of government revenue i.e.
-taxation, donations, grants, loans,
-tourism, money from exports
-Taxation
-Types of taxes
-People exempted from tax payment.
-Importance of tax payment
-The U.R.A
-Its importance / roles
-Problems faced by URA
-Solutions
-Subject
-The learner;
-Gives the meaning of government
-revenue
-States the sources of government
-revenue
-Identifies the value of tax payment
-and the problems faced in tax
-collection
+<!-- passage lchk_b532d3c1e8be45d5bfa157ec2d63678b part 7 -->
+census
+Identifies the ministry responsible
+for conducting a national census
+States the reasons why the national
+census is conducted
+Gives the problems faced by
+enumerators
 Language
 The learner pronounces, spells,
-reads and writes words such as
-revenue, expenditure, authority,
-loans, grants
+reads and writes words correctly like
+enumerator, census, teenage,
+teenager, occupation, sex e.t.c.
 Guided discussion
 Inquiry
-Listening the bad
-practices before,
-during and after
-elections
-Responsibility
+Answering oral and
+written activities
+Assertiveness
+Critical thinking
 Co-operation
-Respect
-A ballot
-paper
-Voters
-card
-New MK standard SST pupils book 5 pages 154-155
-5
-The Government
-Budget
-Meaning of a budget
-Budgeting
-National budget
-Parts of a budget
-Types of a budget
-Advantages and disadvantages of
-each types of budget
-Ways of overcoming a deficit budget.
-Importance of budgeting
-Ministry responsible for national
-budgeting
-Government financial year
+Text
+books
+MK Standard SST pupils book 5 page 177
+4
+Population size and distribution of Uganda
+Population explosion
+Meaning of population explosion
+Causes of population explosion
+Effects of population explosion
+Man-made factors which affect
+population growth in an area.
+Natural factors which affect
+Landslides floods, earth quake,
+volcanic eruptions
 Subject
-The learner;
-Gives the meaning of a budget
-Explains the meaning of the three
-types of budgets
-States the advantages and
-disadvantages of each type of
-budget
+The learner
+Gives the meaning of population
+explosion
+Identifies the causes of population
+explosion
+States the manmade and natural
+factors that u check on population
+explosion
 Language
-The learner reads, spells and writes
-words related to the budget correctly
-like expenditure, income, budgeting,
-deficit, surplus.
-Guided discovery
-Exhibition
+The learner pronounces, reads,
+spells and writes words correctly like
+landslides, wars, earthquake,
+volcanic, eruption, diseases
+Case study Giving the meaning of
+population explosion
 Giving the meaning of
-terms in budgeting
-Effective
-communication
-A chart
-showing
-different
-types of
-budget
-MK Standard SSTT Pupils book 5 pages 170 – 171
-7 1
-&
-2
-The Government
-School or family budget
-Meaning of a school budget
-Importance of budgeting for the school
-Sources of school income
-Ways how a school spends finances
-(its income)
-Basic needs of a school
-Meaning of a family budget
-Importance of family budgeting
-Effects of failing to budget in the family
-Sources of family income
-Ways of spending family income
-Basic needs of a family
+population explosion
+Writing the causes of
+population
+Responsible
+living in the
+environment
+Text
+book
+reading
+MK SST pupils book 5 page ...
+5
+Population size and distribution of Uganda
+Summary of population terms
+Population
+Population distribution
+Population increase
+Population growth
+Population density
+Over population
+Under population
+Optimum population
+Sparsely populated areas
+Densely populated areas
+Population structure
+Population explosion
+Population census
+Census night
+Dense population
+Sparse population
 Subject
-The learner;
-States the meaning of School
-budget, family budget
-Gives the importance of budgeting
-in a family
-States the sources of family and
-school income.
-Mentions the ways through which
-the school and family income is
-spent
-Language
-The learner writes words and
-sentences with correct punctuations
-Guided discovery
-Exhibition
+The learner gives the meaning of
+the population terms effectively
+Language competences
+The learner pronounces, spells ,
+reads and writes words related to
+population terms like distribution,
+increase, growth, density e.t.c.
 Guided discussion
+Guided discovery
+Giving the meaning of
+the terms related to
+population
+Spelling different
+words
+Answering written
+assignments
+Critical and
+creative
+thinking
+Chalk
+board
+illustratio
+n
+Teacher’s collection
+<!-- /passage -->
+
+<!-- passage lchk_a8bf4b84729e467e90e868625ca681a3 part 6 -->
+Examples of densely populated areas
+Examples of sparsely populated areas
+Subject
+The learner
+Gives the meaning of population
+distribution
+Identifies the factors influencing
+population distribution in Uganda
+Gives examples of densely
+populated and sparsely populated
+areas in Uganda.
+Language
+The learner pronounces, reads and
+spells words with stress intonation
+and fluency
 Group work
 Question and answer
 Answering oral and
@@ -960,13 +697,152 @@ communication
 Critical thinking
 Responsibility
 Co-operation
+Visit to
+Mukono
+town
+MK pupils SST book page ..., Atlases on population
+distribution in Uganda
+4
+Population size and distribution of Uganda
+Map work
+The map of Uganda showing
+population distribution in different
+areas
+Subject
+The learner
+Draws the map of Uganda
+Indicates the areas with as dense
+population
+Shows areas with a sparse
+population
+Language
+The learner pronounces, reads,
+spells and writes words correctly for
+example Dense, sparse e.t.c
+Exhibition
+Representation
+Drawing the map Creative
+thinking
+Assertiveness
+Drawn
+map on
+a chart
+MK SST pupils book 5 page 177
+5
+Population size and distribution of Uganda
+Population density
+Meaning of population density
+Developing a formula of calculating
+population density
+Calculating the population densities of
+different places
+Subject
+The learner;
+Gives the meaning of population
+density
+Calculates population density of
+different places
+Language
+The learner, pronounces, reads,
+spells and writes the words correctly
+like density, calculate, explosion,
+distribution
+Guided discussion
+Inquiry
+Giving the meaning of
+population density
+Critical thinking
+Co-operation
 Text
-books
-Teachers own collection
+book
+reading
+MK SST pupils book 5 page 182
+8 1
+Population size and distribution of Uganda
+Population growth
+Meaning of population growth
+Factors responsible for population
+growth
+Advantages of a high population
+Disadvantages of a high population
+Ways of controlling population growth
+Subject
+The learner
+Gives the meaning of population
+growth
+Identifies the factors responsible for
+population growth
+Gives the advantages and
+disadvantages of low and a high
+population.
+Language
+The learner reads, spells and writes
+the following words correctly i.e.
+sparse population, utilization,
+infant,. Mortality e.t.c
+Guided discussion
+Inquiry
+Answering oral and
+written activities
+Assertiveness
+Self esteem
+Responsibility
+Love
+Care
+Chalkbo
+ard
+illustratio
+n
+MK Standard SST pupils book 5 page 179
+2
+Population size and distribution of Uganda
+Low / sparse population
+Meaning of a low / sparse / under
+population
+Advantages of low population
+Disadvantages of low population
+Ways how the government
+Can deal with a past growing
+population
+Advantages of small family
+Disadvantages of having
+Subject
+The learner;
+Gives the meaning of low population
+Writes the advantages of low
+population
+Language
+The learner pronounces, reads,
+spells and writes words correctly like
+immigration, emigration, fertility rate.
+Guided discussion Answering oral and
+written activities
+Love
+Care
+Sharing
+Demonst
+ration
+Chalkbo
+ard
+illustratio
+n
 3
 Population size and distribution of Uganda
-Population distribution
-Meaning of population
-Meaning of population distribution
-Factors influencing population
+Population census
+Meaning of population census
+National population census
+The ministry responsible for conducting
+a national census
+The officials involved in the census
+Reasons for carrying out population
+census
+Information collected during population
+census
+Problems faced during population
+census
+Reasons why population census take
+long to be conducted
+Subject
+The learner;
+Gives the meaning of population
 <!-- /passage -->
