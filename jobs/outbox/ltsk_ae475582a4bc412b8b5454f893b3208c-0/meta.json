@@ -1,0 +1,19 @@
+{
+  "job": "ltsk_ae475582a4bc412b8b5454f893b3208c-0",
+  "attempt": 1,
+  "agent": "claude-code",
+  "model": "claude-opus-5-5",
+  "gaps": {
+    "scheme": [
+      "NCDC lists 'handles foreign affairs and sanity of the nation' as a duty of government; the notes only say the president 'represents the country internationally', so no separate lesson on foreign affairs.",
+      "NCDC asks learners to explain the necessity of the separation of the legislature and judiciary; the notes only say the Legislature makes laws the Judiciary uses. No fuller explanation in the pack.",
+      "NCDC expenditure items 'rent' and revenue item 'sale of government bills' are not explained in any notes in the pack.",
+      "NCDC competence 'Write a composition \"The country I want to live in\"' has no guidance or model in the pack.",
+      "NCDC meaning of teenagers and the 2007 teenager figure appear only in the curriculum; no notes expand on them.",
+      "Population figures in the pack conflict and are dated (NCDC: 41.49 million, 2016; Excel notes: over 45 million, 2020; another notes book says the recent census was 2003). The pack has no current census figure.",
+      "Names of office holders in the notes (speaker, chief justice, 2020 cabinet) are out of date; the pack has no current list.",
+      "Term 3 past papers in the pack have very few Social Studies questions on these two topics (mostly budget, revenue, human rights, population and political head of a district); practice lessons rely mainly on notes exercises."
+    ]
+  },
+  "reviewerNotes": "Order follows the NCDC P5 curriculum Topics 11 and 12 (passages lchk_6d2556..-lchk_e0031c..), with pacing checked against the Term III reference schemes. Democracy and elections are taught in NCDC Topic 10, so here they appear only as 'relationship between the constitution and elections'. Main notes: P.5 SST Lesson Notes Term III (Uganda as an Independent Nation), Excel P5 SST Term III, NCDC P5 Merged and P.5 SST Lesson Notes Term 3; practice lessons also cite the 2022 and 2023 End of Term III papers. The cite schema has no page field; passage ids (source part numbers) locate each quote."
+}

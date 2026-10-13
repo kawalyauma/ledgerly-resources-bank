@@ -1,0 +1,1477 @@
+{
+  "title": "Social Studies Primary Five 2026 Term 3: The Government of Uganda; Population, Size and Distribution",
+  "summary": "Ten weeks, five 40-minute periods a week. Weeks 1-5 (24 lessons) cover NCDC Topic 11, The Government of Uganda: role and levels of government, the three organs, the constitution, duties of government including communication, revenue and expenditure, and rights and responsibilities of citizens including child labour. Week 5 period 5 to week 10 period 4 (25 lessons) cover NCDC Topic 12, Population, Size and Distribution: population and census, growth, distribution, density, high and low density, HIV/AIDS, control of population growth and family planning. Each subtopic is followed by a practice (Part B) lesson using exercise and past-paper questions from the pack. Week 10 period 5 is the end of term assessment.",
+  "units": [
+    {
+      "title": "The Government of Uganda",
+      "theme": "Living together in Uganda",
+      "weekFrom": 1,
+      "weekTo": 5,
+      "competences": "Identifies the three organs of government. Explains the meaning of the constitution, its functions and importance. Explains the duties of the government. Explains the sources of revenue and expenditure by the government. Explains the rights and responsibilities of citizens of Uganda. Assessment: explain the organs of a nation and their significance; discuss the importance of a constitution; draw a chart showing how government gets revenue and spends it.",
+      "sources": [
+        {
+          "source": "lchk_6d2556c7c2cf4bdaab5bead60ded2e89",
+          "quote": "TOPIC 11: The Government of Uganda"
+        },
+        {
+          "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+          "quote": "Identifies the"
+        },
+        {
+          "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+          "quote": "Explain the various organs of a nation and their significance."
+        },
+        {
+          "source": "lchk_048ba2ce490e4899bc75b49b2fa571ad",
+          "quote": "SUB –TOPIC: The organs of Government and their functions"
+        },
+        {
+          "source": "lchk_34af8a516be44e0ba5c1a92a22a56fc8",
+          "quote": "Levels of government in Uganda."
+        },
+        {
+          "source": "lchk_461170f297794aa1b58cec46e2ae28f2",
+          "quote": "Lesson 1: Organs of government"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning of government, central and local government",
+          "subtopic": "Role of a government",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Give the meaning of a government.",
+            "Name the two levels of government in Uganda and give differences between them.",
+            "Name the levels of local government and explain decentralisation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "The role of a government (the ruling"
+            },
+            {
+              "source": "lchk_048ba2ce490e4899bc75b49b2fa571ad",
+              "quote": "A government is an established authority that runs the affairs of a country on behalf of her people."
+            },
+            {
+              "source": "lchk_34af8a516be44e0ba5c1a92a22a56fc8",
+              "quote": "The Central government is in charge of the whole country while the Local government is in charge of a district"
+            },
+            {
+              "source": "lchk_daea287472e2407897fac9dadc140318",
+              "quote": "Decentralization is the transfer of some powers from the central government to the district level."
+            }
+          ]
+        },
+        {
+          "title": "Practice: government, local government and decentralisation",
+          "subtopic": "Role of a government",
+          "week": 1,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer exercise questions on the meaning and levels of government and decentralisation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_daea287472e2407897fac9dadc140318",
+              "quote": "Write short notes on the following? a) A government b) Decentralization c) Bye laws"
+            },
+            {
+              "source": "lchk_461170f297794aa1b58cec46e2ae28f2",
+              "quote": "Mention the two levels of the government."
+            },
+            {
+              "source": "lchk_5cb1ddb635cb41eaa8e64a34bbd7172a",
+              "quote": "What title is given to the political head of a district?"
+            },
+            {
+              "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+              "quote": "State any two difference between the Central government and Local government."
+            }
+          ]
+        },
+        {
+          "title": "Organs of government: the Executive",
+          "subtopic": "The organs of the government: Executive",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Name the three organs of government.",
+            "State who heads the Executive and who makes it up.",
+            "State the duties of the Executive."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Executive (administer and implement"
+            },
+            {
+              "source": "lchk_461170f297794aa1b58cec46e2ae28f2",
+              "quote": "They are Executive, Legislature and Judiciary."
+            },
+            {
+              "source": "lchk_34af8a516be44e0ba5c1a92a22a56fc8",
+              "quote": "This organ is made up of the president, ministers and civil servants."
+            },
+            {
+              "source": "lchk_a068c36f55a64155a9a2517aace9832f",
+              "quote": "The executive organ does the work of government."
+            }
+          ]
+        },
+        {
+          "title": "The president, cabinet, ministers and civil servants",
+          "subtopic": "The organs of the government: Executive",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State the roles of the president of Uganda.",
+            "Explain the work of the cabinet and ministers.",
+            "Explain who civil servants are and name the head of civil servants in a ministry and a district."
+          ],
+          "sources": [
+            {
+              "source": "lchk_37455fa779f74da3964836e8dbdbb4b7",
+              "quote": "He is the commander in chief of the armed forces."
+            },
+            {
+              "source": "lchk_34af8a516be44e0ba5c1a92a22a56fc8",
+              "quote": "The president receives the instruments of power when swearing in."
+            },
+            {
+              "source": "lchk_e7f98d0c6d304e89900b913823202c8c",
+              "quote": "Civil servants are people who work for the government eg.doctors, teachers,"
+            },
+            {
+              "source": "lchk_c6b2771a255a45b086313efa9584ad50",
+              "quote": "The highest civil servant in any ministry is known as Permanent Secre-"
+            }
+          ]
+        },
+        {
+          "title": "Practice: the Executive",
+          "subtopic": "The organs of the government: Executive",
+          "week": 1,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer exercise questions on the Executive, the president and civil servants."
+          ],
+          "sources": [
+            {
+              "source": "lchk_37455fa779f74da3964836e8dbdbb4b7",
+              "quote": "What name is given to the ruling organ of the government?"
+            },
+            {
+              "source": "lchk_c6b2771a255a45b086313efa9584ad50",
+              "quote": "To which organ of the government do teachers and nurses belong?"
+            },
+            {
+              "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+              "quote": "State any three duties performed by the executive organ of the government."
+            }
+          ]
+        },
+        {
+          "title": "The Legislature: meaning, composition and duties",
+          "subtopic": "The organs of the government: Legislature",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain what the Legislature is and who heads it.",
+            "Name the groups of people who make up Parliament.",
+            "State the duties of the Legislature."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Legislature (to make laws which"
+            },
+            {
+              "source": "lchk_37455fa779f74da3964836e8dbdbb4b7",
+              "quote": "This is the organ of the government which makes laws."
+            },
+            {
+              "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+              "quote": "Special groups of people represented in the parliament"
+            },
+            {
+              "source": "lchk_e7f98d0c6d304e89900b913823202c8c",
+              "quote": "To approve the National Budget."
+            }
+          ]
+        },
+        {
+          "title": "Officers of Parliament and terms used in Parliament",
+          "subtopic": "The organs of the government: Legislature",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State the roles of the speaker, clerk to parliament and sergeant at arms.",
+            "Explain the terms bill, act, Hansard and mace.",
+            "State the qualifications of a member of parliament."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+              "quote": "He is in charge of security in the parliament."
+            },
+            {
+              "source": "lchk_f1a2ace4ed3242358337e728ce8ef8cb",
+              "quote": "A bill becomes a law/an act when the president has signed it."
+            },
+            {
+              "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+              "quote": "Hansard are the recorded proceedings of the parliament."
+            },
+            {
+              "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+              "quote": "Qualifications for one to become a member of parliament"
+            }
+          ]
+        },
+        {
+          "title": "Practice: the Legislature",
+          "subtopic": "The organs of the government: Legislature",
+          "week": 2,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer exercise questions on the Legislature and officers of Parliament."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+              "quote": "What title is given to the chief administrative head of the parliament?"
+            },
+            {
+              "source": "lchk_c6b2771a255a45b086313efa9584ad50",
+              "quote": "Which organ of government is known as the law making body?"
+            },
+            {
+              "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+              "quote": "How is a Bill different from an Act?"
+            },
+            {
+              "source": "lchk_4ea67a5f999d4f529b497430a09bf6a2",
+              "quote": "Give two reasons why LEGCO was formed in Uganda."
+            }
+          ]
+        },
+        {
+          "title": "The Judiciary and the courts of law",
+          "subtopic": "The organs of the government: Judiciary",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State who heads the Judiciary and who makes it up.",
+            "State the duties of the Judiciary and of the chief justice.",
+            "Name the courts of law in Uganda and who heads each."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Judiciary (to interpret laws made by"
+            },
+            {
+              "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+              "quote": "The judiciary arm of the government is the custodian of the law."
+            },
+            {
+              "source": "lchk_f1a2ace4ed3242358337e728ce8ef8cb",
+              "quote": "The Judiciary uses the laws made by the parliament when punishing law breakers."
+            },
+            {
+              "source": "lchk_eca2cbe9906942cfad946678f2edb234",
+              "quote": "Supreme Court | Chief Justice"
+            }
+          ]
+        },
+        {
+          "title": "Practice: the three organs of government",
+          "subtopic": "The organs of the government: Judiciary",
+          "week": 2,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer exercise questions on the Judiciary and match each organ of government with its head and composition."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b53ebe99eedd4fb09ea7049c2d76de29",
+              "quote": "Which organ of the government is known as the custodian of the law?"
+            },
+            {
+              "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+              "quote": "Complete the table below correctly. Government organ Headed by Composition"
+            },
+            {
+              "source": "lchk_eca2cbe9906942cfad946678f2edb234",
+              "quote": "Name the highest court of the judiciary."
+            },
+            {
+              "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+              "quote": "How does the Legislature help the Judiciary to perform its work?"
+            }
+          ]
+        },
+        {
+          "title": "The constitution: meaning and Uganda's constitutions since independence",
+          "subtopic": "The constitution",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Give the meaning of a constitution and of by-laws.",
+            "Name the constitutions Uganda has had since independence.",
+            "State the results of the 1967 constitution."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Meaning of a constitution."
+            },
+            {
+              "source": "lchk_8a680c4609a6447b92e605b85f85d3a9",
+              "quote": "A National constitution is a set of laws by which a country is governed."
+            },
+            {
+              "source": "lchk_b53ebe99eedd4fb09ea7049c2d76de29",
+              "quote": "Uganda has had four constitutions since her independence."
+            },
+            {
+              "source": "lchk_b53ebe99eedd4fb09ea7049c2d76de29",
+              "quote": "Results of the 1967 constitution"
+            }
+          ]
+        },
+        {
+          "title": "The 1995 constitution, functions of a constitution and its relationship with elections",
+          "subtopic": "The constitution",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Name the people who took part in making the 1995 constitution and their roles.",
+            "State the functions and importance of a constitution.",
+            "Explain the relationship between the constitution and elections."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Relationship between a"
+            },
+            {
+              "source": "lchk_44d568163db743daabe5c2b6e2d57260",
+              "quote": "He chaired the constitutional Commission which collected views from all Ugandans."
+            },
+            {
+              "source": "lchk_8565a70475344911b9db098cef933069",
+              "quote": "Functions of a national constitution"
+            },
+            {
+              "source": "lchk_3b379eae4956473980abd2ec5698fb8d",
+              "quote": "Relationships between the constitution and elections."
+            },
+            {
+              "source": "lchk_eca2cbe9906942cfad946678f2edb234",
+              "quote": "It helps to change leadership peacefully."
+            }
+          ]
+        },
+        {
+          "title": "Practice: the constitution",
+          "subtopic": "The constitution",
+          "week": 3,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer exercise questions on the constitution."
+          ],
+          "sources": [
+            {
+              "source": "lchk_8565a70475344911b9db098cef933069",
+              "quote": "Why is 8 th October 1995 politically important?"
+            },
+            {
+              "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+              "quote": "Which constitution made Uganda become a republic?"
+            },
+            {
+              "source": "lchk_eca2cbe9906942cfad946678f2edb234",
+              "quote": "is a set of laws governing a country."
+            },
+            {
+              "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+              "quote": "State any two ways a national constitution is important to acountry."
+            }
+          ]
+        },
+        {
+          "title": "Duties of the government and social services",
+          "subtopic": "Duties of the government",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State the duties of the government to its citizens.",
+            "Explain what social services are and name those the government provides.",
+            "State problems the government faces when providing social services and their solutions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Duties of the government"
+            },
+            {
+              "source": "lchk_b53ebe99eedd4fb09ea7049c2d76de29",
+              "quote": "The duties of a government to its citizens"
+            },
+            {
+              "source": "lchk_8a680c4609a6447b92e605b85f85d3a9",
+              "quote": "Social services are the activities that improve the people’s way of living."
+            },
+            {
+              "source": "lchk_8a680c4609a6447b92e605b85f85d3a9",
+              "quote": "Problems faced by the government when providing social services."
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subtopic": "Duties of the government: communication",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Give the meaning of communication and mass media.",
+            "Name traditional and modern ways of communication.",
+            "State the importance of communication, barriers to communication and their solutions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "barriers of communication."
+            },
+            {
+              "source": "lchk_3b379eae4956473980abd2ec5698fb8d",
+              "quote": "Commulnication is the sending and receiving of messages."
+            },
+            {
+              "source": "lchk_3b379eae4956473980abd2ec5698fb8d",
+              "quote": "Barriers to effective communication in Uganda."
+            },
+            {
+              "source": "lchk_3b379eae4956473980abd2ec5698fb8d",
+              "quote": "Possible solutions to the barriers of communication."
+            }
+          ]
+        },
+        {
+          "title": "Practice: duties of the government and communication",
+          "subtopic": "Duties of the government",
+          "week": 4,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer exercise questions on duties of the government, social services and communication."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b53ebe99eedd4fb09ea7049c2d76de29",
+              "quote": "Write down four ways to show how people benefit from the government."
+            },
+            {
+              "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+              "quote": "Mention any three social services provided by the government to its citizens."
+            },
+            {
+              "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+              "quote": "State any two challenges hindering effective communication in Uganda."
+            },
+            {
+              "source": "lchk_7a8f0d8c4e2649669ff0eb36ba626876",
+              "quote": "Mention any one modern mean of communication used by people."
+            }
+          ]
+        },
+        {
+          "title": "Sources of government revenue and taxation",
+          "subtopic": "Sources of revenue",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain what revenue is.",
+            "Name the sources of government revenue.",
+            "Explain direct and indirect taxes with examples."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Revenue is income by government"
+            },
+            {
+              "source": "lchk_eca2cbe9906942cfad946678f2edb234",
+              "quote": "Revenue is the money government gets or earns."
+            },
+            {
+              "source": "lchk_18c7f38f15a34cac818d9f873981b6a6",
+              "quote": "Mention the major source of government revenue"
+            },
+            {
+              "source": "lchk_b90a97cd7a9b42e7ad9e1945579a049e",
+              "quote": "This is the type of tax paid on goods and services indirectly."
+            }
+          ]
+        },
+        {
+          "title": "The Uganda Revenue Authority, why people pay taxes and smuggling",
+          "subtopic": "Sources of revenue",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State the roles of URA.",
+            "Give reasons why people pay taxes and why some do not.",
+            "Explain smuggling, its effects and how it is controlled."
+          ],
+          "sources": [
+            {
+              "source": "lchk_838b9eae769b4252977493d4828be957",
+              "quote": "This is the body responsible for collecting and assessing taxes on behalf of the government"
+            },
+            {
+              "source": "lchk_982495b08d4d48d2a5231b80808ea485",
+              "quote": "Why some people do not pay taxes."
+            },
+            {
+              "source": "lchk_0a1164179dff4fca90acdf57f4577bce",
+              "quote": "Smuggling is the illegal importation or exportation s of goods."
+            },
+            {
+              "source": "lchk_0e9d4c93cd8f4cc4a7ae4e92a9bb8b7c",
+              "quote": "Special revenue protection service (SRPS) fights smuggling of goods in Uganda."
+            }
+          ]
+        },
+        {
+          "title": "Government expenditure and the national budget",
+          "subtopic": "Expenditure",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain what expenditure is and how the government spends its revenue.",
+            "Explain what a budget and a financial year are.",
+            "Describe surplus, balanced and deficit budgets."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Expenditure is how"
+            },
+            {
+              "source": "lchk_308194d2a0674ce7b8a2824efae4d3b8",
+              "quote": "How the government spends its revenue."
+            },
+            {
+              "source": "lchk_982495b08d4d48d2a5231b80808ea485",
+              "quote": "A Budget is an estimate of income and expesonditure for a given time."
+            },
+            {
+              "source": "lchk_75679631316b42868d58f327c564a4ad",
+              "quote": "Surplus budget"
+            },
+            {
+              "source": "lchk_0e9d4c93cd8f4cc4a7ae4e92a9bb8b7c",
+              "quote": "The financial year begins 1 st July and ends on 30 th June the following year."
+            }
+          ]
+        },
+        {
+          "title": "Practice: revenue, expenditure and budgets",
+          "subtopic": "Sources of revenue and expenditure",
+          "week": 4,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer exercise questions on revenue, taxes, expenditure and budgets.",
+            "Draw a chart showing how government gets revenue and spends it."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+              "quote": "Draw a chart showing how government gets revenue and spends it."
+            },
+            {
+              "source": "lchk_c5f2ab46b32347028cd2ab15b31c9a6a",
+              "quote": "Name the type of budget where the expected income is greater"
+            },
+            {
+              "source": "lchk_7a8f0d8c4e2649669ff0eb36ba626876",
+              "quote": "Apart from foreign aid, give any other source of government revenue."
+            },
+            {
+              "source": "lchk_75679631316b42868d58f327c564a4ad",
+              "quote": "Give two reasons why it is important for the people to pay tax."
+            }
+          ]
+        },
+        {
+          "title": "Citizenship and responsibilities of citizens",
+          "subtopic": "Rights and responsibilities",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain who a citizen is.",
+            "State the ways of becoming a citizen of Uganda and how one can lose citizenship.",
+            "State the responsibilities of a good citizen."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+              "quote": "What a citizen should do to"
+            },
+            {
+              "source": "lchk_308194d2a0674ce7b8a2824efae4d3b8",
+              "quote": "Citizenship is the legal right of belonging to a particular country."
+            },
+            {
+              "source": "lchk_77346614385440e7b018b227acc0e2f9",
+              "quote": "Ways one can lose citizenship in Uganda"
+            },
+            {
+              "source": "lchk_85cb3a1f1e2d45c99141a8eaafa6ca98",
+              "quote": "This is what a citizen should do to contribute to the development of"
+            }
+          ]
+        },
+        {
+          "title": "Human rights",
+          "subtopic": "Rights and responsibilities",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain what human rights are and give examples.",
+            "Explain human rights abuse.",
+            "Name organisations that protect human rights and state roles citizens play."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "What a citizen must"
+            },
+            {
+              "source": "lchk_34a5d4a3b16d47f5967a8c7c879ba1ab",
+              "quote": "Human rights refer to the basic rights and freedom to which all people are entitled simply"
+            },
+            {
+              "source": "lchk_6dd64f60202a49f7807c72cd6775b286",
+              "quote": "Forms of human rights abuse"
+            },
+            {
+              "source": "lchk_6dd64f60202a49f7807c72cd6775b286",
+              "quote": "Duties of the Uganda Human Rights Commission."
+            }
+          ]
+        },
+        {
+          "title": "Children's rights, child abuse and child labour",
+          "subtopic": "Child labour",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State children's rights and their importance.",
+            "Name forms and causes of child abuse.",
+            "Explain child labour, its effects and ways of controlling it."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+              "quote": "Child Labour Education."
+            },
+            {
+              "source": "lchk_ed2ae9295c774104940e12d5d76c170c",
+              "quote": "Children rights are basic natural freedoms to which all children are entitled."
+            },
+            {
+              "source": "lchk_6dd64f60202a49f7807c72cd6775b286",
+              "quote": "Child labour is when children are employed to do work."
+            },
+            {
+              "source": "lchk_6dd64f60202a49f7807c72cd6775b286",
+              "quote": "Ways of controlling child labour."
+            }
+          ]
+        },
+        {
+          "title": "Practice: rights and responsibilities of citizens and child labour",
+          "subtopic": "Rights and responsibilities",
+          "week": 5,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer exercise questions on citizenship, human rights, children's rights and child labour."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4ea67a5f999d4f529b497430a09bf6a2",
+              "quote": "What are human rights?"
+            },
+            {
+              "source": "lchk_4ea67a5f999d4f529b497430a09bf6a2",
+              "quote": "How does the government promote human rights in Uganda?"
+            },
+            {
+              "source": "lchk_77346614385440e7b018b227acc0e2f9",
+              "quote": "State any four responsibilities of a good citizen in Uganda."
+            },
+            {
+              "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+              "quote": "Mention two ways child labour affects children in your community."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Population, Size and Distribution",
+      "theme": "Living together in Uganda",
+      "weekFrom": 5,
+      "weekTo": 10,
+      "competences": "Explains the importance of a census. Explains the influence of population growth on communities. Explains what population distribution means. Discusses problems associated with high and low population density and their solutions. Explains possible ways of controlling population growth. Assessment: write the causes of population growth; list the difficulties a family finds in looking after many children; list the problems found in a crowded community such as a slum.",
+      "sources": [
+        {
+          "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+          "quote": "TOPIC 12: Population, Size and Distribution"
+        },
+        {
+          "source": "lchk_e0031cef799c413f9438d6584be3e476",
+          "quote": "Explains possible"
+        },
+        {
+          "source": "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+          "quote": "TOPIC: Population size and distribution in Uganda"
+        },
+        {
+          "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+          "quote": "TOPIC 12: POPULATION SIZE AND DISTRIBUTION."
+        },
+        {
+          "source": "lchk_85cb3a1f1e2d45c99141a8eaafa6ca98",
+          "quote": "TOPIC: POPULATION, SIZE AND DISTRIBUTION"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning of population and census",
+          "subtopic": "Meaning of population and census",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain what population and census mean.",
+            "Explain who teenagers are.",
+            "Explain what a census night and enumerators are."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+              "quote": "Population is the number of"
+            },
+            {
+              "source": "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+              "quote": "Population is the total number of people living in an area."
+            },
+            {
+              "source": "lchk_89377846af3241ba84ea0652b03431af",
+              "quote": "Census is the official counting of people living in a"
+            },
+            {
+              "source": "lchk_401b8346cdcf44109b333a534b4a6b3d",
+              "quote": "Enumerators are trained people who collect information about people in the country"
+            }
+          ]
+        },
+        {
+          "title": "Importance of a population census, information collected and problems faced",
+          "subtopic": "Importance of census",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State the importance of a population census.",
+            "Name the information collected during a census.",
+            "State problems faced during a census and why it is held every ten years."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+              "quote": "Importance of census"
+            },
+            {
+              "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+              "quote": "Reasons for carrying out national population census"
+            },
+            {
+              "source": "lchk_401b8346cdcf44109b333a534b4a6b3d",
+              "quote": "Types of information collected during a population census."
+            },
+            {
+              "source": "lchk_89377846af3241ba84ea0652b03431af",
+              "quote": "Problems faced during population census"
+            }
+          ]
+        },
+        {
+          "title": "Practice: population census",
+          "subtopic": "Importance of census",
+          "week": 6,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer exercise questions on population and census.",
+            "Count the learners, teachers and non-teachers in the school (mini-census)."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+              "quote": "Counting the number of"
+            },
+            {
+              "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+              "quote": "Why is population census carried out every after ten years?"
+            },
+            {
+              "source": "lchk_89377846af3241ba84ea0652b03431af",
+              "quote": "After how long is population census carried out in Uganda?"
+            },
+            {
+              "source": "lchk_4ea67a5f999d4f529b497430a09bf6a2",
+              "quote": "UBOS – collects revenue."
+            }
+          ]
+        },
+        {
+          "title": "Population growth and the factors that influence it",
+          "subtopic": "Population growth",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain what population growth means.",
+            "State the factors that influence population growth.",
+            "Explain population explosion and natural population increase."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+              "quote": "The increase of people’s"
+            },
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Fertility rate of women."
+            },
+            {
+              "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+              "quote": "Factors that encourage Population growth."
+            },
+            {
+              "source": "lchk_89377846af3241ba84ea0652b03431af",
+              "quote": "Now you can learn about the factors that influence population growth."
+            }
+          ]
+        },
+        {
+          "title": "Advantages and dangers of fast population growth",
+          "subtopic": "Population growth",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State the advantages of population growth.",
+            "Explain the dangers of fast population growth.",
+            "Name hazards that check population growth."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Explaining the dangers of"
+            },
+            {
+              "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+              "quote": "Advantages of population growth in an area."
+            },
+            {
+              "source": "lchk_401b8346cdcf44109b333a534b4a6b3d",
+              "quote": "It leads to shortage of land for settlement leading to land fragmentation."
+            },
+            {
+              "source": "lchk_f4e043f39e034c8eaac37e82506c59dc",
+              "quote": "Hazards which check on population growth"
+            }
+          ]
+        },
+        {
+          "title": "Practice: population growth",
+          "subtopic": "Population growth",
+          "week": 6,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer exercise questions on population growth."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Write the causes of population growth."
+            },
+            {
+              "source": "lchk_89377846af3241ba84ea0652b03431af",
+              "quote": "The causes of large families."
+            },
+            {
+              "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+              "quote": "Give any three causes of high population growth in Uganda."
+            },
+            {
+              "source": "lchk_5cb1ddb635cb41eaa8e64a34bbd7172a",
+              "quote": "Give any one-problem caused by a high population to the environment."
+            }
+          ]
+        },
+        {
+          "title": "Population distribution and the factors that influence it",
+          "subtopic": "Population distribution",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain what population distribution means.",
+            "State the factors that influence population distribution.",
+            "Explain how each factor influences where people live."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "The spread of people in an area"
+            },
+            {
+              "source": "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+              "quote": "Factors that affect population distribution"
+            },
+            {
+              "source": "lchk_14b623f1a3ce45c2ba8e608ccdc49bdb",
+              "quote": "Factors that influence population distribution."
+            },
+            {
+              "source": "lchk_f68ad912b104484b8b665e3e19a53590",
+              "quote": "The factors that influence population distribu-"
+            }
+          ]
+        },
+        {
+          "title": "Densely populated areas of Uganda",
+          "subtopic": "Population distribution",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain what dense population means.",
+            "Name densely populated areas in Uganda.",
+            "Give reasons why these areas have many people."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Some places like urban"
+            },
+            {
+              "source": "lchk_44a9f6816d1644cca9d39ea62fc34330",
+              "quote": "Areas that are densely populated."
+            },
+            {
+              "source": "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+              "quote": "Examples of densely populated areas in Uganda"
+            },
+            {
+              "source": "lchk_ba7664942cd7458b8fc7b116122feb2c",
+              "quote": "Dense population : this is when an area has many people compared to the size"
+            }
+          ]
+        },
+        {
+          "title": "Sparsely populated areas of Uganda",
+          "subtopic": "Population distribution",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain what sparse population means.",
+            "Name sparsely populated areas in Uganda.",
+            "Give reasons why these areas have few people."
+          ],
+          "sources": [
+            {
+              "source": "lchk_44a9f6816d1644cca9d39ea62fc34330",
+              "quote": "Areas that are sparsely populated."
+            },
+            {
+              "source": "lchk_44a9f6816d1644cca9d39ea62fc34330",
+              "quote": "Factors that lead to low/ sparse population in an area."
+            },
+            {
+              "source": "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+              "quote": "Reasons why dry areas have few people"
+            }
+          ]
+        },
+        {
+          "title": "Practice: population distribution",
+          "subtopic": "Population distribution",
+          "week": 7,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer exercise questions on population distribution and densely and sparsely populated areas."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+              "quote": "Point out two factors that affect population distribution."
+            },
+            {
+              "source": "lchk_f68ad912b104484b8b665e3e19a53590",
+              "quote": "Give factors that make the shores of Lake Victoria to have many peo-"
+            },
+            {
+              "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+              "quote": "Why is the North Eastern part of Uganda sparsely populated?"
+            },
+            {
+              "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+              "quote": "Give one reason why steep slopes of mountains are sparsely populated."
+            }
+          ]
+        },
+        {
+          "title": "Population density",
+          "subtopic": "Population density",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain what population density means.",
+            "Calculate the population density of an area."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Meaning of population density."
+            },
+            {
+              "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+              "quote": "Population density is the number of people living in an a area per square kilometer"
+            },
+            {
+              "source": "lchk_14b623f1a3ce45c2ba8e608ccdc49bdb",
+              "quote": "How to determine population density."
+            }
+          ]
+        },
+        {
+          "title": "Practice: calculating population density",
+          "subtopic": "Population density",
+          "week": 8,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Calculate the population density of places from given figures."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+              "quote": "the total population of Cornerstone Junior School is 600 pupils."
+            },
+            {
+              "source": "lchk_14b623f1a3ce45c2ba8e608ccdc49bdb",
+              "quote": "An area has a population of 600,000 people, living in an area of"
+            },
+            {
+              "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+              "quote": "Calculate the population density of town W which has a population of 4500 people living in"
+            }
+          ]
+        },
+        {
+          "title": "High population density: advantages and problems",
+          "subtopic": "High population density",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain high population density and name areas with it.",
+            "State the advantages of high population density.",
+            "State the problems associated with high population density."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "high population density."
+            },
+            {
+              "source": "lchk_14b623f1a3ce45c2ba8e608ccdc49bdb",
+              "quote": "Areas with a High population density."
+            },
+            {
+              "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+              "quote": "Advantages of a high population in a country"
+            },
+            {
+              "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+              "quote": "Problems associated/ caused with a High"
+            }
+          ]
+        },
+        {
+          "title": "Solutions to problems of high population density",
+          "subtopic": "Solutions to high population density",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State solutions to the problems of high population density.",
+            "Explain how the government can deal with a fast growing population."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Solutions to high"
+            },
+            {
+              "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+              "quote": "Solutions to problems associated with a High population density."
+            },
+            {
+              "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+              "quote": "Ways of controlling high population density problems"
+            },
+            {
+              "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+              "quote": "Ways how the government can deal with a fast growing population"
+            }
+          ]
+        },
+        {
+          "title": "Practice: high population density",
+          "subtopic": "High population density",
+          "week": 8,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer exercise questions on high population density, its problems and solutions.",
+            "List the problems found in a crowded community such as a slum."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "List the problems found in a crowded community such as a slum."
+            },
+            {
+              "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+              "quote": "Mention two causes of high population density"
+            },
+            {
+              "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+              "quote": "Mention any two problems an area is likely to face as a result of having a large population."
+            }
+          ]
+        },
+        {
+          "title": "Low population density: advantages, disadvantages and solutions",
+          "subtopic": "Low population density",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain low population density.",
+            "State advantages and disadvantages of low population density.",
+            "State solutions to low population."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Meaning of low population"
+            },
+            {
+              "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+              "quote": "Advantages of low population"
+            },
+            {
+              "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+              "quote": "Disadvantages of a low population density."
+            },
+            {
+              "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+              "quote": "By setting up industries in an area."
+            }
+          ]
+        },
+        {
+          "title": "Practice: low population density",
+          "subtopic": "Low population density",
+          "week": 9,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer exercise questions on low population density."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+              "quote": "Write down any two advantages of a small population in a country."
+            },
+            {
+              "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+              "quote": "Give advantages of a low population to a country."
+            },
+            {
+              "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+              "quote": "Give one way the government can encourage the settlement of people in rural areas."
+            }
+          ]
+        },
+        {
+          "title": "HIV/AIDS: spread, prevention and care",
+          "subtopic": "Effects of HIV/AIDS on population",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Write HIV and AIDS in full.",
+            "State how HIV/AIDS spreads and how it can be prevented (ABC).",
+            "State how TASO helps AIDS patients."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Effects of HIV/AIDS on population"
+            },
+            {
+              "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+              "quote": "HIV stands for Human Immunodeficiency Virus."
+            },
+            {
+              "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+              "quote": "Use of ABC to prevent AIDS."
+            },
+            {
+              "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+              "quote": "How TASO helps AIDS patients."
+            }
+          ]
+        },
+        {
+          "title": "Social and economic effects of HIV/AIDS on the population",
+          "subtopic": "Effects of HIV/AIDS on population",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State the social effects of HIV/AIDS on the population.",
+            "State the economic effects of HIV/AIDS on the population."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Social and economic effects of"
+            },
+            {
+              "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+              "quote": "Social effects of HIV/AIDS on the population."
+            },
+            {
+              "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+              "quote": "Economic effects of HIV/AIDS on population."
+            }
+          ]
+        },
+        {
+          "title": "Practice: HIV/AIDS and population",
+          "subtopic": "Effects of HIV/AIDS on population",
+          "week": 9,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer exercise questions on HIV/AIDS and its effects on population."
+          ],
+          "sources": [
+            {
+              "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+              "quote": "Give any two ways TASO helps AIDS victims in Uganda."
+            },
+            {
+              "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+              "quote": "How can married people safeguard themselves against AIDS?"
+            },
+            {
+              "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+              "quote": "State any two ways HIV/ AIDS affects economic development in an area."
+            }
+          ]
+        },
+        {
+          "title": "Ways of controlling population growth",
+          "subtopic": "Control of population growth",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State ways of controlling population growth.",
+            "Explain why the government encourages control of population growth."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Control of population"
+            },
+            {
+              "source": "lchk_401b8346cdcf44109b333a534b4a6b3d",
+              "quote": "Ways of controlling population growth."
+            },
+            {
+              "source": "lchk_89377846af3241ba84ea0652b03431af",
+              "quote": "Encouraging use of family planning methods."
+            },
+            {
+              "source": "lchk_f4e043f39e034c8eaac37e82506c59dc",
+              "quote": "Tax benefits for small families"
+            }
+          ]
+        },
+        {
+          "title": "Family planning and family size",
+          "subtopic": "Control of population growth",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain what family planning is and name its methods.",
+            "State advantages and disadvantages of family planning.",
+            "State advantages and disadvantages of a small family."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+              "quote": "Family planning is the spaced way of producing children."
+            },
+            {
+              "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+              "quote": "Advantages of family planning"
+            },
+            {
+              "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+              "quote": "Advantages of having a small family"
+            }
+          ]
+        },
+        {
+          "title": "Practice: controlling population growth and family planning",
+          "subtopic": "Control of population growth",
+          "week": 10,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer exercise questions on controlling population growth and family planning.",
+            "List the difficulties a family finds in looking after a big number of children."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "List the difficulties a family finds in looking after a big number of children."
+            },
+            {
+              "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+              "quote": "Why does the government of Uganda encourage family planning?"
+            },
+            {
+              "source": "lchk_89377846af3241ba84ea0652b03431af",
+              "quote": "State any three ways in which government of Uganda can control popu-"
+            }
+          ]
+        },
+        {
+          "title": "Population terms",
+          "subtopic": "Population, size and distribution: summary",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain the terms optimum population, under population, over population, population structure and population explosion.",
+            "Compare dense, sparse and optimum population."
+          ],
+          "sources": [
+            {
+              "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+              "quote": "POPULATION TERMS ( SUMMARY)"
+            },
+            {
+              "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+              "quote": "Population structure is the composition of people in terms of age and sex."
+            },
+            {
+              "source": "lchk_44a9f6816d1644cca9d39ea62fc34330",
+              "quote": "Optimum population is when the number of people living in an area can be well supported"
+            }
+          ]
+        },
+        {
+          "title": "Practice: topical test on population, size and distribution",
+          "subtopic": "Population, size and distribution: summary",
+          "week": 10,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Answer the topical test questions on population, size and distribution."
+          ],
+          "sources": [
+            {
+              "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+              "quote": "Topical test on population, size and distribution"
+            },
+            {
+              "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+              "quote": "Identify two reasons why Karamoja sub-region is sparsely populated."
+            },
+            {
+              "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+              "quote": "Mention any three types of information that is collected by enumerators during the"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "NCDC lists 'handles foreign affairs and sanity of the nation' as a duty of government; the notes only say the president 'represents the country internationally', so no separate lesson on foreign affairs.",
+    "NCDC asks learners to explain the necessity of the separation of the legislature and judiciary; the notes only say the Legislature makes laws the Judiciary uses. No fuller explanation in the pack.",
+    "NCDC expenditure items 'rent' and revenue item 'sale of government bills' are not explained in any notes in the pack.",
+    "NCDC competence 'Write a composition \"The country I want to live in\"' has no guidance or model in the pack.",
+    "NCDC meaning of teenagers and the 2007 teenager figure appear only in the curriculum; no notes expand on them.",
+    "Population figures in the pack conflict and are dated (NCDC: 41.49 million, 2016; Excel notes: over 45 million, 2020; another notes book says the recent census was 2003). The pack has no current census figure.",
+    "Names of office holders in the notes (speaker, chief justice, 2020 cabinet) are out of date; the pack has no current list.",
+    "Term 3 past papers in the pack have very few Social Studies questions on these two topics (mostly budget, revenue, human rights, population and political head of a district); practice lessons rely mainly on notes exercises."
+  ]
+}
