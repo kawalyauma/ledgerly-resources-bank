@@ -111,7 +111,7 @@ class Cites:
         if pid not in self.allowed:
             problems.append(f"{where}: source '{pid}' is not one of the passages listed for this job")
         q = norm(quote)
-        if len(q) < 3 or q not in self.passages[pid]["norm"]:
+        if len(q) < 6 or q not in self.passages[pid]["norm"]:
             problems.append(f"{where}: quote not found in {pid} (invented?): \"{quote[:80]}\"")
         if len(quote.split()) > 25:
             problems.append(f"{where}: quote is longer than 25 words")
@@ -204,7 +204,7 @@ def check_activities(acts, lesson, job, cites, problems, warnings):
         if a.get("answerOrigin") == "worked" and not EXAMPLE_SUBJECTS.search(job.get("subject", "")) and "math" not in job.get("subject", "").lower():
             warnings.append(f"{where}[{i}]: 'worked' answers are meant for Mathematics")
         if a.get("answer") is None and a.get("answerOrigin") != "none": problems.append(f"{where}[{i}]: answer is null but answerOrigin isn't 'none'")
-        if a.get("kind") == "multiple-choice" and len(a.get("options") or []) < 2: problems.append(f"{where}[{i}]: multiple-choice needs options")
+        if a.get("kind") == "multiple_choice" and len(a.get("options") or []) < 2: problems.append(f"{where}[{i}]: multiple-choice needs options")
         q = norm(a.get("question", ""))
         if q in seen: problems.append(f"{where}[{i}]: duplicate question")
         seen.add(q)

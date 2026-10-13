@@ -53,18 +53,18 @@ $\\frac{{2}}{{9}} + \\frac{{4}}{{9}} = \\frac{{6}}{{9}}$ because two ninths and 
 <!-- source: lsch_t1 "2/9 + 4/9 = 6/9" -->
 
 ### Exercise
-1. $\\frac{{2}}{{7}} + \\frac{{3}}{{7}}$ <!-- source: lsch_t2 "2/7 + 3/7" -->
-2. $\\frac{{1}}{{9}} + \\frac{{4}}{{9}}$ <!-- source: lsch_t2 "1/9 + 4/9" -->
-3. $\\frac{{3}}{{11}} + \\frac{{5}}{{11}}$ <!-- source: lsch_t2 "3/11 + 5/11" -->
-4. $\\frac{{1}}{{4}} + \\frac{{2}}{{4}}$ <!-- source: lsch_t2 "1/4 + 2/4" -->
+1. $\\frac{{2}}{{7}} + \\frac{{3}}{{7}}$ <!-- source: lsch_t2 "Add: (a) 2/7 + 3/7" -->
+2. $\\frac{{1}}{{9}} + \\frac{{4}}{{9}}$ <!-- source: lsch_t2 "(b) 1/9 + 4/9 (c)" -->
+3. $\\frac{{3}}{{11}} + \\frac{{5}}{{11}}$ <!-- source: lsch_t2 "(c) 3/11 + 5/11" -->
+4. $\\frac{{1}}{{4}} + \\frac{{2}}{{4}}$ <!-- source: lsch_t2 "(d) 1/4 + 2/4. Answers" -->
 """
 
 def act(q, a, quote):
-    return {"question": q, "answer": a, "answerOrigin": "source", "kind": "calculation", "difficulty": 2,
+    return {"question": q, "answer": a, "answerOrigin": "source", "kind": "computation", "difficulty": 2,
             "cognitiveLevel": "apply", "source": {"source": "lsch_t2", "quote": quote}}
 
-ACTS = [act("$\\frac{2}{7} + \\frac{3}{7}$", "$\\frac{5}{7}$", "2/7 + 3/7"), act("$\\frac{1}{9} + \\frac{4}{9}$", "$\\frac{5}{9}$", "1/9 + 4/9"),
-        act("$\\frac{3}{11} + \\frac{5}{11}$", "$\\frac{8}{11}$", "3/11 + 5/11"), act("$\\frac{1}{4} + \\frac{2}{4}$", "$\\frac{3}{4}$", "1/4 + 2/4")]
+ACTS = [act("$\\frac{2}{7} + \\frac{3}{7}$", "$\\frac{5}{7}$", "Add: (a) 2/7 + 3/7"), act("$\\frac{1}{9} + \\frac{4}{9}$", "$\\frac{5}{9}$", "(b) 1/9 + 4/9 (c)"),
+        act("$\\frac{3}{11} + \\frac{5}{11}$", "$\\frac{8}{11}$", "(c) 3/11 + 5/11"), act("$\\frac{1}{4} + \\frac{2}{4}$", "$\\frac{3}{4}$", "(d) 1/4 + 2/4. Answers")]
 
 PLAN = {"competences": ["Adds fractions with the same denominator"], "objectives": ["Add fractions with the same denominator"],
         "methods": ["Explanation", "Question and answer", "Guided practice"], "materials": ["Fraction bars"],
@@ -111,7 +111,7 @@ cases = [
     run("good answer passes", True),
     run("invented quote is rejected", False, "quote not found", notes=NOTES.replace('"1/5 + 2/5 = 3/5"', '"1/6 + 2/6 = 3/6"')),
     run("exercise line without source is rejected", False, "exercise line has no source",
-        notes=NOTES.replace(' <!-- source: lsch_t2 "1/4 + 2/4" -->', "")),
+        notes=NOTES.replace(' <!-- source: lsch_t2 "(d) 1/4 + 2/4. Answers" -->', "")),
     run("classroom instruction in notes is rejected", False, "classroom instructions",
         notes=NOTES.replace("### Exercise", "Discuss in your groups.\n\n### Exercise")),
     run("maths without examples is rejected", False, "need '### Example'",

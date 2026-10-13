@@ -282,7 +282,7 @@ $\frac{1}{5} + \frac{2}{5} = \frac{3}{5}$
 [[diagram:fraction-bars-3-5]]
 
 ### Exercise
-1. $\frac{2}{7} + \frac{3}{7}$   <!-- source: lsch_77ab01 "2/7 + 3/7" -->
+1. $\frac{2}{7} + \frac{3}{7}$   <!-- source: lsch_77ab01 "Add: (a) 2/7 + 3/7" -->
 2. …
 ```
 

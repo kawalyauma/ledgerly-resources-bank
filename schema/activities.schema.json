@@ -5,18 +5,83 @@
   "maxItems": 40,
   "items": {
     "type": "object",
-    "required": ["question", "answer", "answerOrigin", "kind", "difficulty", "source"],
+    "required": [
+      "question",
+      "answer",
+      "answerOrigin",
+      "kind",
+      "difficulty",
+      "source"
+    ],
     "properties": {
-      "question": { "type": "string", "minLength": 2, "maxLength": 2000 },
-      "answer": { "type": ["string", "null"], "maxLength": 2000, "description": "null only when neither the source nor working can give it" },
-      "answerOrigin": { "enum": ["source", "worked", "none"], "description": "source = from the source/marking guide; worked = computed from a sourced maths question; none = answer is null" },
-      "options": { "type": "array", "maxItems": 8, "items": { "type": "string", "maxLength": 500 } },
-      "kind": { "enum": ["short-answer", "multiple-choice", "fill-in", "matching", "true-false", "calculation", "essay", "drawing", "oral"] },
-      "concept": { "type": "string", "maxLength": 200 },
-      "skill": { "type": "string", "maxLength": 200 },
-      "cognitiveLevel": { "enum": ["remember", "understand", "apply", "analyse", "evaluate", "create"] },
-      "difficulty": { "type": "integer", "minimum": 1, "maximum": 5 },
-      "source": { "$ref": "cite" }
+      "question": {
+        "type": "string",
+        "minLength": 2,
+        "maxLength": 2000
+      },
+      "answer": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "maxLength": 2000,
+        "description": "null only when neither the source nor working can give it"
+      },
+      "answerOrigin": {
+        "enum": [
+          "source",
+          "worked",
+          "none"
+        ],
+        "description": "source = from the source/marking guide; worked = computed from a sourced maths question; none = answer is null"
+      },
+      "options": {
+        "type": "array",
+        "maxItems": 8,
+        "items": {
+          "type": "string",
+          "maxLength": 500
+        }
+      },
+      "kind": {
+        "enum": [
+          "computation",
+          "short_answer",
+          "multiple_choice",
+          "fill_blank",
+          "true_false",
+          "matching",
+          "structured",
+          "essay",
+          "drawing"
+        ]
+      },
+      "concept": {
+        "type": "string",
+        "maxLength": 200
+      },
+      "skill": {
+        "type": "string",
+        "maxLength": 200
+      },
+      "cognitiveLevel": {
+        "enum": [
+          "remember",
+          "understand",
+          "apply",
+          "analyse",
+          "evaluate",
+          "create"
+        ]
+      },
+      "difficulty": {
+        "type": "integer",
+        "minimum": 1,
+        "maximum": 5
+      },
+      "source": {
+        "$ref": "cite"
+      }
     },
     "additionalProperties": false
   }

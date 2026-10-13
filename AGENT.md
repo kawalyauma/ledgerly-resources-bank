@@ -75,8 +75,8 @@ $\frac{1}{5} + \frac{2}{5} = \frac{3}{5}$
 [[diagram:fraction-bar-3-5]]
 
 ### Exercise
-1. $\frac{2}{7} + \frac{3}{7}$ <!-- source: lsch_77ab01 "2/7 + 3/7" -->
-2. $\frac{1}{9} + \frac{4}{9}$ <!-- source: lsch_77ab01 "1/9 + 4/9" -->
+1. $\frac{2}{7} + \frac{3}{7}$ <!-- source: lsch_77ab01 "Add: (a) 2/7 + 3/7" -->
+2. $\frac{1}{9} + \frac{4}{9}$ <!-- source: lsch_77ab01 "(b) 1/9 + 4/9" -->
 ```
 
 - `# TOPIC:` / `## SUB-TOPIC:` / `###` sections / `### Exercise` last.
@@ -92,7 +92,8 @@ $\frac{1}{5} + \frac{2}{5} = \frac{3}{5}$
 
 ## Quotes
 
-A quote is copied **exactly** from the passage (≤ 25 words). The checker ignores
+A quote is copied **exactly** from the passage (≤ 25 words, and at least 6 letters/digits:
+quote a short sum with its label, e.g. `"Add: (a) 2/7 + 3/7"`, not just `"2/7 + 3/7"`). The checker ignores
 case, spacing and punctuation, but not words. A quote that can't be found means the
 item is rejected as invented.
 
