@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Give any two ways the government spends its revenue.",
+    "answer": "Paying civil servants and maintaining roads.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "expenditure",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Give any two ways the government spends its revenue."
+    }
+  },
+  {
+    "question": "Name the type of tax charged on; (i) Locally manufactured goods. (ii) Imported goods.",
+    "answer": "(i) Excise duty; (ii) customs duty.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "taxation",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Name the type of tax charged on;"
+    }
+  },
+  {
+    "question": "Mention the two types of taxes.",
+    "answer": "Direct and indirect taxes.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "taxation",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Mention the two types of taxes."
+    }
+  },
+  {
+    "question": "Mention one way public funds are being misused",
+    "answer": "Corruption.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "expenditure",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_75679631316b42868d58f327c564a4ad",
+      "quote": "Mention one way public funds are being misused"
+    }
+  },
+  {
+    "question": "Outline any two qualities of a good tax.",
+    "answer": "It should be economical to administer and convenient to pay.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "taxation",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_75679631316b42868d58f327c564a4ad",
+      "quote": "Outline any two qualities of a good tax."
+    }
+  },
+  {
+    "question": "Qn: Identify the ministry responsible for preparing a national budget",
+    "answer": "Ministry of Finance, Planning and Economic Development.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "budget",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_361554dd9b104fc5b63f30a6d1205302",
+      "quote": "Qn: Identify the ministry responsible for preparing a national budget"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Write down four ways to show how people benefit from the government.",
+    "answer": "Through education, security, transport and health services.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "government",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_b53ebe99eedd4fb09ea7049c2d76de29",
+      "quote": "Write down four ways to show how people benefit from the government."
+    }
+  },
+  {
+    "question": "Mention any two social services provided by the post office.",
+    "answer": "Postal services and communication services.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "communication",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_6c8dc823cc4f4ef4bbc520257a24036e",
+      "quote": "Mention any two social services provided by the post office."
+    }
+  },
+  {
+    "question": "Name any two means of communication that are commonly used at a post office.",
+    "answer": "Letters and telephone communication.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "communication",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_6c8dc823cc4f4ef4bbc520257a24036e",
+      "quote": "Name any two means of communication that are commonly used at a post office."
+    }
+  },
+  {
+    "question": "Give any three ways a post office is important to people in your community.",
+    "answer": "It facilitates communication and offers postal services.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "communication",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_6c8dc823cc4f4ef4bbc520257a24036e",
+      "quote": "Give any three ways a post office is important to people in your community."
+    }
+  },
+  {
+    "question": "Give any three ways the police force is important to people in your district.",
+    "answer": "It keeps law and order, investigates crime and protects property.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "government",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_6c8dc823cc4f4ef4bbc520257a24036e",
+      "quote": "Give any three ways the police force is important to people in your district."
+    }
+  }
+]

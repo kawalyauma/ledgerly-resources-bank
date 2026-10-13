@@ -1,0 +1,78 @@
+{
+  "competences": [
+    "Explain what expenditure is and how the government spends its revenue.",
+    "Explain what a budget and a financial year are.",
+    "Describe surplus, balanced and deficit budgets."
+  ],
+  "languageCompetence": "Read and correctly spell the key terms from this topic.",
+  "objectives": [
+    "Explain what expenditure is and how the government spends its revenue.",
+    "Explain what a budget and a financial year are.",
+    "Describe surplus, balanced and deficit budgets."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer",
+    "Drawing"
+  ],
+  "materials": [
+    "Pictures of different budgets",
+    "Chalkboard",
+    "P5 SST textbook"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "Primary Five Social Studies Notes 2020",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Review sources of government income.",
+      "learnerActivity": "Learners identify revenue and money spent on services.",
+      "source": {
+        "source": "lchk_308194d2a0674ce7b8a2824efae4d3b8",
+        "quote": "GOVERNMENT EXPENDITURE."
+      }
+    },
+    {
+      "stage": "Development: definition",
+      "minutes": 12,
+      "teacherActivity": "Explain expenditure, the national budget and financial year.",
+      "learnerActivity": "Learners identify examples of government spending.",
+      "source": {
+        "source": "lchk_982495b08d4d48d2a5231b80808ea485",
+        "quote": "Parts of a budget."
+      }
+    },
+    {
+      "stage": "Development: types",
+      "minutes": 15,
+      "teacherActivity": "Compare surplus, balanced and deficit budgets using the source distinctions.",
+      "learnerActivity": "Learners draw and label the three types of budgets.",
+      "source": {
+        "source": "lchk_308194d2a0674ce7b8a2824efae4d3b8",
+        "quote": "(iii) Deficit budget."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Ask the source-written questions on budgeting.",
+      "learnerActivity": "Learners answer and correct their exercise.",
+      "source": {
+        "source": "lchk_75679631316b42868d58f327c564a4ad",
+        "quote": "What is a national budget?"
+      }
+    }
+  ],
+  "assessment": "Assess learners using the sourced written questions in the exercise.",
+  "homework": "Complete sourced questions from the exercise.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Co-operation",
+    "Listening"
+  ]
+}

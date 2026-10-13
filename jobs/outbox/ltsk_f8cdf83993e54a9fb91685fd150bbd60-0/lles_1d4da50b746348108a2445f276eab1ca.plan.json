@@ -1,0 +1,77 @@
+{
+  "competences": [
+    "State the roles of URA.",
+    "Give reasons why people pay taxes and why some do not.",
+    "Explain smuggling, its effects and how it is controlled."
+  ],
+  "languageCompetence": "Read and correctly spell the key terms from this topic.",
+  "objectives": [
+    "State the roles of URA.",
+    "Give reasons why people pay taxes and why some do not.",
+    "Explain smuggling, its effects and how it is controlled."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer",
+    "Description"
+  ],
+  "materials": [
+    "Illustrations of imported goods",
+    "P5 SST textbook",
+    "Chalkboard"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Review taxes and sources of revenue.",
+      "learnerActivity": "Learners recall taxation as a major source of revenue.",
+      "source": {
+        "source": "lchk_982495b08d4d48d2a5231b80808ea485",
+        "quote": "Why people should pay taxes."
+      }
+    },
+    {
+      "stage": "Development: URA",
+      "minutes": 12,
+      "teacherActivity": "Explain the main duties of Uganda Revenue Authority.",
+      "learnerActivity": "Learners name URA and its roles.",
+      "source": {
+        "source": "lchk_982495b08d4d48d2a5231b80808ea485",
+        "quote": "Roles of the URA."
+      }
+    },
+    {
+      "stage": "Development: problems",
+      "minutes": 15,
+      "teacherActivity": "Explain tax challenges, smuggling and suggested solutions.",
+      "learnerActivity": "Learners describe smuggling and how it affects the country.",
+      "source": {
+        "source": "lchk_982495b08d4d48d2a5231b80808ea485",
+        "quote": "Dangers of smuggling."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Ask source-written tax and smuggling questions.",
+      "learnerActivity": "Learners complete the written exercise.",
+      "source": {
+        "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+        "quote": "Give the meaning of the term Smuggling."
+      }
+    }
+  ],
+  "assessment": "Assess learners using the sourced written questions in the exercise.",
+  "homework": "Complete sourced questions from the exercise.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Co-operation",
+    "Listening"
+  ]
+}

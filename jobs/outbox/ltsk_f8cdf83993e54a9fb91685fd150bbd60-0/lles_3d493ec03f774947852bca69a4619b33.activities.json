@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Qn. Mention the major source of government revenue",
+    "answer": "Taxation.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "revenue",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_18c7f38f15a34cac818d9f873981b6a6",
+      "quote": "Qn. Mention the major source of government revenue"
+    }
+  },
+  {
+    "question": "Write down the major source of government revenue.",
+    "answer": "Taxation.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "revenue",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_838b9eae769b4252977493d4828be957",
+      "quote": "Write down the major source of government revenue."
+    }
+  },
+  {
+    "question": "What is customs duty",
+    "answer": "A tax on imported goods.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "taxation",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_838b9eae769b4252977493d4828be957",
+      "quote": "What is customs duty"
+    }
+  },
+  {
+    "question": "What type of tax do sugar manufacturers pays?",
+    "answer": "Excise duty.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "taxation",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_838b9eae769b4252977493d4828be957",
+      "quote": "What type of tax do sugar manufacturers pays?"
+    }
+  },
+  {
+    "question": "Mention any four sources of government revenue.",
+    "answer": "Taxes, tourism, court fines and grants.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "revenue",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Mention any four sources of government revenue."
+    }
+  }
+]

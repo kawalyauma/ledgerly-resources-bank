@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is a national budget?",
+    "answer": "The country's estimate of income and expenditure for a financial year.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "budget",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_75679631316b42868d58f327c564a4ad",
+      "quote": "What is a national budget?"
+    }
+  },
+  {
+    "question": "Why should the government of Uganda carry and national budgeting?",
+    "answer": "To plan income and expenditure and identify spending priorities.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "budget",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_75679631316b42868d58f327c564a4ad",
+      "quote": "Why should the government of Uganda carry and national budgeting?"
+    }
+  },
+  {
+    "question": "How does the government of Uganda spend its income?",
+    "answer": "By paying civil servants, building schools, maintaining roads and providing services.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "expenditure",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_75679631316b42868d58f327c564a4ad",
+      "quote": "How does the government of Uganda spend its income?"
+    }
+  },
+  {
+    "question": "Qn: Which arm of government approves a national budget",
+    "answer": "The Legislature.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "budget",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_361554dd9b104fc5b63f30a6d1205302",
+      "quote": "Qn: Which arm of government approves a national budget"
+    }
+  },
+  {
+    "question": "Qn: Name the arm of government that prepares a national budget",
+    "answer": "The Executive.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "budget",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_361554dd9b104fc5b63f30a6d1205302",
+      "quote": "Qn: Name the arm of government that prepares a national budget"
+    }
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "competences": [
+    "Answer exercise questions on duties of the government, social services and communication."
+  ],
+  "languageCompetence": "Read and correctly spell the key terms from this topic.",
+  "objectives": [
+    "Answer exercise questions on duties of the government, social services and communication."
+  ],
+  "methods": [
+    "Question and answer",
+    "Discussion",
+    "Written exercises"
+  ],
+  "materials": [
+    "Exercise books",
+    "Chalkboard",
+    "P5 SST textbook"
+  ],
+  "references": [
+    "ALL SST Notes P 4 TO P 7 ALL Terms Excel 3",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation",
+    "Excel P 5 SST Term III"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Review government services and communication.",
+      "learnerActivity": "Learners name services and modern communication.",
+      "source": {
+        "source": "lchk_8a680c4609a6447b92e605b85f85d3a9",
+        "quote": "Duties of the government."
+      }
+    },
+    {
+      "stage": "Development: recap",
+      "minutes": 9,
+      "teacherActivity": "Explain the duties of government and the place of communication in service delivery.",
+      "learnerActivity": "Learners recall how public offices provide services.",
+      "source": {
+        "source": "lchk_6c8dc823cc4f4ef4bbc520257a24036e",
+        "quote": "THE POLICE POSTS AND POLICE STATIONS"
+      }
+    },
+    {
+      "stage": "Development: practice",
+      "minutes": 18,
+      "teacherActivity": "Set new sourced questions from service-centre exercises.",
+      "learnerActivity": "Learners write answers about post offices and police services.",
+      "source": {
+        "source": "lchk_6c8dc823cc4f4ef4bbc520257a24036e",
+        "quote": "Give any three ways the police force is important to people in your district."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Review the sourced answers and correct errors.",
+      "learnerActivity": "Learners check exercise books.",
+      "source": {
+        "source": "lchk_6c8dc823cc4f4ef4bbc520257a24036e",
+        "quote": "Mention any two social services provided by the post office."
+      }
+    }
+  ],
+  "assessment": "Assess learners using the sourced written questions in the exercise.",
+  "homework": "Complete sourced questions from the exercise.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Co-operation",
+    "Listening"
+  ]
+}

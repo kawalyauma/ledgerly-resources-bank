@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Which organization in Uganda collects government revenue?",
+    "answer": "Uganda Revenue Authority.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "URA",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_838b9eae769b4252977493d4828be957",
+      "quote": "Which organization in Uganda collects government revenue?"
+    }
+  },
+  {
+    "question": "Give two reasons why it is important for the people to pay tax.",
+    "answer": "To fund social services and government programmes.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "taxation",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_75679631316b42868d58f327c564a4ad",
+      "quote": "Give two reasons why it is important for the people to pay tax."
+    }
+  },
+  {
+    "question": "Give two factors that may discourage people from paying tax,.",
+    "answer": "High taxes and lack of information about taxes.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "taxation",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_75679631316b42868d58f327c564a4ad",
+      "quote": "Give two factors that may discourage people from paying tax,."
+    }
+  },
+  {
+    "question": "Give the meaning of the term Smuggling.",
+    "answer": "Illegal importation or exportation of goods.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "smuggling",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Give the meaning of the term Smuggling."
+    }
+  },
+  {
+    "question": "Give two any two ways smuggling affects the development of the country.",
+    "answer": "It reduces government tax revenue and damages markets for local goods.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "smuggling",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Give two any two ways smuggling affects the development of the country."
+    }
+  }
+]

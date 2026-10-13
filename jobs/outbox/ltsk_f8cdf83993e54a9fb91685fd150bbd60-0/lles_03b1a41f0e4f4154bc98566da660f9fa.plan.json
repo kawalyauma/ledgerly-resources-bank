@@ -1,0 +1,76 @@
+{
+  "competences": [
+    "Answer exercise questions on revenue, taxes, expenditure and budgets.",
+    "Draw a chart showing how government gets revenue and spends it."
+  ],
+  "languageCompetence": "Read and correctly spell the key terms from this topic.",
+  "objectives": [
+    "Answer exercise questions on revenue, taxes, expenditure and budgets.",
+    "Draw a chart showing how government gets revenue and spends it."
+  ],
+  "methods": [
+    "Written exercises",
+    "Question and answer",
+    "Drawing",
+    "Discussion"
+  ],
+  "materials": [
+    "Exercise books",
+    "P5 SST textbook",
+    "Chalkboard"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation",
+    "Primary Five Social Studies Notes 2020"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Recall the sources and uses of government revenue.",
+      "learnerActivity": "Learners state what revenue and expenditure mean.",
+      "source": {
+        "source": "lchk_fd05c8c2ac564ce5a4511b9fe2aa1468",
+        "quote": "Sources of government income"
+      }
+    },
+    {
+      "stage": "Development: revision",
+      "minutes": 9,
+      "teacherActivity": "Review income, taxes and types of budget.",
+      "learnerActivity": "Learners distinguish direct and indirect taxes and the three budget types.",
+      "source": {
+        "source": "lchk_308194d2a0674ce7b8a2824efae4d3b8",
+        "quote": "(iii) Deficit budget."
+      }
+    },
+    {
+      "stage": "Development: exercises",
+      "minutes": 18,
+      "teacherActivity": "Give the sourced new written questions and guide drawing a revenue-and-expenditure chart with only source-listed categories.",
+      "learnerActivity": "Learners answer questions and create a labelled chart using the revenue and expenditure lists from the notes.",
+      "source": {
+        "source": "lchk_fd05c8c2ac564ce5a4511b9fe2aa1468",
+        "quote": "Sources of government income"
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Review responses and source-supported chart labels.",
+      "learnerActivity": "Learners correct answers and labels.",
+      "source": {
+        "source": "lchk_75679631316b42868d58f327c564a4ad",
+        "quote": "Outline any two qualities of a good tax."
+      }
+    }
+  ],
+  "assessment": "Assess learners using the sourced written questions in the exercise.",
+  "homework": "Complete sourced questions from the exercise.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Co-operation",
+    "Listening"
+  ]
+}

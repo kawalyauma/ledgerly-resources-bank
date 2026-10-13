@@ -1,0 +1,77 @@
+{
+  "competences": [
+    "Explain what revenue is.",
+    "Name the sources of government revenue.",
+    "Explain direct and indirect taxes with examples."
+  ],
+  "languageCompetence": "Read and correctly spell the key terms from this topic.",
+  "objectives": [
+    "Explain what revenue is.",
+    "Name the sources of government revenue.",
+    "Explain direct and indirect taxes with examples."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer"
+  ],
+  "materials": [
+    "Pictures of licence cards",
+    "P5 SST textbook",
+    "Chalkboard"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation",
+    "Primary Five Social Studies Notes 2020"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Explain income and revenue from the source definitions.",
+      "learnerActivity": "Learners state the meaning of government revenue.",
+      "source": {
+        "source": "lchk_18c7f38f15a34cac818d9f873981b6a6",
+        "quote": "Meaning of Government revenue"
+      }
+    },
+    {
+      "stage": "Development: sources",
+      "minutes": 12,
+      "teacherActivity": "Explain different sources of government money and taxation.",
+      "learnerActivity": "Learners identify taxes, tourism, fines, loans and grants.",
+      "source": {
+        "source": "lchk_3b379eae4956473980abd2ec5698fb8d",
+        "quote": "Sources of government revenue."
+      }
+    },
+    {
+      "stage": "Development: types",
+      "minutes": 15,
+      "teacherActivity": "Explain direct and indirect taxation with the source examples.",
+      "learnerActivity": "Learners distinguish PAYE, customs duty, excise duty and VAT.",
+      "source": {
+        "source": "lchk_982495b08d4d48d2a5231b80808ea485",
+        "quote": "Examples of indirect taxes."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Ask source-written revenue and tax questions.",
+      "learnerActivity": "Learners answer and correct their work.",
+      "source": {
+        "source": "lchk_838b9eae769b4252977493d4828be957",
+        "quote": "What is customs duty"
+      }
+    }
+  ],
+  "assessment": "Assess learners using the sourced written questions in the exercise.",
+  "homework": "Complete sourced questions from the exercise.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Co-operation",
+    "Listening"
+  ]
+}
