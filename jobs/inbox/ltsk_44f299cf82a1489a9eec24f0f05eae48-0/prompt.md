@@ -1,4 +1,4 @@
-# Job ltsk_ac447882cfa54d9eba2e88d06c3dc15d-0
+# Job ltsk_44f299cf82a1489a9eec24f0f05eae48-0
 
 You are the curriculum engine of Ledgerly AI for a Ugandan school.
 Work from the passages, page images and records given in this prompt. Do not invent facts, topics, notes, examples, activities, questions, answers or names: every one of them is taken from the passages. You choose, order, tidy and format the material; you never make it up.
@@ -6,30 +6,30 @@ If the material does not cover something, leave it out or set the field to null 
 Do not run commands, open files or browse. Everything you need is in this prompt.
 Reply with ONE JSON object only, exactly matching the requested shape. No prose before or after it.
 
-Task: write ALL 5 lesson(s) below of week 1 of the Social Studies scheme for Primary Five 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
+Task: write ALL 5 lesson(s) below of week 2 of the Social Studies scheme for Primary Five 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
 Return exactly one entry per lessonId, keeping each lessonId exactly. Write the lessons in order so they build on each other; a practice or review lesson works from the lessons before it in this week.
 Class-depth rule: P5: one 40-minute lesson: 3–4 ideas; 300–500 words; connected explanations and application; 5–8 activities.
 
-lessonId=lles_ba73f021f2154dfc807d9dc1b0b3c62e: lesson 1, Monday, 1 period(s), 40 minutes.
-  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: Meaning of government, central and local government — Role of a government.
-  Objectives: Give the meaning of a government.; Name the two levels of government in Uganda and give differences between them.; Name the levels of local government and explain decentralisation.
+lessonId=lles_47abbc6155834f47abb36e70f2682d9b: lesson 6, Monday, 1 period(s), 40 minutes.
+  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: The Legislature: meaning, composition and duties — The organs of the government: Legislature.
+  Objectives: Explain what the Legislature is and who heads it.; Name the groups of people who make up Parliament.; State the duties of the Legislature.
 
-lessonId=lles_3d34dc3648b84d0783535454af405438: lesson 2, Tuesday, 1 period(s), 40 minutes.
-  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: Practice: government, local government and decentralisation — Role of a government.
-  Objectives: Answer exercise questions on the meaning and levels of government and decentralisation.
+lessonId=lles_dba8b78d61464524915c0cb1c1913c3c: lesson 7, Tuesday, 1 period(s), 40 minutes.
+  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: Officers of Parliament and terms used in Parliament — The organs of the government: Legislature.
+  Objectives: State the roles of the speaker, clerk to parliament and sergeant at arms.; Explain the terms bill, act, Hansard and mace.; State the qualifications of a member of parliament.
+
+lessonId=lles_259a8454f1504688b77310e00291d882: lesson 8, Wednesday, 1 period(s), 40 minutes.
+  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: Practice: the Legislature — The organs of the government: Legislature.
+  Objectives: Answer exercise questions on the Legislature and officers of Parliament.
   This is a PART B lesson: it continues the subtopic taught in the lesson before it. notes = '### Remember' with the key points (numbered, 4–8 lines); in Mathematics, English and Reading then NEW '### Example' sections not used in Part A; then '### Exercise' with NEW numbered activities learners copy and answer. All of it is taken from other passages (other notes, workbooks, past papers), never invented. Oral work, drawing and group activities go in methods. activities = those exercises.
 
-lessonId=lles_18ddee3e5c2e447a92d9c1b93b53ffd1: lesson 3, Wednesday, 1 period(s), 40 minutes.
-  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: Organs of government: the Executive — The organs of the government: Executive.
-  Objectives: Name the three organs of government.; State who heads the Executive and who makes it up.; State the duties of the Executive.
+lessonId=lles_c71a1cc10a834a0fbe24f54fb64d3069: lesson 9, Thursday, 1 period(s), 40 minutes.
+  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: The Judiciary and the courts of law — The organs of the government: Judiciary.
+  Objectives: State who heads the Judiciary and who makes it up.; State the duties of the Judiciary and of the chief justice.; Name the courts of law in Uganda and who heads each.
 
-lessonId=lles_40e43ae19e3e47c3b4c7c06a2bb791a3: lesson 4, Thursday, 1 period(s), 40 minutes.
-  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: The president, cabinet, ministers and civil servants — The organs of the government: Executive.
-  Objectives: State the roles of the president of Uganda.; Explain the work of the cabinet and ministers.; Explain who civil servants are and name the head of civil servants in a ministry and a district.
-
-lessonId=lles_ece1ea688c1b445d8f79240dd10c0773: lesson 5, Friday, 1 period(s), 40 minutes.
-  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: Practice: the Executive — The organs of the government: Executive.
-  Objectives: Answer exercise questions on the Executive, the president and civil servants.
+lessonId=lles_e1fcde4cc6f24df88b28c0873cdc9c0d: lesson 10, Friday, 1 period(s), 40 minutes.
+  Unit: The Government of Uganda (theme: Living together in Uganda). Lesson: Practice: the three organs of government — The organs of the government: Judiciary.
+  Objectives: Answer exercise questions on the Judiciary and match each organ of government with its head and composition.
   This is a PART B lesson: it continues the subtopic taught in the lesson before it. notes = '### Remember' with the key points (numbered, 4–8 lines); in Mathematics, English and Reading then NEW '### Example' sections not used in Part A; then '### Exercise' with NEW numbered activities learners copy and answer. All of it is taken from other passages (other notes, workbooks, past papers), never invented. Oral work, drawing and group activities go in methods. activities = those exercises.
 
 Write, using ONLY the passages below. Passages from "NCDC" documents are the official base for what to teach; NCDC lower-primary thematic curricula put every learning area in columns separated by " | ": use only the Social Studies column.
@@ -343,179 +343,6 @@ communities. | The new words are: | lead to population
 population growth:
 </passage>
 
-<passage id="lchk_db3ff097ff99464aba2332c9d68a600d" source="P.5 SST SCHEME TERM III 2019" part="3">
--Description
--Observation
--Discussing importance of electing leaders.
-3
-5
-LIVING TOGETHER IN UGANDA
-Uganda as an independent nation
-Elections commission
--Explain the meaning of the word elections
-Spell, reads , pronounces and writes words related to elections.
-The Electoral commission
--Roles of the electoral commission.
--Challenges of the electoral commission.
--Respect for democracy and elections
--Discovery
--Discussion
--Explanation
--Question and answer
--Critical thinking
--Effective communication
--Inquiry
--Suggesting two things people who get the least votes should do after elections.
--Role playing voting exercise.
--Discussion importances of electing leaders
--Text books
-4
-1
-&
-2
-LIVING TOGETHER IN UGANDA
-The government of Uganda
-The arms of the government (Legislature)
--Explaining the government.
--Naming the organs of the government.
--Identifying the components of the legislature.
--Stating the duties of the Legislature
--Spells, reads, pronounce the words related to the gov’t .
--Legislature
--Read, spell, pronounce words related to
--speaker
--Clerk to the parliament
--Sergeant at Arms.
--Parliament
-The Government
--Meaning
--Organs of the government
-Executive
-Legislature
-Judiciary
-Legislature
-(Parliament )
--Meaning
--Duties of the parliament
--Main officers of the parliament
-Clerk to the parliament
-Sergeant of Arms
--Qualifications of a MP
--Explanation
--Discussion
--Role play
--Cooperation
--Respect
--Observation
--Listening
--Critical thinking
--Debate
--Reading and spelling words related to the government
--Photographs of a parliament in session
-MK stdbk 5 pg 131-133
-4
-3
-LIVING TOGETHER IN UGANDA
-The government of Uganda
-Executive
-Explaining executive and give components of the executive .
--Giving the functions of the executive
--Executive
--President
--Minister
--Civil servants
-Executive
--Meaning
--Components of the executive
-President
-Ministers
--Functions of the executive
--Description
--Guided discovery
--Explanation
--Respect
--Appreciation
--Listening
--Critical thinking
--Discussing the roles of the executive government
-A chart showing the executive government
-Mk std BK 5 PAGE 132-133
-4
-Judiciary
--Explaining and composition of the Judiciary.
--Discussing the roles of the Judiciary
--spells, reads and pronounces words related to Judiciary.
-Judiciary
-Chief Justice
-Judges
-Attorneys
-Lawyers
-Supreme Court
-Judiciary
--Meaning
--Composition of Judiciary
-Chief justice
-Principal judge
-Judges
-Justices
-Attorneys
-Lawyers
-Magistrates
-Supreme court
-Roles of the Judiciary
-Roles of a chief Justice
--Explanation
--Discussion
--Role play
--Observation
--Analysing
--Sharing
--Reporting
--Explaining the necessity of the separation of legislative and Judiciary
--Pictures of judges
--Resource person
--Pictures of High Court building
-Mk std
-Bk 5
-Page 134
-5
-1
-&
-2
-LIVING TOGETHER IN UGANDA
-The government of Uganda
-Roles of the government
--Explaining the roles of the government.
--State the types of the gov’t and their roles.
--spell, read and pronounce and use words like roles.
-Roles of the gov’t
--Types of the gov’t
--Central government (National)
--Local government
--Role of the central government.
--Roles of the local government.
--Question and answer
--Discussion
--Explanation
--Role play
--Respect
--Co-operation
--Critical thinking
--Discussing the roles of the government.
--Discussing how different types of the government carry out their duties
--Pictures connected to the activities of the gov’t
-Mk stdbk 5
-Page 131
-Functional bk 5
-Pg 179
-3
-&
-4
-LIVING TOGETHER IN UGANDA
-The government of Uganda
-The Constitution
-</passage>
-
 <passage id="lchk_f249775bfab9472fbaa5b06e03fb5230" source="P 5 SST Scheme Term III 2019 (ecolebooks Com)" part="3">
 related to
 elections
@@ -807,185 +634,170 @@ necessity of
 the separation
 </passage>
 
-<passage id="lchk_461170f297794aa1b58cec46e2ae28f2" source="NCDC P5 Merged – Social Studies" part="19">
-- Identify the systems of election.
-- Outline the duties of the Electoral Commission.
-Materials you will need:
-A pen, note book, P. 5 text book (if possible)
-Introduction:
-In the previous lesson you learnt about democracy. Now in this lesson you
-are going to study about elections in Uganda.
-Step I
-i) Election is the action of choosing leaders. To elect means to select.
-ii) In Uganda, there are different kinds of elections exercised for exam-
-ple; elections for the president, elections for Members of Parliament, local
-
-SELF-STUDY LEARNING
-
-council elections, By – elections and referendum.
-Step II
-Let us find out the materials used during elections. Write them in your
-note book.
-Step III
-In Uganda, elections are organised by a body called The Independent
-Electoral Commission (I.E.C). It carries out different duties. below are
-some of its duties;
-- To register voters.
--To print ballot papers
-- Displat voter’s registers
--To organize and supervise elections.
-Activity
-In my village, ____________ where carried out at a _____________.
-People cast their votes in the ___________. After voting, the
-_____________ were counted for each candidate. The _____________
-announced the election results.
-
-Polling station, presiding officer, elections, votes, ballot box
-
-SOCIAL STUDIES | PRIMARY FIVE
-
-TOPIC: THE GOVERNMENT OF UGANDA
-Lesson 1: Organs of government
-You will be able to;
-- Give the meaning of government.
-- State the importance of government.
-- Mention the three organs of government.
-
-Materials you will need:
-Pens, Pencils, note book, P. 5 SST text book (If possible)
-Instructions:
-Get ready with your books. Today you are going to study about the or-
-gans of government.
-
-Introduction:
-At home, the mother prepares food on three cooking stones or a charcoal
-stove with also three stands. Find out what happens when one stone or
-stand is removed. In the same way the government is is made up of three
-organs or arms.
-
-Procedure:
-Step I: Give the meaning of government
-A government is a ruling body of a country.
-In Uganda, there are two levels under which people are governed. These
-include; Central government which manages the national affairs and the
-Local government which runs the district affairs.
-Step II:
-The government plays many roles to its citizens as listed below;
-- keeping law and order.
--Building schools.
--Building hospitals.
--Defending the country from external attacks.
-
-SELF-STUDY LEARNING
-
-- Constructing roads
-
-Step III
-Now write the three organs of government relating to the cooking stones
-or stands of a charcoal stove at home.
-They are Executive, Legislature and Judiciary.
-
-Activity
-1. Name the three organs of government.
-2. What name is given to a group of people who govern a country?
-3. Mention the two levels of the government.
-4. State the importance of government to its people.
-
-Lesson 2: The Executive
-You will be able to;
-- Mention the groups of people who form the Executive.
-- State the functions of the Executive.
-- Identify the duties of the President.
-Materials you will need:
-Pens, Pencils, note book, P. 5 SST text book (If possible).
-Introduction:
-In this lesson, you are going to learn about the Executive, groups of peo-
-ple who form the Executive, functions of the Executive and duties of the
-President.
-
-Step I:
-The Executive.
-i. This is the ruling organ of the government.
-It is headed by the President. It is made up of; the president, the
-cabinet and civil servants.
-
-SOCIAL STUDIES | PRIMARY FIVE
-</passage>
-
-<passage id="lchk_25c87084edb64ed283eda12ac857fc84" source="P 5 SST Scheme Term III 2019 (ecolebooks Com)" part="4">
-of legislative
-and Judiciary
--Pictures of
-judges
--Resource
-person
--Pictures of
-High Court
-building
-Mk std
-Bk 5
-Page
-134
-Ecolebooks.com
-DOWNLOAD MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM
-5 1
+<passage id="lchk_db3ff097ff99464aba2332c9d68a600d" source="P.5 SST SCHEME TERM III 2019" part="3">
+-Description
+-Observation
+-Discussing importance of electing leaders.
+3
+5
+LIVING TOGETHER IN UGANDA
+Uganda as an independent nation
+Elections commission
+-Explain the meaning of the word elections
+Spell, reads , pronounces and writes words related to elections.
+The Electoral commission
+-Roles of the electoral commission.
+-Challenges of the electoral commission.
+-Respect for democracy and elections
+-Discovery
+-Discussion
+-Explanation
+-Question and answer
+-Critical thinking
+-Effective communication
+-Inquiry
+-Suggesting two things people who get the least votes should do after elections.
+-Role playing voting exercise.
+-Discussion importances of electing leaders
+-Text books
+4
+1
 &
 2
-LIVING TOGETHER IN
-UGANDA
+LIVING TOGETHER IN UGANDA
 The government of Uganda
-Roles of the government -Explaining
-the roles of
-the
-government.
--State the
-types of the
-gov’t and
-their roles.
--spell, read
-and
-pronounce
-and use
-words like
-roles.
+The arms of the government (Legislature)
+-Explaining the government.
+-Naming the organs of the government.
+-Identifying the components of the legislature.
+-Stating the duties of the Legislature
+-Spells, reads, pronounce the words related to the gov’t .
+-Legislature
+-Read, spell, pronounce words related to
+-speaker
+-Clerk to the parliament
+-Sergeant at Arms.
+-Parliament
+The Government
+-Meaning
+-Organs of the government
+Executive
+Legislature
+Judiciary
+Legislature
+(Parliament )
+-Meaning
+-Duties of the parliament
+-Main officers of the parliament
+Clerk to the parliament
+Sergeant of Arms
+-Qualifications of a MP
+-Explanation
+-Discussion
+-Role play
+-Cooperation
+-Respect
+-Observation
+-Listening
+-Critical thinking
+-Debate
+-Reading and spelling words related to the government
+-Photographs of a parliament in session
+MK stdbk 5 pg 131-133
+4
+3
+LIVING TOGETHER IN UGANDA
+The government of Uganda
+Executive
+Explaining executive and give components of the executive .
+-Giving the functions of the executive
+-Executive
+-President
+-Minister
+-Civil servants
+Executive
+-Meaning
+-Components of the executive
+President
+Ministers
+-Functions of the executive
+-Description
+-Guided discovery
+-Explanation
+-Respect
+-Appreciation
+-Listening
+-Critical thinking
+-Discussing the roles of the executive government
+A chart showing the executive government
+Mk std BK 5 PAGE 132-133
+4
+Judiciary
+-Explaining and composition of the Judiciary.
+-Discussing the roles of the Judiciary
+-spells, reads and pronounces words related to Judiciary.
+Judiciary
+Chief Justice
+Judges
+Attorneys
+Lawyers
+Supreme Court
+Judiciary
+-Meaning
+-Composition of Judiciary
+Chief justice
+Principal judge
+Judges
+Justices
+Attorneys
+Lawyers
+Magistrates
+Supreme court
+Roles of the Judiciary
+Roles of a chief Justice
+-Explanation
+-Discussion
+-Role play
+-Observation
+-Analysing
+-Sharing
+-Reporting
+-Explaining the necessity of the separation of legislative and Judiciary
+-Pictures of judges
+-Resource person
+-Pictures of High Court building
+Mk std
+Bk 5
+Page 134
+5
+1
+&
+2
+LIVING TOGETHER IN UGANDA
+The government of Uganda
+Roles of the government
+-Explaining the roles of the government.
+-State the types of the gov’t and their roles.
+-spell, read and pronounce and use words like roles.
 Roles of the gov’t
-- Types of the gov’t
--Central government
-(National)
+-Types of the gov’t
+-Central government (National)
 -Local government
--Role of the central
-government.
--Roles of the local
-government.
--Question
-and answer
+-Role of the central government.
+-Roles of the local government.
+-Question and answer
 -Discussion
 -Explanation
 -Role play
 -Respect
 -Co-operation
--Critical
-thinking
--Discussing the
-roles of the
-government.
--Discussing
-how different
-types of the
-government
-carry out their
-duties
--Pictures
-connected
-to the
-activities of
-the gov’t
-Mk
-stdbk 5
-Page
-131
-Functio
-nal bk 5
+-Critical thinking
+-Discussing the roles of the government.
+-Discussing how different types of the government carry out their duties
+-Pictures connected to the activities of the gov’t
+Mk stdbk 5
+Page 131
+Functional bk 5
 Pg 179
 3
 &
@@ -993,240 +805,6 @@ Pg 179
 LIVING TOGETHER IN UGANDA
 The government of Uganda
 The Constitution
--Explaining
-the term
-constitution
--Stating the
-functions and
-importance
-of
-constitution
--Read,
-pronounce
-and use
-words
-related to
-the
-constitution
-The Constitution
--Meaning
--Functions of the
-constitution
--Importance of a
-constitution
--The constitutions of
-Uganda.
-❖ The 1962
-constitution
-❖ The 1967
-constitution
-❖ The 1995
-constitution
--Description
--Role play
--Discussion
--Explanation
--Brain
-storming
--Respect
--Writing
--Sharing
--Reading
--nationalism
--Explaining the
-meaning of a
-constitution.
--Discussing the
-importance of
-a constitution
--The school
-rules
--hand books
-Mk STD
-BK 5
-Pg
-Ecolebooks.com
-DOWNLOAD MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM
-6
-5
-&
-1
-The sources of government income
--Explaining
-the sources
-of
-government
-income and
-revenue
--Spells,
-reads,
-pronounces
-and uses
-words
-related to
-sources of
-revenue
-❖ Taxation
-❖ Value
-❖ Donation
-s
-❖ Tourism
-❖ License
-❖ loans
--Revenue
--Taxation
-Types of taxes
--Examples of taxes
-Body responsible for
-collecting taxes
-(URA)
--Roles of the URA
--Others sources of
-government revenue
-❖ Grants
-❖ Loans
-❖ Donations
-❖ Fines
-❖ Tourism
-❖ Sales
-❖ Licenses
--Discussion
--Explanation
--Question
-and answer
--Sharing
--Writing
--Reading
--Discussing
-how the gov’t
-earns its
-income
--Pictures
-and
-photograph
-s
--License
-cards
-Mk
-stdbk 5
-pg 138-
-139
-6 2
-LIVING TOGETHER IN UGANDA
-The government of Uganda
-The government Expenditure
--Explaining
-expenditure
--Discussing
-ways how
-the gov’t
-spends the
-revenue
-Spells, reads,
-pronounce
-and uses
-words
-related to
-expenditure
-like security
-Expenditure
--meaning
-- Ways how the gov’t
-spends revenue.
-❖ Salaries &
-allowances
-❖ Dev’tprogramme
-s
-❖ Rent
-❖ Security
-❖ Social services
-❖ Problems in
-spending
-revenue
--Discussion
--Explanation
--Question
-and answer
--Appreciation
--Love
--Sharing
--Co-operation
--Listening
--Discussing
-ways how the
-gov’t spends its
-revenue
--Pictures
-connected
-to ways how
-gov’t spends
-its revenue.
-Mk
-stdbk 5
-pg 139
-Ecolebooks.com
-DOWNLOAD MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM
-3
-&
-4
-The budget
--Explaining
-the term
-budget
--Discussing
-the different
-types of
-budgets.
--Discussing
-the
-importance
-of the budget
--spell, read,
-pronounce
-and use
-words
-related to
-the budget
--surplus
--balanced
-deficit
-The budget
--Meaning
--Types of budgets
-❖ Surplus
-❖ Balanced
-❖ Deficit
-budget
--Importance of the
-budget
--Explanation
--Discussion
--Discovery
--Question
-and answer
--Drawing
--Care
--Sharing
--Observation
--Drawing the
-types of
-budget.
--Naming the
-parts of the
-budget
--Pictures of
-different
-budgets
-Mk
-stdbk 5
-pg 140-
-141
-Functio
-nal bk 5
-Pg 187-
-188
-5
-The Human Rights
 </passage>
 
 <passage id="lchk_853d95d8ec1549f28a6ca4fadcc6f022" source="Excel P 5 SST Term III" part="21">
@@ -1298,88 +876,190 @@ Page 40
 (ii) A National budget
 </passage>
 
-<passage id="lchk_7682272c0fdb4b93a290837e483bcf34" source="P.5 SST SCHEME TERM III 2019" part="6">
--Discussing the solutions to the high population density and ways of controlling population growth.
--Discussing the effects of HIV on population and economic production
-- An Atlas
--School environment
-School neighbourhood
-Function
-Bk 5
-Pg 198-199
-Mk std
-Bk 5
-Pg 148
-8
-5
-LIVING TOGETHER IN UGANDA
-Effects of HIV / AIDs on population and economic development
--Discussing the effects of HIV/ AIDS on population and economic production
--HIV
--AID
--Economic
--Production
-Effects of HIV / AIDS on population and economic production
--Inquiry
--Discussion
--Discovery
--Critical thinking
--Self awareness
--Discussing the effects of HIV on population and economic production
-School neighbourhood
-9
-1
-Uganda as an Independent nation
-Democracy
--Explaining terms used in democracy and related words like
--Elections
--Polling stations
--Bullot box& paper
--polling assistant
--Pronounce, read and spell words related to democracy
-Revision work
-Democracy
-Meaning
-Importance
-Functions
-How democracy is practiced
-Challenges of democracy
-Elections
-How elections are conducted
--Explanation
--Discussion
--Inquiry
--Question and answer
--Discovery
--Testing
--Observation
--Drawing
--Critical thinking
--Sharing
--Appreciation
--Answering written exercises
--Discussion
--Pictures and photographs of people voting
-MK stdbk 5 pg 117-150
-9
-2
-Government of Uganda
--Explaining taxation, budget and their types
-Taxation
-Budget
-Loans
-Expenditure
-Income
-Revenue
-Bad practices in elections
-Electoral commission and its functions.
-Taxation
-Types of taxes
-Ways how the government spends its revenue
-Budget
-Types of budget
-Pictures of different types of budgets
-MK bk 5 pg 140-141
+<passage id="lchk_f3a20646343545bf90e63ce171b6cf0e" source="P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation" part="10">
+ Ministers without constituencies (Ex. officials)
+Special groups of people represented in the parliament
+ The youth
+ The workers
+ The women
+ The army
+ The disabled
+Duties of the parliament
+ To make or set laws.
+ To approve the national budget.
+ To approve persons appointed in high public offices such as vice president, prime minister
+etc.
+ To check on how the government spends public funds .
+ To amend the constitution when need arises.
+ Disciplines unruly ministers and civil servants.
+ The parliament passes a vote of no confidence or censure on the president, ministers and
+other public officers if they are found corrupt or out of order.
+Main officers of parliament
+a) The speaker of the parliament
+ The speaker is the chairperson of parliament.
+ He/ she chairs all the debates in parliament.
+b) The clerk to parliament
+ He is the administrative head of parliament who keeps records and property of
+parliament.
+ He acts as the secretary to the parliament.
+ He records all the parliamentary proceedings. (Hansard)
+c) The sergeant at arms
+ He is in charge of security in the parliament.
+ He ensures that there is discipline in the parliament.
+ He alerts members of the parliament when the speaker is about to enter.
+ He makes sure that no person disrupts the members of parliament during their meetings.
+Terms connected to the Parliament
+25
+A bill
+ A bill is a proposed law in the parliament
+A law or an act
+ A law or an act is a bill that has been signed by the president
+Hansard
+ Hansard are the recorded proceedings of the parliament.
+A mace
+ A mace is a symbol of authority that represents the power of the speaker and parliament
+Qualifications for one to become a member of parliament
+ He or she should be a citizen of Uganda.
+ Should be a registered voter.
+ Should be eighteen years old or above.
+ Should have completed a minimum level of formal education of senior six or equivalent.
+Activity
+1. What is legislature?
+2. State one duty of the legislature arm of the government.
+3. Who heads the legislature?
+4. What title is given to the chief administrative head of the parliament?
+5. Give the roles of the following officers in the parliament.
+a) The speaker of parliament
+b) Sergeant at arms
+c) Clerk to parliament
+Date Class Subject No. of pupils Time
+P.5
+TOPIC: The Government of Uganda
+SUB –TOPIC: The Judiciary arm of the government
+LANGUAGE COMPETENCE :
+The learner:- Spells and uses words related to the sub -topic: justice, judge, magistrates,
+attorneys , lawyers, supreme
+Content : The Judiciary arm of government
+ The judiciary arm of the government is the custodian of the law.
+26
+ It is headed by the chief justice.
+ The chief justice is assisted by the principal judge.
+Officials/ people who make up the judiciary
+ The judges
+ The justices
+ The attorneys
+ The lawyers
+ The magistrates
+The duties of the judiciary arm of government
+ Punishes law breakers
+ Settles disputes and conflicts in courts of laws.
+ It makes sure that laws are observed and maintained in the country. .
+ Interprets laws to the public.
+ It protects the rights of every citizen by giving free and fair trial in courts of law.
+Duties of the chief justice
+ He/ she guides the judges and magistrates in the way they should carry out their work.
+ He/ she is responsible for the swearing in of the important political people the president
+and vice president.
+ He is the head of the Supreme Court.
+What is the highest court in Uganda called?
+ The Supreme Court
+</passage>
+
+<passage id="lchk_a068c36f55a64155a9a2517aace9832f" source="P.5 Social Studies Lesson Notes Term 3" part="4">
+ To provide clean water to people
+ To implement the laws
+ To protect people and their property.
+ARMS / ORGANS OF A DEMOCRATIC GOVERNMENT.
+Government has many responsibilities. It carries them out through organs.
+- The executive
+- The legislature
+- The judiciary.
+Duties of the executive
+ To implement the law
+ To plan for the country
+DIVINE EDUCATION CENTRE:0784540287/0751565742 Page 11
+ To rule the country
+ To protect people and their property.
+The executive organ does the work of government.
+Composition of the executive.
+- The president (head)
+- Cabinet ministers
+- Civil servants (government workers)
+Duties of the Legislature
+ To discuss and pass laws.
+ To give advice to the executive
+ To approve the national budget
+ To approve (vet) newly appointed minister and other senior government officials.
+ To protect the national constitution
+Legislature is headed by the speaker of parliament.
+Important personalities in parliament.
+- The speaker of parliament
+- Sergeant at arms
+- Clerk to parliament
+Note: Roles of the speaker
+ The speaker chairs parliamentary meetings
+ The sergeant at arms keeps law and order in parliament.
+ The clerk to parliament records minutes in parliament.
+ Recorded minutes of parliament are called hansards
+ Give the present speaker (and the deputy speaker) of parliament.
+Composition of parliament.
+- Constituency representatives.
+- Special groups / interest groups representatives.
+Special groups representatives:
+ The army
+ The youth
+ Women
+DIVINE EDUCATION CENTRE:0784540287/0751565742 Page 12
+ People with disabilities.
+Teacher should revise the work on Legco
+- Give similarities of Legco and today’s parliament
+- Differences between members of Legco and members of parliament.
+Duties of the judiciary
+ To interpret the law
+ To decide if the law has been broken or not.
+ To settle disputes
+ To punish law breakers.
+Composition of the judiciary
+- Judges
+- Magistrates
+- Court clerks
+- Lawyers
+The judiciary is headed by the chief justice.
+Teacher should give the similarities of the judiciary and local councils and the judiciary
+with prefects.
+CONSTITUTIONALISM AND THE RULE OF LAW
+A national constitution is a set of laws used to rule a country.
+A constitution is a set of laws used to govern a company, a society or an organization.
+Functions of a national constitution
+ To unite people
+ To promote peace and security
+ To guide leaders
+ To help change government peacefully
+ To promote good governance
+ To promote human rights.
+The constitutions Uganda has ever had.
+1961 constitution
+1962 constitution
+1966 constitution
+1967 constitution
+1995 constitution
+DIVINE EDUCATION CENTRE:0784540287/0751565742 Page 13
+The 1961 constitution
+This constitution was made in London between 18 th September. This constitution was
+made in London between 18 th September to 9 th October 1961.
+It was mainly made to enable Uganda get self government.
+Lord Munster Commission
+- This was a committee appointed in July 1961 to make a report about the kingdoms
+interests mainly those which refused to send representatives to Legco.
+- It was chaired by Lord Earl Munster.
+Recommendations:
+ Buganda was to remain part of Uganda.
+ Buganda was to send 21 members to the national assembly.
+Contributions of the Munster Commission
+ It led to the Lancaster Conference which granted Uganda independence.
+The Lancaster Conference of September 1961
+This conference was held in Lancaster house in London.
+It granted Uganda independence.
 </passage>
 </passages>
 

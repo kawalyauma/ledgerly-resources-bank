@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_44f299cf82a1489a9eec24f0f05eae48-0",
+  "task": "ltsk_44f299cf82a1489a9eec24f0f05eae48",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 56,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 2,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_47abbc6155834f47abb36e70f2682d9b",
+      "kind": "teach",
+      "week": 2,
+      "title": "The Legislature: meaning, composition and duties",
+      "periods": 1,
+      "subtopic": "The organs of the government: Legislature"
+    },
+    {
+      "id": "lles_dba8b78d61464524915c0cb1c1913c3c",
+      "kind": "teach",
+      "week": 2,
+      "title": "Officers of Parliament and terms used in Parliament",
+      "periods": 1,
+      "subtopic": "The organs of the government: Legislature"
+    },
+    {
+      "id": "lles_259a8454f1504688b77310e00291d882",
+      "kind": "practice",
+      "week": 2,
+      "title": "Practice: the Legislature",
+      "periods": 1,
+      "subtopic": "The organs of the government: Legislature"
+    },
+    {
+      "id": "lles_c71a1cc10a834a0fbe24f54fb64d3069",
+      "kind": "teach",
+      "week": 2,
+      "title": "The Judiciary and the courts of law",
+      "periods": 1,
+      "subtopic": "The organs of the government: Judiciary"
+    },
+    {
+      "id": "lles_e1fcde4cc6f24df88b28c0873cdc9c0d",
+      "kind": "practice",
+      "week": 2,
+      "title": "Practice: the three organs of government",
+      "periods": 1,
+      "subtopic": "The organs of the government: Judiciary"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_6d2556c7c2cf4bdaab5bead60ded2e89",
+    "lchk_81d55cd06942488eb3d7927c27264ea9",
+    "lchk_4edd4afd1d254374a6c93da86c0debc8",
+    "lchk_f249775bfab9472fbaa5b06e03fb5230",
+    "lchk_db3ff097ff99464aba2332c9d68a600d",
+    "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+    "lchk_f3a20646343545bf90e63ce171b6cf0e",
+    "lchk_a068c36f55a64155a9a2517aace9832f"
+  ],
+  "created": "2026-10-13T21:10:49.680Z"
+}
