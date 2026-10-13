@@ -1,0 +1,78 @@
+{
+  "competences": [
+    "State who heads the Judiciary and who makes it up.",
+    "State the duties of the Judiciary and of the chief justice.",
+    "Name the courts of law in Uganda and who heads each."
+  ],
+  "languageCompetence": "Spell, read and use words from the lesson on the organs of government.",
+  "objectives": [
+    "State who heads the Judiciary and who makes it up.",
+    "State the duties of the Judiciary and of the chief justice.",
+    "Name the courts of law in Uganda and who heads each."
+  ],
+  "methods": [
+    "Explanation",
+    "Question and answer",
+    "Description",
+    "Discussion"
+  ],
+  "materials": [
+    "Diagram/chart of court hierarchy",
+    "P5 SST textbook",
+    "Chalkboard"
+  ],
+  "references": [
+    "NCDC P5 Merged – Social Studies",
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Recall the three organs and focus on Judiciary.",
+      "learnerActivity": "Learners distinguish Judiciary from Legislature.",
+      "source": {
+        "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+        "quote": "The judiciary arm of the government is the custodian of the law."
+      }
+    },
+    {
+      "stage": "Development: Judiciary",
+      "minutes": 12,
+      "teacherActivity": "Explain who belongs to the Judiciary and its responsibilities.",
+      "learnerActivity": "Learners list judicial officials and explain their work.",
+      "source": {
+        "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+        "quote": "Officials/ people who make up the judiciary"
+      }
+    },
+    {
+      "stage": "Development: courts",
+      "minutes": 15,
+      "teacherActivity": "Show the court hierarchy and the responsible heads.",
+      "learnerActivity": "Learners name each court and the officer heading it.",
+      "source": {
+        "source": "lchk_eca2cbe9906942cfad946678f2edb234",
+        "quote": "The Courts of law under the Judiciary."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Use the sourced questions to assess knowledge of court duties.",
+      "learnerActivity": "Learners answer and review the written questions.",
+      "source": {
+        "source": "lchk_eca2cbe9906942cfad946678f2edb234",
+        "quote": "State the duties of the Judiciary."
+      }
+    }
+  ],
+  "assessment": "Use the sourced written questions to assess understanding and correct errors.",
+  "homework": "Complete the five or six sourced questions given in the exercise.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Listening",
+    "Respect"
+  ]
+}

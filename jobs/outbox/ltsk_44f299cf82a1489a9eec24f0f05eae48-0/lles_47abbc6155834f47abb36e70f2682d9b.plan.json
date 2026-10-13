@@ -1,0 +1,78 @@
+{
+  "competences": [
+    "Explain what the Legislature is and who heads it.",
+    "Name the groups of people who make up Parliament.",
+    "State the duties of the Legislature."
+  ],
+  "languageCompetence": "Spell, read and use words from the lesson on the organs of government.",
+  "objectives": [
+    "Explain what the Legislature is and who heads it.",
+    "Name the groups of people who make up Parliament.",
+    "State the duties of the Legislature."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer",
+    "Observation"
+  ],
+  "materials": [
+    "Photographs of Parliament in session",
+    "P5 SST textbook",
+    "Chalkboard"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation",
+    "NCDC P5 Curriculum – Social Studies"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Explain the Legislature as the law-making body.",
+      "learnerActivity": "Learners recall the three organs of government.",
+      "source": {
+        "source": "lchk_e7f98d0c6d304e89900b913823202c8c",
+        "quote": "THE LEGISLATURE."
+      }
+    },
+    {
+      "stage": "Development: composition",
+      "minutes": 11,
+      "teacherActivity": "Explain elected constituencies, groups represented and ex-officio members.",
+      "learnerActivity": "Learners name groups of Members of Parliament.",
+      "source": {
+        "source": "lchk_f1a2ace4ed3242358337e728ce8ef8cb",
+        "quote": "Composition of the Legislature."
+      }
+    },
+    {
+      "stage": "Development: duties",
+      "minutes": 16,
+      "teacherActivity": "Lead discussion of Parliament's law-making and oversight duties.",
+      "learnerActivity": "Learners explain several duties of Parliament.",
+      "source": {
+        "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+        "quote": "Duties of the parliament"
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Ask the exercise questions from the notes.",
+      "learnerActivity": "Learners answer sourced questions and check responses.",
+      "source": {
+        "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+        "quote": "Who heads the legislature?"
+      }
+    }
+  ],
+  "assessment": "Use the sourced written questions to assess understanding and correct errors.",
+  "homework": "Complete the five or six sourced questions given in the exercise.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Listening",
+    "Respect"
+  ]
+}

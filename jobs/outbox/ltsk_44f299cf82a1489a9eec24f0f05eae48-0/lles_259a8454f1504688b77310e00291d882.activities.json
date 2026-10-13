@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Write M.P in full.",
+    "answer": "Member of Parliament.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Parliament",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_c6b2771a255a45b086313efa9584ad50",
+      "quote": "Write M.P in full."
+    }
+  },
+  {
+    "question": "Which organ of government is known as the law making body?",
+    "answer": "The Legislature.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Parliament",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_c6b2771a255a45b086313efa9584ad50",
+      "quote": "Which organ of government is known as the law making body?"
+    }
+  },
+  {
+    "question": "State the functions of the Legislature.",
+    "answer": "To make and amend laws and approve the national budget.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Legislature",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_c6b2771a255a45b086313efa9584ad50",
+      "quote": "State the functions of the Legislature."
+    }
+  },
+  {
+    "question": "Qn: Define the term bill",
+    "answer": "A proposed law in Parliament.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Parliament",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_4fda346b6242448383e30fe61e55cb53",
+      "quote": "Qn: Define the term bill"
+    }
+  },
+  {
+    "question": "Qn: What is an act?",
+    "answer": "A bill approved and signed by the President.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Parliament",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_4fda346b6242448383e30fe61e55cb53",
+      "quote": "Qn: What is an act?"
+    }
+  },
+  {
+    "question": "How does the Legislature help the Judiciary to perform its work?",
+    "answer": "The Legislature makes laws that the Judiciary interprets and applies.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "organs of government",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "How does the Legislature help the Judiciary to perform its work?"
+    }
+  }
+]

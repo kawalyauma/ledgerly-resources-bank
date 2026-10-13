@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is legislature?",
+    "answer": "The law-making organ of government.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Legislature",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+      "quote": "What is legislature?"
+    }
+  },
+  {
+    "question": "State one duty of the legislature arm of the government.",
+    "answer": "To make and amend laws.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Legislature",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+      "quote": "State one duty of the legislature arm of the government."
+    }
+  },
+  {
+    "question": "Who heads the legislature?",
+    "answer": "Speaker of Parliament.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Legislature",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+      "quote": "Who heads the legislature?"
+    }
+  },
+  {
+    "question": "Give one way one can become a member of parliament in Uganda.",
+    "answer": "By winning a parliamentary election.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Parliament",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Give one way one can become a member of parliament in Uganda."
+    }
+  },
+  {
+    "question": "Mention any three special groups of people represented in the par5liament of Uganda.",
+    "answer": "Workers, youth and people with disabilities.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Parliament",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Mention any three special groups of people represented in the par5liament of Uganda."
+    }
+  }
+]

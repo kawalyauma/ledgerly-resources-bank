@@ -1,0 +1,78 @@
+{
+  "competences": [
+    "State the roles of the speaker, clerk to parliament and sergeant at arms.",
+    "Explain the terms bill, act, Hansard and mace.",
+    "State the qualifications of a member of parliament."
+  ],
+  "languageCompetence": "Spell, read and use words from the lesson on the organs of government.",
+  "objectives": [
+    "State the roles of the speaker, clerk to parliament and sergeant at arms.",
+    "Explain the terms bill, act, Hansard and mace.",
+    "State the qualifications of a member of parliament."
+  ],
+  "methods": [
+    "Explanation",
+    "Question and answer",
+    "Discussion",
+    "Observation"
+  ],
+  "materials": [
+    "Photographs of Parliament",
+    "P5 SST textbook",
+    "Chalkboard"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation",
+    "Primary Five Social Studies Notes 2020"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Review who heads Parliament and why it meets.",
+      "learnerActivity": "Learners recall the Speaker's title.",
+      "source": {
+        "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+        "quote": "The speaker is the chairperson of parliament."
+      }
+    },
+    {
+      "stage": "Development: officers",
+      "minutes": 13,
+      "teacherActivity": "Describe the Speaker, Deputy Speaker, Clerk and Sergeant at Arms.",
+      "learnerActivity": "Learners identify the different roles of parliamentary officers.",
+      "source": {
+        "source": "lchk_f1a2ace4ed3242358337e728ce8ef8cb",
+        "quote": "Officers in the parliament."
+      }
+    },
+    {
+      "stage": "Development: terms",
+      "minutes": 14,
+      "teacherActivity": "Explain bill, Act, Hansard and mace, and identify the listed MP qualifications.",
+      "learnerActivity": "Learners use the terms accurately and name source-listed qualifications.",
+      "source": {
+        "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+        "quote": "Terms connected to the Parliament"
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Use the exercise questions on Parliament.",
+      "learnerActivity": "Learners give answers about parliamentary officers and terms.",
+      "source": {
+        "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+        "quote": "How is a Bill different from an Act?"
+      }
+    }
+  ],
+  "assessment": "Use the sourced written questions to assess understanding and correct errors.",
+  "homework": "Complete the five or six sourced questions given in the exercise.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Listening",
+    "Respect"
+  ]
+}

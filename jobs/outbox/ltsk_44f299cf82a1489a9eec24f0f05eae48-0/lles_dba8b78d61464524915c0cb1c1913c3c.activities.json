@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What title is given to the chief administrative head of the parliament?",
+    "answer": "Clerk to Parliament.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Parliament",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+      "quote": "What title is given to the chief administrative head of the parliament?"
+    }
+  },
+  {
+    "question": "Give the roles of the following officers in the parliament. a) The speaker of parliament b) Sergeant at arms c) Clerk to parliament",
+    "answer": "Speaker chairs debates; Sergeant at Arms ensures security; Clerk records proceedings.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "Parliament",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+      "quote": "Give the roles of the following officers in the parliament."
+    }
+  },
+  {
+    "question": "How is a Bill different from an Act?",
+    "answer": "A bill is a proposed law; an Act is a law passed and signed by the President.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "legislation",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "How is a Bill different from an Act?"
+    }
+  },
+  {
+    "question": "When does a bill become a law?",
+    "answer": "When it has been passed by Parliament and signed by the President.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "legislation",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "When does a bill become a law?"
+    }
+  },
+  {
+    "question": "State one role performed by the following people in the parliament of Uganda. (i) Speaker of parliament. (ii) Clerk (iii) Sergeant at arms",
+    "answer": "Speaker presides over debate; Clerk keeps proceedings; Sergeant at Arms maintains security.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "Parliament",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "State one role performed by the following people in the parliament of Uganda."
+    }
+  }
+]

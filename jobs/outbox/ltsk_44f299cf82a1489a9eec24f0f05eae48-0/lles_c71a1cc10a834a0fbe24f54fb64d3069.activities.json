@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Name the highest court of the judiciary.",
+    "answer": "Supreme Court.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "courts",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_eca2cbe9906942cfad946678f2edb234",
+      "quote": "Name the highest court of the judiciary."
+    }
+  },
+  {
+    "question": "What title is given to head of Judiciary?",
+    "answer": "Chief Justice.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Judiciary",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_eca2cbe9906942cfad946678f2edb234",
+      "quote": "What title is given to head of Judiciary?"
+    }
+  },
+  {
+    "question": "State the duties of the Judiciary.",
+    "answer": "Interpreting laws, settling disputes and punishing law breakers.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Judiciary",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_eca2cbe9906942cfad946678f2edb234",
+      "quote": "State the duties of the Judiciary."
+    }
+  },
+  {
+    "question": "What is the highest court in Uganda called?",
+    "answer": "Supreme Court.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "courts",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_f3a20646343545bf90e63ce171b6cf0e",
+      "quote": "What is the highest court in Uganda called?"
+    }
+  },
+  {
+    "question": "Give any two ways law brakers are punished by the Judiciary.",
+    "answer": "Through fines and imprisonment.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Judiciary",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Give any two ways law brakers are punished by the Judiciary."
+    }
+  }
+]

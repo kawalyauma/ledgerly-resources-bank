@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Complete the table below correctly. Government organ Headed by Composition (i) ------------- ------------------- -civil servants -ministers (ii) ------------- Chief justice -------------- -------------- (iii) ------------- ------------------- -Constituency MPs -Ex-officios",
+    "answer": "(i) Executive, President; (ii) Judiciary, judges and magistrates; (iii) Legislature, Speaker.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "organs of government",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Complete the table below correctly."
+    }
+  },
+  {
+    "question": "Which organ of the government is known as the custodian of the law?",
+    "answer": "Judiciary.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Judiciary",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_b53ebe99eedd4fb09ea7049c2d76de29",
+      "quote": "Which organ of the government is known as the custodian of the law?"
+    }
+  },
+  {
+    "question": "Apart from punishing law breakers, give any two other ways the Judiciary is important to a country.",
+    "answer": "Settling disputes and protecting citizens' rights.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Judiciary",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Apart from punishing law breakers, give any two other ways the Judiciary is important to a"
+    }
+  },
+  {
+    "question": "Qn: Where do each of the following organs sit i) Executive - state house ii) Legislature - parliament iii) Judiciary – court",
+    "answer": "Executive: State House; Legislature: Parliament; Judiciary: courts.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "government",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_4fda346b6242448383e30fe61e55cb53",
+      "quote": "Qn: Where do each of the following organs sit"
+    }
+  },
+  {
+    "question": "The executive , legislative and judiciary are the arms of the government, under what arm of the government do the following belongs: a) police and prisons b) magistrates c) civil servants",
+    "answer": "(a) Executive; (b) Judiciary; (c) Executive.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "government",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_b53ebe99eedd4fb09ea7049c2d76de29",
+      "quote": "The executive , legislative and judiciary are the arms of the government, under what arm"
+    }
+  }
+]
