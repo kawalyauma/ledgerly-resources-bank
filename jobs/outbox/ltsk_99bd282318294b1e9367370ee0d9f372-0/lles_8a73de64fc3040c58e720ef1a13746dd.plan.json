@@ -1,0 +1,76 @@
+{
+  "competences": [
+    "Explain the meaning of human rights.",
+    "Name examples and forms of human rights abuse.",
+    "Describe how government and citizens can protect human rights."
+  ],
+  "languageCompetence": "Spell and use key Social Studies words relating to the lesson.",
+  "objectives": [
+    "Explain the meaning of human rights.",
+    "Name examples and forms of human rights abuse.",
+    "Describe how government and citizens can protect human rights."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer"
+  ],
+  "materials": [
+    "Human rights illustrations",
+    "P5 SST textbook",
+    "Chalkboard"
+  ],
+  "references": [
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation",
+    "Excel P 5 SST Term III"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Explain the meaning of basic human rights.",
+      "learnerActivity": "Learners define human rights.",
+      "source": {
+        "source": "lchk_34a5d4a3b16d47f5967a8c7c879ba1ab",
+        "quote": "Human rights refer to the basic rights and freedom"
+      }
+    },
+    {
+      "stage": "Development: examples",
+      "minutes": 12,
+      "teacherActivity": "Discuss rights and kinds of abuse from the notes.",
+      "learnerActivity": "Learners give examples and identify unfair treatment.",
+      "source": {
+        "source": "lchk_6dd64f60202a49f7807c72cd6775b286",
+        "quote": "Examples of fundamental human rights"
+      }
+    },
+    {
+      "stage": "Development: protection",
+      "minutes": 15,
+      "teacherActivity": "Explain UHRC functions and how citizens can help.",
+      "learnerActivity": "Learners identify protection measures.",
+      "source": {
+        "source": "lchk_6dd64f60202a49f7807c72cd6775b286",
+        "quote": "Duties of the Uganda Human Rights Commission."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Use source-written exercise questions.",
+      "learnerActivity": "Learners answer and check their work.",
+      "source": {
+        "source": "lchk_34a5d4a3b16d47f5967a8c7c879ba1ab",
+        "quote": "Define human rights abuse."
+      }
+    }
+  ],
+  "assessment": "Assess the sourced written questions and correct errors.",
+  "homework": "Complete the source-written exercise.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Respect",
+    "Effective communication"
+  ]
+}

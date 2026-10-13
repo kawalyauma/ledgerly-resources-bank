@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Briefly describe the term human rights.",
+    "answer": "Basic freedoms belonging to all people.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "human rights",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_34a5d4a3b16d47f5967a8c7c879ba1ab",
+      "quote": "Briefly describe the term human rights."
+    }
+  },
+  {
+    "question": "Give any two examples of human rights",
+    "answer": "Right to life and freedom of worship.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "human rights",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_34a5d4a3b16d47f5967a8c7c879ba1ab",
+      "quote": "Give any two examples of human rights"
+    }
+  },
+  {
+    "question": "Define human rights abuse.",
+    "answer": "The violation of someone's fundamental rights.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "human rights",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_34a5d4a3b16d47f5967a8c7c879ba1ab",
+      "quote": "Define human rights abuse."
+    }
+  },
+  {
+    "question": "Write down two ways human rights have been abused today.",
+    "answer": "Unfair detention and torture.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "human rights",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_34a5d4a3b16d47f5967a8c7c879ba1ab",
+      "quote": "Write down two ways human rights have been abused today."
+    }
+  },
+  {
+    "question": "Name the body that is responsible for protecting therights of the people of Uganda.",
+    "answer": "Uganda Human Rights Commission.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "human rights",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+      "quote": "Name the body that is responsible for protecting therights of the people of Uganda."
+    }
+  },
+  {
+    "question": "State one role a citizen can play to protect other people’s rights .",
+    "answer": "Report human rights abuse to the proper authorities.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "human rights",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+      "quote": "State one role a citizen can play to protect other people’s rights ."
+    }
+  }
+]

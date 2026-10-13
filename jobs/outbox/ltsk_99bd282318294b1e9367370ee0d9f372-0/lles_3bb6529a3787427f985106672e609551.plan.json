@@ -1,0 +1,76 @@
+{
+  "competences": [
+    "Explain children's rights and child abuse.",
+    "Name forms and effects of child labour.",
+    "Suggest source-supported ways of protecting children."
+  ],
+  "languageCompetence": "Spell and use key Social Studies words relating to the lesson.",
+  "objectives": [
+    "Explain children's rights and child abuse.",
+    "Name forms and effects of child labour.",
+    "Suggest source-supported ways of protecting children."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer"
+  ],
+  "materials": [
+    "Illustrations about children's rights",
+    "P5 SST textbook",
+    "Chalkboard"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "Primary Five Social Studies Notes 2020"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Define children's rights and give source examples.",
+      "learnerActivity": "Learners identify children's needs and rights.",
+      "source": {
+        "source": "lchk_ed2ae9295c774104940e12d5d76c170c",
+        "quote": "Children rights are basic natural freedoms"
+      }
+    },
+    {
+      "stage": "Development: forms",
+      "minutes": 12,
+      "teacherActivity": "Explain forms and causes of abuse in an age-appropriate way.",
+      "learnerActivity": "Learners identify abuse of rights without acting it out.",
+      "source": {
+        "source": "lchk_ed2ae9295c774104940e12d5d76c170c",
+        "quote": "Forms of child abuse"
+      }
+    },
+    {
+      "stage": "Development: labour",
+      "minutes": 15,
+      "teacherActivity": "Explain child labour and source-supported prevention.",
+      "learnerActivity": "Learners describe harmful work and ways to protect children.",
+      "source": {
+        "source": "lchk_6dd64f60202a49f7807c72cd6775b286",
+        "quote": "Dangers of child labour."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Ask the sourced written exercise questions.",
+      "learnerActivity": "Learners answer and check responses.",
+      "source": {
+        "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+        "quote": "Mention two ways child labour affects children in your community."
+      }
+    }
+  ],
+  "assessment": "Assess the sourced written questions and correct errors.",
+  "homework": "Complete the source-written exercise.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Respect",
+    "Effective communication"
+  ]
+}

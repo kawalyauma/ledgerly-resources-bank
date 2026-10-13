@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Mention any two forms of child abuse.",
+    "answer": "Physical abuse and emotional abuse.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "child abuse",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+      "quote": "Mention any two forms of child abuse."
+    }
+  },
+  {
+    "question": "State any two causes for the increasing cases of child abuse in Uganda today.",
+    "answer": "Poverty and parental neglect.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "child abuse",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+      "quote": "State any two causes for the increasing cases of child abuse in Uganda today."
+    }
+  },
+  {
+    "question": "Give any two ways cases of child abuse can be reduced in the society today.",
+    "answer": "Teach children's rights and report cases of abuse.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "child abuse",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+      "quote": "Give any two ways cases of child abuse can be reduced in the society today."
+    }
+  },
+  {
+    "question": "Give any two ways children are subjected to child labour in the society today.",
+    "answer": "Heavy work on building sites and carrying heavy goods.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "child labour",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+      "quote": "Give any two ways children are subjected to child labour in the society today."
+    }
+  },
+  {
+    "question": "Mention two ways child labour affects children in your community.",
+    "answer": "School dropout and injuries.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "child labour",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+      "quote": "Mention two ways child labour affects children in your community."
+    }
+  }
+]

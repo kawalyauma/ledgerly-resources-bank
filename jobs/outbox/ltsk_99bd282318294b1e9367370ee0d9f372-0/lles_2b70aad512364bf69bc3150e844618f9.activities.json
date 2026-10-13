@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Briefly give the meaning of a citizen",
+    "answer": "A person recognised legally as belonging to a country.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "citizenship",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_77346614385440e7b018b227acc0e2f9",
+      "quote": "Briefly give the meaning of a citizen"
+    }
+  },
+  {
+    "question": "Point out two ways one can become a citizen of Uganda.",
+    "answer": "By birth and by naturalisation.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "citizenship",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_77346614385440e7b018b227acc0e2f9",
+      "quote": "Point out two ways one can become a citizen of Uganda."
+    }
+  },
+  {
+    "question": "Define dual citizenship",
+    "answer": "Legal citizenship of two countries at the same time.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "citizenship",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_77346614385440e7b018b227acc0e2f9",
+      "quote": "Define dual citizenship"
+    }
+  },
+  {
+    "question": "What do you understand by the term patriotism?",
+    "answer": "A strong love for one's country.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "citizenship",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_77346614385440e7b018b227acc0e2f9",
+      "quote": "What do you understand by the term patriotism?"
+    }
+  },
+  {
+    "question": "State any four responsibilities of a good citizen in Uganda.",
+    "answer": "Pay taxes, protect rights, obey laws and participate in community work.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "responsibilities",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_77346614385440e7b018b227acc0e2f9",
+      "quote": "State any four responsibilities of a good citizen in Uganda."
+    }
+  },
+  {
+    "question": "Give any one way child abuse practices can be reduced in our community today.",
+    "answer": "Enforce laws against child abuse.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "child abuse",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+      "quote": "Give any one way child abuse practices can be reduced in our community today."
+    }
+  }
+]

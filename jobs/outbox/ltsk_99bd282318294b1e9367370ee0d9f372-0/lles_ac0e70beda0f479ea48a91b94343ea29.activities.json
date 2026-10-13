@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is population?",
+    "answer": "The total number of people living in an area.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "What is population?"
+    }
+  },
+  {
+    "question": "State two reasons why government conducts population census.",
+    "answer": "To know population totals and help plan for people.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "census",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "State two reasons why government conducts population census."
+    }
+  },
+  {
+    "question": "Which ministry is responsible for carrying out population census?",
+    "answer": "Ministry of Finance, Planning and Economic Development.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "census",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Which ministry is responsible for carrying out population census?"
+    }
+  },
+  {
+    "question": "What is population structure?",
+    "answer": "Composition of a population by age and sex.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "What is population structure?"
+    }
+  },
+  {
+    "question": "Why is population census carried out every after ten years?",
+    "answer": "Because it is costly and allows time for population changes.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "census",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Why is population census carried out every after ten years?"
+    }
+  }
+]

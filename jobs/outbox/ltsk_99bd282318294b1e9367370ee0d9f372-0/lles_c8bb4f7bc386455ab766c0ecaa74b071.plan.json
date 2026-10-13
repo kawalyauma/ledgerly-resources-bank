@@ -1,0 +1,76 @@
+{
+  "competences": [
+    "Explain citizenship and ways to become a citizen.",
+    "Describe responsibilities of a good citizen.",
+    "Explain how citizenship may be lost and why identification documents are useful."
+  ],
+  "languageCompetence": "Spell and use key Social Studies words relating to the lesson.",
+  "objectives": [
+    "Explain citizenship and ways to become a citizen.",
+    "Describe responsibilities of a good citizen.",
+    "Explain how citizenship may be lost and why identification documents are useful."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer"
+  ],
+  "materials": [
+    "Pictures of a passport and national identity card",
+    "P5 SST textbook",
+    "Chalkboard"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Explain the meaning of citizenship from the source notes.",
+      "learnerActivity": "Learners define a citizen and citizenship.",
+      "source": {
+        "source": "lchk_308194d2a0674ce7b8a2824efae4d3b8",
+        "quote": "CITIZENSHIP:"
+      }
+    },
+    {
+      "stage": "Development: ways",
+      "minutes": 12,
+      "teacherActivity": "Explain ways citizenship can be acquired and lost.",
+      "learnerActivity": "Learners compare birth, descent and registration.",
+      "source": {
+        "source": "lchk_308194d2a0674ce7b8a2824efae4d3b8",
+        "quote": "How one acquires citizenship of Uganda."
+      }
+    },
+    {
+      "stage": "Development: duties",
+      "minutes": 15,
+      "teacherActivity": "Discuss citizen responsibilities and official identification documents.",
+      "learnerActivity": "Learners identify duties and uses of passports and national ID cards.",
+      "source": {
+        "source": "lchk_ed2ae9295c774104940e12d5d76c170c",
+        "quote": "Responsibilities/duties/obligations of a citizen"
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Give sourced exercise questions.",
+      "learnerActivity": "Learners answer and correct written work.",
+      "source": {
+        "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+        "quote": "Give the meaning of the term Citizenship."
+      }
+    }
+  ],
+  "assessment": "Assess the sourced written questions and correct errors.",
+  "homework": "Complete the source-written exercise.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Respect",
+    "Effective communication"
+  ]
+}

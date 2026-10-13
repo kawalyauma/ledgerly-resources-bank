@@ -1,0 +1,76 @@
+{
+  "competences": [
+    "Define population, population census and related words.",
+    "Explain why a census is carried out and name the responsible body.",
+    "Name the information collected in a population census."
+  ],
+  "languageCompetence": "Spell and use key Social Studies words relating to the lesson.",
+  "objectives": [
+    "Define population, population census and related words.",
+    "Explain why a census is carried out and name the responsible body.",
+    "Name the information collected in a population census."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer",
+    "Observation"
+  ],
+  "materials": [
+    "P5 SST textbook",
+    "Chalkboard"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Explain population from the source definition.",
+      "learnerActivity": "Learners distinguish population from population census.",
+      "source": {
+        "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+        "quote": "Population is the total number of people living in an area at a given time"
+      }
+    },
+    {
+      "stage": "Development: census",
+      "minutes": 12,
+      "teacherActivity": "Describe census, enumerators and the responsible institutions.",
+      "learnerActivity": "Learners identify the role of enumerators and UBOS.",
+      "source": {
+        "source": "lchk_401b8346cdcf44109b333a534b4a6b3d",
+        "quote": "Enumerators are trained people who collect information"
+      }
+    },
+    {
+      "stage": "Development: information",
+      "minutes": 15,
+      "teacherActivity": "Explain census purposes and information collected.",
+      "learnerActivity": "Learners list census questions and reasons for the count.",
+      "source": {
+        "source": "lchk_401b8346cdcf44109b333a534b4a6b3d",
+        "quote": "Types of information collected during a population census."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Ask the source-written exercise questions.",
+      "learnerActivity": "Learners answer and check corrections.",
+      "source": {
+        "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+        "quote": "State two reasons why government conducts population census."
+      }
+    }
+  ],
+  "assessment": "Assess the sourced written questions and correct errors.",
+  "homework": "Complete the source-written exercise.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Respect",
+    "Effective communication"
+  ]
+}

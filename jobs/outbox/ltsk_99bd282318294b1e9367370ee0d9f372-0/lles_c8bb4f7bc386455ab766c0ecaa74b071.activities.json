@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Give the meaning of the term Citizenship.",
+    "answer": "The legal right to belong to a country.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "citizenship",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+      "quote": "Give the meaning of the term Citizenship."
+    }
+  },
+  {
+    "question": "Mention any two ways one can acquire citizenship of Uganda.",
+    "answer": "By birth and by registration.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "citizenship",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+      "quote": "Mention any two ways one can acquire citizenship of Uganda."
+    }
+  },
+  {
+    "question": "State any three obligations of a good citizen.",
+    "answer": "Pay taxes, obey laws and protect others' rights.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "responsibilities",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+      "quote": "State any three obligations of a good citizen."
+    }
+  },
+  {
+    "question": "Give any one condition that can make one lose citizenship of Uganda.",
+    "answer": "Acquiring citizenship fraudulently.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "citizenship",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+      "quote": "Give any one condition that can make one lose citizenship of Uganda."
+    }
+  },
+  {
+    "question": "What name is given to an official government document that permits one to travel to other countries?",
+    "answer": "Passport.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "citizenship",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+      "quote": "What name is given to an official government document that permits one to travel to other"
+    }
+  },
+  {
+    "question": "Give any two ways a National identity card is useful to the citizens of Uganda.",
+    "answer": "Identification and accessing public services.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "citizenship",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+      "quote": "Give any two ways a National identity card is useful to the citizens of Uganda."
+    }
+  }
+]
