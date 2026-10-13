@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Name the three organs of government.",
+    "answer": "Executive, Legislature and Judiciary.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "organs of government",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_461170f297794aa1b58cec46e2ae28f2",
+      "quote": "Name the three organs of government."
+    }
+  },
+  {
+    "question": "What name is given to the ruling organ of the government?",
+    "answer": "The Executive.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Executive",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_37455fa779f74da3964836e8dbdbb4b7",
+      "quote": "What name is given to the ruling organ of the government?"
+    }
+  },
+  {
+    "question": "Who heads the executive arm of the government?",
+    "answer": "The President.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Executive",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_37455fa779f74da3964836e8dbdbb4b7",
+      "quote": "Who heads the executive arm of the government?"
+    }
+  },
+  {
+    "question": "Apart from the president, give one other group of people that makes up the executive.",
+    "answer": "Ministers or civil servants.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Executive",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_37455fa779f74da3964836e8dbdbb4b7",
+      "quote": "Apart from the president, give one other group of people that makes up the executive."
+    }
+  },
+  {
+    "question": "State any three duties performed by the executive organ of the government.",
+    "answer": "It administers the country, implements policies and maintains law and order.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Executive",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "State any three duties performed by the executive organ of the government."
+    }
+  }
+]

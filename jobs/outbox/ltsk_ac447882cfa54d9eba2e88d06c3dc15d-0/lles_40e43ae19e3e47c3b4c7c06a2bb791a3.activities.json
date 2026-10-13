@@ -1,0 +1,72 @@
+[
+  {
+    "question": "State any two roles performed by the president of Uganda.",
+    "answer": "Chairing Cabinet meetings and representing the country internationally.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "president",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "State any two roles performed by the president of Uganda."
+    }
+  },
+  {
+    "question": "Give one responsibility of a president in a country.",
+    "answer": "Commander-in-chief of the armed forces.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "president",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_37455fa779f74da3964836e8dbdbb4b7",
+      "quote": "Give one responsibility of a president in a country."
+    }
+  },
+  {
+    "question": "What title is given to the head of all civil servants in a ministry?",
+    "answer": "Permanent Secretary.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "civil servants",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_37455fa779f74da3964836e8dbdbb4b7",
+      "quote": "What title is given to the head of all civil servants in a ministry?"
+    }
+  },
+  {
+    "question": "Mention any two examples of civil servants.",
+    "answer": "Teachers and doctors.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "civil servants",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Mention any two examples of civil servants."
+    }
+  },
+  {
+    "question": "Who are the civil servants?",
+    "answer": "People who do the day-to-day work of government.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "civil servants",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_37455fa779f74da3964836e8dbdbb4b7",
+      "quote": "Who are the civil servants?"
+    }
+  }
+]

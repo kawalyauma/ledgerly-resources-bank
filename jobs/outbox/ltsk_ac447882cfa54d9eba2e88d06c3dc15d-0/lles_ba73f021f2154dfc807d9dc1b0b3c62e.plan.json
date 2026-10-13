@@ -1,0 +1,78 @@
+{
+  "competences": [
+    "Explain the two levels of government and their different duties.",
+    "Identify local council levels and explain decentralisation."
+  ],
+  "languageCompetence": "Read, spell and write the key Social Studies terms used in this lesson.",
+  "objectives": [
+    "Give the meaning of a government.",
+    "Name the two levels of government in Uganda and give differences between them.",
+    "Name the levels of local government and explain decentralisation."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer",
+    "Observation"
+  ],
+  "materials": [
+    "P5 SST textbook",
+    "Chalkboard",
+    "Pictures of government services"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation",
+    "ALL SST Notes P 4 TO P 7 ALL Terms Excel 3",
+    "NCDC P5 Merged – Social Studies"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Explain the meaning and role of government.",
+      "learnerActivity": "Learners identify government as the ruling body of the country.",
+      "source": {
+        "source": "lchk_461170f297794aa1b58cec46e2ae28f2",
+        "quote": "A government is a ruling body of a country."
+      }
+    },
+    {
+      "stage": "Development: concepts",
+      "minutes": 10,
+      "teacherActivity": "Explain and compare central and local government.",
+      "learnerActivity": "Learners state differences in roads, hospitals and areas of authority.",
+      "source": {
+        "source": "lchk_34af8a516be44e0ba5c1a92a22a56fc8",
+        "quote": "Difference between the central government and local government."
+      }
+    },
+    {
+      "stage": "Development: details",
+      "minutes": 17,
+      "teacherActivity": "Present the local council structure and explain decentralisation.",
+      "learnerActivity": "Learners identify council levels and describe benefits of decentralisation.",
+      "source": {
+        "source": "lchk_048ba2ce490e4899bc75b49b2fa571ad",
+        "quote": "Levels of the local government"
+      }
+    },
+    {
+      "stage": "Conclusion and assessment",
+      "minutes": 8,
+      "teacherActivity": "Ask and review the exercise questions on government and decentralisation.",
+      "learnerActivity": "Learners answer and correct the sourced questions.",
+      "source": {
+        "source": "lchk_d5f7723ef7a847e493d0932c32160a75",
+        "quote": "It brings services nearer to people"
+      }
+    }
+  ],
+  "assessment": "Assess learners with the source-written questions in the exercise and check their correct answers.",
+  "homework": "Complete the source-written exercise questions.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Respect",
+    "Co-operation"
+  ]
+}

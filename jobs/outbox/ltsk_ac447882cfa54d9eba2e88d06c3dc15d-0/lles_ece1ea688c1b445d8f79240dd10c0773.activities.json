@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Mention any three instruments of power given to the president on the swearing in ceremony.",
+    "answer": "The National Constitution, the standard presidential flag and the dummy key to State House.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "president",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Mention any three instruments of power given to the president on the swearing in ceremony."
+    }
+  },
+  {
+    "question": "How does the chief justice help the president to attain leadership powers?",
+    "answer": "By swearing in the President.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "president",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "How does the chief justice help the president to attain leadership powers?"
+    }
+  },
+  {
+    "question": "What role do civil servants play in government?",
+    "answer": "They implement government programmes and perform everyday administrative work.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "civil servants",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_daea287472e2407897fac9dadc140318",
+      "quote": "What role do civil servants play in government?"
+    }
+  },
+  {
+    "question": "What title is given to the; (i) Political head of a ministry? (ii) Highest civil servant in a ministry? (iii) Highest civil servant in a district?",
+    "answer": "(i) Minister; (ii) Permanent Secretary; (iii) Chief Administrative Officer.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "civil servants",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "What title is given to the;"
+    }
+  },
+  {
+    "question": "State any three roles performed by the government.",
+    "answer": "Maintaining law and order, providing services and promoting national development.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "government",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "State any three roles performed by the government."
+    }
+  }
+]

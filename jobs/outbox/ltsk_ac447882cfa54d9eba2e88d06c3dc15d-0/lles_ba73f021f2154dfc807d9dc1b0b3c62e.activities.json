@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What name is given to a group of people who govern a country?",
+    "answer": "Government.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "government",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_461170f297794aa1b58cec46e2ae28f2",
+      "quote": "What name is given to a group of people who govern a country?"
+    }
+  },
+  {
+    "question": "Mention the two levels of the government.",
+    "answer": "Central government and local government.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "levels of government",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_461170f297794aa1b58cec46e2ae28f2",
+      "quote": "Mention the two levels of the government."
+    }
+  },
+  {
+    "question": "State any two difference between the Central government and Local government.",
+    "answer": "Central government serves the whole nation while local government serves local areas; central government maintains major roads while local government maintains feeder roads.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "levels of government",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "State any two difference between the Central government and Local government."
+    }
+  },
+  {
+    "question": "What title is given to a political head of a sub-county?",
+    "answer": "LC III Chairperson.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "local government",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "What title is given to a political head of a sub-county?"
+    }
+  },
+  {
+    "question": "Give one way a government is important to a country.",
+    "answer": "It maintains law and order.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "government",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Give one way a government is important to a country."
+    }
+  }
+]

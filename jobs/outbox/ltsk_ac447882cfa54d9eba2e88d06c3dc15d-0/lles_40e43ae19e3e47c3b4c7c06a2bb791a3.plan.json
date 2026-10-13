@@ -1,0 +1,76 @@
+{
+  "competences": [
+    "Explain roles of the President, Cabinet and ministers.",
+    "Identify civil servants and their administrative heads."
+  ],
+  "languageCompetence": "Read, spell and write the key Social Studies terms used in this lesson.",
+  "objectives": [
+    "State the roles of the president of Uganda.",
+    "Explain the work of the cabinet and ministers.",
+    "Explain who civil servants are and name the head of civil servants in a ministry and a district."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer",
+    "Description"
+  ],
+  "materials": [
+    "P5 SST textbook",
+    "Chalkboard",
+    "Chart of ministries"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Recall the components of the Executive.",
+      "learnerActivity": "Learners name the President, ministers and civil servants.",
+      "source": {
+        "source": "lchk_34af8a516be44e0ba5c1a92a22a56fc8",
+        "quote": "This organ is made up of the president, ministers and civil servants."
+      }
+    },
+    {
+      "stage": "Development: concepts",
+      "minutes": 10,
+      "teacherActivity": "Explain duties of the President and Cabinet.",
+      "learnerActivity": "Learners state responsibilities of the President and Cabinet.",
+      "source": {
+        "source": "lchk_34af8a516be44e0ba5c1a92a22a56fc8",
+        "quote": "He chairs cabinent meetings."
+      }
+    },
+    {
+      "stage": "Development: details",
+      "minutes": 17,
+      "teacherActivity": "Explain ministers and the role of ministries.",
+      "learnerActivity": "Learners distinguish Cabinet ministers and ministers of state.",
+      "source": {
+        "source": "lchk_37455fa779f74da3964836e8dbdbb4b7",
+        "quote": "Ministers are appointed by the president and approved by the parliament"
+      }
+    },
+    {
+      "stage": "Conclusion and assessment",
+      "minutes": 8,
+      "teacherActivity": "Explain civil servants and their heads; use sourced questions for assessment.",
+      "learnerActivity": "Learners identify Permanent Secretary, CAO and government employees.",
+      "source": {
+        "source": "lchk_e7f98d0c6d304e89900b913823202c8c",
+        "quote": "The head of all civil servants in the district is the Chief Administrative Officer"
+      }
+    }
+  ],
+  "assessment": "Assess learners with the source-written questions in the exercise and check their correct answers.",
+  "homework": "Complete the source-written exercise questions.",
+  "lifeSkills": [
+    "Listening",
+    "Effective communication",
+    "Respect"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "competences": [
+    "Answer source-written questions on the Executive.",
+    "Distinguish the political head of a ministry from the administrative civil service heads."
+  ],
+  "languageCompetence": "Read, spell and write the key Social Studies terms used in this lesson.",
+  "objectives": [
+    "Answer exercise questions on the Executive, the president and civil servants."
+  ],
+  "methods": [
+    "Question and answer",
+    "Discussion",
+    "Explanation",
+    "Written exercises"
+  ],
+  "materials": [
+    "P5 SST textbook",
+    "Exercise books",
+    "Chalkboard"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Review the parts of the Executive.",
+      "learnerActivity": "Learners recall President, Cabinet and civil servants.",
+      "source": {
+        "source": "lchk_37455fa779f74da3964836e8dbdbb4b7",
+        "quote": "The cabinet is made up of ministers."
+      }
+    },
+    {
+      "stage": "Development: concepts",
+      "minutes": 10,
+      "teacherActivity": "Explain the source-supported roles of the President and civil servants.",
+      "learnerActivity": "Learners distinguish political and administrative responsibilities.",
+      "source": {
+        "source": "lchk_34af8a516be44e0ba5c1a92a22a56fc8",
+        "quote": "He is the commander-in-chief of the armed forces in Uganda."
+      }
+    },
+    {
+      "stage": "Development: details",
+      "minutes": 17,
+      "teacherActivity": "Provide new source-written practice questions.",
+      "learnerActivity": "Learners answer the five questions independently.",
+      "source": {
+        "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+        "quote": "Mention any three instruments of power given to the president on the swearing in ceremony."
+      }
+    },
+    {
+      "stage": "Conclusion and assessment",
+      "minutes": 8,
+      "teacherActivity": "Discuss and mark the sourced answers.",
+      "learnerActivity": "Learners correct their written work.",
+      "source": {
+        "source": "lchk_daea287472e2407897fac9dadc140318",
+        "quote": "What role do civil servants play in government?"
+      }
+    }
+  ],
+  "assessment": "Assess learners with the source-written questions in the exercise and check their correct answers.",
+  "homework": "Complete the source-written exercise questions.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Effective communication"
+  ]
+}

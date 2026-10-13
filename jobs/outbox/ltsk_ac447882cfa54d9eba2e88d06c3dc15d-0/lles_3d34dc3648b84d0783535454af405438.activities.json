@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What name is given to the laws made by the local councils?",
+    "answer": "By-laws.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "local government",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_d5f7723ef7a847e493d0932c32160a75",
+      "quote": "What name is given to the laws made by the local councils?"
+    }
+  },
+  {
+    "question": "Mention any two decentralised sectors in Uganda.",
+    "answer": "Primary health care and primary education.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "decentralisation",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_d5f7723ef7a847e493d0932c32160a75",
+      "quote": "Mention any two decentralised sectors in Uganda."
+    }
+  },
+  {
+    "question": "State any two advantages of decentralisation.",
+    "answer": "Services are nearer to people and administration is easier.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "decentralisation",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_d5f7723ef7a847e493d0932c32160a75",
+      "quote": "State any two advantages of decentralisation."
+    }
+  },
+  {
+    "question": "Give two disadvantages of decentralization",
+    "answer": "Corruption and embezzlement of government funds.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "decentralisation",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_daea287472e2407897fac9dadc140318",
+      "quote": "Give two disadvantages of decentralization"
+    }
+  },
+  {
+    "question": "Why is the government of Uganda dividing the country into many districts?",
+    "answer": "To make administration easier and bring services nearer to people.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "local government",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_daea287472e2407897fac9dadc140318",
+      "quote": "Why is the government of Uganda dividing the country into many districts?"
+    }
+  },
+  {
+    "question": "Give two differences in the activities run by the central and local government.",
+    "answer": "Central government maintains major roads and major hospitals; local government maintains feeder roads and health centres.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "levels of government",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_daea287472e2407897fac9dadc140318",
+      "quote": "Give two differences in the activities run by the central and local government."
+    }
+  }
+]
