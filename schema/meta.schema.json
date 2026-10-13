@@ -1,0 +1,49 @@
+{
+  "$id": "meta",
+  "title": "About the answer: jobs/outbox/<job>/meta.json",
+  "type": "object",
+  "required": [
+    "job",
+    "attempt",
+    "agent",
+    "model",
+    "gaps"
+  ],
+  "properties": {
+    "job": {
+      "type": "string",
+      "maxLength": 120
+    },
+    "attempt": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 9,
+      "description": "Copy from job.json; Ledgerly only imports an answer for the current attempt"
+    },
+    "agent": {
+      "type": "string",
+      "maxLength": 80,
+      "description": "e.g. claude-code, codex, cursor"
+    },
+    "model": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "gaps": {
+      "type": "object",
+      "description": "lessonId (or 'scheme') \u2192 list of things the pack did not cover",
+      "additionalProperties": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "maxLength": 500
+        }
+      }
+    },
+    "reviewerNotes": {
+      "type": "string",
+      "maxLength": 2000
+    }
+  },
+  "additionalProperties": false
+}

@@ -5,8 +5,8 @@ of Ledgerly that prepares schemes of work, lesson notes and lesson plans for
 Ugandan schools.
 
 Ledgerly doesn't write the content itself. It **collects the resources** (the
-NCDC curriculum, notes, schemes, question papers and other e-library
-material), **publishes them here as jobs**, and lets **any AI agent** do the
+NCDC curriculum, and every EduShare resource including drafts: notes, schemes,
+question papers, workbooks and teacher guides), **publishes them here as jobs**, and lets **any AI agent** do the
 writing. When a job is done, Ledgerly pulls the answer back, checks it and
 saves it.
 
@@ -84,8 +84,8 @@ resources in the pack instead:
 |---|---|
 | Topics, subtopics, competences, order of teaching | NCDC curriculum / syllabus pages in the pack, with the reference schemes as a guide to order |
 | Note content (definitions, explanations, facts, rules, worked examples) | Notes, textbooks and teacher guides in the pack |
-| Examples | Worked examples that appear in the sources |
-| Exercise / activity questions | Exercises in notes and workbooks, **and past question papers** (BOT, MID, EOT, mock, PLE) in the pack |
+| Examples (**Mathematics, English and Reading only**) | Worked examples that appear in the sources |
+| Activities (= exercise questions; the two words mean the same thing) | Exercises in notes and workbooks, **and past question papers** (BOT, MID, EOT, mock, PLE) in the pack |
 | Answers | The source's marking guide or answer key. For maths and other computed questions, the agent may work the answer out of a *sourced* question and must mark it `"answer_origin": "worked"`. |
 | Classroom activities in plans (discussion, story, song, demonstration) | The teacher guides, schemes and methods named in the sources |
 | Diagrams | Things the sources describe or show, labelled only with parts the sources name |
@@ -106,7 +106,12 @@ What an agent **must not** do:
 - Fill a gap from memory or general knowledge.
 
 **When the pack isn't enough**, the agent writes the missing item in `gaps`
-and leaves it out. Ledgerly reads the gaps and fetches more resources (a
+and leaves it out.
+
+**Small classes (P1–P3) with thin material** get more periods per subtopic
+through **Part B lessons** (lesson kind `practice`). A Part B lesson continues the
+subtopic of the lesson before it, with *new* activities (and new examples in
+Maths, English and Reading) drawn from other sources in the pack, and still never invented. Ledgerly reads the gaps and fetches more resources (a
 re-sourcing job). A short lesson with an honest gap is always better than an
 invented one.
 
@@ -116,12 +121,13 @@ Every note section, example, activity and exercise question carries a
 `source` reference:
 
 ```json
-{ "source": "elib-0042", "page": 17, "quote": "A noun is a naming word." }
+{ "source": "lsch_9f2c1e…", "quote": "A noun is a naming word." }
 ```
 
-- `source` is the id from the pack's `sources/INDEX.md`.
-- `page` is the page or section number in that source.
-- `quote` is a short exact extract (≤ 25 words) from the source text.
+- `source` is a **passage id**. Pack sources are split into numbered passages,
+  marked `<!-- passage <id> part <n> -->` … `<!-- /passage -->`.
+- `quote` is a short exact extract (≤ 25 words) from that passage.
+- In notes, the citation is a comment: `<!-- source: <id> "<quote>" -->`.
 
 The checker looks up every `quote` in the pack's source text. **If a quote
 can't be found, the item is rejected as invented.**
@@ -176,9 +182,9 @@ library/<school>/2026-T3/P6/mathematics/
     INDEX.md      every source: id, title, kind (curriculum / notes / scheme /
                   past paper / workbook / teacher guide), provider (NCDC /
                   e-library), year, pages used, why it was picked
-    ncdc-0007.md  extracted text, with page markers  <!-- page 12 -->
-    elib-0042.md
-    paper-0013.md (a past question paper, with its marking guide if there is one)
+    <source-id>.md  the source's text, split into passages:
+                    <!-- passage lsch_… part 3 --> … <!-- /passage -->
+                    (past papers include their marking guide when there is one)
   figures/        diagrams already made for this scheme
   lessons/        finished, approved lessons (read-only history), so later
                   weeks stay consistent with earlier ones and never repeat
@@ -196,8 +202,10 @@ Each job is a folder in `jobs/inbox/`:
 
 ```
 jobs/inbox/<job-id>/
-  job.json      what to do and where the pack is
-  prompt.md     the full instructions for this job (the authority on what to produce)
+  job.json      what to do, where the pack is, the allowed passages, status and attempt
+  prompt.md     the full instructions for this job (what to produce; the answer FORMAT is
+                always the folder format below, whatever prompt.md says about JSON)
+  passages.md   extra passages for this job that aren't in the pack (optional)
   example/      one approved lesson of the same class and subject, if one exists:
                 the standard to match
 ```
@@ -213,8 +221,14 @@ jobs/inbox/<job-id>/
   "subject": "Mathematics",
   "term": "2026-T3",
   "week": 4,
-  "lessons": ["w04-l1", "w04-l2", "w04-l3", "w04-l4", "w04-l5"],
-  "pack": "library/sch-01/2026-T3/P6/mathematics/",
+  "classLevel": 6,
+  "lessons": [
+    { "id": "lles_3f…", "title": "Adding fractions", "subtopic": "Same denominator",
+      "kind": "teach", "week": 4, "periods": 1 }
+  ],
+  "pack": "library/sch-01/2026-T3/P6/mathematics",
+  "passages": ["lsch_9f2c1e…", "lsch_77ab01…"],
+  "status": "open",
   "attempt": 1,
   "priority": 40,
   "created": "2026-10-12T15:00:00Z"
@@ -242,14 +256,13 @@ on GitHub, and strict enough to check.
 
 ```
 jobs/outbox/<job-id>/
-  meta.json                   agent name + model, sources used, gaps, notes for the reviewer
-  w04-l1.notes.md             chalkboard notes
-  w04-l1.plan.json            lesson plan
-  w04-l1.activities.json      exercise / activity questions with answers
-  figures/<key>.json          a coded-figure spec or an illustration request
-  figures/<key>.svg           a simple schematic drawn by the agent
-  w04-l2.notes.md
-  …
+  meta.json                      job, attempt, agent, model, gaps, notes for the reviewer
+  <lessonId>.notes.md            chalkboard notes
+  <lessonId>.plan.json           lesson plan
+  <lessonId>.activities.json     activities (exercise questions) with answers
+  figures/<key>.json             a coded-figure spec or an illustration request
+  figures/<key>.svg              a simple schematic drawn by the agent
+  (one notes/plan/activities set per lesson id in job.json)
 ```
 
 **Notes (`*.notes.md`)** are what learners copy from the chalkboard, nothing else:
@@ -260,16 +273,16 @@ jobs/outbox/<job-id>/
 
 ### Rule
 When the denominators are the same, add the numerators and keep the denominator.
-<!-- source: elib-0042 p.31 "add the numerators and keep the denominator" -->
+<!-- source: lsch_9f2c1e "add the numerators and keep the denominator" -->
 
 ### Example
 $\frac{1}{5} + \frac{2}{5} = \frac{3}{5}$
-<!-- source: elib-0042 p.31 "1/5 + 2/5 = 3/5" -->
+<!-- source: lsch_9f2c1e "1/5 + 2/5 = 3/5" -->
 
 [[diagram:fraction-bars-3-5]]
 
 ### Exercise
-1. $\frac{2}{7} + \frac{3}{7}$   <!-- source: paper-0013 q.4 "2/7 + 3/7" -->
+1. $\frac{2}{7} + \frac{3}{7}$   <!-- source: lsch_77ab01 "2/7 + 3/7" -->
 2. …
 ```
 
@@ -303,12 +316,12 @@ The notes never wait for a picture. There are three kinds:
 1. **Coded figures.** The agent writes a small spec and Ledgerly draws it with
    code, so it's exact, free and identical whichever agent wrote it.
    Supported: shapes, fractions, number lines, clocks, the Uganda map, bar charts.
-   Planned: column addition and subtraction, long division, tally tables,
-   angles, Venn diagrams, line graphs.
+   Also: column addition/subtraction/multiplication, long division, angles,
+   Venn diagrams (full list: `tools/coded-figures.md`).
    ```json
    { "key": "fraction-bars-3-5", "method": "coded",
      "coded": { "type": "fraction", "shape": "bar", "numerator": 3, "denominator": 5 },
-     "source": "elib-0042", "page": 31 }
+     "source": { "source": "lsch_77ab01", "quote": "shading three parts out of five" } }
    ```
 2. **SVG schematics.** The agent draws simple labelled outlines (water cycle,
    parts of a plant) as `figures/<key>.svg`. They must be black and white,
@@ -392,7 +405,7 @@ Remember:
 | Path | Written by |
 |---|---|
 | `library/`, `jobs/inbox/`, `jobs/feedback/`, `jobs/done/`, `figures/library/` | Ledgerly only |
-| `jobs/outbox/` | Agents only |
+| `jobs/outbox/`, `jobs/claims/` | Agents only (Ledgerly moves an answer to `jobs/done/` once it is accepted) |
 | `README.md`, `AGENT.md`, `schema/`, `tools/`, `.github/` | Maintainers |
 
 Because the two sides never write the same files, syncs never conflict.
@@ -422,7 +435,7 @@ them. Once the agents have proved reliable, approval can switch to automatic.
 
 | Step | | |
 |---|---|---|
-| 1 | README, AGENT.md, schemas, check.py, CI | in progress |
+| 1 | README, AGENT.md, schemas, check.py (+ self-test), next.py, CI | done |
 | 2 | Ledgerly "git" provider + exporter (jobs and packs pushed here) | planned |
 | 3 | Importer, feedback and review flow | planned |
 | 4 | New coded figures + KaTeX rendering | planned |

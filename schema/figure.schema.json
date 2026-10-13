@@ -1,0 +1,18 @@
+{
+  "$id": "figure",
+  "title": "A picture for a lesson: jobs/outbox/<job>/figures/<key>.json (+ <key>.svg when method is svg)",
+  "type": "object",
+  "required": ["key", "lesson", "title", "method", "parts", "source"],
+  "properties": {
+    "key": { "type": "string", "pattern": "^[a-z0-9-]{1,40}$" },
+    "lesson": { "type": "string", "description": "The lesson id whose notes contain [[diagram:<key>]]" },
+    "title": { "type": "string", "minLength": 1, "maxLength": 200 },
+    "caption": { "type": "string", "maxLength": 500 },
+    "method": { "enum": ["coded", "svg", "illustration"] },
+    "concept": { "type": "string", "maxLength": 300, "description": "For illustrations: what to draw, e.g. 'external parts of a domestic fowl'" },
+    "parts": { "type": "array", "maxItems": 20, "items": { "type": "string", "minLength": 1, "maxLength": 80 }, "description": "Labels; only parts the source names" },
+    "coded": { "type": "object", "description": "For coded figures: see tools/coded-figures.md" },
+    "source": { "$ref": "cite" }
+  },
+  "additionalProperties": false
+}

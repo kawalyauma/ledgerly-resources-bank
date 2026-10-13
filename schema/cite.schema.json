@@ -1,0 +1,11 @@
+{
+  "$id": "cite",
+  "title": "A citation: which passage of the pack it came from, with an exact quote",
+  "type": "object",
+  "required": ["source", "quote"],
+  "properties": {
+    "source": { "type": "string", "minLength": 3, "maxLength": 80, "description": "Passage id from the pack, e.g. lsch_ab12…" },
+    "quote": { "type": "string", "minLength": 3, "maxLength": 300, "description": "Exact words copied from that passage (25 words or fewer)" }
+  },
+  "additionalProperties": false
+}

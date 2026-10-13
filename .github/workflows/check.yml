@@ -1,0 +1,27 @@
+name: check answers
+
+on:
+  push:
+    paths: ["jobs/outbox/**"]
+  pull_request:
+    paths: ["jobs/outbox/**"]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check the answers changed in this push
+        run: |
+          jobs=$(git diff --name-only HEAD~1 HEAD -- jobs/outbox | cut -d/ -f3 | sort -u)
+          [ -z "$jobs" ] && { echo "No answers changed."; exit 0; }
+          status=0
+          for job in $jobs; do
+            if [ -d "jobs/outbox/$job" ]; then python3 tools/check.py "$job" || status=1; fi
+          done
+          exit $status

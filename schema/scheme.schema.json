@@ -1,0 +1,45 @@
+{
+  "$id": "scheme",
+  "title": "scheme.outline answer: jobs/outbox/<job>/scheme.json",
+  "type": "object",
+  "required": ["units", "gaps"],
+  "properties": {
+    "title": { "type": "string", "maxLength": 300 },
+    "summary": { "type": "string", "maxLength": 3000 },
+    "units": {
+      "type": "array", "minItems": 1, "maxItems": 40,
+      "items": {
+        "type": "object",
+        "required": ["title", "weekFrom", "weekTo", "sources", "lessons"],
+        "properties": {
+          "title": { "type": "string", "minLength": 1, "maxLength": 300 },
+          "theme": { "type": "string", "maxLength": 300 },
+          "weekFrom": { "type": "integer", "minimum": 1, "maximum": 20 },
+          "weekTo": { "type": "integer", "minimum": 1, "maximum": 20 },
+          "competences": { "type": "string", "maxLength": 3000 },
+          "sources": { "type": "array", "minItems": 1, "items": { "$ref": "cite" } },
+          "lessons": {
+            "type": "array", "minItems": 1, "maxItems": 60,
+            "items": {
+              "type": "object",
+              "required": ["title", "week", "kind", "objectives", "sources"],
+              "properties": {
+                "title": { "type": "string", "minLength": 1, "maxLength": 300 },
+                "subtopic": { "type": "string", "maxLength": 300 },
+                "week": { "type": "integer", "minimum": 1, "maximum": 20 },
+                "periods": { "type": "integer", "minimum": 1, "maximum": 1, "description": "Always 1: one lesson is one 40-minute period" },
+                "kind": { "enum": ["teach", "practice"], "description": "practice = a Part B lesson: the same subtopic continued with new sourced activities (and examples in Maths/English/Reading)" },
+                "objectives": { "type": "array", "minItems": 1, "maxItems": 10, "items": { "type": "string", "maxLength": 500 } },
+                "sources": { "type": "array", "minItems": 1, "items": { "$ref": "cite" } }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "gaps": { "type": "array", "maxItems": 20, "items": { "type": "string", "maxLength": 500 } }
+  },
+  "additionalProperties": false
+}
