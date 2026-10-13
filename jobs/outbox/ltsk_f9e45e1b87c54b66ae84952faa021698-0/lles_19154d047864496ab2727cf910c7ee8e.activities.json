@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Name the body that is responsible for conducting a national census in Uganda.",
+    "answer": "Uganda Bureau of Statistics.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "census",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Name the body that is responsible for conducting a national census in Uganda."
+    }
+  },
+  {
+    "question": "Mention any three types of information that is collected by enumerators during the census.",
+    "answer": "Age, sex and education level.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "census",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Mention any three types of information that is collected by enumerators during the"
+    }
+  },
+  {
+    "question": "Which ministry is responsible for conducting a national census in Uganda?",
+    "answer": "Ministry of Finance, Planning and Economic Development.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "census",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Which ministry is responsible for conducting a national census in Uganda?"
+    }
+  },
+  {
+    "question": "Give any one reason why a national census in Uganda is conducted after ten years.",
+    "answer": "It is too costly to conduct every year.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "census",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Give any one reason why a national census in Uganda is conducted after ten years."
+    }
+  },
+  {
+    "question": "State any three problems the government faces when conducting a national population census.",
+    "answer": "Shortage of funds, poor transport and insecurity.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "census",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "State any three problems the government faces when conducting a national population census."
+    }
+  }
+]

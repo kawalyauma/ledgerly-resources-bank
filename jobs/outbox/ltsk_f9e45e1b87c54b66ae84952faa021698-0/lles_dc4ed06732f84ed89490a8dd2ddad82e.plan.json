@@ -1,0 +1,72 @@
+{
+  "competences": [
+    "Answer source-written exercises on population growth and community effects"
+  ],
+  "languageCompetence": "Spell and correctly use words in the current Social Studies topic.",
+  "objectives": [
+    "Answer source-written exercises on population growth and community effects"
+  ],
+  "methods": [
+    "Written exercises",
+    "Question and answer",
+    "Discussion"
+  ],
+  "materials": [
+    "P5 SST textbook",
+    "Chalkboard",
+    "Exercise books"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Introduce and explain the meaning of the main topic.",
+      "learnerActivity": "Learners recall and explain the main terms.",
+      "source": {
+        "source": "lchk_7a1ed5b5dbc944c492df0f69916cee4b",
+        "quote": "Problems of population growth"
+      }
+    },
+    {
+      "stage": "Development: concepts",
+      "minutes": 12,
+      "teacherActivity": "Explain the next source-supported ideas and key terms.",
+      "learnerActivity": "Learners give source-supported details and comparisons.",
+      "source": {
+        "source": "lchk_7a1ed5b5dbc944c492df0f69916cee4b",
+        "quote": "Problems of population growth"
+      }
+    },
+    {
+      "stage": "Development: practice",
+      "minutes": 15,
+      "teacherActivity": "Guide understanding of the remaining source points and use the exercise questions.",
+      "learnerActivity": "Learners answer written questions and identify key facts.",
+      "source": {
+        "source": "lchk_7a1ed5b5dbc944c492df0f69916cee4b",
+        "quote": "Problems of population growth"
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Review the source-written exercise and correct errors.",
+      "learnerActivity": "Learners correct their written work.",
+      "source": {
+        "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+        "quote": "Give advantages of a low population to a country."
+      }
+    }
+  ],
+  "assessment": "Mark the source-written exercise questions.",
+  "homework": "Complete any unanswered sourced exercise items.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Listening",
+    "Communication"
+  ]
+}

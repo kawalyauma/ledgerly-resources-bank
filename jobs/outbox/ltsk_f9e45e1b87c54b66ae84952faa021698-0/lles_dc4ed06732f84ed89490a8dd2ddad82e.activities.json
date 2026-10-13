@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Give advantages of a low population to a country.",
+    "answer": "Less pressure on land and public services.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Give advantages of a low population to a country."
+    }
+  },
+  {
+    "question": "How can the government of Uganda deal with its fast growing population?",
+    "answer": "Encourage family planning and discourage early marriages.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+      "quote": "How can the government of Uganda deal with its fast growing population?"
+    }
+  },
+  {
+    "question": "Give two benefits of a small family size.",
+    "answer": "It is easier to provide basic needs and educate children.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+      "quote": "Give two benefits of a small family size."
+    }
+  },
+  {
+    "question": "Mention any three natural disasters that may lead to the reduction in the number of people in an area.",
+    "answer": "Drought, epidemic diseases and volcanic eruptions.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Mention any three natural disasters that may lead to the reduction in the number of"
+    }
+  },
+  {
+    "question": "Write down; a) The causes of large families. b) The dangers of large families.",
+    "answer": "High fertility and early marriage may increase family size; pressure on land and services can result.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_89377846af3241ba84ea0652b03431af",
+      "quote": "Write down;"
+    }
+  }
+]

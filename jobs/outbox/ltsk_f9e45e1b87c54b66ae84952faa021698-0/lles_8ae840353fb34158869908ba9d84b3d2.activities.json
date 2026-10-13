@@ -1,0 +1,72 @@
+[
+  {
+    "question": "State any two advantages of a high population in an area.",
+    "answer": "More workers and a larger market for goods.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+      "quote": "State any two advantages of a high population in an area."
+    }
+  },
+  {
+    "question": "Mention any two problems an area is likely to face as a result of having a large population.",
+    "answer": "Unemployment and insufficient social services.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+      "quote": "Mention any two problems an area is likely to face as a result of having a large population."
+    }
+  },
+  {
+    "question": "Give any two economic benefits of a large population to the development of a country.",
+    "answer": "More labour and a larger market.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Give any two economic benefits of a large population to the development of a country."
+    }
+  },
+  {
+    "question": "Mention any three natural disasters that may lead to the reduction in the number of people in an area.",
+    "answer": "Earthquakes, epidemic diseases and drought.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Mention any three natural disasters that may lead to the reduction in the number of"
+    }
+  },
+  {
+    "question": "Identify two dangers of a fast growing population to a country like Uganda.",
+    "answer": "Land shortage and unemployment.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Identify two dangers of a fast growing population to a country like Uganda."
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "question": "After how long is population census carried out in Uganda?",
+    "answer": "After ten years, according to the P5 source notes.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "census",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_89377846af3241ba84ea0652b03431af",
+      "quote": "After how long is population census carried out in Uganda?"
+    }
+  },
+  {
+    "question": "State any three reasons why the government counts people.",
+    "answer": "To know the population total, plan services and determine population structure.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "census",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_89377846af3241ba84ea0652b03431af",
+      "quote": "State any three reasons why the government counts people."
+    }
+  },
+  {
+    "question": "Identify problems faced during population census.",
+    "answer": "Bad weather, poor transport and inaccurate information.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "census",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_89377846af3241ba84ea0652b03431af",
+      "quote": "Identify problems faced during population census."
+    }
+  },
+  {
+    "question": "Write short notes on the following terms a) Census night b) Enumerators",
+    "answer": "Census night is the night before census; enumerators collect population information.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "census",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Write short notes on the following terms"
+    }
+  },
+  {
+    "question": "Give the difference between population census and national population census.",
+    "answer": "Population census counts people in an area; national census counts people in the country.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "census",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Give the difference between population census and national population census."
+    }
+  }
+]

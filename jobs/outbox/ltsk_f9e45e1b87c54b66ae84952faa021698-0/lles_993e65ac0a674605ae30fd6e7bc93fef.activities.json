@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Give the meaning of each of the following; (i) Population (ii) Population growth",
+    "answer": "Population is the number in an area; population growth is the increase in that number.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+      "quote": "Give the meaning of each of the following;"
+    }
+  },
+  {
+    "question": "Give any three causes of high population growth in Uganda.",
+    "answer": "High fertility, early marriage and improved medical services.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+      "quote": "Give any three causes of high population growth in Uganda."
+    }
+  },
+  {
+    "question": "What is population growth?",
+    "answer": "An increase in the number of people living in an area.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_89377846af3241ba84ea0652b03431af",
+      "quote": "What is population growth?"
+    }
+  },
+  {
+    "question": "Write down; a) The causes of large families. b) The dangers of large families.",
+    "answer": "High fertility and early marriages can cause large families; land shortage and inadequate services can result.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_89377846af3241ba84ea0652b03431af",
+      "quote": "Write down;"
+    }
+  },
+  {
+    "question": "State any three ways in which government of Uganda can control popu- lation growth.",
+    "answer": "Promote family planning and girls' education and discourage early marriages.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_89377846af3241ba84ea0652b03431af",
+      "quote": "State any three ways in which government of Uganda can control popu-"
+    }
+  }
+]
