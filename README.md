@@ -437,7 +437,7 @@ them. Once the agents have proved reliable, approval can switch to automatic.
 | Step | | |
 |---|---|---|
 | 1 | README, AGENT.md, schemas, check.py (+ self-test), next.py, CI | done |
-| 2 | Ledgerly "git" provider + exporter (jobs and packs pushed here) | planned |
-| 3 | Importer, feedback and review flow | planned |
-| 4 | New coded figures + KaTeX rendering | planned |
-| 5 | Dashboard panel: jobs waiting / done / rejected, Sync now, Stop | planned |
+| 2 | Ledgerly "git" provider + exporter (jobs and packs pushed here) | done (deployed 2026-10-13; waiting for the deploy key) |
+| 3 | Importer, feedback, attempts, archive to `jobs/done` | done |
+| 4 | New coded figures (column sums, long division, angles, Venn) + maths in print/Word/app | done |
+| 5 | App panel (Ledgerly Academics 2.5.0): Resources bank writer, jobs waiting / answered, Sync now | done |
