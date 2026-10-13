@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Write short notes on the people below. a) Stephen Akabway b) Hon. James Wapakhabulo",
+    "answer": "Stephen Akabway chaired the Interim Electoral Commission; James Wapakhabulo chaired the Constituent Assembly.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "constitution-making",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_8565a70475344911b9db098cef933069",
+      "quote": "Write short notes on the people below."
+    }
+  },
+  {
+    "question": "Why is 8 th October 1995 politically important?",
+    "answer": "It was the day the 1995 Constitution was promulgated.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "constitution",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_8565a70475344911b9db098cef933069",
+      "quote": "Why is 8 th October 1995 politically important?"
+    }
+  },
+  {
+    "question": "Write CADs in full.",
+    "answer": "Constituent Assembly Delegates.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "constitution-making",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_8565a70475344911b9db098cef933069",
+      "quote": "Write CADs in full."
+    }
+  },
+  {
+    "question": "What contribution was made by the constituent Assembly in 1994?",
+    "answer": "It debated and finalised the 1995 Constitution.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "constitution-making",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_8565a70475344911b9db098cef933069",
+      "quote": "What contribution was made by the constituent Assembly in 1994?"
+    }
+  },
+  {
+    "question": "Why is a constitution important in a democratic country like Uganda?",
+    "answer": "It protects rights, supports democracy and peaceful changes in leadership.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "constitution",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_8565a70475344911b9db098cef933069",
+      "quote": "Why is a constitution important in a democratic country like Uganda?"
+    }
+  }
+]

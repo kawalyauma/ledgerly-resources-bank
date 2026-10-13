@@ -1,0 +1,77 @@
+{
+  "competences": [
+    "Give the meaning of communication and mass media.",
+    "Name traditional and modern ways of communication.",
+    "State the importance of communication, barriers to communication and their solutions."
+  ],
+  "languageCompetence": "Read, spell and use important words relating to the topic in correct sentences.",
+  "objectives": [
+    "Give the meaning of communication and mass media.",
+    "Name traditional and modern ways of communication.",
+    "State the importance of communication, barriers to communication and their solutions."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer",
+    "Observation"
+  ],
+  "materials": [
+    "Radio",
+    "Pictures of communication devices",
+    "Chalkboard"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "Primary Five Social Studies Notes 2020"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Explain communication and mass media using the definitions in the notes.",
+      "learnerActivity": "Learners state both meanings.",
+      "source": {
+        "source": "lchk_3b379eae4956473980abd2ec5698fb8d",
+        "quote": "Mass media is the sending of messages to many people at the same time."
+      }
+    },
+    {
+      "stage": "Development: means",
+      "minutes": 12,
+      "teacherActivity": "Identify traditional and modern means of communication.",
+      "learnerActivity": "Learners name examples of both kinds.",
+      "source": {
+        "source": "lchk_3b379eae4956473980abd2ec5698fb8d",
+        "quote": "Traditional ways of communication."
+      }
+    },
+    {
+      "stage": "Development: importance",
+      "minutes": 15,
+      "teacherActivity": "Discuss trade, unity, barriers to communication and solutions.",
+      "learnerActivity": "Learners state benefits, challenges and suggested solutions.",
+      "source": {
+        "source": "lchk_3b379eae4956473980abd2ec5698fb8d",
+        "quote": "Barriers to effective communication in Uganda."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Ask the sourced exercise questions.",
+      "learnerActivity": "Learners complete and check four source-supported questions.",
+      "source": {
+        "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+        "quote": "Give the meaning of Mass media."
+      }
+    }
+  ],
+  "assessment": "Assess the lesson using the exact source-written exercise questions.",
+  "homework": "Complete the source-written exercise questions.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Listening",
+    "Co-operation"
+  ]
+}

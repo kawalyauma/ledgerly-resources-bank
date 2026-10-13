@@ -1,0 +1,72 @@
+[
+  {
+    "question": "State any three roles performed by the government.",
+    "answer": "Maintaining law and order, defending the country and providing social services.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "government",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "State any three roles performed by the government."
+    }
+  },
+  {
+    "question": "State any three problems the government faces when performing iots duties.",
+    "answer": "Shortage of funds, corruption and insecurity.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "government",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "State any three problems the government faces when performing iots duties."
+    }
+  },
+  {
+    "question": "Name the government ministry that is responsible for fighting againsty corruptio n in the country.",
+    "answer": "Ministry of Ethics and Integrity.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "government",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Name the government ministry that is responsible for fighting againsty corruptio n in the country."
+    }
+  },
+  {
+    "question": "What are Social services?",
+    "answer": "Activities that improve people's ways of living.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "social services",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "What are Social services?"
+    }
+  },
+  {
+    "question": "Mention any three social services provided by the government to its citizens.",
+    "answer": "Education, water and transport services.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "social services",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Mention any three social services provided by the government to its citizens."
+    }
+  }
+]

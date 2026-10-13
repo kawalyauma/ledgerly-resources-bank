@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Give the meaning of Mass media.",
+    "answer": "Sending messages to many people at the same time.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "communication",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Give the meaning of Mass media."
+    }
+  },
+  {
+    "question": "Name the body that is responsible for regulatinmg media services in Uganda.",
+    "answer": "Uganda Communications Commission.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "communication",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Name the body that is responsible for regulatinmg media services in Uganda."
+    }
+  },
+  {
+    "question": "State any two challenges hindering effective communication in Uganda.",
+    "answer": "Illiteracy and poor network coverage.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "communication",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "State any two challenges hindering effective communication in Uganda."
+    }
+  },
+  {
+    "question": "How does communication promote trade in an area?",
+    "answer": "It allows sellers and buyers to share messages and information.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "communication",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "How does communication promote trade in an area?"
+    }
+  }
+]

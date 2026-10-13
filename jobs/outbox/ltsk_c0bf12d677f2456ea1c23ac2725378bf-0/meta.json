@@ -1,0 +1,12 @@
+{
+  "job": "ltsk_c0bf12d677f2456ea1c23ac2725378bf-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "lles_80fbb03bed604c68980bb6fad198d9fd": [
+      "Only four directly relevant written communication questions were found in the supplied exercise passage; no fifth question was invented."
+    ]
+  },
+  "reviewerNotes": "Week 3, five P5 Social Studies lessons. Each 40 minutes. Constitution facts describe historical events, using no uncited officeholder names. Questions sourced from the library."
+}

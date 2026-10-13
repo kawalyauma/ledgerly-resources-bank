@@ -1,0 +1,77 @@
+{
+  "competences": [
+    "Give the meaning of a constitution and of by-laws.",
+    "Name the constitutions Uganda has had since independence.",
+    "State the results of the 1967 constitution."
+  ],
+  "languageCompetence": "Read, spell and use important words relating to the topic in correct sentences.",
+  "objectives": [
+    "Give the meaning of a constitution and of by-laws.",
+    "Name the constitutions Uganda has had since independence.",
+    "State the results of the 1967 constitution."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer",
+    "Description"
+  ],
+  "materials": [
+    "P5 SST textbook",
+    "School rules",
+    "Chalkboard"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Explain constitution using the example of rules at home and school from the study notes.",
+      "learnerActivity": "Learners recall that rules govern communities.",
+      "source": {
+        "source": "lchk_eca2cbe9906942cfad946678f2edb234",
+        "quote": "Do you have some rules at home that were set by your parents?"
+      }
+    },
+    {
+      "stage": "Development: definitions",
+      "minutes": 10,
+      "teacherActivity": "Define a constitution and by-laws, contrasting national and local laws.",
+      "learnerActivity": "Learners state the two meanings.",
+      "source": {
+        "source": "lchk_8a680c4609a6447b92e605b85f85d3a9",
+        "quote": "By-laws are laws that are made by the local government."
+      }
+    },
+    {
+      "stage": "Development: chronology",
+      "minutes": 17,
+      "teacherActivity": "Explain the four constitutions and the changes brought by the 1967 Constitution.",
+      "learnerActivity": "Learners identify constitutions and state effects of the 1967 Constitution.",
+      "source": {
+        "source": "lchk_8a680c4609a6447b92e605b85f85d3a9",
+        "quote": "Results of the 1967 constitution."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Assess the sourced exercise questions.",
+      "learnerActivity": "Learners write answers and make corrections.",
+      "source": {
+        "source": "lchk_8565a70475344911b9db098cef933069",
+        "quote": "Write down any two constitutions that Uganda has had since independence."
+      }
+    }
+  ],
+  "assessment": "Assess the lesson using the exact source-written exercise questions.",
+  "homework": "Complete the source-written exercise questions.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Listening",
+    "Co-operation"
+  ]
+}

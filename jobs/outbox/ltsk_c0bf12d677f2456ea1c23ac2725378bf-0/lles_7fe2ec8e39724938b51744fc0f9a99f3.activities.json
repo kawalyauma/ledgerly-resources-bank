@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is a national constitution",
+    "answer": "The supreme set of laws used to govern a country.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "constitution",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_8565a70475344911b9db098cef933069",
+      "quote": "What is a national constitution"
+    }
+  },
+  {
+    "question": "Write down any two constitutions that Uganda has had since independence.",
+    "answer": "The 1962 and 1995 constitutions.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "constitutions",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_8565a70475344911b9db098cef933069",
+      "quote": "Write down any two constitutions that Uganda has had since independence."
+    }
+  },
+  {
+    "question": "What contribution was made by Godfrey Lukongwa Binaisa and Kofi Crable in 1967?",
+    "answer": "They helped draft the 1967 Constitution.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "constitutions",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_8565a70475344911b9db098cef933069",
+      "quote": "What contribution was made by Godfrey Lukongwa Binaisa and Kofi Crable in 1967?"
+    }
+  },
+  {
+    "question": "Mention the way, the 1967 constitution was unfriendly to the kingdoms in Uganda.",
+    "answer": "It abolished the kingdoms.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "constitutions",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_8565a70475344911b9db098cef933069",
+      "quote": "Mention the way, the 1967 constitution was unfriendly to the kingdoms in Uganda."
+    }
+  },
+  {
+    "question": "Give the meaning of each of the following; (i) A constitution (ii) By-laws",
+    "answer": "A constitution is a country's highest set of laws; by-laws are laws made by local government.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "constitution",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Give the meaning of each of the following;"
+    }
+  }
+]

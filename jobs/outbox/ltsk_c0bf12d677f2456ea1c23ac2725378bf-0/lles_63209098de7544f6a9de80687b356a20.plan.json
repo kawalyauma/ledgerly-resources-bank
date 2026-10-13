@@ -1,0 +1,77 @@
+{
+  "competences": [
+    "Name the people who took part in making the 1995 constitution and their roles.",
+    "State the functions and importance of a constitution.",
+    "Explain the relationship between the constitution and elections."
+  ],
+  "languageCompetence": "Read, spell and use important words relating to the topic in correct sentences.",
+  "objectives": [
+    "Name the people who took part in making the 1995 constitution and their roles.",
+    "State the functions and importance of a constitution.",
+    "Explain the relationship between the constitution and elections."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer",
+    "Reading"
+  ],
+  "materials": [
+    "P5 SST textbook",
+    "Chalkboard"
+  ],
+  "references": [
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation",
+    "P.5 Social Studies Lesson Notes Term 3",
+    "Excel P 5 SST Term III"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Review the historical constitutions taught in the previous period.",
+      "learnerActivity": "Learners recall the 1995 Constitution.",
+      "source": {
+        "source": "lchk_8a680c4609a6447b92e605b85f85d3a9",
+        "quote": "The 1995 constitution."
+      }
+    },
+    {
+      "stage": "Development: history",
+      "minutes": 14,
+      "teacherActivity": "Describe citizens' views, the commission and Constituent Assembly roles.",
+      "learnerActivity": "Learners identify historical participants and what they did.",
+      "source": {
+        "source": "lchk_8565a70475344911b9db098cef933069",
+        "quote": "The Constituent Assembly debated and finalized the 1995 constitution."
+      }
+    },
+    {
+      "stage": "Development: importance",
+      "minutes": 13,
+      "teacherActivity": "Explain constitutional functions and relationships with elections.",
+      "learnerActivity": "Learners state functions and the rules governing elections.",
+      "source": {
+        "source": "lchk_3b379eae4956473980abd2ec5698fb8d",
+        "quote": "Relationships between the constitution and elections."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Ask sourced activity questions on the people and the date.",
+      "learnerActivity": "Learners complete written responses.",
+      "source": {
+        "source": "lchk_8565a70475344911b9db098cef933069",
+        "quote": "Why is 8 th October 1995 politically important?"
+      }
+    }
+  ],
+  "assessment": "Assess the lesson using the exact source-written exercise questions.",
+  "homework": "Complete the source-written exercise questions.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Listening",
+    "Co-operation"
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which constitution made Uganda become a republic?",
+    "answer": "The 1967 Constitution.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "constitutions",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Which constitution made Uganda become a republic?"
+    }
+  },
+  {
+    "question": "How did the 1967 constitution affect cultural institutions in Uganda?",
+    "answer": "It abolished the kingdoms.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "constitutions",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "How did the 1967 constitution affect cultural institutions in Uganda?"
+    }
+  },
+  {
+    "question": "Why is 8 th October, 1995 remembered in the history of Uganda?",
+    "answer": "The 1995 Constitution was publicly launched.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "constitution",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Why is 8 th October, 1995 remembered in the history of Uganda?"
+    }
+  },
+  {
+    "question": "State any two ways a national constitution is important to acountry.",
+    "answer": "It protects citizens' rights and encourages peaceful change of leadership.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "constitution",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "State any two ways a national constitution is important to acountry."
+    }
+  },
+  {
+    "question": "Qn: Why was pigeon hole constitutioncalled so?",
+    "answer": "Members of Parliament found copies in their pigeonholes.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "constitutions",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_89c044d3c4f84b318aeb406e2e551d37",
+      "quote": "Qn: Why was pigeon hole constitutioncalled so?"
+    }
+  },
+  {
+    "question": "Qn: Who head the constitutional review commission?",
+    "answer": "Justice Benjamin Odoki.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "constitution-making",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_89c044d3c4f84b318aeb406e2e551d37",
+      "quote": "Qn: Who head the constitutional review commission?"
+    }
+  }
+]

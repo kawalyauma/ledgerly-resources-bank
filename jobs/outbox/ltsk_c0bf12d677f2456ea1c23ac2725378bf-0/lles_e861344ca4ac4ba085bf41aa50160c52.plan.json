@@ -1,0 +1,72 @@
+{
+  "competences": [
+    "Answer exercise questions on the constitution."
+  ],
+  "languageCompetence": "Read, spell and use important words relating to the topic in correct sentences.",
+  "objectives": [
+    "Answer exercise questions on the constitution."
+  ],
+  "methods": [
+    "Question and answer",
+    "Discussion",
+    "Written exercises"
+  ],
+  "materials": [
+    "P5 SST textbook",
+    "Exercise books",
+    "Chalkboard"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "Primary Five Social Studies Notes 2020"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Review constitutional definitions and historical dates.",
+      "learnerActivity": "Learners recall important points from earlier lessons.",
+      "source": {
+        "source": "lchk_8a680c4609a6447b92e605b85f85d3a9",
+        "quote": "THE NATIONAL CONSTITUTION."
+      }
+    },
+    {
+      "stage": "Development: recall",
+      "minutes": 9,
+      "teacherActivity": "Explain the differences among the constitutions and why laws matter.",
+      "learnerActivity": "Learners recall the 1966, 1967 and 1995 constitutions.",
+      "source": {
+        "source": "lchk_89c044d3c4f84b318aeb406e2e551d37",
+        "quote": "Constitutional development in Uganda since independence"
+      }
+    },
+    {
+      "stage": "Development: exercises",
+      "minutes": 18,
+      "teacherActivity": "Give the questions from the alternative test and notes.",
+      "learnerActivity": "Learners answer the six sourced exercise questions.",
+      "source": {
+        "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+        "quote": "Which constitution made Uganda become a republic?"
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Review and correct the written answers with source notes.",
+      "learnerActivity": "Learners check their work and correct errors.",
+      "source": {
+        "source": "lchk_89c044d3c4f84b318aeb406e2e551d37",
+        "quote": "Qn: Why was pigeon hole constitutioncalled so?"
+      }
+    }
+  ],
+  "assessment": "Assess the lesson using the exact source-written exercise questions.",
+  "homework": "Complete the source-written exercise questions.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Listening",
+    "Co-operation"
+  ]
+}

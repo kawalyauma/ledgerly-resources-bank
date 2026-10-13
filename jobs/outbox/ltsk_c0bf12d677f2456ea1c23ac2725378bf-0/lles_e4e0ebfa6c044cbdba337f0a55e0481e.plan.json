@@ -1,0 +1,77 @@
+{
+  "competences": [
+    "State the duties of the government to its citizens.",
+    "Explain what social services are and name those the government provides.",
+    "State problems the government faces when providing social services and their solutions."
+  ],
+  "languageCompetence": "Read, spell and use important words relating to the topic in correct sentences.",
+  "objectives": [
+    "State the duties of the government to its citizens.",
+    "Explain what social services are and name those the government provides.",
+    "State problems the government faces when providing social services and their solutions."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer",
+    "Description"
+  ],
+  "materials": [
+    "Pictures of schools and health centres",
+    "P5 SST textbook",
+    "Chalkboard"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "NCDC P5 Curriculum – Social Studies"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Describe the duties of government and ask learners about services they use.",
+      "learnerActivity": "Learners give examples of services.",
+      "source": {
+        "source": "lchk_8a680c4609a6447b92e605b85f85d3a9",
+        "quote": "Duties of the government."
+      }
+    },
+    {
+      "stage": "Development: services",
+      "minutes": 12,
+      "teacherActivity": "Explain social services and the places that provide them.",
+      "learnerActivity": "Learners identify services and centres.",
+      "source": {
+        "source": "lchk_8a680c4609a6447b92e605b85f85d3a9",
+        "quote": "Examples of social service centres."
+      }
+    },
+    {
+      "stage": "Development: challenges",
+      "minutes": 15,
+      "teacherActivity": "Lead discussion of problems and the solutions suggested in the notes.",
+      "learnerActivity": "Learners identify challenges and corresponding solutions.",
+      "source": {
+        "source": "lchk_8a680c4609a6447b92e605b85f85d3a9",
+        "quote": "Solutions to the problems the government faces when providing social services."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Use the sourced assessment questions.",
+      "learnerActivity": "Learners answer and check the questions.",
+      "source": {
+        "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+        "quote": "What are Social services?"
+      }
+    }
+  ],
+  "assessment": "Assess the lesson using the exact source-written exercise questions.",
+  "homework": "Complete the source-written exercise questions.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Listening",
+    "Co-operation"
+  ]
+}
