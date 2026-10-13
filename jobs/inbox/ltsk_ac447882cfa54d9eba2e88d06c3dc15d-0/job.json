@@ -1,0 +1,73 @@
+{
+  "job": "ltsk_ac447882cfa54d9eba2e88d06c3dc15d-0",
+  "task": "ltsk_ac447882cfa54d9eba2e88d06c3dc15d",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 51,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 1,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_ba73f021f2154dfc807d9dc1b0b3c62e",
+      "kind": "teach",
+      "week": 1,
+      "title": "Meaning of government, central and local government",
+      "periods": 1,
+      "subtopic": "Role of a government"
+    },
+    {
+      "id": "lles_3d34dc3648b84d0783535454af405438",
+      "kind": "practice",
+      "week": 1,
+      "title": "Practice: government, local government and decentralisation",
+      "periods": 1,
+      "subtopic": "Role of a government"
+    },
+    {
+      "id": "lles_18ddee3e5c2e447a92d9c1b93b53ffd1",
+      "kind": "teach",
+      "week": 1,
+      "title": "Organs of government: the Executive",
+      "periods": 1,
+      "subtopic": "The organs of the government: Executive"
+    },
+    {
+      "id": "lles_40e43ae19e3e47c3b4c7c06a2bb791a3",
+      "kind": "teach",
+      "week": 1,
+      "title": "The president, cabinet, ministers and civil servants",
+      "periods": 1,
+      "subtopic": "The organs of the government: Executive"
+    },
+    {
+      "id": "lles_ece1ea688c1b445d8f79240dd10c0773",
+      "kind": "practice",
+      "week": 1,
+      "title": "Practice: the Executive",
+      "periods": 1,
+      "subtopic": "The organs of the government: Executive"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_6d2556c7c2cf4bdaab5bead60ded2e89",
+    "lchk_81d55cd06942488eb3d7927c27264ea9",
+    "lchk_4edd4afd1d254374a6c93da86c0debc8",
+    "lchk_db3ff097ff99464aba2332c9d68a600d",
+    "lchk_f249775bfab9472fbaa5b06e03fb5230",
+    "lchk_461170f297794aa1b58cec46e2ae28f2",
+    "lchk_25c87084edb64ed283eda12ac857fc84",
+    "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+    "lchk_7682272c0fdb4b93a290837e483bcf34"
+  ],
+  "created": "2026-10-13T20:34:48.245Z"
+}
