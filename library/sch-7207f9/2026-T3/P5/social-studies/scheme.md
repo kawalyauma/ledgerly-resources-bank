@@ -22,16 +22,16 @@
 | 18 | 4 | teach | The Government of Uganda | The Uganda Revenue Authority, why people pay taxes and smuggling — Sources of revenue | written |
 | 19 | 4 | teach | The Government of Uganda | Government expenditure and the national budget — Expenditure | written |
 | 20 | 4 | Part B | The Government of Uganda | Practice: revenue, expenditure and budgets — Sources of revenue and expenditure | written |
-| 21 | 5 | teach | The Government of Uganda | Citizenship and responsibilities of citizens — Rights and responsibilities | writing |
-| 22 | 5 | teach | The Government of Uganda | Human rights — Rights and responsibilities | writing |
-| 23 | 5 | teach | The Government of Uganda | Children's rights, child abuse and child labour — Child labour | writing |
-| 24 | 5 | Part B | The Government of Uganda | Practice: rights and responsibilities of citizens and child labour — Rights and responsibilities | writing |
-| 25 | 5 | teach | Population, Size and Distribution | Meaning of population and census — Meaning of population and census | writing |
-| 26 | 6 | teach | Population, Size and Distribution | Importance of a population census, information collected and problems faced — Importance of census | pending |
-| 27 | 6 | Part B | Population, Size and Distribution | Practice: population census — Importance of census | pending |
-| 28 | 6 | teach | Population, Size and Distribution | Population growth and the factors that influence it — Population growth | pending |
-| 29 | 6 | teach | Population, Size and Distribution | Advantages and dangers of fast population growth — Population growth | pending |
-| 30 | 6 | Part B | Population, Size and Distribution | Practice: population growth — Population growth | pending |
+| 21 | 5 | teach | The Government of Uganda | Citizenship and responsibilities of citizens — Rights and responsibilities | written |
+| 22 | 5 | teach | The Government of Uganda | Human rights — Rights and responsibilities | written |
+| 23 | 5 | teach | The Government of Uganda | Children's rights, child abuse and child labour — Child labour | written |
+| 24 | 5 | Part B | The Government of Uganda | Practice: rights and responsibilities of citizens and child labour — Rights and responsibilities | written |
+| 25 | 5 | teach | Population, Size and Distribution | Meaning of population and census — Meaning of population and census | written |
+| 26 | 6 | teach | Population, Size and Distribution | Importance of a population census, information collected and problems faced — Importance of census | writing |
+| 27 | 6 | Part B | Population, Size and Distribution | Practice: population census — Importance of census | writing |
+| 28 | 6 | teach | Population, Size and Distribution | Population growth and the factors that influence it — Population growth | writing |
+| 29 | 6 | teach | Population, Size and Distribution | Advantages and dangers of fast population growth — Population growth | writing |
+| 30 | 6 | Part B | Population, Size and Distribution | Practice: population growth — Population growth | writing |
 | 31 | 7 | teach | Population, Size and Distribution | Population distribution and the factors that influence it — Population distribution | pending |
 | 32 | 7 | teach | Population, Size and Distribution | Densely populated areas of Uganda — Population distribution | pending |
 | 33 | 7 | teach | Population, Size and Distribution | Sparsely populated areas of Uganda — Population distribution | pending |

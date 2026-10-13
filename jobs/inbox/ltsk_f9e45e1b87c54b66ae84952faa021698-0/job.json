@@ -1,0 +1,73 @@
+{
+  "job": "ltsk_f9e45e1b87c54b66ae84952faa021698-0",
+  "task": "ltsk_f9e45e1b87c54b66ae84952faa021698",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 76,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 6,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_8ac7cec75d814f20b887285e58187bd1",
+      "kind": "teach",
+      "week": 6,
+      "title": "Importance of a population census, information collected and problems faced",
+      "periods": 1,
+      "subtopic": "Importance of census"
+    },
+    {
+      "id": "lles_19154d047864496ab2727cf910c7ee8e",
+      "kind": "practice",
+      "week": 6,
+      "title": "Practice: population census",
+      "periods": 1,
+      "subtopic": "Importance of census"
+    },
+    {
+      "id": "lles_993e65ac0a674605ae30fd6e7bc93fef",
+      "kind": "teach",
+      "week": 6,
+      "title": "Population growth and the factors that influence it",
+      "periods": 1,
+      "subtopic": "Population growth"
+    },
+    {
+      "id": "lles_8ae840353fb34158869908ba9d84b3d2",
+      "kind": "teach",
+      "week": 6,
+      "title": "Advantages and dangers of fast population growth",
+      "periods": 1,
+      "subtopic": "Population growth"
+    },
+    {
+      "id": "lles_dc4ed06732f84ed89490a8dd2ddad82e",
+      "kind": "practice",
+      "week": 6,
+      "title": "Practice: population growth",
+      "periods": 1,
+      "subtopic": "Population growth"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_4edd4afd1d254374a6c93da86c0debc8",
+    "lchk_e0031cef799c413f9438d6584be3e476",
+    "lchk_91e897c1be5f461ab3bbc9443993f48c",
+    "lchk_de8fddce4e9d4f858bcd933118db47b3",
+    "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+    "lchk_89377846af3241ba84ea0652b03431af",
+    "lchk_c39ba86482504f359b37660b3e5a1d42",
+    "lchk_401b8346cdcf44109b333a534b4a6b3d",
+    "lchk_79153d5583ac46fdb785f8aaf6c44c38"
+  ],
+  "created": "2026-10-13T21:36:46.015Z"
+}
