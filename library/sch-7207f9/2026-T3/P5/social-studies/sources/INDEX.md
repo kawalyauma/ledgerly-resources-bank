@@ -16,6 +16,13 @@
 | lsrc_11b66e15c0ad4d47b61653ae7f2a7ead | P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation | notes | ulibtech | 23 |
 | lsrc_a6c87dd0a1b04782a44b85e5d2694dab | Primary 5 Social Studies Lesson Notes (2018) | notes | ulibtech | 32 |
 | lsrc_d481d526424041d78e4a7162903f0dba | Primary Five Social Studies Notes 2020 | notes | ulibtech | 61 |
+| lsrc_8d10750ff4164af8a9128a67aabfc69b | Final P5 Set Two Curriculum | reference | ulibtech | 52 |
+| lsrc_4dcd188245b0426b8ff8837145931ac2 | P 5 Lesson Notes SST 2015 | reference | ulibtech | 32 |
+| lsrc_6e5a2d9b3e9045ef91bce158939c4fd3 | P.5 Lesson Notes SST 2015 | reference | ulibtech | 30 |
+| lsrc_bb5d06d0b14041a99c54035f8ec9d4d1 | P6 SST Notes | reference | ulibtech | 61 |
+| lsrc_df24034e85e942b2bf4c2005854267fa | Primary Five SST Excel Notes ALL Terms | reference | ulibtech | 69 |
+| lsrc_5b57de865c8d4a089954330ab223a0e3 | Primary Five Set One Curriculum 2(1) | reference | ulibtech | 69 |
+| lsrc_e264622be195417aba11e34822f9f141 | Standard Social Studies Primary Five Lesson Notes P 5 2019 | reference | ulibtech | 32 |
 | lsrc_7cd0b9bc13494ce3906940d03b7b4b23 | P.5 Social Studies & RE Beginning of Term III Examination 2023 | past_papers | ulibtech | 5 |
 | lsrc_cc87f61de5354c249bc48e989091c63f | P.5 Social Studies & RE Mid Term III Examination 2023 – Outreach Schools | past_papers | ulibtech | 5 |
 | lsrc_bceda7166f2842eeb31523c46dad9ced | P.5 Social Studies & RE Mid-Term III Examination 2023 (OSEB) | past_papers | ulibtech | 5 |
