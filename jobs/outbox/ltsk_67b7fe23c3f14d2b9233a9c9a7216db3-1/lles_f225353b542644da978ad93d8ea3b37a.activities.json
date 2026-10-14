@@ -1,0 +1,58 @@
+[
+  {
+    "question": "State any two ways HIV/ AIDS affects economic development in an area.",
+    "answer": "It reduces labour supply and the market for goods.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Effects of HIV/AIDS on population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "State any two ways HIV/ AIDS affects economic development in an area."
+    }
+  },
+  {
+    "question": "Social effects of HIV/AIDS on the population.",
+    "answer": "Death, isolation and orphanhood.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "Effects of HIV/AIDS on population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+      "quote": "Social effects of HIV/AIDS on the population."
+    }
+  },
+  {
+    "question": "Economic effects of HIV/AIDS on population.",
+    "answer": "Reduced labour supply, lower market for goods and household poverty.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "Effects of HIV/AIDS on population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+      "quote": "Economic effects of HIV/AIDS on population."
+    }
+  },
+  {
+    "question": "How TASO helps AIDS patients.",
+    "answer": "Counselling, antiretroviral medicines and food relief.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "Effects of HIV/AIDS on population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+      "quote": "How TASO helps AIDS patients."
+    }
+  }
+]

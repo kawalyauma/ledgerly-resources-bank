@@ -1,0 +1,72 @@
+{
+  "competences": [
+    "Identify HIV and AIDS, describe source-named transmission and prevention routes and TASO support."
+  ],
+  "languageCompetence": "Spells, reads and uses words connected to effects of hiv/aids on population.",
+  "objectives": [
+    "Identify HIV and AIDS, describe source-named transmission and prevention routes and TASO support."
+  ],
+  "priorKnowledge": "Previous population and community-health learning.",
+  "methods": [
+    "Discussion",
+    "Inquiry",
+    "Question and answer"
+  ],
+  "materials": [
+    "Chalkboard",
+    "School neighbourhood",
+    "Social Studies pupils book"
+  ],
+  "references": [
+    "Primary Five Social Studies pack passage lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+    "Primary Five Social Studies pack passage lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Review source-backed key words and recall the preceding topic.",
+      "learnerActivity": "Answer questions and recall meanings.",
+      "source": {
+        "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+        "quote": "HIV stands for Human Immunodeficiency Virus."
+      }
+    },
+    {
+      "stage": "Lesson development I",
+      "minutes": 12,
+      "teacherActivity": "Explain and write sourced facts from the opening content sections.",
+      "learnerActivity": "Discuss and copy the factual notes.",
+      "source": {
+        "source": "lchk_7682272c0fdb4b93a290837e483bcf34",
+        "quote": "Discussion"
+      }
+    },
+    {
+      "stage": "Lesson development II",
+      "minutes": 15,
+      "teacherActivity": "Present the remaining sourced points and supervise source-written exercises.",
+      "learnerActivity": "Answer source questions and complete the chalkboard notes.",
+      "source": {
+        "source": "lchk_7682272c0fdb4b93a290837e483bcf34",
+        "quote": "Question"
+      }
+    },
+    {
+      "stage": "Assessment and conclusion",
+      "minutes": 8,
+      "teacherActivity": "Check the available source-written exercise responses and correct mistakes.",
+      "learnerActivity": "Finish the written questions and correct their work.",
+      "source": {
+        "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+        "quote": "Give any two ways TASO helps AIDS victims in Uganda."
+      }
+    }
+  ],
+  "assessment": "Use the 2 source-written exercise questions; flag content gaps where fewer than five are available.",
+  "homework": "Complete unfinished source-written exercise questions.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Self awareness"
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Give any two ways TASO helps AIDS victims in Uganda.",
+    "answer": "Counselling and provision of antiretroviral drugs.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Effects of HIV/AIDS on population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Give any two ways TASO helps AIDS victims in Uganda."
+    }
+  },
+  {
+    "question": "How can married people safeguard themselves against AIDS?",
+    "answer": "Be faithful to their partner and follow the source's prevention guidance.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Effects of HIV/AIDS on population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "How can married people safeguard themselves against AIDS?"
+    }
+  },
+  {
+    "question": "How AIDS is spread.",
+    "answer": "Sharing sharp objects, infected blood, unprotected sexual intercourse or unsterilised instruments.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "Effects of HIV/AIDS on population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+      "quote": "How AIDS is spread."
+    }
+  },
+  {
+    "question": "Use of ABC to prevent AIDS.",
+    "answer": "A: abstain from sex; B: be faithful; C: condom use.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "Effects of HIV/AIDS on population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+      "quote": "Use of ABC to prevent AIDS."
+    }
+  }
+]

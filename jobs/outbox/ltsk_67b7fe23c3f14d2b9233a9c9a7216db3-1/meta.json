@@ -1,0 +1,15 @@
+{
+  "job": "ltsk_67b7fe23c3f14d2b9233a9c9a7216db3-1",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "lles_57f504f6277e458eb4be459052544c00": [
+      "The pack contains too few independent HIV/AIDS exam questions. Supplementary structured activity prompts are copied verbatim from the same source passage and kept source-cited; no new prompts were authored."
+    ],
+    "lles_f225353b542644da978ad93d8ea3b37a": [
+      "The pack contains too few independent HIV/AIDS exam questions. Supplementary structured activity prompts are copied verbatim from the same source passage and kept source-cited; no new prompts were authored."
+    ]
+  },
+  "reviewerNotes": "Repairs only the two HIV/AIDS lessons initially flagged by the Ledgerly importer. Both now have 4 sourced activities with study-heading prompts taken verbatim from the library. All 7 required files included. Local Python check is unavailable via this GitHub connection."
+}
