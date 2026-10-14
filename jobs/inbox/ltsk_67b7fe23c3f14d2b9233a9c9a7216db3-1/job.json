@@ -1,0 +1,49 @@
+{
+  "job": "ltsk_67b7fe23c3f14d2b9233a9c9a7216db3-1",
+  "task": "ltsk_67b7fe23c3f14d2b9233a9c9a7216db3",
+  "call": 1,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 91,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 9,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_57f504f6277e458eb4be459052544c00",
+      "kind": "teach",
+      "week": 9,
+      "title": "HIV/AIDS: spread, prevention and care",
+      "periods": 1,
+      "subtopic": "Effects of HIV/AIDS on population"
+    },
+    {
+      "id": "lles_f225353b542644da978ad93d8ea3b37a",
+      "kind": "teach",
+      "week": 9,
+      "title": "Social and economic effects of HIV/AIDS on the population",
+      "periods": 1,
+      "subtopic": "Effects of HIV/AIDS on population"
+    }
+  ],
+  "repair": true,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_4edd4afd1d254374a6c93da86c0debc8",
+    "lchk_e0031cef799c413f9438d6584be3e476",
+    "lchk_e9bf3ccc4d0740c9b05e37f9727a64cd",
+    "lchk_de8fddce4e9d4f858bcd933118db47b3",
+    "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+    "lchk_a8bf4b84729e467e90e868625ca681a3",
+    "lchk_7e914abcd1f34c67935e12ca2588d5ec",
+    "lchk_7682272c0fdb4b93a290837e483bcf34",
+    "lchk_1162553670784949a6a5f4ead61c3374"
+  ],
+  "created": "2026-10-14T18:08:32.075Z"
+}
