@@ -1,0 +1,821 @@
+{
+  "title": "Primary Five Social Studies Scheme of Work — Term 3, 2026",
+  "summary": "49 sourced 40-minute lessons over 10 weeks, covering both required NCDC topics in syllabus order.",
+  "units": [
+    {
+      "title": "The Government of Uganda",
+      "theme": "The Government of Uganda",
+      "weekFrom": 1,
+      "weekTo": 5,
+      "competences": "Identify the three organs of government; discuss the constitution, duties, revenue, expenditure and citizens' rights and responsibilities.",
+      "sources": [
+        {
+          "source": "lchk_6d2556c7c2cf4bdaab5bead60ded2e89",
+          "quote": "The organs of the government"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Role of government",
+          "subtopic": "Role of government",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain role of government."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "The role of a government"
+            }
+          ]
+        },
+        {
+          "title": "Three organs of government",
+          "subtopic": "Three organs of government",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain three organs of government."
+          ],
+          "sources": [
+            {
+              "source": "lchk_6d2556c7c2cf4bdaab5bead60ded2e89",
+              "quote": "The organs of the government"
+            }
+          ]
+        },
+        {
+          "title": "The executive",
+          "subtopic": "The executive",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain the executive."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Executive (administer and implement"
+            }
+          ]
+        },
+        {
+          "title": "The legislature",
+          "subtopic": "The legislature",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain the legislature."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Legislature (to make laws"
+            }
+          ]
+        },
+        {
+          "title": "The judiciary",
+          "subtopic": "The judiciary",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain the judiciary."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Judiciary (to interpret laws"
+            }
+          ]
+        },
+        {
+          "title": "Organs of government Part B",
+          "subtopic": "The judiciary",
+          "week": 2,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Identify and explain organs of government."
+          ],
+          "sources": [
+            {
+              "source": "lchk_6d2556c7c2cf4bdaab5bead60ded2e89",
+              "quote": "three organs of"
+            }
+          ]
+        },
+        {
+          "title": "Meaning of a constitution",
+          "subtopic": "Meaning of a constitution",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain meaning of a constitution."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Meaning of a constitution."
+            }
+          ]
+        },
+        {
+          "title": "Functions of a constitution",
+          "subtopic": "Functions of a constitution",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain functions of a constitution."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Functions of a constitution."
+            }
+          ]
+        },
+        {
+          "title": "Importance of a constitution",
+          "subtopic": "Importance of a constitution",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain importance of a constitution."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Importance of a constitution."
+            }
+          ]
+        },
+        {
+          "title": "Constitution and elections",
+          "subtopic": "Constitution and elections",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain constitution and elections."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "constitution and elections."
+            }
+          ]
+        },
+        {
+          "title": "Meaning of communication",
+          "subtopic": "Meaning of communication",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain meaning of communication."
+          ],
+          "sources": [
+            {
+              "source": "lchk_6d2556c7c2cf4bdaab5bead60ded2e89",
+              "quote": "meaning of"
+            }
+          ]
+        },
+        {
+          "title": "Types of communication",
+          "subtopic": "Types of communication",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain types of communication."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "types of communication."
+            }
+          ]
+        },
+        {
+          "title": "Importance of communication",
+          "subtopic": "Importance of communication",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain importance of communication."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "importance of communication."
+            }
+          ]
+        },
+        {
+          "title": "Barriers to communication",
+          "subtopic": "Barriers to communication",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain barriers to communication."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "barriers of communication."
+            }
+          ]
+        },
+        {
+          "title": "Administration and leadership",
+          "subtopic": "Administration and leadership",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain administration and leadership."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Administration/leadership."
+            }
+          ]
+        },
+        {
+          "title": "Conducting elections",
+          "subtopic": "Conducting elections",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain conducting elections."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Conduct elections."
+            }
+          ]
+        },
+        {
+          "title": "Government budget",
+          "subtopic": "Government budget",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain government budget."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Making a budget."
+            }
+          ]
+        },
+        {
+          "title": "Foreign affairs",
+          "subtopic": "Foreign affairs",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain foreign affairs."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "foreign affairs"
+            }
+          ]
+        },
+        {
+          "title": "Revenue of government",
+          "subtopic": "Revenue of government",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain revenue of government."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Revenue is income by government"
+            }
+          ]
+        },
+        {
+          "title": "Income tax and VAT",
+          "subtopic": "Income tax and VAT",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain income tax and vat."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Value Added Tax (VAT)"
+            }
+          ]
+        },
+        {
+          "title": "Tourism and licences",
+          "subtopic": "Tourism and licences",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain tourism and licences."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Tourism"
+            }
+          ]
+        },
+        {
+          "title": "Loans, grants and donations",
+          "subtopic": "Loans, grants and donations",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain loans, grants and donations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Loans and grants"
+            }
+          ]
+        },
+        {
+          "title": "Government expenditure",
+          "subtopic": "Government expenditure",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain government expenditure."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "Expenditure is how"
+            }
+          ]
+        },
+        {
+          "title": "Rights and responsibilities of citizens",
+          "subtopic": "Rights and responsibilities of citizens",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain rights and responsibilities of citizens."
+          ],
+          "sources": [
+            {
+              "source": "lchk_81d55cd06942488eb3d7927c27264ea9",
+              "quote": "What a citizen must"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Population, Size and Distribution",
+      "theme": "Population, Size and Distribution",
+      "weekFrom": 5,
+      "weekTo": 10,
+      "competences": "Explain population, census and growth; describe distribution, density, problems and possible solutions.",
+      "sources": [
+        {
+          "source": "lchk_e0031cef799c413f9438d6584be3e476",
+          "quote": "Population distribution and"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning of population",
+          "subtopic": "Meaning of population",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain meaning of population."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+              "quote": "Population is the number of"
+            }
+          ]
+        },
+        {
+          "title": "Meaning of census",
+          "subtopic": "Meaning of census",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain meaning of census."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+              "quote": "Census is an official count"
+            }
+          ]
+        },
+        {
+          "title": "School mini-census",
+          "subtopic": "School mini-census",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain school mini-census."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+              "quote": "mini- census"
+            }
+          ]
+        },
+        {
+          "title": "Importance of a census",
+          "subtopic": "Importance of a census",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain importance of a census."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+              "quote": "Importance of census"
+            }
+          ]
+        },
+        {
+          "title": "Census and planning Part B",
+          "subtopic": "Importance of a census",
+          "week": 6,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Identify and explain census and planning."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+              "quote": "Plan for them"
+            }
+          ]
+        },
+        {
+          "title": "Meaning of population growth",
+          "subtopic": "Meaning of population growth",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain meaning of population growth."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+              "quote": "Meaning of population growth"
+            }
+          ]
+        },
+        {
+          "title": "Climate and population growth",
+          "subtopic": "Climate and population growth",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain climate and population growth."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Climate."
+            }
+          ]
+        },
+        {
+          "title": "Fertility and immigration",
+          "subtopic": "Fertility and immigration",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain fertility and immigration."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Fertility rate of women."
+            }
+          ]
+        },
+        {
+          "title": "Occupation and food",
+          "subtopic": "Occupation and food",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain occupation and food."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Occupation."
+            }
+          ]
+        },
+        {
+          "title": "Health and population growth",
+          "subtopic": "Health and population growth",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain health and population growth."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Better health (reproductive"
+            }
+          ]
+        },
+        {
+          "title": "Social services and security",
+          "subtopic": "Social services and security",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain social services and security."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Security and peace."
+            }
+          ]
+        },
+        {
+          "title": "Fast population growth",
+          "subtopic": "Fast population growth",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain fast population growth."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "fast population growth."
+            }
+          ]
+        },
+        {
+          "title": "Control of population growth",
+          "subtopic": "Control of population growth",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain control of population growth."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Control of population"
+            }
+          ]
+        },
+        {
+          "title": "Population growth Part B",
+          "subtopic": "Control of population growth",
+          "week": 8,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Identify and explain population growth."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4edd4afd1d254374a6c93da86c0debc8",
+              "quote": "population growth."
+            }
+          ]
+        },
+        {
+          "title": "Population distribution meaning",
+          "subtopic": "Population distribution meaning",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain population distribution meaning."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "The spread of people in an area"
+            }
+          ]
+        },
+        {
+          "title": "District population distribution",
+          "subtopic": "District population distribution",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain district population distribution."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Some districts have more"
+            }
+          ]
+        },
+        {
+          "title": "Urban and rural population",
+          "subtopic": "Urban and rural population",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain urban and rural population."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "urban centres have more people"
+            }
+          ]
+        },
+        {
+          "title": "Population on plateaux and mountains",
+          "subtopic": "Population on plateaux and mountains",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain population on plateaux and mountains."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "some mountains."
+            }
+          ]
+        },
+        {
+          "title": "Climate and population distribution",
+          "subtopic": "Climate and population distribution",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain climate and population distribution."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Some climatic areas have more"
+            }
+          ]
+        },
+        {
+          "title": "Meaning of population density",
+          "subtopic": "Meaning of population density",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain meaning of population density."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Meaning of population density."
+            }
+          ]
+        },
+        {
+          "title": "High and low population density",
+          "subtopic": "High and low population density",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain high and low population density."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Meaning of low population"
+            }
+          ]
+        },
+        {
+          "title": "Problems of high population density",
+          "subtopic": "Problems of high population density",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain problems of high population density."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Problems of high population density."
+            }
+          ]
+        },
+        {
+          "title": "Problems of low population density",
+          "subtopic": "Problems of low population density",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain problems of low population density."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Problems associated with low population density."
+            }
+          ]
+        },
+        {
+          "title": "HIV/AIDS and density solutions",
+          "subtopic": "HIV/AIDS and density solutions",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain hiv/aids and density solutions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e0031cef799c413f9438d6584be3e476",
+              "quote": "Effects of HIV/AIDS on population"
+            }
+          ]
+        },
+        {
+          "title": "End-of-term assessment",
+          "subtopic": "HIV/AIDS and density solutions",
+          "week": 10,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Identify and explain end-of-term assessment."
+          ],
+          "sources": [
+            {
+              "source": "lchk_6d2556c7c2cf4bdaab5bead60ded2e89",
+              "quote": "Suggested Competences for Assessment"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": []
+}
