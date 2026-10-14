@@ -1,4 +1,4 @@
-# Job ltsk_67b7fe23c3f14d2b9233a9c9a7216db3-0
+# Job ltsk_7fb11bd0dba64ed1b1f7e05a7c86467f-0
 
 You are the curriculum engine of Ledgerly AI for a Ugandan school.
 Work from the passages, page images and records given in this prompt. Do not invent facts, topics, notes, examples, activities, questions, answers or names: every one of them is taken from the passages. You choose, order, tidy and format the material; you never make it up.
@@ -6,31 +6,32 @@ If the material does not cover something, leave it out or set the field to null 
 Do not run commands, open files or browse. Everything you need is in this prompt.
 Reply with ONE JSON object only, exactly matching the requested shape. No prose before or after it.
 
-Task: write ALL 5 lesson(s) below of week 9 of the Social Studies scheme for Primary Five 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
+Task: write ALL 5 lesson(s) below of week 10 of the Social Studies scheme for Primary Five 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
 Return exactly one entry per lessonId, keeping each lessonId exactly. Write the lessons in order so they build on each other; a practice or review lesson works from the lessons before it in this week.
 Class-depth rule: P5: one 40-minute lesson: 3–4 ideas; 300–500 words; connected explanations and application; 5–8 activities.
 
-lessonId=lles_b17a515e291540de93287ff0bbf1f6e9: lesson 41, Monday, 1 period(s), 40 minutes.
-  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Practice: low population density — Low population density.
-  Objectives: Answer exercise questions on low population density.
+lessonId=lles_a2711f5a90ed438bae20f95297454187: lesson 46, Monday, 1 period(s), 40 minutes.
+  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Family planning and family size — Control of population growth.
+  Objectives: Explain what family planning is and name its methods.; State advantages and disadvantages of family planning.; State advantages and disadvantages of a small family.
+
+lessonId=lles_e955e45f7b80483e8875a387c93e63cb: lesson 47, Tuesday, 1 period(s), 40 minutes.
+  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Practice: controlling population growth and family planning — Control of population growth.
+  Objectives: Answer exercise questions on controlling population growth and family planning.; List the difficulties a family finds in looking after a big number of children.
   This is a PART B lesson: it continues the subtopic taught in the lesson before it. notes = '### Remember' with the key points (numbered, 4–8 lines); in Mathematics, English and Reading then NEW '### Example' sections not used in Part A; then '### Exercise' with NEW numbered activities learners copy and answer. All of it is taken from other passages (other notes, workbooks, past papers), never invented. Oral work, drawing and group activities go in methods. activities = those exercises.
 
-lessonId=lles_57f504f6277e458eb4be459052544c00: lesson 42, Tuesday, 1 period(s), 40 minutes.
-  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: HIV/AIDS: spread, prevention and care — Effects of HIV/AIDS on population.
-  Objectives: Write HIV and AIDS in full.; State how HIV/AIDS spreads and how it can be prevented (ABC).; State how TASO helps AIDS patients.
+lessonId=lles_5476d81562ba43ebb98651da24aa110f: lesson 48, Wednesday, 1 period(s), 40 minutes.
+  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Population terms — Population, size and distribution: summary.
+  Objectives: Explain the terms optimum population, under population, over population, population structure and population explosion.; Compare dense, sparse and optimum population.
 
-lessonId=lles_f225353b542644da978ad93d8ea3b37a: lesson 43, Wednesday, 1 period(s), 40 minutes.
-  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Social and economic effects of HIV/AIDS on the population — Effects of HIV/AIDS on population.
-  Objectives: State the social effects of HIV/AIDS on the population.; State the economic effects of HIV/AIDS on the population.
-
-lessonId=lles_039bf518783944799ac28f289e7e8ab7: lesson 44, Thursday, 1 period(s), 40 minutes.
-  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Practice: HIV/AIDS and population — Effects of HIV/AIDS on population.
-  Objectives: Answer exercise questions on HIV/AIDS and its effects on population.
+lessonId=lles_99eba5779af2447fb0fd80f43a9edcd8: lesson 49, Thursday, 1 period(s), 40 minutes.
+  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Practice: topical test on population, size and distribution — Population, size and distribution: summary.
+  Objectives: Answer the topical test questions on population, size and distribution.
   This is a PART B lesson: it continues the subtopic taught in the lesson before it. notes = '### Remember' with the key points (numbered, 4–8 lines); in Mathematics, English and Reading then NEW '### Example' sections not used in Part A; then '### Exercise' with NEW numbered activities learners copy and answer. All of it is taken from other passages (other notes, workbooks, past papers), never invented. Oral work, drawing and group activities go in methods. activities = those exercises.
 
-lessonId=lles_df239a2b78974c1dba74939c0d5e3e32: lesson 45, Friday, 1 period(s), 40 minutes.
-  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Ways of controlling population growth — Control of population growth.
-  Objectives: State ways of controlling population growth.; Explain why the government encourages control of population growth.
+lessonId=lles_c9ff97e308cc443fa31048197e8c8147: lesson 50, Friday, 1 period(s), 40 minutes.
+  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: End of term assessment — The Government of Uganda, Population, Size and Distribution.
+  Objectives: Assess what learners have learnt this term
+  This is the END OF TERM ASSESSMENT. notes = an assessment paper of 15–25 questions from the passages covering the term's units, numbered, with a marking guide (answers) at the end where the passages give them. activities = the questions.
 
 Write, using ONLY the passages below. Passages from "NCDC" documents are the official base for what to teach; NCDC lower-primary thematic curricula put every learning area in columns separated by " | ": use only the Social Studies column.
 For EACH lesson:
@@ -83,6 +84,177 @@ Reply shape:
 {"lessons":[{"lessonId":string,"notes":string,"methods":string|null,"teachingGuide":string|null,"materials":string|null,"lifeSkills":string|null,"assessment":string|null,"sourcePassageIds":[string],"lessonPlan":{"competences":[string],"languageCompetence":string|null,"objectives":[string],"priorKnowledge":string|null,"methods":[string],"materials":[string],"references":[string],"steps":[{"stage":string,"minutes":int,"teacherActivity":string,"learnerActivity":string}],"assessment":string|null,"homework":string|null,"lifeSkills":[string]},"diagrams":[{"key":string,"title":string,"caption":string|null,"method":"illustration"|"coded"|"svg","concept":string|null,"parts":[string],"coded":object|null,"svg":string|null,"sourcePassageId":string|null}],"activities":[{"question":string,"answer":string|null,"options":[string]|null,"kind":string,"concept":string,"skill":string,"cognitiveLevel":string,"difficulty":1-5,"origin":"source"|"generated","sourcePassageId":string|null,"sourceQuote":string|null}],"gaps":[string]}]}
 
 <passages>
+<passage id="lchk_6d2556c7c2cf4bdaab5bead60ded2e89" source="NCDC P5 Curriculum – Social Studies" part="13">
+The learner: | Spells, reads, pronounces | • The concept of | • Explaining what independence
+• Explains what political | and writes words, sentences | independent | means.
+independence means. | and structures related to | Uganda. | • Discussing good things related to
+independence. | independent nations.
+
+P5 Set One Syllabus, National Curriculum Development Centre | 207
+
+  |   |  |  
+ 
+The new words are | • Identifying the date
+political independence. | when Uganda attained
+independence.
+• | Identifies | Spells, reads, pronounces | • The symbols of the nation: | • Explain the symbols
+national | and writes words and | - The National Flag. | of the nation.
+symbols | sentences related to | - National Anthem.
+symbols of the nation. | - Coat of Arms.
+and
+The new words are | - Emblem.
+explains
+symbols, anthem, | - Language (English).
+their
+emblem, coat of arms, | - The Constitution (supreme law).
+significanc
+constitution and hoisted.
+e. | • The significance of the symbols of the nation:
+- The Constitution (supreme law).
+- The National Flag.
+- National Anthem.
+- Coat of Arms. | • Discussing the
+- Emblem. | significance of symbols
+- Language (English). | of the nation.
+• | Explains the | Spells, reads, pronounces | • Democracy | • Explaining what
+meaning of | and writes words properly. | Ǧ The meaning of democracy. | democracy is.
+democracy | Constructs sentences | Ǧ Importance of democracy.
+• Discussing and debating
+using key words related to | Ǧ Functions of democracy.
+and its | the importance and
+democracy and elections. | Ǧ Challenges of democracy.
+importance. | Ǧ Roles of the citizens in practicing | functions of democracy.
+The new words are
+democracy. | • Naming the different
+challenges, election,
+elections.
+Role-playing elections.
+
+208 | P5 Set One Syllabus, National Curriculum Development Centre
+
+  |  |  |  
+  |  
+citizen, conduct, bad | Ǧ | Types of elections. | • Discussing
+practices. | Ǧ  How elections are conducted. | challenges of
+Ǧ Bad practices during elections: before | democracy.
+voting. | • Drawing different
+during voting. after | election materials.
+voting.
+Ǧ Electoral commission, electoral officials, | • Suggesting two things
+electoral materials and their functions. | people who get the
+Ǧ Respect for democracy and elections. | least votes should do
+after elections.
+• Role-playing voting
+exercise.
+• Discussing importance of
+electing leaders.
+
+Suggested Competences for Assessment
+• Identify the symbols of an independent nation.
+• Explain the importance of those symbols of a nation.
+• Explain the principles of democracy.
+
+TOPIC 11: The Government of Uganda
+General Background to the Topic
+In the last topic, the learner learnt how Uganda became an independent nation; its symbols and their significance. The learner was also
+exposed to democracy and its principles.
+
+In this topic, he/she is going to learn about the government, the three organs of government, the constitution, duties of government,
+sources of revenue and expenditure as well as rights and responsibilities of citizens of Uganda.
+P5 Set One Syllabus, National Curriculum Development Centre | 209
+
+Learning Outcomes
+The learner is able to understand the organs of the government, the constitution and duties of citizens; explain the sources of revenue
+and expenditure by government and understand the rights and responsibilities of the citizens of Uganda.
+</passage>
+
+<passage id="lchk_81d55cd06942488eb3d7927c27264ea9" source="NCDC P5 Curriculum – Social Studies" part="14">
+Skills and Values/attitudes to be Developed
+
+Skills | Values/attitudes
+• Critical thinking | • Respect
+• Observation | • Care
+• Listening | • Cooperate
+• Love
+• Sharing
+• Sympathy
+
+    |   |  |  
+The learner: | Spells, reads, pronounces | • The role of a government (the ruling | • Explaining the role
+• Identifies the | and writes words, | body of a country). | of the government.
+three organs of | sentences and | • The organs of the government: | • Discussing the roles of
+government. | structures related to | Ǧ Executive (administer and implement | organs the government
+organs of government. | decisions and programmes). | and their significance.
+The new words are | Ǧ | Legislature (to make laws which
+• Explaining the necessity
+government, organs of a | people must observe and respect).
+government, executive, | of the separation of
+ǦJudiciary (to interpret laws made by | legislature and judiciary.
+legislature, judiciary. | the legislature).
+Explains the | Spells, reads, | • The constitution | • Explaining the meaning
+meaning of the | pronounces and writes | of a constitution.
+constitution, its | words, sentences and | - | Meaning of a constitution.
+functions and | - | Functions of a constitution. | • Discussing the importance
+structures related to the
+importance. | constitution. | of a constitution.
+- | Importance of a constitution.
+The new words are | • Explaining the
+constitution, function, | relationship
+210 | P5 Set One Syllabus, National Curriculum Development Centre
+
+    |   |  |  
+relationship. | - Relationship between a | between the
+constitution and the
+constitution and elections.
+elections.
+• Explains the | Spells, reads, pronounces | • Duties of the government | • Explaining the
+duties of the | and writes words, | duties of the
+ | Communication:
+government. | sentences and structures | government.
+related to duties of the | Ǧ meaning of
+government. | communication.
+The new words are
+Ǧ types of communication.
+foreign affairs, budget,
+sanity, election. | Ǧ importance of
+communication.
+Ǧ barriers of communication.
+ | Administration/leadership.
+ | Conduct elections.
+ | Provide social studies.
+ Making a budget.
+• Handles foreign affairs and
+sanity of the nation.
+• Explains the | Spells, reads, pronounces | Revenue is income by government
+sources of | and writes words,
+□ Taxation
+revenue and | sentences and structures
+expenditure by the | related to the sources of | - Income Tax | • Explaining what income
+government. | revenue and expenditure | - Value Added Tax (VAT) | is.
+by the government. | - Property Tax
+The new words are value | • Discussing how
+□ Tourism | government earns
+added tax, donation, | □ Licenses | money.
+tourism, license, loan, | □ Donations and gifts
+P5 Set One Syllabus, National Curriculum Development Centre | 211
+
+    |   |  |  
+grant, bill, property. | □ Loans and grants
+□ Sale of government
+bills and properties
+□ Expenditure
+-  salaries and allowances
+• Explaining the ways
+-  development | in which government
+Ǧ | Expenditure is how | programmes | spends its revenue.
+government uses or spends | - rent
+money. | - security
+- social services
+• Explains the rights and | Spells, reads, pronounces | • Rights | • Explaining the rights of
+responsibilities of citizens of | and later makes sentences | citizens of Uganda.
+What a citizen must
+</passage>
+
 <passage id="lchk_4edd4afd1d254374a6c93da86c0debc8" source="NCDC P5 Curriculum – Social Studies" part="15">
 Uganda. | using words related to rights
 and responsibilities of citizen | have (life, food, shelter,
@@ -240,6 +412,257 @@ Suggested Competences for Assessment
 216 | P5 Set One Syllabus, National Curriculum Development Centre
 
 www.ncdc.go.ug
+</passage>
+
+<passage id="lchk_de8fddce4e9d4f858bcd933118db47b3" source="Primary Five Social Studies Scheme of Work" part="7">
+ Customs duty
+ Exercise duty
+Definition of a
+budget
+Parts of the budget
+Definition of the
+national budget
+Reasons for
+budgeting
+Sources of
+government
+revenue
+Types of taxes
+Ways how the
+government spends
+its revenue
+Problems faced
+during collection of
+taxes
+Dangers of
+smuggling
+122 – 127
+Page 14
+Population
+size and
+distribution in
+Uganda and
+their
+relationship
+to economic
+planning and
+development
+Terms related
+to population
+ By the end of all
+lessons the children
+should be able to
+ Define all the terms
+related to population
+ Population
+ Population
+census
+ National
+population
+census
+ Enumerators
+ Population
+growth
+ Population
+distribution
+ Population
+explosion
+ Sparse
+population
+ Dense
+population
+ Optimum
+population
+ Over population
+ Census night
+ Under
+population
+Writing
+Reading
+Answering
+oral
+questions
+Chalkboard
+Atlas
+Text book
+MK bk 5 pg 148
+Population
+size and
+distribution
+Population
+census
+Should
+ Identify reasons why
+population census is
+conducted
+ Identify information
+collected during
+census
+ State the problem
+faced during census
+ Identify the ministry
+responsible for
+census
+ Reasons why
+census is
+conducted
+Information
+collected from
+people during
+census
+Problems the
+government faces
+during census
+Ministry
+responsible for
+conducting
+population census
+Answering
+oral
+questions
+151
+Factors
+affecting
+population
+distribution
+ Should be able to
+ Identify the factors
+affecting population
+distribution
+ Identify factors that
+attract people in an
+area
+ Sparse
+ Dense
+Factors affecting
+population
+distribution
+Factors that attract
+people in an area
+Reasons why some
+areas are densely
+Text book
+And atlas
+Pg 141
+Page 15
+ State reasons why
+some areas are
+sparsely populated
+ State reasons why
+some areas are
+densely populated
+populated
+Reasons why some
+areas are sparsely
+populated
+Population
+growth
+ Should be able to
+ Identify the factors
+affecting population
+growth
+ State the factors that
+lead to high
+population growth
+ State the causes of
+high birth rate
+ Ways of controlling
+high birth rate
+ Way of controlling
+high population
+growth
+ Birth rate
+ Family planning
+Factors affecting
+population growth
+Factors that can
+lead to high
+population growth
+Causes of high
+birth rate
+Ways of controlling
+high birth rate
+Ways of controlling
+high population
+growth rate
+Text book
+And
+Atlas
+Pg 151
+Advantages
+and
+disadvantages
+of a large
+population
+Advantages
+and
+disadvantages
+of small
+population
+ Should be able to
+ Identify the economic
+advantages of a
+large population
+ Identify the
+disadvantages of
+large population
+ State the advantages
+of a small population
+ Identify the
+disadvantages of a
+small population
+ Economic
+advantages of a
+large population
+Disadvantages of a
+large population
+Advantages of a
+small population
+Disadvantages of a
+small population
+Writing
+Answering
+oral
+questions
+Text books
+and atlas
+Population
+size and
+distribution
+Hazards that
+check on
+population
+growth
+ Should be able to
+ Identify the natural
+hazards that check
+on population
+growth
+ Identify the
+manmade disaster
+that check on
+population growth
+ Hazards Natural hazards
+that check on
+population growth
+Manmade hazards
+that check on
+population growth
+Text books
+Page 16
+Effects of HIV
+/ AIDS on the
+population
+ Mentions the social
+and economic
+effects of HIV /
+AIDS on the people.
+ Discusses the
+effects of HIV /
+AIDS in society.
+Economic and
+social effects of
+HIV / AIDS.
 </passage>
 
 <passage id="lchk_e9bf3ccc4d0740c9b05e37f9727a64cd" source="P 5 SST Scheme Term III 2019 (ecolebooks Com)" part="6">
@@ -530,518 +953,6 @@ pg 140-
 141
 </passage>
 
-<passage id="lchk_de8fddce4e9d4f858bcd933118db47b3" source="Primary Five Social Studies Scheme of Work" part="7">
- Customs duty
- Exercise duty
-Definition of a
-budget
-Parts of the budget
-Definition of the
-national budget
-Reasons for
-budgeting
-Sources of
-government
-revenue
-Types of taxes
-Ways how the
-government spends
-its revenue
-Problems faced
-during collection of
-taxes
-Dangers of
-smuggling
-122 – 127
-Page 14
-Population
-size and
-distribution in
-Uganda and
-their
-relationship
-to economic
-planning and
-development
-Terms related
-to population
- By the end of all
-lessons the children
-should be able to
- Define all the terms
-related to population
- Population
- Population
-census
- National
-population
-census
- Enumerators
- Population
-growth
- Population
-distribution
- Population
-explosion
- Sparse
-population
- Dense
-population
- Optimum
-population
- Over population
- Census night
- Under
-population
-Writing
-Reading
-Answering
-oral
-questions
-Chalkboard
-Atlas
-Text book
-MK bk 5 pg 148
-Population
-size and
-distribution
-Population
-census
-Should
- Identify reasons why
-population census is
-conducted
- Identify information
-collected during
-census
- State the problem
-faced during census
- Identify the ministry
-responsible for
-census
- Reasons why
-census is
-conducted
-Information
-collected from
-people during
-census
-Problems the
-government faces
-during census
-Ministry
-responsible for
-conducting
-population census
-Answering
-oral
-questions
-151
-Factors
-affecting
-population
-distribution
- Should be able to
- Identify the factors
-affecting population
-distribution
- Identify factors that
-attract people in an
-area
- Sparse
- Dense
-Factors affecting
-population
-distribution
-Factors that attract
-people in an area
-Reasons why some
-areas are densely
-Text book
-And atlas
-Pg 141
-Page 15
- State reasons why
-some areas are
-sparsely populated
- State reasons why
-some areas are
-densely populated
-populated
-Reasons why some
-areas are sparsely
-populated
-Population
-growth
- Should be able to
- Identify the factors
-affecting population
-growth
- State the factors that
-lead to high
-population growth
- State the causes of
-high birth rate
- Ways of controlling
-high birth rate
- Way of controlling
-high population
-growth
- Birth rate
- Family planning
-Factors affecting
-population growth
-Factors that can
-lead to high
-population growth
-Causes of high
-birth rate
-Ways of controlling
-high birth rate
-Ways of controlling
-high population
-growth rate
-Text book
-And
-Atlas
-Pg 151
-Advantages
-and
-disadvantages
-of a large
-population
-Advantages
-and
-disadvantages
-of small
-population
- Should be able to
- Identify the economic
-advantages of a
-large population
- Identify the
-disadvantages of
-large population
- State the advantages
-of a small population
- Identify the
-disadvantages of a
-small population
- Economic
-advantages of a
-large population
-Disadvantages of a
-large population
-Advantages of a
-small population
-Disadvantages of a
-small population
-Writing
-Answering
-oral
-questions
-Text books
-and atlas
-Population
-size and
-distribution
-Hazards that
-check on
-population
-growth
- Should be able to
- Identify the natural
-hazards that check
-on population
-growth
- Identify the
-manmade disaster
-that check on
-population growth
- Hazards Natural hazards
-that check on
-population growth
-Manmade hazards
-that check on
-population growth
-Text books
-Page 16
-Effects of HIV
-/ AIDS on the
-population
- Mentions the social
-and economic
-effects of HIV /
-AIDS on the people.
- Discusses the
-effects of HIV /
-AIDS in society.
-Economic and
-social effects of
-HIV / AIDS.
-</passage>
-
-<passage id="lchk_a89f8a96f35c42f7a1dee9e9583a10c8" source="Excel P 5 SST Term III" part="26">
-❖ It promotes proper utilisation of resources in
-an area.
-Problems associated/ caused with a High
-population density.
-• Unemployment.
-• Shortage of food.
-• Easy spread of communicable diseases.
-• Development of slums.
-• Poor hygienic condition leading to disease outbreak.
-• Environmental degredation.
-• High crime rate.
-Solutions to problems associated with a High population density.
-❖ People in urban areas should build storeyed buildings to solve a problem of land
-shortage.
-❖ Government should provide better social services in rural areas to promote urban-
-rural migration.
-❖ Empowering the youths to start small scale businesses (projects).
-❖ By extending electricity to rural areas.
-❖ Educating people to use modern methods of farming to increase food production.
-b) LOW POPULATION DENSITY.
-This is when an area has a small number of people compared to the available
-resources .
-Advantages of a low population density .
-• People have enough land.
-• Low crime rate.
-• There is enough accommodation.
-• It promotes conservation of the
-natural environment in an area.
-• Communicable diseases can not easily spread from one homestead to another.
-Disadvantages of a low population density.
-• There is low market for local goods or imported goods.
-• There is low labour force.
-• There is low tax base for the government.
-Storeyed houses can help to solve
-shortage of land in towns
-Page 48
-• There is poor social service provision.
-• There is limited social security.
-• There is under utilisation of resources in an area.
-Solutions to a low population census.
-• By improving social services to attract more people.
-• By setting up industries in an area.
-• By encouraging mechanisation to increase food production.
-• By encouraging people to marry many wives.
-EFFECTS OF HIV/AIDS ON POPULATION.
-HIV stands for Human Immunodeficiency Virus.
-AIDS stands for Acquired Immune Deficiency Syndrome.
-AIDS patients are people who suffer from AIDS.
-AIDS patients in Uganda are cared for by The AIDS Support Organisation
-(TASO).
-How TASO helps AIDS patients.
-❖ It provides them with counselling services.
-❖ It provides them with Anti-Retroviral drugs (ARVs)
-❖ It provides relief aid in terms of food.
-How AIDS is spread.
-❖ By sharing sharp objects with an infected person.
-❖ Contact of wounds with blood of an infected person.
-❖ Having unprotected sexual intercourse with an infected person.
-❖ Using unsterilised sharp objects during some cultural practices like circumcision.
-❖ Through blood transfusion with an infected person.
-Use of ABC to prevent AIDS.
-• A=Abstain from sex (to unmarried people)
-• B=Be faithful to your partner (to married couples)
-• C=Condom use.
-Social effects of HIV/AIDS on the population.
-❖ It leads to death of people.
-❖ It causes misery to the infected person.
-❖ It leads to isolation.
-❖ It leads to many orphans due to deth of the parents.
-Economic effects of HIV/AIDS on population.
-❖ It leads to loss of efficiency at work.
-❖ It leads low labour supply due to death of many people.
-❖ It leads to poverty in a family as a result of overspending on drugs treating those
-infected.
-❖ It leads to low market for goods due to death of many people.
-Page 49
-Testing Exercise.
-1. Give the meaning of each of the following;
-(i) Population
-(ii) Population growth
-2. Give any three causes of high population growth in Uganda.
-3. State any two advantages of a high population in an area.
-4. Mention any two problems an area is likely to face as a result of having a large population.
-</passage>
-
-<passage id="lchk_a8bf4b84729e467e90e868625ca681a3" source="Primary 5 Social Studies Scheme of Work, Term III" part="6">
-Examples of densely populated areas
-Examples of sparsely populated areas
-Subject
-The learner
-Gives the meaning of population
-distribution
-Identifies the factors influencing
-population distribution in Uganda
-Gives examples of densely
-populated and sparsely populated
-areas in Uganda.
-Language
-The learner pronounces, reads and
-spells words with stress intonation
-and fluency
-Group work
-Question and answer
-Answering oral and
-written questions
-Effective
-communication
-Critical thinking
-Responsibility
-Co-operation
-Visit to
-Mukono
-town
-MK pupils SST book page ..., Atlases on population
-distribution in Uganda
-4
-Population size and distribution of Uganda
-Map work
-The map of Uganda showing
-population distribution in different
-areas
-Subject
-The learner
-Draws the map of Uganda
-Indicates the areas with as dense
-population
-Shows areas with a sparse
-population
-Language
-The learner pronounces, reads,
-spells and writes words correctly for
-example Dense, sparse e.t.c
-Exhibition
-Representation
-Drawing the map Creative
-thinking
-Assertiveness
-Drawn
-map on
-a chart
-MK SST pupils book 5 page 177
-5
-Population size and distribution of Uganda
-Population density
-Meaning of population density
-Developing a formula of calculating
-population density
-Calculating the population densities of
-different places
-Subject
-The learner;
-Gives the meaning of population
-density
-Calculates population density of
-different places
-Language
-The learner, pronounces, reads,
-spells and writes the words correctly
-like density, calculate, explosion,
-distribution
-Guided discussion
-Inquiry
-Giving the meaning of
-population density
-Critical thinking
-Co-operation
-Text
-book
-reading
-MK SST pupils book 5 page 182
-8 1
-Population size and distribution of Uganda
-Population growth
-Meaning of population growth
-Factors responsible for population
-growth
-Advantages of a high population
-Disadvantages of a high population
-Ways of controlling population growth
-Subject
-The learner
-Gives the meaning of population
-growth
-Identifies the factors responsible for
-population growth
-Gives the advantages and
-disadvantages of low and a high
-population.
-Language
-The learner reads, spells and writes
-the following words correctly i.e.
-sparse population, utilization,
-infant,. Mortality e.t.c
-Guided discussion
-Inquiry
-Answering oral and
-written activities
-Assertiveness
-Self esteem
-Responsibility
-Love
-Care
-Chalkbo
-ard
-illustratio
-n
-MK Standard SST pupils book 5 page 179
-2
-Population size and distribution of Uganda
-Low / sparse population
-Meaning of a low / sparse / under
-population
-Advantages of low population
-Disadvantages of low population
-Ways how the government
-Can deal with a past growing
-population
-Advantages of small family
-Disadvantages of having
-Subject
-The learner;
-Gives the meaning of low population
-Writes the advantages of low
-population
-Language
-The learner pronounces, reads,
-spells and writes words correctly like
-immigration, emigration, fertility rate.
-Guided discussion Answering oral and
-written activities
-Love
-Care
-Sharing
-Demonst
-ration
-Chalkbo
-ard
-illustratio
-n
-3
-Population size and distribution of Uganda
-Population census
-Meaning of population census
-National population census
-The ministry responsible for conducting
-a national census
-The officials involved in the census
-Reasons for carrying out population
-census
-Information collected during population
-census
-Problems faced during population
-census
-Reasons why population census take
-long to be conducted
-Subject
-The learner;
-Gives the meaning of population
-</passage>
-
 <passage id="lchk_7e914abcd1f34c67935e12ca2588d5ec" source="P.5 SST SCHEME TERM III 2019" part="5">
 Page 142-143
 2
@@ -1201,6 +1112,100 @@ Population
 -Discussing the problems associated with high and law population.
 </passage>
 
+<passage id="lchk_c39ba86482504f359b37660b3e5a1d42" source="P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation" part="22">
+3. Give two benefits of a small family size.
+4. How can the government of Uganda deal with its fast growing population?
+Date Class Subject No. of pupils Time
+P.5
+TOPIC: Population size and distribution in Uganda
+SUB –TOPIC: Family planning
+LANGUAGE COMPETENCE :
+The learner:- Spells and uses words related to the sub -topic: sanitation , abortion, polygamy
+Content: Family planning
+What is family planning?
+ Family planning is the spaced way of producing children.
+Methods used in family planning
+59
+ Natural methods
+ Artificial methods (use of condoms, injector plan)
+Advantages of family planning
+ Prevents un wanted births
+ Control population explosion
+ Improves on the financial status of the family
+ It reduces high maternal mortality rate among women
+ It helps the family to plan for the children effectively.
+Disadvantages of family planning
+ It discourages the population growth.
+ It brings limited productive man power,
+ It reduces tax base in a country.
+ It brings shortage of labour force in a home.
+Advantages of having a small family
+ Easy to plan for
+ Easy to provide basic needs.
+ Easy to educate the children
+ Doesn’t need a lot of land
+ Reduces quarrels among family members
+ Children enjoy parental love
+Disadvantages of small family size
+ Shortage of labour
+ Shortage of security in a home
+ Shortage of income due to less labour force
+Activity
+1. What is family planning?
+2. Why does the government of Uganda encourage family planning?
+3. Give two reasons why people have got negative attitude towards family planning.
+4. State how a small family is easy to plan for.
+60
+5. Give one problem that can be caused by small family size.
+6. Give two reasons why most families live in poor conditions.
+Date Class Subject No. of pupils Time
+P.5
+TOPIC: Population size and distribution in Uganda
+SUB –TOPIC: Population Census
+LANGUAGE COMPETENCE :
+The learner:- Spells and uses words related to the sub -topic: census, population census,
+enumerator, statistics, bureau
+Content: Population census
+a) Population census?
+ Population census is the general counting of people in an area.
+b) National population census
+ National population census is the general counting of people in a country.
+c) Census night
+ Census night is the night before the census is carried out.
+People are advised not to move away from their homes before they are counted for the
+following day:
+Reasons for carrying out national population census
+ To know the number of people and plan for them.
+ To know the birth rate and death rate
+ To know the rate of population growth
+ It helps the government to know the population structure.
+Qn. Mention the ministry that carries out national population census
+ The ministry of finance, planning and economic development
+Qn. Which body in Uganda, carries out national population census?
+ The Uganda national bureau of statistics
+Information collected during population census
+61
+ Sex
+ Age
+ Race
+ Marital status
+ Religion
+ Language
+ Level of education
+ Types of housing
+ Occupation
+Note : Uganda had its recent population census in the year 2003
+Qn. What title is given to the official who carry out population census.
+Enumerators
+Problems faced during national population census
+ Poor transport in some areas.
+ Some people give false information
+ Ignorance among some people
+ Poor climatic condition some times
+Qn. State the period when national population census is carried out.
+ It is carried out every after ten years
+</passage>
+
 <passage id="lchk_7682272c0fdb4b93a290837e483bcf34" source="P.5 SST SCHEME TERM III 2019" part="6">
 -Discussing the solutions to the high population density and ways of controlling population growth.
 -Discussing the effects of HIV on population and economic production
@@ -1283,176 +1288,6 @@ Budget
 Types of budget
 Pictures of different types of budgets
 MK bk 5 pg 140-141
-</passage>
-
-<passage id="lchk_1162553670784949a6a5f4ead61c3374" source="P.5 SST SCHEME TERM III 2019" part="1">
-SCHEME OF WORK:
-SUBJECT: SOCIAL STUDIES CLASS: P.5 SUBJECT TEACHER ………………………………………………….. TERM THREE YEAR ………………….
-WK
-PD
-Theme
-Topic
-Sub-Topic
-Competence
-Content
-Methods and Techniques
-Life skills and values
-( Indicators)
-Suggested activities
-Teaching / learning aids
-Ref
-Re
-Subject
-Language
-1
-1
-LIVING TOGETHER IN UGANDA
-Uganda as an independent nation
-Independence
--Explain the
-word political
--Independence
--Independent
--Pronounce, spell, write , read words to independence
-Independence
--definition – is the state of being free from foreign control or rule.
-Characteristics of an independent nation
--Territory of land.
--Government
--Constitution
--Parliament
--Judiciary
--Freedom
--Police to keep law and order
--Citizens
--Control its affairs
--Explanation
--Discussion
--Brain storming
--Question and answer
--Self esteem
--Negotiation
--Problem solving
--Define and explain the word independence.
--Discuss the characteristics of an independence nation
--Dramatizing
--Text books
--Children’s properties
--Functional SST book 5 page 165
-MK Standard page 117
-2
-Symbols of a nation (The national flag)
--Identify national symbols and explain their significances
-Spells , reads, pronounces and writes words and sentences related to symbols of the nation.
-The symbols of the nation.
--The National flag.
--National Anthem
--Coat of Arms
--Emblem
--language (English)
--The constitution (supreme law)
-National flag
--Concept
--The designer
-(Grace Nsingira)
--The colours of the flag
--Areas where it can be flown.
--How and when its flown.
--Signifance of the national flag.
--Explanation
--Discussion
--Question and answer
--Self discovery
--Effective communication
--Appreciation
--Self awareness
--observation
--Respect
--love
--caring
--Drawing and shading
--Practice how to raise fly the national flag.
--national flag
--Pictures of the national flag.
--Text book
-Mk std
-\bk 5
-Pg 12506
-Teachers guid
-Pg 222
-1
-3
-LIVING TOGETHER IN UGANDA
-Uganda as an independent nation
-Symbols of a nation (The National Anthem
--Identify and explain the National Anthem. (stanza) and the coat of Arms
--Reads, spell, pronounce and write words found in the Anthem and Coat of Arms
-National Anthem
--Concept (3 stanzas)
--The composer (George William Kakoma)
--Occasions when its sung.
-(British National Anthem) was sung before Independence.
--Significances.
--Discussion
--Discovery
--Explanation
--Appreciation
--Self awareness
--Effective communication
--Observation
--Analyse
--Respect
--Singing and practicing the Anthem
--Papers having the National Anthem
-MK stdbk 5 pg 123-4
-4
-&
-5
-The national coat of Arm
-National Coat of Arms.
--Concepts
--Features of the coat of Arms.
--The National Motto
--Significance of The Coat of Arms.
--Significances of the features of the coat of Arms.
--Discussion
--Question and answer
--Drawing
--Patriotism
--Respect
--Drawing and indicating the features of he coat of Arms
--Coat of Arms.
--Chart showing the coat of Arms
-MK stdbk 5 page 126-127
-2
-1
-LIVING TOGETHER IN UGANDA
-Uganda as an independent nation
-Symbols of a nation (The Emblem)
--Name and identify the emblem and give its significances
--Spell, read, pronounce the words related to the National emblem
-Emblem
--Concepts (crested crane)
--Reasons why it was chosen as the emblem.
--Documents where its found.
--Significances.
--Discussion
--Explanation
--Discovery
--Appreciation
--Description
--Inquiry
--Drawing
--Critical thinking
--Love
--Caring
--Respect
--Drawing the emblem and shading
--Pictures of the emblem
-Mk stdbk 5 page 128
-2
-The National Language
--Name the Local languages.
 </passage>
 </passages>
 

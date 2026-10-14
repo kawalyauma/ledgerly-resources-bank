@@ -1,0 +1,73 @@
+{
+  "job": "ltsk_7fb11bd0dba64ed1b1f7e05a7c86467f-0",
+  "task": "ltsk_7fb11bd0dba64ed1b1f7e05a7c86467f",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 96,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 10,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_a2711f5a90ed438bae20f95297454187",
+      "kind": "teach",
+      "week": 10,
+      "title": "Family planning and family size",
+      "periods": 1,
+      "subtopic": "Control of population growth"
+    },
+    {
+      "id": "lles_e955e45f7b80483e8875a387c93e63cb",
+      "kind": "practice",
+      "week": 10,
+      "title": "Practice: controlling population growth and family planning",
+      "periods": 1,
+      "subtopic": "Control of population growth"
+    },
+    {
+      "id": "lles_5476d81562ba43ebb98651da24aa110f",
+      "kind": "teach",
+      "week": 10,
+      "title": "Population terms",
+      "periods": 1,
+      "subtopic": "Population, size and distribution: summary"
+    },
+    {
+      "id": "lles_99eba5779af2447fb0fd80f43a9edcd8",
+      "kind": "practice",
+      "week": 10,
+      "title": "Practice: topical test on population, size and distribution",
+      "periods": 1,
+      "subtopic": "Population, size and distribution: summary"
+    },
+    {
+      "id": "lles_c9ff97e308cc443fa31048197e8c8147",
+      "kind": "assessment",
+      "week": 10,
+      "title": "End of term assessment",
+      "periods": 1,
+      "subtopic": "The Government of Uganda, Population, Size and Distribution"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_6d2556c7c2cf4bdaab5bead60ded2e89",
+    "lchk_81d55cd06942488eb3d7927c27264ea9",
+    "lchk_4edd4afd1d254374a6c93da86c0debc8",
+    "lchk_e0031cef799c413f9438d6584be3e476",
+    "lchk_de8fddce4e9d4f858bcd933118db47b3",
+    "lchk_e9bf3ccc4d0740c9b05e37f9727a64cd",
+    "lchk_7e914abcd1f34c67935e12ca2588d5ec",
+    "lchk_c39ba86482504f359b37660b3e5a1d42",
+    "lchk_7682272c0fdb4b93a290837e483bcf34"
+  ],
+  "created": "2026-10-14T18:12:37.169Z"
+}
