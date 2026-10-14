@@ -120,7 +120,10 @@ class Cites:
 
 SOURCE_COMMENT = re.compile(r"<!--\s*source:\s*(\S+)\s+\"([^\"]+)\"\s*-->")
 INSTRUCTION_PHRASES = re.compile(r"\b(?:discuss(?:ing)?|in (?:your|their|small) groups?|tell (?:the|a|your) (?:story|partner|class)|sing (?:a |the )?songs?|act out|dramati[sz]e|read (?:it |this |these |the passages? )?(?:aloud|with your teacher)|say (?:each|the|these) words?|think (?:of|about) a|with your teacher|your teacher will)\b", re.I)
-MIN_WORDS = {1: 80, 2: 120, 3: 160, 4: 200, 5: 240, 6: 280, 7: 320}
+# Point-form notes are short by design: these floors only catch stubs (the point-form check catches padding).
+MIN_WORDS = {1: 50, 2: 70, 3: 90, 4: 110, 5: 130, 6: 150, 7: 170}
+FILLER = re.compile(r"\b(?:(?:the )?supplied (?:notes|passages|material)|according to the (?:notes|passages|sources)|the passages? (?:say|says|state|states|show|shows)|this shows|these (?:show|help|responsibilities show)|in this lesson|as (?:we|you) (?:have )?(?:seen|learnt|learned))\b", re.I)
+POINT = re.compile(r"^(?:[-*•❖]|\d+[.)])\s+(.*)$")
 EXAMPLE_SUBJECTS = re.compile(r"math|english|reading|literacy|phonics", re.I)
 
 
@@ -129,6 +132,32 @@ def check_latex(text, where, problems):
     if plain.count("$") % 2: problems.append(f"{where}: unbalanced $ (LaTeX)")
     for m in re.finditer(r"\$\$?(.+?)\$\$?", plain, re.S):
         if m.group(1).count("{") != m.group(1).count("}"): problems.append(f"{where}: unbalanced braces in ${m.group(1)[:40]}$")
+
+
+def count_words(t):
+    return len(re.findall(r"[^\W_][\w'’-]*", t))
+
+
+def check_point_form(body, subject, where, problems):
+    """House style (same as Ledgerly's quality gate): '- ' points of one fact each, no paragraphs, no padding."""
+    section, paragraphs, long_points = "", [], []
+    for raw in body.splitlines():
+        line = raw.strip()
+        if not line: continue
+        h = re.match(r"^#{1,6}\s+(.*)$", line)
+        if h: section = h.group(1).lower(); continue
+        if line.startswith("|") or line.startswith("[[diagram:") or line.startswith("$$"): continue
+        if re.match(r"^(example|new words|exercise)", section): continue
+        m = POINT.match(line)
+        if m:
+            if count_words(m.group(1)) > 30: long_points.append(m.group(1)[:60])
+            continue
+        if EXAMPLE_SUBJECTS.search(subject) and count_words(line) <= 30: continue
+        paragraphs.append(line[:60])
+    if paragraphs: problems.append(f"{where}: notes must be in point form ('- ' points, no paragraphs); rewrite: " + ", ".join(f'"{p}…"' for p in paragraphs[:3]))
+    if long_points: problems.append(f"{where}: points must be short (at most 30 words, one fact each); split: " + ", ".join(f'"{p}…"' for p in long_points[:3]))
+    filler = sorted({f.lower() for f in FILLER.findall(body)})
+    if filler: problems.append(f"{where}: notes contain padding ({', '.join(filler[:4])}); state the facts only")
 
 
 def check_notes(text, lesson, job, cites, figures, activities, problems, warnings):
@@ -144,6 +173,7 @@ def check_notes(text, lesson, job, cites, figures, activities, problems, warning
         problems.append(f"{where}: needs '# TOPIC: …'")
     if kind != "assessment" and not re.search(r"^###\s+Exercise", text, re.M | re.I):
         problems.append(f"{where}: must end with '### Exercise'")
+    check_point_form(body, subject, where, problems)
     found = sorted({m.lower() for m in INSTRUCTION_PHRASES.findall(body)})
     if found: problems.append(f"{where}: classroom instructions belong in the plan, not the notes ({', '.join(found[:5])})")
     has_example = re.search(r"^###\s+(?:Worked\s+)?Examples?\b", text, re.M | re.I)

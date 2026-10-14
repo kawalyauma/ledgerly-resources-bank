@@ -288,6 +288,9 @@ $\frac{1}{5} + \frac{2}{5} = \frac{3}{5}$
 ```
 
 - Structure: `# TOPIC` / `## SUB-TOPIC` / `### sections` / `### Exercise`.
+- **Point form**, like a good pupil's notebook: every content line is a short `- ` point
+  (one fact), sections such as Examples of…, Problems faced by…, Possible solutions…,
+  and a closing `### Note`. No paragraphs and no padding. See AGENT.md for a full example.
 - Every section, example and question has a `<!-- source: … -->` comment. Teachers
   never see these comments, but the checker reads them.
 - Classroom activities (story telling, discussion, songs, Bible reading) belong

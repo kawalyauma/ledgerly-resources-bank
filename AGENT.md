@@ -58,28 +58,73 @@ and one `meta.json` (`schema/meta.schema.json`).
 
 ## Chalkboard notes
 
-What the teacher writes on the board and learners copy, **content only**:
+What the teacher writes on the board and learners copy, **content only**, in
+**point form** like a good pupil's notebook. No paragraphs.
 
 ```markdown
-# TOPIC: FRACTIONS
-## SUB-TOPIC: Adding fractions with the same denominator
+# TOPIC: LOCATION OF UGANDA ON THE MAP OF EAST AFRICA
+## SUB-TOPIC: Highland districts
 
-### Rule
-When the denominators are the same, add the numerators and keep the denominator.
-<!-- source: lsch_9f2c1e "add the numerators and keep the denominator" -->
+### Highland districts
+- These are districts which are located in areas of high altitude.
+- Such districts usually have many hills and mountains.
+- **Altitude** is the height above the sea level.
+<!-- source: lsch_51a0 "districts which are located in areas of high altitude" -->
 
-### Example 1
-$\frac{1}{5} + \frac{2}{5} = \frac{3}{5}$
-<!-- source: lsch_9f2c1e "1/5 + 2/5 = 3/5" -->
+### Examples of highland districts
+- Mbale
+- Kapchorwa
+- Kabale
+- Kisoro
+- Bundibugyo
+- Kasese
+<!-- source: lsch_51a0 "Examples of highland districts. Mbale, Kapchorwa, Kabale" -->
 
-[[diagram:fraction-bar-3-5]]
+### Economic activities carried out in highland districts
+- Tourism
+- Mining
+- Crop growing
+<!-- source: lsch_51a0 "Tourism, Mining, Crop growing" -->
+
+### Problems faced by people living in highland districts
+- Landslides
+- Severe soil erosion
+- Poor transport network
+- Difficulty in agricultural mechanisation
+<!-- source: lsch_51a0 "Landslides, Severe soil erosion, Poor transport network" -->
+
+### Possible solutions to the problems faced by people living in highland districts
+- By rearing donkeys to use them as means of transport.
+- By constructing winding roads.
+- By terracing, contour ploughing and strip cropping to reduce soil erosion.
+<!-- source: lsch_51a0 "By constructing winding roads" -->
+
+### Note
+- Heavy rainfall is the major cause of landslides in highland areas.
+- Landslides can be controlled in highland areas by planting more trees.
+<!-- source: lsch_51a0 "Heavy rainfall is the major cause of landslides" -->
 
 ### Exercise
-1. $\frac{2}{7} + \frac{3}{7}$ <!-- source: lsch_77ab01 "Add: (a) 2/7 + 3/7" -->
-2. $\frac{1}{9} + \frac{4}{9}$ <!-- source: lsch_77ab01 "(b) 1/9 + 4/9" -->
+1. What are highland districts? <!-- source: lsch_77ab "What are highland districts?" -->
+2. Give any two examples of highland districts in Uganda. <!-- source: lsch_77ab "two examples of highland districts" -->
+3. Why is it difficult to use tractors in highland areas? <!-- source: lsch_77ab "difficult to use tractors" -->
 ```
 
 - `# TOPIC:` / `## SUB-TOPIC:` / `###` sections / `### Exercise` last.
+- **Every content line is a `- ` point**: one fact, about 3–15 words (the checker rejects
+  points over 30 words), in the sources' own wording. A meaning is a point too.
+  Lists of names are one name per point, with no explanation.
+- **Section headings use the usual notebook wording**: the thing itself (its meaning),
+  Examples of…, Reasons why…, Importance of…, Advantages/Disadvantages of…, Causes of…,
+  Effects of…, Economic activities…, Problems faced by…, Possible solutions to…, Ways of…,
+  Duties/Roles of… Use the ones the sources support.
+- **`### Note`** after the content: 2–5 key facts or exam tips from the sources
+  (shown to learners as "Note:" with ticks). Leave it out when the sources give none.
+- **No padding.** No paragraphs, no linking or summary sentences ("This shows…",
+  "These help…", "In the supplied notes…", "according to the passages", "In this lesson…").
+  The checker rejects them. Shorten; never stretch.
+- Mathematics, English and Reading also have `### Example 1`, `### Example 2`… with
+  the worked steps from the sources, one step per line. Other subjects have no examples.
 - Each `###` section (except `### New words`) and each exercise line carries a
   `<!-- source: <passage id> "<exact quote>" -->` comment. Teachers never see these comments.
 - The `### Exercise` questions are the same as the questions in `<lessonId>.activities.json`.
@@ -88,7 +133,8 @@ $\frac{1}{5} + \frac{2}{5} = \frac{3}{5}$
 - Maths in LaTeX: `$…$` inline, `$$…$$` display. Column sums and long division are
   coded figures, not LaTeX.
 - Pictures go on their own line as `[[diagram:<key>]]`.
-- Size by class: P1 ≈ 100–220 words … P7 ≈ 400–650 words (the checker enforces minimums).
+- Size by class: from about 6–14 points (P1) to 18–36 points (P7). The checker only
+  rejects stubs (P1 under 50 words … P7 under 170).
 
 ## Quotes
 

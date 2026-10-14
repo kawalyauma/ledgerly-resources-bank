@@ -28,18 +28,23 @@ NOTES = f"""# TOPIC: FRACTIONS
 ## SUB-TOPIC: Adding fractions with the same denominator
 
 ### Meaning of a fraction
-A **fraction** is part of a whole. The top number is the **numerator** and the bottom number is the **denominator**.
+- A **fraction** is part of a whole.
+- The top number is the **numerator**.
+- The bottom number is the **denominator**.
 <!-- source: lsch_t1 "A fraction is part of a whole" -->
 
 ### Rule
-When the denominators are the same, add the numerators and keep the denominator.
+- When the denominators are the same, add the numerators and keep the denominator.
 {S1}
 1. Look at the denominators. They must be the same.
 2. Add the top numbers, which are the numerators, to get the new numerator.
 3. Write the same denominator under the answer and do not add the bottom numbers.
 
 ### Why the denominator stays the same
-When we add fractions with the same denominator, the size of each part does not change, so the **denominator stays the same**. Only the number of parts changes, so we add the **numerators**. For example, fifths added to fifths still give fifths, and ninths added to ninths still give ninths.
+- When we add fractions with the same denominator, the size of each part does not change.
+- So the **denominator stays the same**.
+- Only the number of parts changes, so we add the **numerators**.
+- Fifths added to fifths still give fifths; ninths added to ninths still give ninths.
 <!-- source: lsch_t1 "the size of each part does not change, so the denominator stays the same" -->
 
 ### Example 1
@@ -112,6 +117,10 @@ cases = [
     run("invented quote is rejected", False, "quote not found", notes=NOTES.replace('"1/5 + 2/5 = 3/5"', '"1/6 + 2/6 = 3/6"')),
     run("exercise line without source is rejected", False, "exercise line has no source",
         notes=NOTES.replace(' <!-- source: lsch_t2 "(d) 1/4 + 2/4. Answers" -->', "")),
+    run("paragraph notes are rejected", False, "point form",
+        notes=NOTES.replace("- A **fraction** is part of a whole.\n- The top number is the **numerator**.\n- The bottom number is the **denominator**.\n",
+                            "A **fraction** is part of a whole. The top number is the **numerator** and the bottom number is the **denominator**, as every learner in the class should be able to explain clearly.\n")),
+    run("padding is rejected", False, "padding", notes=NOTES.replace("- The top number is the **numerator**.", "- The top number is the **numerator**, according to the notes.")),
     run("classroom instruction in notes is rejected", False, "classroom instructions",
         notes=NOTES.replace("### Exercise", "Discuss in your groups.\n\n### Exercise")),
     run("maths without examples is rejected", False, "need '### Example'",
