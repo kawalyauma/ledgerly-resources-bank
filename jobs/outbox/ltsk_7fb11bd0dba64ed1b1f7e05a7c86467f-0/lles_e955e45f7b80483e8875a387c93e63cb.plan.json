@@ -1,0 +1,74 @@
+{
+  "competences": [
+    "Answer sourced questions on family planning and the effects of rapid population growth."
+  ],
+  "languageCompetence": "Read, interpret and use Social Studies terminology accurately.",
+  "objectives": [
+    "Answer sourced questions on family planning and the effects of rapid population growth."
+  ],
+  "priorKnowledge": "Social Studies content already covered during Term Three.",
+  "methods": [
+    "Discussion",
+    "Question and answer",
+    "Inquiry"
+  ],
+  "materials": [
+    "Chalkboard",
+    "Social Studies pupils book"
+  ],
+  "references": [
+    "Primary Five Social Studies resource passage lchk_401b8346cdcf44109b333a534b4a6b3d",
+    "Primary Five Social Studies resource passage lchk_f3180c29719f4e6ba4d80288742b14d2",
+    "Primary Five Social Studies resource passage lchk_c39ba86482504f359b37660b3e5a1d42",
+    "Primary Five Social Studies resource passage lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+    "Primary Five Social Studies resource passage lchk_e0031cef799c413f9438d6584be3e476"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Review previously taught population ideas.",
+      "learnerActivity": "Recall source definitions.",
+      "source": {
+        "source": "lchk_401b8346cdcf44109b333a534b4a6b3d",
+        "quote": "By discouraging early marriages."
+      }
+    },
+    {
+      "stage": "Lesson development I",
+      "minutes": 12,
+      "teacherActivity": "Explain the sourced definitions and initial key points.",
+      "learnerActivity": "Read, respond and copy supported notes.",
+      "source": {
+        "source": "lchk_7682272c0fdb4b93a290837e483bcf34",
+        "quote": "Explanation"
+      }
+    },
+    {
+      "stage": "Lesson development II",
+      "minutes": 15,
+      "teacherActivity": "Guide pupils through sourced revision items.",
+      "learnerActivity": "Use the supplied notes and questions in written practice.",
+      "source": {
+        "source": "lchk_7682272c0fdb4b93a290837e483bcf34",
+        "quote": "Question"
+      }
+    },
+    {
+      "stage": "Assessment and conclusion",
+      "minutes": 8,
+      "teacherActivity": "Check the answers against the source-backed exercise.",
+      "learnerActivity": "Complete and correct their work.",
+      "source": {
+        "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+        "quote": "Give two reasons why people have got negative attitude towards family planning."
+      }
+    }
+  ],
+  "assessment": "Use 5 questions quoted from the resources.",
+  "homework": "Complete source-written exercises not finished in class.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Responsibility"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "competences": [
+    "Answer the topical test questions from the population resource pack."
+  ],
+  "languageCompetence": "Read, interpret and use Social Studies terminology accurately.",
+  "objectives": [
+    "Answer the topical test questions from the population resource pack."
+  ],
+  "priorKnowledge": "Social Studies content already covered during Term Three.",
+  "methods": [
+    "Question and answer",
+    "Discussion",
+    "Observation"
+  ],
+  "materials": [
+    "Chalkboard",
+    "P5 Social Studies book"
+  ],
+  "references": [
+    "Primary Five Social Studies resource passage lchk_91e897c1be5f461ab3bbc9443993f48c",
+    "Primary Five Social Studies resource passage lchk_14b623f1a3ce45c2ba8e608ccdc49bdb"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Review previously taught population ideas.",
+      "learnerActivity": "Recall source definitions.",
+      "source": {
+        "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+        "quote": "Population density is the number of people living in an area per square kilometer."
+      }
+    },
+    {
+      "stage": "Lesson development I",
+      "minutes": 12,
+      "teacherActivity": "Explain the sourced definitions and initial key points.",
+      "learnerActivity": "Read, respond and copy supported notes.",
+      "source": {
+        "source": "lchk_7682272c0fdb4b93a290837e483bcf34",
+        "quote": "Explanation"
+      }
+    },
+    {
+      "stage": "Lesson development II",
+      "minutes": 15,
+      "teacherActivity": "Guide pupils through sourced revision items.",
+      "learnerActivity": "Use the supplied notes and questions in written practice.",
+      "source": {
+        "source": "lchk_7682272c0fdb4b93a290837e483bcf34",
+        "quote": "Question"
+      }
+    },
+    {
+      "stage": "Assessment and conclusion",
+      "minutes": 8,
+      "teacherActivity": "Check the answers against the source-backed exercise.",
+      "learnerActivity": "Complete and correct their work.",
+      "source": {
+        "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+        "quote": "State two reasons why government conducts population census."
+      }
+    }
+  ],
+  "assessment": "Use 6 questions quoted from the resources.",
+  "homework": "Complete source-written exercises not finished in class.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Co-operation"
+  ]
+}

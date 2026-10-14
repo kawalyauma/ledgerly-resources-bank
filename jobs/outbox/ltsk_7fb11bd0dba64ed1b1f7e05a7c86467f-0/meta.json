@@ -1,0 +1,18 @@
+{
+  "job": "ltsk_7fb11bd0dba64ed1b1f7e05a7c86467f-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "lles_a2711f5a90ed438bae20f95297454187": [],
+    "lles_e955e45f7b80483e8875a387c93e63cb": [
+      "The source does not provide model answers for why some people oppose family planning or why particular families are poor. Those exercise answers are null rather than invented."
+    ],
+    "lles_5476d81562ba43ebb98651da24aa110f": [],
+    "lles_99eba5779af2447fb0fd80f43a9edcd8": [],
+    "lles_c9ff97e308cc443fa31048197e8c8147": [
+      "The source lacks answer keys for some questions. Unverifiable answers are left null and omitted from the model marking guide."
+    ]
+  },
+  "reviewerNotes": "Final week: 5 lessons including end-term 20-question Government and Population assessment. Exact text citations validated; unsupported marking answers omitted rather than invented. Running local Python checker is unavailable with GitHub connector."
+}

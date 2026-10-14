@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is population?",
+    "answer": "The total number of people living in an area.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Population, size and distribution: summary",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "What is population?"
+    }
+  },
+  {
+    "question": "What is population structure?",
+    "answer": "Composition of the population in terms of age and sex.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Population, size and distribution: summary",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "What is population structure?"
+    }
+  },
+  {
+    "question": "Give the difference between population census and national population census.",
+    "answer": "A national census covers a whole country; a population census can cover an area.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Population, size and distribution: summary",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Give the difference between population census and national population census."
+    }
+  },
+  {
+    "question": "Give the meanings of; a. Population density b. Population distribution",
+    "answer": "Density: people per square kilometre. Distribution: the spread of people.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Population, size and distribution: summary",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Give the meanings of; a. Population density b. Population distribution"
+    }
+  },
+  {
+    "question": "What do we call the night before census?",
+    "answer": "Census night.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Population, size and distribution: summary",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "What do we call the night before census?"
+    }
+  }
+]

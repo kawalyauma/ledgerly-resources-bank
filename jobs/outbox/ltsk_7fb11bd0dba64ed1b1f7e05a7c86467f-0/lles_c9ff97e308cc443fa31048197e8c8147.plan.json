@@ -1,0 +1,60 @@
+{
+  "competences": [
+    "Assess concepts from the Government of Uganda and population units."
+  ],
+  "languageCompetence": "Read, interpret and use Social Studies terminology accurately.",
+  "objectives": [
+    "Assess concepts from the Government of Uganda and population units."
+  ],
+  "priorKnowledge": "Social Studies content already covered during Term Three.",
+  "methods": [
+    "Written assessment",
+    "Question and answer"
+  ],
+  "materials": [
+    "Question paper",
+    "Exercise books"
+  ],
+  "references": [
+    "Primary Five Social Studies resource passage lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+    "Primary Five Social Studies resource passage lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Introduce the assessment using the source-written examination questions.",
+      "learnerActivity": "Prepare to respond to the source exercise questions.",
+      "source": {
+        "source": "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+        "quote": "Mention the two parts of a budget."
+      }
+    },
+    {
+      "stage": "Individual written assessment",
+      "minutes": 30,
+      "teacherActivity": "Supervise the written assessment using only the source-written questions.",
+      "learnerActivity": "Write answers to the questions included in the assessment.",
+      "source": {
+        "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+        "quote": "Mention any three types of information that is collected by enumerators during the census."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 5,
+      "teacherActivity": "Collect scripts and use source-supported answers for the marking guide.",
+      "learnerActivity": "Submit their completed answers.",
+      "source": {
+        "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+        "quote": "Give one way the government can encourage the settlement of people in rural areas."
+      }
+    }
+  ],
+  "assessment": "Use 20 questions quoted from the resources.",
+  "homework": "Review marked answers after the assessment.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Responsibility"
+  ]
+}

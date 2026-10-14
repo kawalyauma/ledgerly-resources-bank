@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is family planning?",
+    "answer": "It is the spacing of births of children.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Control of population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+      "quote": "What is family planning?"
+    }
+  },
+  {
+    "question": "Why does the government of Uganda encourage family planning?",
+    "answer": "To help control population growth and support well-planned families.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Control of population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+      "quote": "Why does the government of Uganda encourage family planning?"
+    }
+  },
+  {
+    "question": "State how a small family is easy to plan for.",
+    "answer": "It is easier to meet children's basic needs and school costs.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Control of population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+      "quote": "State how a small family is easy to plan for."
+    }
+  },
+  {
+    "question": "Give one problem that can be caused by small family size.",
+    "answer": "Shortage of labour.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Control of population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+      "quote": "Give one problem that can be caused by small family size."
+    }
+  },
+  {
+    "question": "Give two benefits of a small family size.",
+    "answer": "Easier planning and provision of basic needs.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Control of population growth",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+      "quote": "Give two benefits of a small family size."
+    }
+  }
+]
