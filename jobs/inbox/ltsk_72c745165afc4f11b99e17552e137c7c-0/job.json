@@ -1,0 +1,31 @@
+{
+  "job": "ltsk_72c745165afc4f11b99e17552e137c7c-0",
+  "task": "ltsk_72c745165afc4f11b99e17552e137c7c",
+  "call": 0,
+  "kind": "scheme.outline",
+  "status": "open",
+  "attempt": 1,
+  "priority": 20,
+  "school": "sch-7207f9",
+  "class": "P6",
+  "classLevel": 6,
+  "subject": "Science",
+  "term": "2026-T3",
+  "week": null,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P6/science",
+  "passages": [
+    "lchk_f16b9ab2a13f457884791c7d5abfca5a",
+    "lchk_ca94afec6f3d42c2b4519c1b710833bd",
+    "lchk_b3ba2ada9d144186bfd0378008d26191",
+    "lchk_423533289cce49e2ad444f1ac034ec9e",
+    "lchk_fba7daf4aac04826b9e9b847d448b677",
+    "lchk_438d837d307c4a5cb9df5094c4aabb2a",
+    "lchk_3992e00e9502482f9c49407a8d400893",
+    "lchk_c4c6d466acb549fa9c4bba1246eb74f8"
+  ],
+  "created": "2026-10-14T19:41:38.719Z"
+}
