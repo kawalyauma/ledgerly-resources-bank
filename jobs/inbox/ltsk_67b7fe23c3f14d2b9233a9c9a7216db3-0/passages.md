@@ -447,322 +447,341 @@ pg 140-
 141
 <!-- /passage -->
 
-<!-- passage lchk_7e914abcd1f34c67935e12ca2588d5ec part 5 -->
-Page 142-143
-2
-Child labour
--Discussing and explaining the child labour and child rights.
--Child
--Labour
--Abuse
-Child labour
--Definition
--Examples of children’s rights.
--Responsibilities of children.
--Ways how children’s rights are abused.
--Ways of controlling child labour
-3
-Population size and distribution
-Population census
--Explaining population and population census.
--Discussing the reasons why the gov’t carries out the population census and problems encountered.
--spells, reads , pronounces and uses words related to
--population
--census
--enumerator
--census rights
+<!-- passage lchk_de8fddce4e9d4f858bcd933118db47b3 part 7 -->
+ Customs duty
+ Exercise duty
+Definition of a
+budget
+Parts of the budget
+Definition of the
+national budget
+Reasons for
+budgeting
+Sources of
+government
+revenue
+Types of taxes
+Ways how the
+government spends
+its revenue
+Problems faced
+during collection of
+taxes
+Dangers of
+smuggling
+122 – 127
+Page 14
 Population
--Meaning
--Population census
--Reasons why the government carries out population census.
--Ministry responsible for population census.
--Problems in conducting population census.
--Discussion
--Illustration
--Question and answer
--Observation
--Planning
--Co-operation
--Interpretation
--Description
--Explaining what population and census means.
--Counting the number of children by sex, tribe and age.
--Pictures showing a census being carried out.
-Mk std
-Bk5
-Pg 145
-7
-4
-LIVING TOGETHER IN UGANDA
-Population size and distribution
-Population growth
--Defining population growth.
--Discussing factors influencing population growth.
--Reads , spell, pronounce and use words like growth .
--Immigration
--Fertile
-Population growth.
--Definition
--Factors that influence population growth.
-Climate
-Fertility rate of woman
-Immigration
-Occupation
-Food
-Better health
-Health service
-Social service
-Security and peace
--Ways how the above influence population growth.
--Dangers of fast population growth.
--Explanation
--Question and answer
--Discussion
--Description
--Inquiry
--Critical thinking
--Care
--Explaining what population size and number means.
--Discussing the factors that lead to population increase.
--Explain the danger of fast population growth.
--Text book
--Pictures
-Mk stdbk 5
-Page 148-149
-5
-Population Distribution
--Explaining population distribution.
--Discussing the factors affecting population distribution
--Pronounce, read , spell and use words like-urbanization
--Industrialization
--Medical services
-Population Distribution
--Defining
--Factors affecting population distribution.
-Urbanization
-Industrialization
-Medical services
-Climate
-Physical features.
--Discussion
--Explanation
--Question and answer
--Appreciation
--Observation
--Map reading
--Sharing
--Respect
--Discussing how the factors affect the population distribution
--School
--neighborhood
--Pictures and photograph
-Mk std
-Bk 5
-Pg 145-147
-8
-1
-&
-2
-LIVING TOGETHER IN UGANDA
-Population size and distribution
-Population Density
--Explaining population density and high population density
--Density
--Square
-kilometer
-Population density
--Definition
--Method of calculation
-Popn density=No of pple
-Sq k/m
--High population density
--Low population density
--Illustration
--Explanation
--Question and answer
--Observation
--Appreciation
--Critical thinking
--Discussing the high and how population density
--Calculating population density
--Chalkboard illustration
-Functional
-Bk 5
-Page 198
-3
-&
-4
+size and
+distribution in
+Uganda and
+their
+relationship
+to economic
+planning and
+development
+Terms related
+to population
+ By the end of all
+lessons the children
+should be able to
+ Define all the terms
+related to population
+ Population
+ Population
+census
+ National
+population
+census
+ Enumerators
+ Population
+growth
+ Population
+distribution
+ Population
+explosion
+ Sparse
+population
+ Dense
+population
+ Optimum
+population
+ Over population
+ Census night
+ Under
+population
+Writing
+Reading
+Answering
+oral
+questions
+Chalkboard
+Atlas
+Text book
+MK bk 5 pg 148
 Population
--Discussing the problems associated to high and low population.
--Pronounce , read , spell and use words related to population.
--Advantages and disadvantages of high population (social factors)
--Problems associated with low population.
--Solutions to high population density and ways of controlling population growth.
--Explanation
--Discussion
--Question and answer
--Critical thinking
--Inquiry and answer
--Discussing the problems associated with high and law population.
+size and
+distribution
+Population
+census
+Should
+ Identify reasons why
+population census is
+conducted
+ Identify information
+collected during
+census
+ State the problem
+faced during census
+ Identify the ministry
+responsible for
+census
+ Reasons why
+census is
+conducted
+Information
+collected from
+people during
+census
+Problems the
+government faces
+during census
+Ministry
+responsible for
+conducting
+population census
+Answering
+oral
+questions
+151
+Factors
+affecting
+population
+distribution
+ Should be able to
+ Identify the factors
+affecting population
+distribution
+ Identify factors that
+attract people in an
+area
+ Sparse
+ Dense
+Factors affecting
+population
+distribution
+Factors that attract
+people in an area
+Reasons why some
+areas are densely
+Text book
+And atlas
+Pg 141
+Page 15
+ State reasons why
+some areas are
+sparsely populated
+ State reasons why
+some areas are
+densely populated
+populated
+Reasons why some
+areas are sparsely
+populated
+Population
+growth
+ Should be able to
+ Identify the factors
+affecting population
+growth
+ State the factors that
+lead to high
+population growth
+ State the causes of
+high birth rate
+ Ways of controlling
+high birth rate
+ Way of controlling
+high population
+growth
+ Birth rate
+ Family planning
+Factors affecting
+population growth
+Factors that can
+lead to high
+population growth
+Causes of high
+birth rate
+Ways of controlling
+high birth rate
+Ways of controlling
+high population
+growth rate
+Text book
+And
+Atlas
+Pg 151
+Advantages
+and
+disadvantages
+of a large
+population
+Advantages
+and
+disadvantages
+of small
+population
+ Should be able to
+ Identify the economic
+advantages of a
+large population
+ Identify the
+disadvantages of
+large population
+ State the advantages
+of a small population
+ Identify the
+disadvantages of a
+small population
+ Economic
+advantages of a
+large population
+Disadvantages of a
+large population
+Advantages of a
+small population
+Disadvantages of a
+small population
+Writing
+Answering
+oral
+questions
+Text books
+and atlas
+Population
+size and
+distribution
+Hazards that
+check on
+population
+growth
+ Should be able to
+ Identify the natural
+hazards that check
+on population
+growth
+ Identify the
+manmade disaster
+that check on
+population growth
+ Hazards Natural hazards
+that check on
+population growth
+Manmade hazards
+that check on
+population growth
+Text books
+Page 16
+Effects of HIV
+/ AIDS on the
+population
+ Mentions the social
+and economic
+effects of HIV /
+AIDS on the people.
+ Discusses the
+effects of HIV /
+AIDS in society.
+Economic and
+social effects of
+HIV / AIDS.
 <!-- /passage -->
 
-<!-- passage lchk_7c4fd5c6685b4ef5b553c7be3359c183 part 22 -->
-(iii) A Deficit budget.
-48. Mention the two parts of a budget.
-49. Name the government ministry responsible for making a national budget.
-50. Mention the three types of budgets.
-51. Give any two ways budgeting is important to an individual.
-52. State any two ways a surplus budget is important to a family.
-53. Mention any two causes of a deficit budget in a country.
-54. State any two ways a deficit budget is dangerous to a family.
-55. Give any two ways a country like Uganda can overcome a deficit budget.
-56. Give the meaning of the term Citizenship.
-57. Mention any two ways one can acquire citizenship of Uganda.
-58. State any three obligations of a good citizen.
-59. Give any one condition that can make one lose citizenship of Uganda.
-60. What name is given to an official government document that permits one to travel to other
-countries?
-61. Give any two ways a National identity card is useful to the citizens of Uganda.
-62. Why is food regarded to as a basic need?
-63. State any three problems people face when getting their basic needs.
-64. Mention any two forms of child abuse.
-65. State any two causes for the increasing cases of child abuse in Uganda today.
-66. Give any two ways children can contribute towards violation of their rights.
-67. How is the LC I Vice-chairperson useful to children in your community?
-68. Give any two ways cases of child abuse can be reduced in the society today.
-69. Give the meaning of Human rights.
-70. Mention any three examples of fundamental human rights.
-71. Name the body that is responsible for protecting therights of the people of Uganda.
-72. State one role a citizen can play to protect other people’s rights .
-73. Give any two ways children are subjected to child labour in the society today.
-74. Mention two ways child labour affects children in your community.
-75. Give any one way child abuse practices can be reduced in our community today.
-Page 41
-TOPIC 12: POPULATION SIZE AND DISTRIBUTION.
-.
-Population is the total number of people living in an area at a given time .
-Uganda has a population of over 45 million people according to the 2020 national
-population census statistics.
-Population distribution is the way people are spread in an area.
-Population growth is the increase in the number of people in an area.
-Population explosion is the sudden increase in the number of people in an area.
-Population census is the official counting of people in a country.
-Population density is the number of people living in an area per square kilometre.
-Population structure is the composition of people in terms of age and sex.
-POPULATION GROWTH .
-Population growth is an increase in the number of people in an area of a country.
-Factors that encourage Population growth.
-• High fertility rate among women.
-• Improved medical services.
-• Early marriages.
-• Polygamous marriage.
-• Availability of food.
-• Improved security and peace.
-• Unplanned family size.
-• Immigration.
-• Producing children for prestige.
-• Refugee influx.
-Cultural factors that promote population growth.
-• Polygamy
-• Producing children for prestige.
-• Forced early marriages.
-Advantages of population growth in an area.
-❖ It creates a large market for goods produced in an area.
-❖ It provides cheap labour force in an area.
-❖ The government collects more taxes from the people in areas with a large
-population.
-❖ It leads to development of an area.
-Disadvantages(dangers) of population growth.
-<!-- /passage -->
-
-<!-- passage lchk_f2bbe26a485b4f19a8d163a63cee3aef part 20 -->
-b)Why should a country have a national constitution?
-5. Mention the two parts of a national budget.
-6. Which government ministry is responsible for preparing the National Budget?
-7. State the ways through government revenue get revenue.
-8. Define
-a. A balanced budget
-b. A surplus budget
-9. Outline advantages of a surplus budget.
-10. Study the diagram below and answer questions that follows:
-a) What time of budget is illustrated?
-53
-b) Give the reason for your answer in (a) above.
-c) Give one disadvantage of the above type of budget.
-11. What is the major source of government revenue?
-Date Class Subject No. of pupils Time
-P.5
-TOPIC: Population size and distribution in Uganda
-SUB –TOPIC: Population distribution
-LANGUAGE COMPETENCE :
-The learner:- Spells and uses words related to the sub -topic: population, distribution, fertility
-Content: Population
-What is population?
- Population is the total number of people living in an area.
-Population distribution
- Population distributions the way people are spread in different areas of the country.
-OR
- Population distribution is the differing number of people living in different areas.
-Factors that affect population distribution
- Climate of the area.
- Fertility of the land.
- Social services
- Economic opportunities
-a) Climate
- Areas that have a good climate attract a high population density
- Areas with poor climatic conditions are sparsely populated.
-b) Soil fertility
- Areas that have fertile soils attract high population density to practice agriculture.
-c) Social services
- Areas that have well developed social services like health , education, and transport
-attract large population.
- People migrate to urban areas where social services are available.
-54
-How better health services lead to population increase
- Better health services lead to decreased death rates in an area.
- It increases fertility rate among women
-d) Economic opportunities
- Economic opportunities refer to situations whereby people are able to work and earn
-income.
- Economic opportunities lead to migration of people in search of employment in market
-places, schools , industries , hospitals, banks, and hotels.
-Examples of densely populated areas in Uganda
- Areas of Kisoro
- Areas of Kabale
- Areas around L. Victoria
- Areas around Mt. Elgon in Mbale and Kapchorwa , central, Eastern and western regions)
-Areas which are sparsely populated (have few people)
- North Eastern Uganda (Karamoja due to poor climate)
- Northern Uganda due to poor climate and insecurity
-Reasons why dry areas have few people
- There is scarcity of food in dry areas.
- There is scarcity of water in dry areas.
- People migrate from dry areas to places with reliable rainfall.
-How does industrialization affect the population of an area?
- people come from other areas to look for jobs in industries
-A map of Uganda showing population distribution
-55
-Activity
-1. Define the following terms:
-a) Population
-b) Population distribution
-2. Point out two factors that affect population distribution.
-3. Give two reasons why some places have many people than others.
-4. Explain how each of the factors below affect population of a place
-a) Urbanization
-b) Soil fertility
-c) Physical features
-d) Medical services
-Date Class Subject No. of pupils Time
-P.5
-TOPIC: Population size and distribution in Uganda
-SUB –TOPIC: Population density
-LANGUAGE COMPETENCE :
-The learner:- Spells and uses words related to the sub -topic:
-- Kilometer
-- Square
-- Growth
-- sudden
+<!-- passage lchk_a89f8a96f35c42f7a1dee9e9583a10c8 part 26 -->
+❖ It promotes proper utilisation of resources in
+an area.
+Problems associated/ caused with a High
+population density.
+• Unemployment.
+• Shortage of food.
+• Easy spread of communicable diseases.
+• Development of slums.
+• Poor hygienic condition leading to disease outbreak.
+• Environmental degredation.
+• High crime rate.
+Solutions to problems associated with a High population density.
+❖ People in urban areas should build storeyed buildings to solve a problem of land
+shortage.
+❖ Government should provide better social services in rural areas to promote urban-
+rural migration.
+❖ Empowering the youths to start small scale businesses (projects).
+❖ By extending electricity to rural areas.
+❖ Educating people to use modern methods of farming to increase food production.
+b) LOW POPULATION DENSITY.
+This is when an area has a small number of people compared to the available
+resources .
+Advantages of a low population density .
+• People have enough land.
+• Low crime rate.
+• There is enough accommodation.
+• It promotes conservation of the
+natural environment in an area.
+• Communicable diseases can not easily spread from one homestead to another.
+Disadvantages of a low population density.
+• There is low market for local goods or imported goods.
+• There is low labour force.
+• There is low tax base for the government.
+Storeyed houses can help to solve
+shortage of land in towns
+Page 48
+• There is poor social service provision.
+• There is limited social security.
+• There is under utilisation of resources in an area.
+Solutions to a low population census.
+• By improving social services to attract more people.
+• By setting up industries in an area.
+• By encouraging mechanisation to increase food production.
+• By encouraging people to marry many wives.
+EFFECTS OF HIV/AIDS ON POPULATION.
+HIV stands for Human Immunodeficiency Virus.
+AIDS stands for Acquired Immune Deficiency Syndrome.
+AIDS patients are people who suffer from AIDS.
+AIDS patients in Uganda are cared for by The AIDS Support Organisation
+(TASO).
+How TASO helps AIDS patients.
+❖ It provides them with counselling services.
+❖ It provides them with Anti-Retroviral drugs (ARVs)
+❖ It provides relief aid in terms of food.
+How AIDS is spread.
+❖ By sharing sharp objects with an infected person.
+❖ Contact of wounds with blood of an infected person.
+❖ Having unprotected sexual intercourse with an infected person.
+❖ Using unsterilised sharp objects during some cultural practices like circumcision.
+❖ Through blood transfusion with an infected person.
+Use of ABC to prevent AIDS.
+• A=Abstain from sex (to unmarried people)
+• B=Be faithful to your partner (to married couples)
+• C=Condom use.
+Social effects of HIV/AIDS on the population.
+❖ It leads to death of people.
+❖ It causes misery to the infected person.
+❖ It leads to isolation.
+❖ It leads to many orphans due to deth of the parents.
+Economic effects of HIV/AIDS on population.
+❖ It leads to loss of efficiency at work.
+❖ It leads low labour supply due to death of many people.
+❖ It leads to poverty in a family as a result of overspending on drugs treating those
+infected.
+❖ It leads to low market for goods due to death of many people.
+Page 49
+Testing Exercise.
+1. Give the meaning of each of the following;
+(i) Population
+(ii) Population growth
+2. Give any three causes of high population growth in Uganda.
+3. State any two advantages of a high population in an area.
+4. Mention any two problems an area is likely to face as a result of having a large population.
 <!-- /passage -->
 
 <!-- passage lchk_a8bf4b84729e467e90e868625ca681a3 part 6 -->
@@ -940,6 +959,165 @@ The learner;
 Gives the meaning of population
 <!-- /passage -->
 
+<!-- passage lchk_7e914abcd1f34c67935e12ca2588d5ec part 5 -->
+Page 142-143
+2
+Child labour
+-Discussing and explaining the child labour and child rights.
+-Child
+-Labour
+-Abuse
+Child labour
+-Definition
+-Examples of children’s rights.
+-Responsibilities of children.
+-Ways how children’s rights are abused.
+-Ways of controlling child labour
+3
+Population size and distribution
+Population census
+-Explaining population and population census.
+-Discussing the reasons why the gov’t carries out the population census and problems encountered.
+-spells, reads , pronounces and uses words related to
+-population
+-census
+-enumerator
+-census rights
+Population
+-Meaning
+-Population census
+-Reasons why the government carries out population census.
+-Ministry responsible for population census.
+-Problems in conducting population census.
+-Discussion
+-Illustration
+-Question and answer
+-Observation
+-Planning
+-Co-operation
+-Interpretation
+-Description
+-Explaining what population and census means.
+-Counting the number of children by sex, tribe and age.
+-Pictures showing a census being carried out.
+Mk std
+Bk5
+Pg 145
+7
+4
+LIVING TOGETHER IN UGANDA
+Population size and distribution
+Population growth
+-Defining population growth.
+-Discussing factors influencing population growth.
+-Reads , spell, pronounce and use words like growth .
+-Immigration
+-Fertile
+Population growth.
+-Definition
+-Factors that influence population growth.
+Climate
+Fertility rate of woman
+Immigration
+Occupation
+Food
+Better health
+Health service
+Social service
+Security and peace
+-Ways how the above influence population growth.
+-Dangers of fast population growth.
+-Explanation
+-Question and answer
+-Discussion
+-Description
+-Inquiry
+-Critical thinking
+-Care
+-Explaining what population size and number means.
+-Discussing the factors that lead to population increase.
+-Explain the danger of fast population growth.
+-Text book
+-Pictures
+Mk stdbk 5
+Page 148-149
+5
+Population Distribution
+-Explaining population distribution.
+-Discussing the factors affecting population distribution
+-Pronounce, read , spell and use words like-urbanization
+-Industrialization
+-Medical services
+Population Distribution
+-Defining
+-Factors affecting population distribution.
+Urbanization
+Industrialization
+Medical services
+Climate
+Physical features.
+-Discussion
+-Explanation
+-Question and answer
+-Appreciation
+-Observation
+-Map reading
+-Sharing
+-Respect
+-Discussing how the factors affect the population distribution
+-School
+-neighborhood
+-Pictures and photograph
+Mk std
+Bk 5
+Pg 145-147
+8
+1
+&
+2
+LIVING TOGETHER IN UGANDA
+Population size and distribution
+Population Density
+-Explaining population density and high population density
+-Density
+-Square
+kilometer
+Population density
+-Definition
+-Method of calculation
+Popn density=No of pple
+Sq k/m
+-High population density
+-Low population density
+-Illustration
+-Explanation
+-Question and answer
+-Observation
+-Appreciation
+-Critical thinking
+-Discussing the high and how population density
+-Calculating population density
+-Chalkboard illustration
+Functional
+Bk 5
+Page 198
+3
+&
+4
+Population
+-Discussing the problems associated to high and low population.
+-Pronounce , read , spell and use words related to population.
+-Advantages and disadvantages of high population (social factors)
+-Problems associated with low population.
+-Solutions to high population density and ways of controlling population growth.
+-Explanation
+-Discussion
+-Question and answer
+-Critical thinking
+-Inquiry and answer
+-Discussing the problems associated with high and law population.
+<!-- /passage -->
+
 <!-- passage lchk_7682272c0fdb4b93a290837e483bcf34 part 6 -->
 -Discussing the solutions to the high population density and ways of controlling population growth.
 -Discussing the effects of HIV on population and economic production
@@ -1024,62 +1202,172 @@ Pictures of different types of budgets
 MK bk 5 pg 140-141
 <!-- /passage -->
 
-<!-- passage lchk_5cb1ddb635cb41eaa8e64a34bbd7172a part 1 -->
-WHAT’S APP: +256779680288 1
-SMILE EDUCATION CONSULTACY BUSUNJU
-P. 5 End of Term III Examination 2023
-Social Studies and Religious Education.
-Time allowed: 2 hours and 15 minutes
-Name: __________________________________________________________
-SECTION A: (40 marks)
-1. Name the element of a map that enables map-readers to tell what a map is about.
-______________________________________________________________________
-2. What was the main reason for the coming of European explorers to Uganda?
-______________________________________________________________________
-3. State one way swamps are economically important.
-_____________________________________________________________________
-_____________________________________________________________________
-4. Name the first Indian to open up a sugar factory in Uganda in 1924.
-______________________________________________________________________
-5. How is Mt. Rwenzori similar to the rift valley in terms of formation?
-______________________________________________________________________
-______________________________________________________________________
-6. How did the pastoralists like the Iteso benefit from the neighbouring Bantu?
-______________________________________________________________________
-______________________________________________________________________
-7. What type of climate is experienced in most parts of Uganda?
-______________________________________________________________________
-8. How was Kabaka Muteesa I responsible for the coming of Christian missionaries to
-Uganda?
-______________________________________________________________________
-______________________________________________________________________
-9. Name the first mission hospital to be opened in Uganda.
-______________________________________________________________________
-WHAT’S APP: +256779680288 2
-10. Give any one-problem caused by a high population to the environment.
-______________________________________________________________________
-______________________________________________________________________
-11. Write IBEACO in full.
-______________________________________________________________________
-12. What is the direction of Uganda from Kenya?
-_____________________________________________________________________
-13. The arrow of a wind vane is pointing to the north. To which direction is the wind
-blowing?
-_____________________________________________________________________
-14. Why did Henry Morton Stanley call Mountain Rwenzori the ‘the Mountains of the
-Moon’?
-______________________________________________________________________
-______________________________________________________________________
-15. Name the agreement that was signed with the British colonialists to allow Kabaka
-Muteesa II to return from exile.
-______________________________________________________________________
-16. State any one way river Nile has contributed to the development of industries in
-Uganda.
-______________________________________________________________________
-______________________________________________________________________
-17. Mention any one natural disaster that led to the collapse of Bunyoro Kitara kingdom.
-______________________________________________________________________
-18. Name the last colonial flag to be raised in Uganda.
-______________________________________________________________________
-19. What title is given to the political head of a district?
+<!-- passage lchk_1162553670784949a6a5f4ead61c3374 part 1 -->
+SCHEME OF WORK:
+SUBJECT: SOCIAL STUDIES CLASS: P.5 SUBJECT TEACHER ………………………………………………….. TERM THREE YEAR ………………….
+WK
+PD
+Theme
+Topic
+Sub-Topic
+Competence
+Content
+Methods and Techniques
+Life skills and values
+( Indicators)
+Suggested activities
+Teaching / learning aids
+Ref
+Re
+Subject
+Language
+1
+1
+LIVING TOGETHER IN UGANDA
+Uganda as an independent nation
+Independence
+-Explain the
+word political
+-Independence
+-Independent
+-Pronounce, spell, write , read words to independence
+Independence
+-definition – is the state of being free from foreign control or rule.
+Characteristics of an independent nation
+-Territory of land.
+-Government
+-Constitution
+-Parliament
+-Judiciary
+-Freedom
+-Police to keep law and order
+-Citizens
+-Control its affairs
+-Explanation
+-Discussion
+-Brain storming
+-Question and answer
+-Self esteem
+-Negotiation
+-Problem solving
+-Define and explain the word independence.
+-Discuss the characteristics of an independence nation
+-Dramatizing
+-Text books
+-Children’s properties
+-Functional SST book 5 page 165
+MK Standard page 117
+2
+Symbols of a nation (The national flag)
+-Identify national symbols and explain their significances
+Spells , reads, pronounces and writes words and sentences related to symbols of the nation.
+The symbols of the nation.
+-The National flag.
+-National Anthem
+-Coat of Arms
+-Emblem
+-language (English)
+-The constitution (supreme law)
+National flag
+-Concept
+-The designer
+(Grace Nsingira)
+-The colours of the flag
+-Areas where it can be flown.
+-How and when its flown.
+-Signifance of the national flag.
+-Explanation
+-Discussion
+-Question and answer
+-Self discovery
+-Effective communication
+-Appreciation
+-Self awareness
+-observation
+-Respect
+-love
+-caring
+-Drawing and shading
+-Practice how to raise fly the national flag.
+-national flag
+-Pictures of the national flag.
+-Text book
+Mk std
+\bk 5
+Pg 12506
+Teachers guid
+Pg 222
+1
+3
+LIVING TOGETHER IN UGANDA
+Uganda as an independent nation
+Symbols of a nation (The National Anthem
+-Identify and explain the National Anthem. (stanza) and the coat of Arms
+-Reads, spell, pronounce and write words found in the Anthem and Coat of Arms
+National Anthem
+-Concept (3 stanzas)
+-The composer (George William Kakoma)
+-Occasions when its sung.
+(British National Anthem) was sung before Independence.
+-Significances.
+-Discussion
+-Discovery
+-Explanation
+-Appreciation
+-Self awareness
+-Effective communication
+-Observation
+-Analyse
+-Respect
+-Singing and practicing the Anthem
+-Papers having the National Anthem
+MK stdbk 5 pg 123-4
+4
+&
+5
+The national coat of Arm
+National Coat of Arms.
+-Concepts
+-Features of the coat of Arms.
+-The National Motto
+-Significance of The Coat of Arms.
+-Significances of the features of the coat of Arms.
+-Discussion
+-Question and answer
+-Drawing
+-Patriotism
+-Respect
+-Drawing and indicating the features of he coat of Arms
+-Coat of Arms.
+-Chart showing the coat of Arms
+MK stdbk 5 page 126-127
+2
+1
+LIVING TOGETHER IN UGANDA
+Uganda as an independent nation
+Symbols of a nation (The Emblem)
+-Name and identify the emblem and give its significances
+-Spell, read, pronounce the words related to the National emblem
+Emblem
+-Concepts (crested crane)
+-Reasons why it was chosen as the emblem.
+-Documents where its found.
+-Significances.
+-Discussion
+-Explanation
+-Discovery
+-Appreciation
+-Description
+-Inquiry
+-Drawing
+-Critical thinking
+-Love
+-Caring
+-Respect
+-Drawing the emblem and shading
+-Pictures of the emblem
+Mk stdbk 5 page 128
+2
+The National Language
+-Name the Local languages.
 <!-- /passage -->

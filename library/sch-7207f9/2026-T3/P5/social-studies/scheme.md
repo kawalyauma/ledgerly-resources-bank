@@ -37,16 +37,16 @@
 | 33 | 7 | teach | Population, Size and Distribution | Sparsely populated areas of Uganda — Population distribution | written |
 | 34 | 7 | Part B | Population, Size and Distribution | Practice: population distribution — Population distribution | written |
 | 35 | 7 | teach | Population, Size and Distribution | Population density — Population density | written |
-| 36 | 8 | Part B | Population, Size and Distribution | Practice: calculating population density — Population density | writing |
-| 37 | 8 | teach | Population, Size and Distribution | High population density: advantages and problems — High population density | writing |
-| 38 | 8 | teach | Population, Size and Distribution | Solutions to problems of high population density — Solutions to high population density | writing |
-| 39 | 8 | Part B | Population, Size and Distribution | Practice: high population density — High population density | writing |
-| 40 | 8 | teach | Population, Size and Distribution | Low population density: advantages, disadvantages and solutions — Low population density | writing |
-| 41 | 9 | Part B | Population, Size and Distribution | Practice: low population density — Low population density | pending |
-| 42 | 9 | teach | Population, Size and Distribution | HIV/AIDS: spread, prevention and care — Effects of HIV/AIDS on population | pending |
-| 43 | 9 | teach | Population, Size and Distribution | Social and economic effects of HIV/AIDS on the population — Effects of HIV/AIDS on population | pending |
-| 44 | 9 | Part B | Population, Size and Distribution | Practice: HIV/AIDS and population — Effects of HIV/AIDS on population | pending |
-| 45 | 9 | teach | Population, Size and Distribution | Ways of controlling population growth — Control of population growth | pending |
+| 36 | 8 | Part B | Population, Size and Distribution | Practice: calculating population density — Population density | written |
+| 37 | 8 | teach | Population, Size and Distribution | High population density: advantages and problems — High population density | written |
+| 38 | 8 | teach | Population, Size and Distribution | Solutions to problems of high population density — Solutions to high population density | written |
+| 39 | 8 | Part B | Population, Size and Distribution | Practice: high population density — High population density | written |
+| 40 | 8 | teach | Population, Size and Distribution | Low population density: advantages, disadvantages and solutions — Low population density | written |
+| 41 | 9 | Part B | Population, Size and Distribution | Practice: low population density — Low population density | writing |
+| 42 | 9 | teach | Population, Size and Distribution | HIV/AIDS: spread, prevention and care — Effects of HIV/AIDS on population | writing |
+| 43 | 9 | teach | Population, Size and Distribution | Social and economic effects of HIV/AIDS on the population — Effects of HIV/AIDS on population | writing |
+| 44 | 9 | Part B | Population, Size and Distribution | Practice: HIV/AIDS and population — Effects of HIV/AIDS on population | writing |
+| 45 | 9 | teach | Population, Size and Distribution | Ways of controlling population growth — Control of population growth | writing |
 | 46 | 10 | teach | Population, Size and Distribution | Family planning and family size — Control of population growth | pending |
 | 47 | 10 | Part B | Population, Size and Distribution | Practice: controlling population growth and family planning — Control of population growth | pending |
 | 48 | 10 | teach | Population, Size and Distribution | Population terms — Population, size and distribution: summary | pending |
