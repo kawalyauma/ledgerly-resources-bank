@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Give one reason why steep slopes of mountains have very few people settling there.",
+    "answer": "They have poor transport networks.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Low population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_0329a4dbd60a4de18ec0b22493198734",
+      "quote": "Give one reason why steep slopes of mountains have very few people settling there."
+    }
+  },
+  {
+    "question": "Give any two reasons why most rural areas usually have very few people.",
+    "answer": "Limited jobs and poor social services.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Low population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_0329a4dbd60a4de18ec0b22493198734",
+      "quote": "Give any two reasons why most rural areas usually have very few people."
+    }
+  },
+  {
+    "question": "Mention any three examples of sparsely populated areas in East Africa.",
+    "answer": "Semi-arid areas, steep slopes and forested areas.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Low population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Mention any three examples of sparsely populated areas in East Africa."
+    }
+  },
+  {
+    "question": "Why is the North Eastern part of Uganda sparsely populated?",
+    "answer": "Poor climate and low rainfall.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Low population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Why is the North Eastern part of Uganda sparsely populated?"
+    }
+  },
+  {
+    "question": "State any one problem faced by people living near thick forests.",
+    "answer": "Dangerous animals or disease vectors.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Low population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_0329a4dbd60a4de18ec0b22493198734",
+      "quote": "State any one problem faced by people living near thick forests."
+    }
+  },
+  {
+    "question": "Give any two reasons why most rural areas are sparsely populated.",
+    "answer": "Limited jobs and services.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Low population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a416bdcd62dc4f8d9ce0e5468c81c003",
+      "quote": "Give any two reasons why most rural areas are sparsely populated."
+    }
+  }
+]

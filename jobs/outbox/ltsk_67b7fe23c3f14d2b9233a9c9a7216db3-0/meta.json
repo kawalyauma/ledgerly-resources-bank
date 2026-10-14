@@ -1,0 +1,20 @@
+{
+  "job": "ltsk_67b7fe23c3f14d2b9233a9c9a7216db3-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "lles_b17a515e291540de93287ff0bbf1f6e9": [],
+    "lles_57f504f6277e458eb4be459052544c00": [
+      "The supplied exercise section contains only two relevant HIV prevention/care questions. No additional learner questions were invented."
+    ],
+    "lles_f225353b542644da978ad93d8ea3b37a": [
+      "Only one explicit source-written exercise question addresses the economic effects, and none separately tests social effects; no additional exercise was invented."
+    ],
+    "lles_039bf518783944799ac28f289e7e8ab7": [
+      "No new independent HIV exercise questions were available for Part B. The three source-written population exercises are reused for revision rather than inventing alternatives."
+    ],
+    "lles_df239a2b78974c1dba74939c0d5e3e32": []
+  },
+  "reviewerNotes": "All inline source quotes and JSON activity/step citations checked for exact matches within source pack. HIV/AIDS exercises are exceptionally thin; practice reuse is explicitly disclosed. No medical questions were invented. GitHub connector workflow cannot run local Python checker."
+}

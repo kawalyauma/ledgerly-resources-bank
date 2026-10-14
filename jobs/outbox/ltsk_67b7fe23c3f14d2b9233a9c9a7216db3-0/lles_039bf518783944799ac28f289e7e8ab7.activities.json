@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Give any two ways TASO helps AIDS victims in Uganda.",
+    "answer": "Counselling and antiretroviral medicines.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Effects of HIV/AIDS on population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Give any two ways TASO helps AIDS victims in Uganda."
+    }
+  },
+  {
+    "question": "How can married people safeguard themselves against AIDS?",
+    "answer": "Faithfulness to a partner and the prevention guidance in the source.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Effects of HIV/AIDS on population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "How can married people safeguard themselves against AIDS?"
+    }
+  },
+  {
+    "question": "State any two ways HIV/ AIDS affects economic development in an area.",
+    "answer": "Reduced labour supply and reduced markets.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Effects of HIV/AIDS on population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "State any two ways HIV/ AIDS affects economic development in an area."
+    }
+  }
+]
