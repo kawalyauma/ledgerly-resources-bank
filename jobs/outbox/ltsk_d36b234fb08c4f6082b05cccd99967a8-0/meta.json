@@ -1,0 +1,10 @@
+{
+  "job": "ltsk_d36b234fb08c4f6082b05cccd99967a8-0",
+  "attempt": 1,
+  "agent": "chatgpt",
+  "model": "GPT-6",
+  "gaps": {
+    "scheme": []
+  },
+  "reviewerNotes": "The outline follows the two required NCDC topics and all lesson citations were checked against the job passages."
+}
