@@ -47,8 +47,8 @@
 | 43 | 9 | teach | Population, Size and Distribution | Social and economic effects of HIV/AIDS on the population — Effects of HIV/AIDS on population | written |
 | 44 | 9 | Part B | Population, Size and Distribution | Practice: HIV/AIDS and population — Effects of HIV/AIDS on population | written |
 | 45 | 9 | teach | Population, Size and Distribution | Ways of controlling population growth — Control of population growth | written |
-| 46 | 10 | teach | Population, Size and Distribution | Family planning and family size — Control of population growth | writing |
-| 47 | 10 | Part B | Population, Size and Distribution | Practice: controlling population growth and family planning — Control of population growth | writing |
-| 48 | 10 | teach | Population, Size and Distribution | Population terms — Population, size and distribution: summary | writing |
-| 49 | 10 | Part B | Population, Size and Distribution | Practice: topical test on population, size and distribution — Population, size and distribution: summary | writing |
-| 50 | 10 | assessment | Population, Size and Distribution | End of term assessment — The Government of Uganda, Population, Size and Distribution | writing |
+| 46 | 10 | teach | Population, Size and Distribution | Family planning and family size — Control of population growth | written |
+| 47 | 10 | Part B | Population, Size and Distribution | Practice: controlling population growth and family planning — Control of population growth | written |
+| 48 | 10 | teach | Population, Size and Distribution | Population terms — Population, size and distribution: summary | written |
+| 49 | 10 | Part B | Population, Size and Distribution | Practice: topical test on population, size and distribution — Population, size and distribution: summary | written |
+| 50 | 10 | assessment | Population, Size and Distribution | End of term assessment — The Government of Uganda, Population, Size and Distribution | written |
