@@ -1,0 +1,77 @@
+{
+  "competences": [
+    "Define sparse population.",
+    "Identify sparsely populated environments.",
+    "Explain why semi-arid, forested and insecure areas have fewer settlements."
+  ],
+  "languageCompetence": "Spell and use population and geographical terms from the lessons.",
+  "objectives": [
+    "Define sparse population.",
+    "Identify sparsely populated environments.",
+    "Explain why semi-arid, forested and insecure areas have fewer settlements."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer"
+  ],
+  "materials": [
+    "P5 Social Studies textbook",
+    "Chalkboard",
+    "Exercise books",
+    "Map of Uganda"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Define sparse population.",
+      "learnerActivity": "Learners distinguish sparse and dense settlement.",
+      "source": {
+        "source": "lchk_44a9f6816d1644cca9d39ea62fc34330",
+        "quote": "SPARSE POPULATION"
+      }
+    },
+    {
+      "stage": "Development: dry areas",
+      "minutes": 12,
+      "teacherActivity": "Describe examples of sparse settlements and challenges of dry regions.",
+      "learnerActivity": "Learners identify Karamoja and semi-arid environments.",
+      "source": {
+        "source": "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+        "quote": "Areas which are sparsely populated (have few people)"
+      }
+    },
+    {
+      "stage": "Development: other factors",
+      "minutes": 15,
+      "teacherActivity": "Explain forests, swamps, mountains, insecurity and poor services.",
+      "learnerActivity": "Learners identify reasons populations may be sparse.",
+      "source": {
+        "source": "lchk_44a9f6816d1644cca9d39ea62fc34330",
+        "quote": "Why the above areas are sparsely populated."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Give the sourced questions on sparse settlement.",
+      "learnerActivity": "Learners answer and check written work.",
+      "source": {
+        "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+        "quote": "Why is the North Eastern part of Uganda sparsely populated?"
+      }
+    }
+  ],
+  "assessment": "Use sourced exercise questions and check the correct responses.",
+  "homework": "Complete the source-written exercises.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Communication",
+    "Listening"
+  ]
+}

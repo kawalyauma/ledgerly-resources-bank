@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Give the meaning of Population density.",
+    "answer": "The number of people per square kilometre.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Give the meaning of Population density."
+    }
+  },
+  {
+    "question": "Calculate the population density of town W which has a population of 4500 people living in an area of 90km 2 .",
+    "answer": "50 people per km².",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Calculate the population density of town W which has a population of 4500 people living in"
+    }
+  },
+  {
+    "question": "Give the meaning of the terms below a) population density b) population growth",
+    "answer": "Density is people per km²; growth is an increase in population.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+      "quote": "Give the meaning of the terms below"
+    }
+  },
+  {
+    "question": "What is population structure?",
+    "answer": "Population composition by age and sex.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "What is population structure?"
+    }
+  },
+  {
+    "question": "Give the meanings of; a. Population density b. Population distribution",
+    "answer": "Density measures people per km²; distribution means the way people are spread.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Give the meanings of;"
+    }
+  }
+]

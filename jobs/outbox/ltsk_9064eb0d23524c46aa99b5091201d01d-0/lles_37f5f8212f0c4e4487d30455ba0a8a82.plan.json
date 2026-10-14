@@ -1,0 +1,77 @@
+{
+  "competences": [
+    "Explain the meaning of population density.",
+    "Show the formula for population density.",
+    "Distinguish density from population distribution and growth."
+  ],
+  "languageCompetence": "Spell and use population and geographical terms from the lessons.",
+  "objectives": [
+    "Explain the meaning of population density.",
+    "Show the formula for population density.",
+    "Distinguish density from population distribution and growth."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer"
+  ],
+  "materials": [
+    "P5 Social Studies textbook",
+    "Chalkboard",
+    "Exercise books",
+    "Map of Uganda"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Define population density.",
+      "learnerActivity": "Learners identify units of density.",
+      "source": {
+        "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+        "quote": "Population density is the number of people living in an a area per square kilometer"
+      }
+    },
+    {
+      "stage": "Development: formula",
+      "minutes": 12,
+      "teacherActivity": "Write and explain the density formula.",
+      "learnerActivity": "Learners identify total population and area in km².",
+      "source": {
+        "source": "lchk_14b623f1a3ce45c2ba8e608ccdc49bdb",
+        "quote": "How to determine population density."
+      }
+    },
+    {
+      "stage": "Development: comparisons",
+      "minutes": 15,
+      "teacherActivity": "Compare high and low density with distribution and growth.",
+      "learnerActivity": "Learners distinguish the four population terms.",
+      "source": {
+        "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+        "quote": "POPULATION TERMS ( SUMMARY)"
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Set source-written exercises including the numerical density question.",
+      "learnerActivity": "Learners complete exercises.",
+      "source": {
+        "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+        "quote": "Calculate the population density of town W which has a population of 4500 people living in"
+      }
+    }
+  ],
+  "assessment": "Use sourced exercise questions and check the correct responses.",
+  "homework": "Complete the source-written exercises.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Communication",
+    "Listening"
+  ]
+}

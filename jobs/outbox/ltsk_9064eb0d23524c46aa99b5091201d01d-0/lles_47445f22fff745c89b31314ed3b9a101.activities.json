@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Why is the North Eastern part of Uganda sparsely populated?",
+    "answer": "Dry climatic conditions and unreliable rainfall.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "sparse population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Why is the North Eastern part of Uganda sparsely populated?"
+    }
+  },
+  {
+    "question": "Give one reason why steep slopes of mountains are sparsely populated.",
+    "answer": "Poor transport or landslide risk.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "sparse population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Give one reason why steep slopes of mountains are sparsely populated."
+    }
+  },
+  {
+    "question": "Mention any three factors that lead to a sparse population in an area.",
+    "answer": "Drought, insecurity and poor social services.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "sparse population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Mention any three factors that lead to a sparse population in an area."
+    }
+  },
+  {
+    "question": "Mention any three examples of sparsely populated areas in East Africa.",
+    "answer": "Semi-arid, mountainous steep-slope and swampy areas.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "sparse population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Mention any three examples of sparsely populated areas in East Africa."
+    }
+  },
+  {
+    "question": "Identify two reasons why Karamoja sub-region is sparsely populated.",
+    "answer": "Unreliable rainfall and poor climate.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "sparse population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Identify two reasons why Karamoja sub-region is sparsely populated."
+    }
+  }
+]

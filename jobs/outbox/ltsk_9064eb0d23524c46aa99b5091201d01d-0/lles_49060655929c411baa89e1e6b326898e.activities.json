@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Give the meaning of Population distribution.",
+    "answer": "The way people are spread in an area.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "distribution",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Give the meaning of Population distribution."
+    }
+  },
+  {
+    "question": "Mention any three factors that influence population distribution.",
+    "answer": "Rainfall, soil fertility and employment opportunities.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "distribution",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Mention any three factors that influence population distribution."
+    }
+  },
+  {
+    "question": "Give two factors that affect population distribution",
+    "answer": "Climate and social services.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "distribution",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Give two factors that affect population distribution"
+    }
+  },
+  {
+    "question": "Point out two factors that affect population distribution",
+    "answer": "Climate and soil fertility.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "distribution",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+      "quote": "Point out two factors that affec"
+    }
+  },
+  {
+    "question": "State factors that influence population distribution.",
+    "answer": "Climate, soil fertility, relief and pests or diseases.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "distribution",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_f68ad912b104484b8b665e3e19a53590",
+      "quote": "State factors that influence population distribution."
+    }
+  }
+]

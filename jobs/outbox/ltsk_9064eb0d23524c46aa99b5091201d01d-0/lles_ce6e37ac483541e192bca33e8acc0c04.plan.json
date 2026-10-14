@@ -1,0 +1,74 @@
+{
+  "competences": [
+    "Answer source exercises on distribution and dense and sparse populations."
+  ],
+  "languageCompetence": "Spell and use population and geographical terms from the lessons.",
+  "objectives": [
+    "Answer source exercises on distribution and dense and sparse populations."
+  ],
+  "methods": [
+    "Written exercises",
+    "Question and answer",
+    "Discussion"
+  ],
+  "materials": [
+    "P5 Social Studies textbook",
+    "Chalkboard",
+    "Exercise books",
+    "Map of Uganda"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation",
+    "Understanding Social Studies Primary Five"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Review distribution, dense and sparse population.",
+      "learnerActivity": "Learners define and contrast the terms.",
+      "source": {
+        "source": "lchk_7a1ed5b5dbc944c492df0f69916cee4b",
+        "quote": "Population distribution refers to the way people are spread in an area"
+      }
+    },
+    {
+      "stage": "Development: review",
+      "minutes": 9,
+      "teacherActivity": "Explain how physical and economic factors change settlement.",
+      "learnerActivity": "Learners recall different conditions.",
+      "source": {
+        "source": "lchk_14b623f1a3ce45c2ba8e608ccdc49bdb",
+        "quote": "Factors that influence population distribution."
+      }
+    },
+    {
+      "stage": "Development: exercise",
+      "minutes": 18,
+      "teacherActivity": "Set sourced questions from the test and notes.",
+      "learnerActivity": "Learners write the six answers.",
+      "source": {
+        "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+        "quote": "Give one way the government can encourage the settlement of people in rural areas."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Review answers using source materials.",
+      "learnerActivity": "Learners make corrections.",
+      "source": {
+        "source": "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+        "quote": "How does industrialization affect the population of an area?"
+      }
+    }
+  ],
+  "assessment": "Use sourced exercise questions and check the correct responses.",
+  "homework": "Complete the source-written exercises.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Communication",
+    "Listening"
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Give the meaning of Population distribution.",
+    "answer": "The way people are spread over an area.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "distribution",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Give the meaning of Population distribution."
+    }
+  },
+  {
+    "question": "Mention any three factors that influence population distribution.",
+    "answer": "Climate, soil fertility and employment opportunities.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "distribution",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Mention any three factors that influence population distribution."
+    }
+  },
+  {
+    "question": "Give one reason why steep slopes of mountains are sparsely populated.",
+    "answer": "Danger of landslides or difficult transport.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "sparse population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Give one reason why steep slopes of mountains are sparsely populated."
+    }
+  },
+  {
+    "question": "Why are there many people living around the shores of lake Victoria?",
+    "answer": "Fishing, reliable rainfall and fertile soils.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "dense population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Why are there many people living around the shores of lake Victoria?"
+    }
+  },
+  {
+    "question": "Give one way the government can encourage the settlement of people in rural areas.",
+    "answer": "Improve services or job opportunities.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "distribution",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Give one way the government can encourage the settlement of people in rural areas."
+    }
+  },
+  {
+    "question": "How does industrialization affect the population of an area?",
+    "answer": "It attracts people seeking industrial jobs.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "distribution",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+      "quote": "How does industrialization affect the population of an area?"
+    }
+  }
+]

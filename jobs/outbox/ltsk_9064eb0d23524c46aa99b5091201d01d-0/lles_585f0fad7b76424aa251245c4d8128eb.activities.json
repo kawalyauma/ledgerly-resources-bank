@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Why are there many people living around the shores of lake Victoria?",
+    "answer": "Reliable rainfall, fertile soils and fishing opportunities.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "dense population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Why are there many people living around the shores of lake Victoria?"
+    }
+  },
+  {
+    "question": "State any one two reasons why slopes of most mountains in East Africa are densely populated.",
+    "answer": "Fertile soils and favourable climate in habitable areas.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "dense population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "State any one two reasons why slopes of most mountains in East Africa are densely populated."
+    }
+  },
+  {
+    "question": "Mention places in Uganda that have a very high population.",
+    "answer": "Lake Victoria shores and towns.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "dense population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_f68ad912b104484b8b665e3e19a53590",
+      "quote": "Mention places in Uganda that have a very high population."
+    }
+  },
+  {
+    "question": "Give factors that make the shores of Lake Victoria to have many people.",
+    "answer": "Fishing, fertile soils and reliable rainfall.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "dense population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_f68ad912b104484b8b665e3e19a53590",
+      "quote": "Give factors that make the shores of Lake Victoria to have many peo-"
+    }
+  },
+  {
+    "question": "Give two reasons why lake shores are densely populated",
+    "answer": "Fertile soil and fishing activities.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "dense population",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Why are there many people living around the shores of lake Victoria?"
+    }
+  }
+]

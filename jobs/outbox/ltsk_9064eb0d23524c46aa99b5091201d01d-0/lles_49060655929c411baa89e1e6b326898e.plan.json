@@ -1,0 +1,78 @@
+{
+  "competences": [
+    "Define population distribution.",
+    "Identify influences on population distribution.",
+    "Explain how climate, soil, jobs and social services change settlement patterns."
+  ],
+  "languageCompetence": "Spell and use population and geographical terms from the lessons.",
+  "objectives": [
+    "Define population distribution.",
+    "Identify influences on population distribution.",
+    "Explain how climate, soil, jobs and social services change settlement patterns."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer"
+  ],
+  "materials": [
+    "P5 Social Studies textbook",
+    "Chalkboard",
+    "Exercise books",
+    "Map of Uganda"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation",
+    "NCDC P5 Merged – Social Studies"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Define and distinguish dense and sparse population distribution.",
+      "learnerActivity": "Learners identify meanings from notes.",
+      "source": {
+        "source": "lchk_44a9f6816d1644cca9d39ea62fc34330",
+        "quote": "POPULATION DISTRIBUTION."
+      }
+    },
+    {
+      "stage": "Development: natural factors",
+      "minutes": 12,
+      "teacherActivity": "Explain climate, soil fertility and relief.",
+      "learnerActivity": "Learners give ways physical factors influence settlement.",
+      "source": {
+        "source": "lchk_14b623f1a3ce45c2ba8e608ccdc49bdb",
+        "quote": "How the above factors influence the population distribution of an area."
+      }
+    },
+    {
+      "stage": "Development: human factors",
+      "minutes": 15,
+      "teacherActivity": "Explain employment, services, government policies and security.",
+      "learnerActivity": "Learners identify why people move to towns and peaceful areas.",
+      "source": {
+        "source": "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+        "quote": "Economic opportunities refer to situations whereby people are able to work"
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Ask sourced distribution questions.",
+      "learnerActivity": "Learners answer and correct the exercises.",
+      "source": {
+        "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+        "quote": "Mention any three factors that influence population distribution."
+      }
+    }
+  ],
+  "assessment": "Use sourced exercise questions and check the correct responses.",
+  "homework": "Complete the source-written exercises.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Communication",
+    "Listening"
+  ]
+}

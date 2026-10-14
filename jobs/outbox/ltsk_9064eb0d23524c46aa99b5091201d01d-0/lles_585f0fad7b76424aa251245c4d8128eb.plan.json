@@ -1,0 +1,78 @@
+{
+  "competences": [
+    "Define dense population.",
+    "Identify Uganda's densely populated areas.",
+    "Give reasons for dense settlement near lakes, fertile lands and towns."
+  ],
+  "languageCompetence": "Spell and use population and geographical terms from the lessons.",
+  "objectives": [
+    "Define dense population.",
+    "Identify Uganda's densely populated areas.",
+    "Give reasons for dense settlement near lakes, fertile lands and towns."
+  ],
+  "methods": [
+    "Explanation",
+    "Discussion",
+    "Question and answer"
+  ],
+  "materials": [
+    "P5 Social Studies textbook",
+    "Chalkboard",
+    "Exercise books",
+    "Map of Uganda"
+  ],
+  "references": [
+    "Excel P 5 SST Term III",
+    "P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation",
+    "NCDC P5 Merged – Social Studies"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Define dense population and review distribution.",
+      "learnerActivity": "Learners distinguish the terms.",
+      "source": {
+        "source": "lchk_44a9f6816d1644cca9d39ea62fc34330",
+        "quote": "DENSE POPULATION."
+      }
+    },
+    {
+      "stage": "Development: areas",
+      "minutes": 12,
+      "teacherActivity": "Show areas named as densely populated in the sourced notes.",
+      "learnerActivity": "Learners name lakeshore, highland and urban settlements.",
+      "source": {
+        "source": "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+        "quote": "Examples of densely populated areas in Uganda"
+      }
+    },
+    {
+      "stage": "Development: causes",
+      "minutes": 15,
+      "teacherActivity": "Describe how rainfall, fishing, fertile soils and jobs attract people.",
+      "learnerActivity": "Learners identify settlement advantages.",
+      "source": {
+        "source": "lchk_44a9f6816d1644cca9d39ea62fc34330",
+        "quote": "Examples of densely populated areas."
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Set sourced questions about Uganda's densely populated places.",
+      "learnerActivity": "Learners answer and check work.",
+      "source": {
+        "source": "lchk_f68ad912b104484b8b665e3e19a53590",
+        "quote": "Give factors that make the shores of Lake Victoria to have many peo-"
+      }
+    }
+  ],
+  "assessment": "Use sourced exercise questions and check the correct responses.",
+  "homework": "Complete the source-written exercises.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Communication",
+    "Listening"
+  ]
+}
