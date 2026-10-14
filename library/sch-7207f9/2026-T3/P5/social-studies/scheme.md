@@ -2,11 +2,11 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | The Government of Uganda | Role of government — Role of government | pending |
-| 2 | 1 | teach | The Government of Uganda | Three organs of government — Three organs of government | pending |
-| 3 | 1 | teach | The Government of Uganda | The executive — The executive | pending |
-| 4 | 1 | teach | The Government of Uganda | The legislature — The legislature | pending |
-| 5 | 1 | teach | The Government of Uganda | The judiciary — The judiciary | pending |
+| 1 | 1 | teach | The Government of Uganda | Role of government — Role of government | writing |
+| 2 | 1 | teach | The Government of Uganda | Three organs of government — Three organs of government | writing |
+| 3 | 1 | teach | The Government of Uganda | The executive — The executive | writing |
+| 4 | 1 | teach | The Government of Uganda | The legislature — The legislature | writing |
+| 5 | 1 | teach | The Government of Uganda | The judiciary — The judiciary | writing |
 | 6 | 2 | Part B | The Government of Uganda | Organs of government Part B — The judiciary | pending |
 | 7 | 2 | teach | The Government of Uganda | Meaning of a constitution — Meaning of a constitution | pending |
 | 8 | 2 | teach | The Government of Uganda | Functions of a constitution — Functions of a constitution | pending |
