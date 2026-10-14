@@ -1,0 +1,73 @@
+{
+  "job": "ltsk_e0675dc1ae534fffbae03d23a2354164-0",
+  "task": "ltsk_e0675dc1ae534fffbae03d23a2354164",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 86,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 8,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_91ebe7a2cab8447a9f82e828eea5d791",
+      "kind": "practice",
+      "week": 8,
+      "title": "Practice: calculating population density",
+      "periods": 1,
+      "subtopic": "Population density"
+    },
+    {
+      "id": "lles_b268d2c1ef994c3e8dd3361ea4df43ec",
+      "kind": "teach",
+      "week": 8,
+      "title": "High population density: advantages and problems",
+      "periods": 1,
+      "subtopic": "High population density"
+    },
+    {
+      "id": "lles_4696fba35a244ef3abdd7cf74d8fa684",
+      "kind": "teach",
+      "week": 8,
+      "title": "Solutions to problems of high population density",
+      "periods": 1,
+      "subtopic": "Solutions to high population density"
+    },
+    {
+      "id": "lles_4aef6b6e793e4a91aecbcac2889dcddf",
+      "kind": "practice",
+      "week": 8,
+      "title": "Practice: high population density",
+      "periods": 1,
+      "subtopic": "High population density"
+    },
+    {
+      "id": "lles_8ddd49572447439caf046235db906564",
+      "kind": "teach",
+      "week": 8,
+      "title": "Low population density: advantages, disadvantages and solutions",
+      "periods": 1,
+      "subtopic": "Low population density"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_4edd4afd1d254374a6c93da86c0debc8",
+    "lchk_e0031cef799c413f9438d6584be3e476",
+    "lchk_e9bf3ccc4d0740c9b05e37f9727a64cd",
+    "lchk_7e914abcd1f34c67935e12ca2588d5ec",
+    "lchk_7c4fd5c6685b4ef5b553c7be3359c183",
+    "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+    "lchk_a8bf4b84729e467e90e868625ca681a3",
+    "lchk_7682272c0fdb4b93a290837e483bcf34",
+    "lchk_5cb1ddb635cb41eaa8e64a34bbd7172a"
+  ],
+  "created": "2026-10-14T17:46:36.411Z"
+}

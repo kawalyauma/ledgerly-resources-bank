@@ -32,16 +32,16 @@
 | 28 | 6 | teach | Population, Size and Distribution | Population growth and the factors that influence it — Population growth | written |
 | 29 | 6 | teach | Population, Size and Distribution | Advantages and dangers of fast population growth — Population growth | written |
 | 30 | 6 | Part B | Population, Size and Distribution | Practice: population growth — Population growth | written |
-| 31 | 7 | teach | Population, Size and Distribution | Population distribution and the factors that influence it — Population distribution | writing |
-| 32 | 7 | teach | Population, Size and Distribution | Densely populated areas of Uganda — Population distribution | writing |
-| 33 | 7 | teach | Population, Size and Distribution | Sparsely populated areas of Uganda — Population distribution | writing |
-| 34 | 7 | Part B | Population, Size and Distribution | Practice: population distribution — Population distribution | writing |
-| 35 | 7 | teach | Population, Size and Distribution | Population density — Population density | writing |
-| 36 | 8 | Part B | Population, Size and Distribution | Practice: calculating population density — Population density | pending |
-| 37 | 8 | teach | Population, Size and Distribution | High population density: advantages and problems — High population density | pending |
-| 38 | 8 | teach | Population, Size and Distribution | Solutions to problems of high population density — Solutions to high population density | pending |
-| 39 | 8 | Part B | Population, Size and Distribution | Practice: high population density — High population density | pending |
-| 40 | 8 | teach | Population, Size and Distribution | Low population density: advantages, disadvantages and solutions — Low population density | pending |
+| 31 | 7 | teach | Population, Size and Distribution | Population distribution and the factors that influence it — Population distribution | written |
+| 32 | 7 | teach | Population, Size and Distribution | Densely populated areas of Uganda — Population distribution | written |
+| 33 | 7 | teach | Population, Size and Distribution | Sparsely populated areas of Uganda — Population distribution | written |
+| 34 | 7 | Part B | Population, Size and Distribution | Practice: population distribution — Population distribution | written |
+| 35 | 7 | teach | Population, Size and Distribution | Population density — Population density | written |
+| 36 | 8 | Part B | Population, Size and Distribution | Practice: calculating population density — Population density | writing |
+| 37 | 8 | teach | Population, Size and Distribution | High population density: advantages and problems — High population density | writing |
+| 38 | 8 | teach | Population, Size and Distribution | Solutions to problems of high population density — Solutions to high population density | writing |
+| 39 | 8 | Part B | Population, Size and Distribution | Practice: high population density — High population density | writing |
+| 40 | 8 | teach | Population, Size and Distribution | Low population density: advantages, disadvantages and solutions — Low population density | writing |
 | 41 | 9 | Part B | Population, Size and Distribution | Practice: low population density — Low population density | pending |
 | 42 | 9 | teach | Population, Size and Distribution | HIV/AIDS: spread, prevention and care — Effects of HIV/AIDS on population | pending |
 | 43 | 9 | teach | Population, Size and Distribution | Social and economic effects of HIV/AIDS on the population — Effects of HIV/AIDS on population | pending |

@@ -1,4 +1,4 @@
-# Job ltsk_9064eb0d23524c46aa99b5091201d01d-0
+# Job ltsk_e0675dc1ae534fffbae03d23a2354164-0
 
 You are the curriculum engine of Ledgerly AI for a Ugandan school.
 Work from the passages, page images and records given in this prompt. Do not invent facts, topics, notes, examples, activities, questions, answers or names: every one of them is taken from the passages. You choose, order, tidy and format the material; you never make it up.
@@ -6,30 +6,31 @@ If the material does not cover something, leave it out or set the field to null 
 Do not run commands, open files or browse. Everything you need is in this prompt.
 Reply with ONE JSON object only, exactly matching the requested shape. No prose before or after it.
 
-Task: write ALL 5 lesson(s) below of week 7 of the Social Studies scheme for Primary Five 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
+Task: write ALL 5 lesson(s) below of week 8 of the Social Studies scheme for Primary Five 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
 Return exactly one entry per lessonId, keeping each lessonId exactly. Write the lessons in order so they build on each other; a practice or review lesson works from the lessons before it in this week.
 Class-depth rule: P5: one 40-minute lesson: 3–4 ideas; 300–500 words; connected explanations and application; 5–8 activities.
 
-lessonId=lles_49060655929c411baa89e1e6b326898e: lesson 31, Monday, 1 period(s), 40 minutes.
-  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Population distribution and the factors that influence it — Population distribution.
-  Objectives: Explain what population distribution means.; State the factors that influence population distribution.; Explain how each factor influences where people live.
-
-lessonId=lles_585f0fad7b76424aa251245c4d8128eb: lesson 32, Tuesday, 1 period(s), 40 minutes.
-  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Densely populated areas of Uganda — Population distribution.
-  Objectives: Explain what dense population means.; Name densely populated areas in Uganda.; Give reasons why these areas have many people.
-
-lessonId=lles_47445f22fff745c89b31314ed3b9a101: lesson 33, Wednesday, 1 period(s), 40 minutes.
-  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Sparsely populated areas of Uganda — Population distribution.
-  Objectives: Explain what sparse population means.; Name sparsely populated areas in Uganda.; Give reasons why these areas have few people.
-
-lessonId=lles_ce6e37ac483541e192bca33e8acc0c04: lesson 34, Thursday, 1 period(s), 40 minutes.
-  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Practice: population distribution — Population distribution.
-  Objectives: Answer exercise questions on population distribution and densely and sparsely populated areas.
+lessonId=lles_91ebe7a2cab8447a9f82e828eea5d791: lesson 36, Monday, 1 period(s), 40 minutes.
+  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Practice: calculating population density — Population density.
+  Objectives: Calculate the population density of places from given figures.
   This is a PART B lesson: it continues the subtopic taught in the lesson before it. notes = '### Remember' with the key points (numbered, 4–8 lines); in Mathematics, English and Reading then NEW '### Example' sections not used in Part A; then '### Exercise' with NEW numbered activities learners copy and answer. All of it is taken from other passages (other notes, workbooks, past papers), never invented. Oral work, drawing and group activities go in methods. activities = those exercises.
 
-lessonId=lles_37f5f8212f0c4e4487d30455ba0a8a82: lesson 35, Friday, 1 period(s), 40 minutes.
-  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Population density — Population density.
-  Objectives: Explain what population density means.; Calculate the population density of an area.
+lessonId=lles_b268d2c1ef994c3e8dd3361ea4df43ec: lesson 37, Tuesday, 1 period(s), 40 minutes.
+  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: High population density: advantages and problems — High population density.
+  Objectives: Explain high population density and name areas with it.; State the advantages of high population density.; State the problems associated with high population density.
+
+lessonId=lles_4696fba35a244ef3abdd7cf74d8fa684: lesson 38, Wednesday, 1 period(s), 40 minutes.
+  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Solutions to problems of high population density — Solutions to high population density.
+  Objectives: State solutions to the problems of high population density.; Explain how the government can deal with a fast growing population.
+
+lessonId=lles_4aef6b6e793e4a91aecbcac2889dcddf: lesson 39, Thursday, 1 period(s), 40 minutes.
+  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Practice: high population density — High population density.
+  Objectives: Answer exercise questions on high population density, its problems and solutions.; List the problems found in a crowded community such as a slum.
+  This is a PART B lesson: it continues the subtopic taught in the lesson before it. notes = '### Remember' with the key points (numbered, 4–8 lines); in Mathematics, English and Reading then NEW '### Example' sections not used in Part A; then '### Exercise' with NEW numbered activities learners copy and answer. All of it is taken from other passages (other notes, workbooks, past papers), never invented. Oral work, drawing and group activities go in methods. activities = those exercises.
+
+lessonId=lles_8ddd49572447439caf046235db906564: lesson 40, Friday, 1 period(s), 40 minutes.
+  Unit: Population, Size and Distribution (theme: Living together in Uganda). Lesson: Low population density: advantages, disadvantages and solutions — Low population density.
+  Objectives: Explain low population density.; State advantages and disadvantages of low population density.; State solutions to low population.
 
 Write, using ONLY the passages below. Passages from "NCDC" documents are the official base for what to teach; NCDC lower-primary thematic curricula put every learning area in columns separated by " | ": use only the Social Studies column.
 For EACH lesson:
@@ -241,106 +242,451 @@ Suggested Competences for Assessment
 www.ncdc.go.ug
 </passage>
 
-<passage id="lchk_91e897c1be5f461ab3bbc9443993f48c" source="P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation" part="23">
-Reason why national population census is carried out every after ten years
- It is very costly
- The period is long enough for population changes to be assessed.
-Activity
-1. Give the difference between population census and national population census.
-2. Give two reasons why the government of Uganda carries out national populaiton census.
-3. Name the body that carries out national population census.
-4. Which ministry carries out national population census?
-5. What is population structure?
-6. Why is population census carried out every after ten years?
-7. Write short notes on the following terms
-a) Census night
-b) Enumerators
-8. What information is passed to the people during the census night?
-Date Class Subject No. of pupils Time
-P.5
-62
-TOPIC: Population size and distribution in Uganda
-SUB –TOPIC: Population terms
-LANGUAGE COMPETENCE :
-The learner:- Spells and uses words related to the sub -topic:
-Content: POPULATION TERMS ( SUMMARY)
-a) Population
- Population is the total number of people living in an area.
-b) Population density
- Population density is the number of people living in an area per square kilometer.
-c) Optimum population
- This is when the number of people in an a area is equal to the available resources.
-d) Population census
- Population census is the general counting of people in an a area.
-e) Under Population
- This is when the number of people living in an area is smaller than available resources.
-f) Over Population
- This is when the number of people living in an area is greater (more) than the available
-resources.
-g) Population structure
- Population structure refers to the composition of the population in terms of age and sex.
-h) Population growth
- Population growth is the increase in the number of people living in an area. .
-i) Census night
- This is the night before the census is carried out.
-j) Population explosion
- This is the sudden increase in the number of people living in an area.
-k) Dense Population
- This is when the number of people living in an area is bigger compared to the size of the
-land.
-l) Sparse Population
- This is when the numbers of people in an area is smaller compared to the size of the land.
-Topical test on population, size and distribution
-1. What is population?
-63
-2. State two reasons why government conducts population census.
-3. Which ministry is responsible for carrying out population census?
-4. Give two factors that affect population distribution
-5. Why are do some areas have high population?
-6. Identify two dangers of a fast growing population to a country like Uganda.
-7. Give advantages of a low population to a country.
-8. a) What is family planning?
-b) Why is family planning encouraged in Uganda?
-9. Identify two reasons why Karamoja sub-region is sparsely populated.
-10. a) What do we call the night before census?
-b) Give two problems government faces during census.
-11. Give the meanings of;
-a. Population density
-b. Population distribution
+<passage id="lchk_e9bf3ccc4d0740c9b05e37f9727a64cd" source="P 5 SST Scheme Term III 2019 (ecolebooks Com)" part="6">
+Population
+Distribution
+-Defining
+-Factors affecting
+population
+distribution.
+• Urbanization
+• Industrialization
+• Medical services
+• Climate
+• Physical features.
+-Discussion
+-Explanation
+-Question
+and answer
+-Appreciation
+-Observation
+-Map reading
+-Sharing
+-Respect
+-Discussing
+how the
+factors affect
+the population
+distribution
+-School
+- neighborhood
+-Pictures
+and
+photograph
+Mk std
+Bk 5
+Pg 145-
+147
+Ecolebooks.com
+DOWNLOAD MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM
+8 1
+&
+2
+LIVING TOGETHER IN UGANDA
+Population size and distribution
+Population Density
+-Explaining
+population
+density and
+high
+population
+density
+-Density
+-Square
+kilometer
+Population density
+-Definition
+-Method of
+calculation
+Popn density=No of pple
+Sq k/m
+-High population
+density
+-Low population
+density
+-Illustration
+-Explanation
+-Question
+and answer
+-Observation
+-Appreciation
+-Critical
+thinking
+-Discussing the
+high and how
+population
+density
+-Calculating
+population
+density
+-Chalkboard
+illustration
+Functio
+nal
+Bk 5
+Page
+198
+Ecolebooks.com
+DOWNLOAD MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM
+3
+&
+4
+Population
+-Discussing
+the problems
+associated to
+high and low
+population.
+-Pronounce ,
+read , spell
+and use
+words
+related to
+population.
+-Advantages and
+disadvantages of high
+population (social
+factors)
+-Problems associated
+with low population.
+-Solutions to high
+population density
+and ways of
+controlling
+population growth.
+-Explanation
+-Discussion
+-Question
+and answer
+-Critical
+thinking
+-Inquiry and
+answer
+-Discussing the
+problems
+associated with
+high and law
+population.
+-Discussing the
+solutions to the
+high
+population
+density and
+ways of
+controlling
+population
+growth.
+-Discussing the
+effects of HIV
+on population
+and economic
+production
+- An Atlas
+-School
+environmen
+t
+School
+neighbourh
+ood
+Functio
+n
+Bk 5
+Pg 198-
+199
+Mk std
+Bk 5
+Pg 148
+Ecolebooks.com
+DOWNLOAD MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM
+8 5
+LIVING TOGETHER IN UGANDA
+Effects of HIV / AIDs on population and economic development -Discussing
+the effects of
+HIV/ AIDS on
+population
+and
+economic
+production
+-HIV
+-AID
+-Economic
+-Production
+Effects of HIV / AIDS
+on population and
+economic production
+-Inquiry
+-Discussion
+-Discovery
+-Critical
+thinking
+-Self
+awareness
+-Discussing the
+effects of HIV
+on population
+and economic
+production
+School
+neighbourh
+ood
+Ecolebooks.com
+DOWNLOAD MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM
+9 1
+Uganda as an Independent nation
+Democracy
+-Explaining
+terms used in
+democracy
+and related
+words like
+-Elections
+-Polling
+stations
+-Bullot box&
+paper
+-polling
+assistant
+-Pronounce,
+read and
+spell words
+related to
+democracy
+Revision work
+• Democracy
+• Meaning
+• Importance
+• Functions
+• How
+democracy is
+practiced
+• Challenges of
+democracy
+• Elections
+• How
+elections are
+conducted
+-Explanation
+-Discussion
+-Inquiry
+-Question
+and answer
+-Discovery
+-Testing
+-Observation
+-Drawing
+-Critical
+thinking
+-Sharing
+-Appreciation
+-Answering
+written
+exercises
+-Discussion
+-Pictures
+and
+photograph
+s of people
+voting
+MK
+stdbk 5
+pg 117-
+150
+9 2
+Government of Uganda
+-Explaining
+taxation,
+budget and
+their types
+- Taxation
+- Budget
+- Loans
+- Expendit
+ure
+- Income
+- Revenue
+• Bad practices
+in elections
+• Electoral
+commission
+and its
+functions.
+• Taxation
+• Types of
+taxes
+• Ways how
+the
+government
+spends its
+revenue
+• Budget
+• Types of
+budget
+Pictures of
+different
+types of
+budgets
+MK bk 5
+pg 140-
+141
 </passage>
 
-<passage id="lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd" source="Excel P 5 SST Term III" part="27">
-5. Give any two economic benefits of a large population to the development of a country.
-6. Mention any three natural disasters that may lead to the reduction in the number of
-people in an area.
-7. Name the body that is responsible for conducting a national census in Uganda.
-8. Mention any three types of information that is collected by enumerators during the
-census.
-9. Which ministry is responsible for conducting a national census in Uganda?
-10. Give any one reason why a national census in Uganda is conducted after ten years.
-11. State any three reasons why the government conducts a national census.
-12. Mention any three problems faced by the enumerators during the census exercise.
-13. Why is population census in Uganda conducted after ten years?
-14. State any three problems the government faces when conducting a national population
-census.
-15. Give the meaning of Population distribution.
-16. Mention any three factors that influence population distribution.
-17. Give one reason why steep slopes of mountains are sparsely populated.
-18. Mention any three factors that lead to a sparse population in an area.
-19. State any one two reasons why slopes of most mountains in East Africa are densely
-populated.
-20. Why are there many people living around the shores of lake Victoria?
-21. Mention any three examples of sparsely populated areas in East Africa.
-22. Why is the North Eastern part of Uganda sparsely populated?
-23. Give the meaning of Population density.
-24. Which East African country has the biggest population density?
-25. Calculate the population density of town W which has a population of 4500 people living in
-an area of 90km 2 .
-26. Give one way the government can encourage the settlement of people in rural areas.
-27. What is Population structure?
-28. Give any two ways TASO helps AIDS victims in Uganda.
-29. How can married people safeguard themselves against AIDS?
-30. State any two ways HIV/ AIDS affects economic development in an area.
+<passage id="lchk_7e914abcd1f34c67935e12ca2588d5ec" source="P.5 SST SCHEME TERM III 2019" part="5">
+Page 142-143
+2
+Child labour
+-Discussing and explaining the child labour and child rights.
+-Child
+-Labour
+-Abuse
+Child labour
+-Definition
+-Examples of children’s rights.
+-Responsibilities of children.
+-Ways how children’s rights are abused.
+-Ways of controlling child labour
+3
+Population size and distribution
+Population census
+-Explaining population and population census.
+-Discussing the reasons why the gov’t carries out the population census and problems encountered.
+-spells, reads , pronounces and uses words related to
+-population
+-census
+-enumerator
+-census rights
+Population
+-Meaning
+-Population census
+-Reasons why the government carries out population census.
+-Ministry responsible for population census.
+-Problems in conducting population census.
+-Discussion
+-Illustration
+-Question and answer
+-Observation
+-Planning
+-Co-operation
+-Interpretation
+-Description
+-Explaining what population and census means.
+-Counting the number of children by sex, tribe and age.
+-Pictures showing a census being carried out.
+Mk std
+Bk5
+Pg 145
+7
+4
+LIVING TOGETHER IN UGANDA
+Population size and distribution
+Population growth
+-Defining population growth.
+-Discussing factors influencing population growth.
+-Reads , spell, pronounce and use words like growth .
+-Immigration
+-Fertile
+Population growth.
+-Definition
+-Factors that influence population growth.
+Climate
+Fertility rate of woman
+Immigration
+Occupation
+Food
+Better health
+Health service
+Social service
+Security and peace
+-Ways how the above influence population growth.
+-Dangers of fast population growth.
+-Explanation
+-Question and answer
+-Discussion
+-Description
+-Inquiry
+-Critical thinking
+-Care
+-Explaining what population size and number means.
+-Discussing the factors that lead to population increase.
+-Explain the danger of fast population growth.
+-Text book
+-Pictures
+Mk stdbk 5
+Page 148-149
+5
+Population Distribution
+-Explaining population distribution.
+-Discussing the factors affecting population distribution
+-Pronounce, read , spell and use words like-urbanization
+-Industrialization
+-Medical services
+Population Distribution
+-Defining
+-Factors affecting population distribution.
+Urbanization
+Industrialization
+Medical services
+Climate
+Physical features.
+-Discussion
+-Explanation
+-Question and answer
+-Appreciation
+-Observation
+-Map reading
+-Sharing
+-Respect
+-Discussing how the factors affect the population distribution
+-School
+-neighborhood
+-Pictures and photograph
+Mk std
+Bk 5
+Pg 145-147
+8
+1
+&
+2
+LIVING TOGETHER IN UGANDA
+Population size and distribution
+Population Density
+-Explaining population density and high population density
+-Density
+-Square
+kilometer
+Population density
+-Definition
+-Method of calculation
+Popn density=No of pple
+Sq k/m
+-High population density
+-Low population density
+-Illustration
+-Explanation
+-Question and answer
+-Observation
+-Appreciation
+-Critical thinking
+-Discussing the high and how population density
+-Calculating population density
+-Chalkboard illustration
+Functional
+Bk 5
+Page 198
+3
+&
+4
+Population
+-Discussing the problems associated to high and low population.
+-Pronounce , read , spell and use words related to population.
+-Advantages and disadvantages of high population (social factors)
+-Problems associated with low population.
+-Solutions to high population density and ways of controlling population growth.
+-Explanation
+-Discussion
+-Question and answer
+-Critical thinking
+-Inquiry and answer
+-Discussing the problems associated with high and law population.
 </passage>
 
 <passage id="lchk_7c4fd5c6685b4ef5b553c7be3359c183" source="Excel P 5 SST Term III" part="22">
@@ -500,258 +846,6 @@ The learner:- Spells and uses words related to the sub -topic:
 - Square
 - Growth
 - sudden
-</passage>
-
-<passage id="lchk_f68ad912b104484b8b665e3e19a53590" source="NCDC P5 Merged – Social Studies" part="24">
-increase such as improved diet, immigration, polygamy, low death
-rates, improved medical care, early marriages.
-
-Lesson 3:
-Factors that influence population distribution.
-You will be able to;
-i) State the meaning of population distribution.
-ii) Identify the factors that influence population distribution.
-iii) Locate areas on a map of Uganda with large and small population.
-Materilas you will need:
-A pen, pencil, note book, P.5 S.ST text book (if possible)
-Instructions:
-You will need to get help from an adult to find out why some areas have
-many people while others few. Use the neighbouring villages or homes;
-take note of the ways houses are near or far from each other.
-Introduction:
-In this lesson, you are going to look at why some districts have more peo-
-ple than others. Urban areas have more people than rural areas. You will
-also be able to find out the areas in Uganda with large and small popula-
-tion.
-Procedure:
-Step I:
-Write the meaning of population distribution. Let an elder brother or sis-
-ter to help you to find out the places in your local area with many and few
-people. Ask him/her why the number of people in those areas is different.
-Step II:
-Identify the factors that influence population distribution.
-Population distribution is the way people are settled in an area or coun-
-try.
-This differs from place to place. Some areas have many people while oth-
-ers few . This means that some areas are densely populated while others
-are sparsely populated. The factors that influence population distribu-
-tion include; climate of an area, presence of soil fertility, the nature of
-relief, presence pests and diseases.
-
-SOCIAL STUDIES | PRIMARY FIVE
-
-Activity:
-1. Give the meaning of population distribution.
-2. Mention places in Uganda that have a very high population.
-3. Give factors that make the shores of Lake Victoria to have many peo-
-ple.
-4. Identify the type of work people in villages do.
-5. State factors that influence population distribution.
-
-National Curriculum
-Development Centre,
-P.O. Box 7002,
-Kampala.
-
-www.ncdc.go.ug
-</passage>
-
-<passage id="lchk_89377846af3241ba84ea0652b03431af" source="NCDC P5 Merged – Social Studies" part="23">
-Population is the number of people in a given area. home, village, dis-
-trict ,region ,country, . Census is the official counting of people living in a
-country. The national population census is carried out after every ten (10)
-years. This is done by people known as Enumerators. Step II: List the
-information collected during census.
-Step III: State the importance of population census.
-Enumerators are trained people who move from home to home counting
-people. During census, they collect the following information; Names of
-family members, sex, education level of people in a family, age, occupation
-and relationship with the head of the family, religion, and number of
-children.
-
-Step IV: Identify the problems faced during population census.
-
-SELF-STUDY LEARNING
-
-Importance of population census.
-• To plan for the country.
-• To know the number of people.
-• To know the death rate.
-• To know the birth rate.
-
-Problems faced during population census
-• Insecurity in some areas. | -
-• Poor transport especially in highland areas.
-• Bad weather conditions especially if it is a rainy season.
-• People give wrong information.
-Activity:
-1. …………………………. is the number of people in a given area.
-2. Give the meaning of population census.
-3. After how long is population census carried out in Uganda?
-4. State any three reasons why the government counts people.
-5. Identify problems faced during population census.
-Lesson 2: Influence of population growth on communities.
-You will be able to;
-i) Give the meaning of population growth.
-ii) Mention the factors that influence population growth.
-iii) Outline the effects of population growth.
-iv) Identify the ways of controlling population growth.
-Materials you will need: a pen, pencil, note book, P.5 S.ST text book (if
-possible)
-Introduction:
-In this lesson, you are now going to study about the meaning of popula-
-tion growth, factors that influence population growth, effects of popula-
-tion growth and ways of controlling population growth.
-Procedure:
-Step I:
-
-SOCIAL STUDIES | PRIMARY FIVE
-
-Find out from an adult how the number of people at your community in-
-creased. This is population growth.
-Step II:
-Now you can learn about the factors that influence population growth.
-Availability of food. Once a lot of food is available, the number of people
-will grow because they do not starve neither die of hunger.
-Presence of better social services like health and clean piped water often
-allow
-many people to survive because diseases are minimised.
-Ignorance about family planning services also leads to population in-
-crease. High fertility rate among women also leads to population growth.
-Step III:
-Outline the effects of population growth in a country.
-Negative effects of population growth.
-• | It leads to unemployment.
-• | It leads to high crime rate.
-• | It leads to shortage of land.
-• | It leads to environment destruction.
-Positive effects of population growth.
-• Leads to high tax collection.
-• Provides enough labour force.
-Ways of controlling population
-• Encouraging use of family planning methods.
-• Discouraging early marriages.
-• Discouraging polygamy.
-Activity:
-1. Write down;
-a) The causes of large families.
-b) The dangers of large families.
-2. What is population growth?
-3. State any three ways in which government of Uganda can control popu-
-lation growth.
-
-Summary
-Population growth is the increase in the number of people in a coun-
-try or area. There are many factors that make the number of people
-
-SELF-STUDY LEARNING
-</passage>
-
-<passage id="lchk_b532d3c1e8be45d5bfa157ec2d63678b" source="Primary 5 Social Studies Scheme of Work, Term III" part="7">
-census
-Identifies the ministry responsible
-for conducting a national census
-States the reasons why the national
-census is conducted
-Gives the problems faced by
-enumerators
-Language
-The learner pronounces, spells,
-reads and writes words correctly like
-enumerator, census, teenage,
-teenager, occupation, sex e.t.c.
-Guided discussion
-Inquiry
-Answering oral and
-written activities
-Assertiveness
-Critical thinking
-Co-operation
-Text
-books
-MK Standard SST pupils book 5 page 177
-4
-Population size and distribution of Uganda
-Population explosion
-Meaning of population explosion
-Causes of population explosion
-Effects of population explosion
-Man-made factors which affect
-population growth in an area.
-Natural factors which affect
-Landslides floods, earth quake,
-volcanic eruptions
-Subject
-The learner
-Gives the meaning of population
-explosion
-Identifies the causes of population
-explosion
-States the manmade and natural
-factors that u check on population
-explosion
-Language
-The learner pronounces, reads,
-spells and writes words correctly like
-landslides, wars, earthquake,
-volcanic, eruption, diseases
-Case study Giving the meaning of
-population explosion
-Giving the meaning of
-population explosion
-Writing the causes of
-population
-Responsible
-living in the
-environment
-Text
-book
-reading
-MK SST pupils book 5 page ...
-5
-Population size and distribution of Uganda
-Summary of population terms
-Population
-Population distribution
-Population increase
-Population growth
-Population density
-Over population
-Under population
-Optimum population
-Sparsely populated areas
-Densely populated areas
-Population structure
-Population explosion
-Population census
-Census night
-Dense population
-Sparse population
-Subject
-The learner gives the meaning of
-the population terms effectively
-Language competences
-The learner pronounces, spells ,
-reads and writes words related to
-population terms like distribution,
-increase, growth, density e.t.c.
-Guided discussion
-Guided discovery
-Giving the meaning of
-the terms related to
-population
-Spelling different
-words
-Answering written
-assignments
-Critical and
-creative
-thinking
-Chalk
-board
-illustratio
-n
-Teacher’s collection
 </passage>
 
 <passage id="lchk_a8bf4b84729e467e90e868625ca681a3" source="Primary 5 Social Studies Scheme of Work, Term III" part="6">
@@ -927,6 +1021,150 @@ long to be conducted
 Subject
 The learner;
 Gives the meaning of population
+</passage>
+
+<passage id="lchk_7682272c0fdb4b93a290837e483bcf34" source="P.5 SST SCHEME TERM III 2019" part="6">
+-Discussing the solutions to the high population density and ways of controlling population growth.
+-Discussing the effects of HIV on population and economic production
+- An Atlas
+-School environment
+School neighbourhood
+Function
+Bk 5
+Pg 198-199
+Mk std
+Bk 5
+Pg 148
+8
+5
+LIVING TOGETHER IN UGANDA
+Effects of HIV / AIDs on population and economic development
+-Discussing the effects of HIV/ AIDS on population and economic production
+-HIV
+-AID
+-Economic
+-Production
+Effects of HIV / AIDS on population and economic production
+-Inquiry
+-Discussion
+-Discovery
+-Critical thinking
+-Self awareness
+-Discussing the effects of HIV on population and economic production
+School neighbourhood
+9
+1
+Uganda as an Independent nation
+Democracy
+-Explaining terms used in democracy and related words like
+-Elections
+-Polling stations
+-Bullot box& paper
+-polling assistant
+-Pronounce, read and spell words related to democracy
+Revision work
+Democracy
+Meaning
+Importance
+Functions
+How democracy is practiced
+Challenges of democracy
+Elections
+How elections are conducted
+-Explanation
+-Discussion
+-Inquiry
+-Question and answer
+-Discovery
+-Testing
+-Observation
+-Drawing
+-Critical thinking
+-Sharing
+-Appreciation
+-Answering written exercises
+-Discussion
+-Pictures and photographs of people voting
+MK stdbk 5 pg 117-150
+9
+2
+Government of Uganda
+-Explaining taxation, budget and their types
+Taxation
+Budget
+Loans
+Expenditure
+Income
+Revenue
+Bad practices in elections
+Electoral commission and its functions.
+Taxation
+Types of taxes
+Ways how the government spends its revenue
+Budget
+Types of budget
+Pictures of different types of budgets
+MK bk 5 pg 140-141
+</passage>
+
+<passage id="lchk_5cb1ddb635cb41eaa8e64a34bbd7172a" source="P.5 Social Studies and Religious Education End of Term III Exam 2023 – Smile Education" part="1">
+WHAT’S APP: +256779680288 1
+SMILE EDUCATION CONSULTACY BUSUNJU
+P. 5 End of Term III Examination 2023
+Social Studies and Religious Education.
+Time allowed: 2 hours and 15 minutes
+Name: __________________________________________________________
+SECTION A: (40 marks)
+1. Name the element of a map that enables map-readers to tell what a map is about.
+______________________________________________________________________
+2. What was the main reason for the coming of European explorers to Uganda?
+______________________________________________________________________
+3. State one way swamps are economically important.
+_____________________________________________________________________
+_____________________________________________________________________
+4. Name the first Indian to open up a sugar factory in Uganda in 1924.
+______________________________________________________________________
+5. How is Mt. Rwenzori similar to the rift valley in terms of formation?
+______________________________________________________________________
+______________________________________________________________________
+6. How did the pastoralists like the Iteso benefit from the neighbouring Bantu?
+______________________________________________________________________
+______________________________________________________________________
+7. What type of climate is experienced in most parts of Uganda?
+______________________________________________________________________
+8. How was Kabaka Muteesa I responsible for the coming of Christian missionaries to
+Uganda?
+______________________________________________________________________
+______________________________________________________________________
+9. Name the first mission hospital to be opened in Uganda.
+______________________________________________________________________
+WHAT’S APP: +256779680288 2
+10. Give any one-problem caused by a high population to the environment.
+______________________________________________________________________
+______________________________________________________________________
+11. Write IBEACO in full.
+______________________________________________________________________
+12. What is the direction of Uganda from Kenya?
+_____________________________________________________________________
+13. The arrow of a wind vane is pointing to the north. To which direction is the wind
+blowing?
+_____________________________________________________________________
+14. Why did Henry Morton Stanley call Mountain Rwenzori the ‘the Mountains of the
+Moon’?
+______________________________________________________________________
+______________________________________________________________________
+15. Name the agreement that was signed with the British colonialists to allow Kabaka
+Muteesa II to return from exile.
+______________________________________________________________________
+16. State any one way river Nile has contributed to the development of industries in
+Uganda.
+______________________________________________________________________
+______________________________________________________________________
+17. Mention any one natural disaster that led to the collapse of Bunyoro Kitara kingdom.
+______________________________________________________________________
+18. Name the last colonial flag to be raised in Uganda.
+______________________________________________________________________
+19. What title is given to the political head of a district?
 </passage>
 </passages>
 
