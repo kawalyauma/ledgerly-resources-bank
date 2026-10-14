@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is land fragmentation?",
+    "answer": "Division of land into small plots.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "High population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_97a01e70677f4b9681d229a69f9dca8c",
+      "quote": "What is land fragmentation?"
+    }
+  },
+  {
+    "question": "State the main causes of land fragmentation",
+    "answer": "Overpopulation.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "High population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_97a01e70677f4b9681d229a69f9dca8c",
+      "quote": "State the main causes of land fragmentation"
+    }
+  },
+  {
+    "question": "Give any one-problem caused by a high population to the environment.",
+    "answer": "Environmental degradation.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "High population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_5cb1ddb635cb41eaa8e64a34bbd7172a",
+      "quote": "Give any one-problem caused by a high population to the environment."
+    }
+  },
+  {
+    "question": "Mention two causes of high population density",
+    "answer": "Employment and social service opportunities.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "High population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+      "quote": "Mention two causes of high population density"
+    }
+  },
+  {
+    "question": "Of what importance is a high population to the following a) industries b) schools c) country",
+    "answer": "Labour, demand for services and tax base.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "High population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+      "quote": "Of what importance is a high population to the following a) industries b) schools c) country"
+    }
+  }
+]

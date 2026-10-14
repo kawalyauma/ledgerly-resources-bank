@@ -1,0 +1,20 @@
+{
+  "job": "ltsk_e0675dc1ae534fffbae03d23a2354164-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "lles_91ebe7a2cab8447a9f82e828eea5d791": [
+      "Three distinct source-given numeric calculation scenarios were available; a fourth question reviews the definition."
+    ],
+    "lles_b268d2c1ef994c3e8dd3361ea4df43ec": [],
+    "lles_4696fba35a244ef3abdd7cf74d8fa684": [
+      "Few dedicated exercises on specific housing solutions were provided; no new scenarios were invented."
+    ],
+    "lles_4aef6b6e793e4a91aecbcac2889dcddf": [
+      "The pack does not supply an exercise explicitly enumerating all slum problems; the exercise uses related population questions."
+    ],
+    "lles_8ddd49572447439caf046235db906564": []
+  },
+  "reviewerNotes": "Week 8 of Primary Five SST. Each cited quote matched the exact library passage text. No invented numerical problems; teacher plans use sourced methods. GitHub connector used: cannot confirm local Python checker PASS."
+}

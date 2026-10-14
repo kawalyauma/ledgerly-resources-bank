@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Write down any two advantages of a small population in a country.",
+    "answer": "Enough land and low crime rate.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Low population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+      "quote": "Write down any two advantages of a small population in a country."
+    }
+  },
+  {
+    "question": "Of what disadvantage is a small population in a country.",
+    "answer": "Low market, labour and tax revenue.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Low population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+      "quote": "Of what disadvantage is a small population in a country."
+    }
+  },
+  {
+    "question": "Give advantages of a low population to a country.",
+    "answer": "Enough land; low crime.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Low population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Give advantages of a low population to a country."
+    }
+  },
+  {
+    "question": "Give any three factors that lead to low population density in an area.",
+    "answer": "Poor rainfall, insecurity and infertile soil.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Low population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_0329a4dbd60a4de18ec0b22493198734",
+      "quote": "Give any three factors that lead to low population density in an area."
+    }
+  },
+  {
+    "question": "Give the meaning of Sparse population.",
+    "answer": "Few people compared with the size of the land.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Low population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_0329a4dbd60a4de18ec0b22493198734",
+      "quote": "Give the meaning of Sparse population."
+    }
+  },
+  {
+    "question": "Why are semi-arid areas of Uganda usually sparsely populated?",
+    "answer": "Unreliable rainfall and infertile soil.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Low population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_0329a4dbd60a4de18ec0b22493198734",
+      "quote": "Why are semi-arid areas of Uganda usually sparsely populated?"
+    }
+  }
+]

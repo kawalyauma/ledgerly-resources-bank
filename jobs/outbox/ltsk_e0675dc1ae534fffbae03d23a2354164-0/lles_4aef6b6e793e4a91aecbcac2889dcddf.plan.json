@@ -1,0 +1,74 @@
+{
+  "competences": [
+    "Use source-written questions to revise dense-population problems and benefits."
+  ],
+  "languageCompetence": "Read and write Social Studies words about high population density.",
+  "objectives": [
+    "Use source-written questions to revise dense-population problems and benefits."
+  ],
+  "priorKnowledge": "Population concepts from the preceding period.",
+  "methods": [
+    "Question and answer",
+    "Discussion",
+    "Observation"
+  ],
+  "materials": [
+    "School neighbourhood",
+    "Chalkboard"
+  ],
+  "references": [
+    "Primary Five Social Studies resource pack passage lchk_a416bdcd62dc4f8d9ce0e5468c81c003",
+    "Primary Five Social Studies resource pack passage lchk_401b8346cdcf44109b333a534b4a6b3d",
+    "Primary Five Social Studies resource pack passage lchk_f3180c29719f4e6ba4d80288742b14d2",
+    "Primary Five Social Studies resource pack passage lchk_97a01e70677f4b9681d229a69f9dca8c",
+    "Primary Five Social Studies resource pack passage lchk_5cb1ddb635cb41eaa8e64a34bbd7172a"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Recall previous population concepts and introduce the sourced lesson subtopic.",
+      "learnerActivity": "Recall meanings already studied and respond to questions.",
+      "source": {
+        "source": "lchk_a416bdcd62dc4f8d9ce0e5468c81c003",
+        "quote": "Problems faced by people living in densely populated areas."
+      }
+    },
+    {
+      "stage": "Lesson development I",
+      "minutes": 12,
+      "teacherActivity": "Explain and write the first two sourced content sections on the chalkboard.",
+      "learnerActivity": "Observe, discuss and copy the notes.",
+      "source": {
+        "source": "lchk_7e914abcd1f34c67935e12ca2588d5ec",
+        "quote": "Explanation"
+      }
+    },
+    {
+      "stage": "Lesson development II",
+      "minutes": 15,
+      "teacherActivity": "Guide learners through the different source-given questions.",
+      "learnerActivity": "Read or copy the remaining sourced content and answer oral or written questions.",
+      "source": {
+        "source": "lchk_7e914abcd1f34c67935e12ca2588d5ec",
+        "quote": "Question and answer"
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 8,
+      "teacherActivity": "Ask the source-written exercise questions and assess the responses against the learning notes.",
+      "learnerActivity": "Complete the exercise and correct responses.",
+      "source": {
+        "source": "lchk_97a01e70677f4b9681d229a69f9dca8c",
+        "quote": "What is land fragmentation?"
+      }
+    }
+  ],
+  "assessment": "Use the verbatim sourced questions in the notes to check learner understanding.",
+  "homework": "Complete any unfinished questions from the sourced exercise.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Co-operation"
+  ]
+}

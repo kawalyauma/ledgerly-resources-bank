@@ -1,0 +1,25 @@
+# TOPIC: POPULATION, SIZE AND DISTRIBUTION
+## SUB-TOPIC: High population density: advantages and problems
+
+### Meaning
+**High population density** occurs where there are many people in an area compared with its size and available resources. Some areas have many settlers, while others have very few. Population distribution is the way the population is spread across different places. Density must be considered together with land, space and services. A place may have many people because work, services and suitable land attract settlers.
+<!-- source: lchk_14b623f1a3ce45c2ba8e608ccdc49bdb "This is a large number of people living in an area compared to the available" -->
+
+### Places with many people
+The sources list the **shores of lakes** such as Lake Victoria, mountain slopes such as **Mufumbiro**, and major towns such as **Kampala, Masaka, Jinja, Mbarara and Arua** as densely populated. Lake shores can attract settlers through fertile soils, reliable rainfall and fishing. Urban centres offer employment opportunities, better services and markets. Trading centres and major roads also attract people because buying and selling goods are easier.
+<!-- source: lchk_14b623f1a3ce45c2ba8e608ccdc49bdb "Major towns and cities Kampala,Masaka,Jinja,Mbarara,Arua" -->
+
+### Advantages of high population density
+A high population supplies a **large market** for goods. It makes a **large labour force** available for farms, businesses and other work. More people can contribute **tax revenue** to the government. Economic activity can increase as goods are produced, bought and sold. The sources also connect a large population with the development of an area and proper utilisation of resources. These are benefits for communities and the wider country.
+<!-- source: lchk_a89f8a96f35c42f7a1dee9e9583a10c8 "It promotes proper utilisation of resources in" -->
+
+### Problems of high population density
+Crowding can cause **unemployment**, **food shortages** and **development of slums**. Diseases may spread quickly between people living closely together. Poor sanitation and inadequate social services can make living conditions worse. Other problems recorded in the materials are **high crime rates**, pressure on land, land fragmentation and damage to the natural environment. Traffic jams may occur in towns. These problems affect people's health, work and everyday life.
+<!-- source: lchk_a416bdcd62dc4f8d9ce0e5468c81c003 "Problems faced by people living in densely populated areas." -->
+
+### Exercise
+1. State any two advantages of a high population in an area. <!-- source: lchk_a89f8a96f35c42f7a1dee9e9583a10c8 "State any two advantages of a high population in an area." -->
+2. Mention any two problems an area is likely to face as a result of having a large population. <!-- source: lchk_a89f8a96f35c42f7a1dee9e9583a10c8 "Mention any two problems an area is likely to face as a result of having a large population." -->
+3. Give any two economic benefits of a large population to the development of a country. <!-- source: lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd "Give any two economic benefits of a large population to the development of a country." -->
+4. Mention any four problems faced by people living in densely populated areas. <!-- source: lchk_a416bdcd62dc4f8d9ce0e5468c81c003 "Mention any four problems faced by people living in densely populated areas." -->
+5. Give one way a large population promotes development in an area. <!-- source: lchk_a416bdcd62dc4f8d9ce0e5468c81c003 "Give one way a large population promotes development in an area." -->

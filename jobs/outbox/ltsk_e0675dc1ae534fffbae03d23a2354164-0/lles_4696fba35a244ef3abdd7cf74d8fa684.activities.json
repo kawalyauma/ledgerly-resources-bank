@@ -1,0 +1,58 @@
+[
+  {
+    "question": "How can the government of Uganda deal with its fast growing population?",
+    "answer": "Improve housing, agriculture, jobs and services.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "concept": "Solutions to high population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+      "quote": "How can the government of Uganda deal with its fast growing population?"
+    }
+  },
+  {
+    "question": "Give one way the government can encourage the settlement of people in rural areas.",
+    "answer": "Improve rural social services.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Solutions to high population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Give one way the government can encourage the settlement of people in rural areas."
+    }
+  },
+  {
+    "question": "Identify two dangers of a fast growing population to a country like Uganda.",
+    "answer": "Food shortage and unemployment.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Solutions to high population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Identify two dangers of a fast growing population to a country like Uganda."
+    }
+  },
+  {
+    "question": "Why does the government of Uganda encourage family planning?",
+    "answer": "To control rapid population growth.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Solutions to high population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+      "quote": "Why does the government of Uganda encourage family planning?"
+    }
+  }
+]

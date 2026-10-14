@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Calculate the population density of town W which has a population of 4500 people living in an area of 90km 2 .",
+    "answer": "50 people per km²",
+    "answerOrigin": "source",
+    "kind": "computation",
+    "concept": "Population density",
+    "skill": "calculate",
+    "cognitiveLevel": "apply",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Calculate the population density of town W which has a population of 4500 people living in an area of 90km 2 ."
+    }
+  },
+  {
+    "question": "The population of Matere town council is 84,000 people covering an area of 240 km .Find its population density",
+    "answer": "350 people per km²",
+    "answerOrigin": "source",
+    "kind": "computation",
+    "concept": "Population density",
+    "skill": "calculate",
+    "cognitiveLevel": "apply",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_7da97b3059f54d8d946bd48f60b14ba7",
+      "quote": "The population of Matere town council is 84,000 people covering an area of 240 km .Find its population density"
+    }
+  },
+  {
+    "question": "Give the meaning of Population density.",
+    "answer": "The number of people per square kilometre.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Population density",
+    "skill": "explain",
+    "cognitiveLevel": "understand",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Give the meaning of Population density."
+    }
+  },
+  {
+    "question": "e.g. the total population of Cornerstone Junior School is 600 pupils. If its total area is 30 square kilometers, calculate the population density of Cornerstone.",
+    "answer": "20 pupils per km²",
+    "answerOrigin": "source",
+    "kind": "computation",
+    "concept": "Population density",
+    "skill": "calculate",
+    "cognitiveLevel": "apply",
+    "difficulty": 3,
+    "source": {
+      "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+      "quote": "If its total area is 30 square kilometers, calculate the population density of Cornerstone."
+    }
+  }
+]
