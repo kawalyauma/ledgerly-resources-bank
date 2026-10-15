@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_959b79e586ec420d9b9b817451bf497a-0",
+  "task": "ltsk_959b79e586ec420d9b9b817451bf497a",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 51,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 1,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_ea27eef39bc04f1b80544b7836e833a8",
+      "kind": "teach",
+      "week": 1,
+      "title": "Independence",
+      "periods": 1,
+      "subtopic": "Meaning of independence and characteristics of an independent nation"
+    },
+    {
+      "id": "lles_4ffc3c8c5282426c8fd1dd71d712a007",
+      "kind": "teach",
+      "week": 1,
+      "title": "The national flag",
+      "periods": 1,
+      "subtopic": "Symbols of a nation: the national flag"
+    },
+    {
+      "id": "lles_982fb9e85e004d528bb9517124377890",
+      "kind": "teach",
+      "week": 1,
+      "title": "The national anthem",
+      "periods": 1,
+      "subtopic": "Symbols of a nation: the national anthem"
+    },
+    {
+      "id": "lles_4430a2b499fc4a4b9ca9dc331eb0da41",
+      "kind": "teach",
+      "week": 1,
+      "title": "The national coat of arms",
+      "periods": 1,
+      "subtopic": "Features of the coat of arms"
+    },
+    {
+      "id": "lles_fcaf265518c64dde8444330b8da2a508",
+      "kind": "practice",
+      "week": 1,
+      "title": "The national motto and the coat of arms",
+      "periods": 1,
+      "subtopic": "Significance of the coat of arms and its features"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_1162553670784949a6a5f4ead61c3374",
+    "lchk_6816a0521efb434a8d222966ed00fd03",
+    "lchk_3dedebb31c1e4c9783852eb0a4fc6cfb",
+    "lchk_b297e6921590437280a1192ded841240",
+    "lchk_a8d263adf25145d9b9a94e0acaa20555",
+    "lchk_b6ebfff8d01745efa6141743d019e6df",
+    "lchk_0f400a3753174ca4964cfae5fee9eca7",
+    "lchk_ce94496dbd07478db4aed434f20a4a6c"
+  ],
+  "created": "2026-10-15T10:37:57.454Z"
+}

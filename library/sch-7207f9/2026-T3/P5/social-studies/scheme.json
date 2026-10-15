@@ -1,0 +1,524 @@
+{
+  "units": [
+    {
+      "title": "Uganda as an independent nation",
+      "theme": "Living together in Uganda",
+      "weekFrom": 1,
+      "weekTo": 10
+    },
+    {
+      "title": "The Government of Uganda",
+      "theme": "Living together in Uganda",
+      "weekFrom": 4,
+      "weekTo": 10
+    },
+    {
+      "title": "Population, Size and Distribution",
+      "theme": "Living together in Uganda",
+      "weekFrom": 7,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_ea27eef39bc04f1b80544b7836e833a8",
+      "seq": 1,
+      "week": 1,
+      "title": "Independence",
+      "subtopic": "Meaning of independence and characteristics of an independent nation",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_4ffc3c8c5282426c8fd1dd71d712a007",
+      "seq": 2,
+      "week": 1,
+      "title": "The national flag",
+      "subtopic": "Symbols of a nation: the national flag",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_982fb9e85e004d528bb9517124377890",
+      "seq": 3,
+      "week": 1,
+      "title": "The national anthem",
+      "subtopic": "Symbols of a nation: the national anthem",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_4430a2b499fc4a4b9ca9dc331eb0da41",
+      "seq": 4,
+      "week": 1,
+      "title": "The national coat of arms",
+      "subtopic": "Features of the coat of arms",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_fcaf265518c64dde8444330b8da2a508",
+      "seq": 5,
+      "week": 1,
+      "title": "The national motto and the coat of arms",
+      "subtopic": "Significance of the coat of arms and its features",
+      "kind": "practice",
+      "status": "writing",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_831d3e35d6084faba037b1ed09260a0e",
+      "seq": 6,
+      "week": 2,
+      "title": "The national emblem",
+      "subtopic": "Symbols of a nation: the crested crane",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_e56bd80763154dfaa05ad7b74ee19fc4",
+      "seq": 7,
+      "week": 2,
+      "title": "The national language",
+      "subtopic": "National and official language",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_d4eb7099e7af4befa05c9ce95976389d",
+      "seq": 8,
+      "week": 2,
+      "title": "The capital city",
+      "subtopic": "Symbols of a nation: the capital city",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_03d523830f3641daa4b8a090f1e3e387",
+      "seq": 9,
+      "week": 2,
+      "title": "The national currency",
+      "subtopic": "Uganda's currency and financial institutions",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_f72c6211677f44ea828a1c7da3bdcc08",
+      "seq": 10,
+      "week": 2,
+      "title": "Democracy",
+      "subtopic": "Meaning, importance and challenges of democracy",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_283f96e109404be3aad963bee9808d7a",
+      "seq": 11,
+      "week": 3,
+      "title": "Citizenship",
+      "subtopic": "Ways of becoming a citizen of Uganda",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_cd7c7c03f17b41adb2245b352c3b3c1c",
+      "seq": 12,
+      "week": 3,
+      "title": "Elections",
+      "subtopic": "Meaning and types of elections",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_d65048524b0941b99e21c41ea99910bc",
+      "seq": 13,
+      "week": 3,
+      "title": "Terms used in elections",
+      "subtopic": "Election terms and the importance of elections",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_c93a1de7ede84717927d7171c796140f",
+      "seq": 14,
+      "week": 3,
+      "title": "Bad practices during elections",
+      "subtopic": "Bad practices before, during and after voting",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_01cc42c43fd84d91adeba440f1882f67",
+      "seq": 15,
+      "week": 3,
+      "title": "The Electoral Commission",
+      "subtopic": "Roles and challenges of the Electoral Commission",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_2174eb576b9642eaa0c1519cbe035323",
+      "seq": 16,
+      "week": 4,
+      "title": "The government of Uganda",
+      "subtopic": "Meaning of government and its organs",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_f9c24cda432a4823884b2ed2f9ed6c39",
+      "seq": 17,
+      "week": 4,
+      "title": "The legislature",
+      "subtopic": "Parliament: duties, officers and qualifications of a Member of Parliament",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_e5c32cc9fdbf457987e60b21c1dcbb43",
+      "seq": 18,
+      "week": 4,
+      "title": "The executive",
+      "subtopic": "The President, ministers and civil servants",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_c7da3fb37ec14fd1958700d3693863f6",
+      "seq": 19,
+      "week": 4,
+      "title": "The judiciary",
+      "subtopic": "Composition and roles of the judiciary",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_30e71760d56a46fb99ee7edbd41c0d81",
+      "seq": 20,
+      "week": 4,
+      "title": "Organs of government Part B",
+      "subtopic": "The legislature, executive and judiciary",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_bfb889a5c7084f838955d6830261a6fa",
+      "seq": 21,
+      "week": 5,
+      "title": "Roles of the central government",
+      "subtopic": "Types of government and roles of the central government",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_4478e731b97b4a509b4ce440d62da8a3",
+      "seq": 22,
+      "week": 5,
+      "title": "Local government",
+      "subtopic": "Roles of the local government",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_bb0541b30955403097a3b68cc491e7dc",
+      "seq": 23,
+      "week": 5,
+      "title": "The constitution",
+      "subtopic": "Meaning, functions and importance of a constitution",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_6819cdaa984249ec9149c9a3959ebdae",
+      "seq": 24,
+      "week": 5,
+      "title": "The constitutions of Uganda",
+      "subtopic": "The 1962, 1967 and 1995 constitutions",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_e32889b6d2d64fccabcec42abcad92ff",
+      "seq": 25,
+      "week": 5,
+      "title": "Government revenue",
+      "subtopic": "Taxation and types of taxes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_0e3d74135c0f4f6f80b4d30ff78ae628",
+      "seq": 26,
+      "week": 6,
+      "title": "Sources of government revenue",
+      "subtopic": "The URA and other sources of government revenue",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_15330e8405cb4dee8ac9ab3d4833090b",
+      "seq": 27,
+      "week": 6,
+      "title": "Government expenditure",
+      "subtopic": "How the government spends its revenue",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_a16157293c3a451cae534b029ef86937",
+      "seq": 28,
+      "week": 6,
+      "title": "The national budget",
+      "subtopic": "Meaning and types of budgets",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_802e6f2f3cde4c4c8750e1423d4f2f27",
+      "seq": 29,
+      "week": 6,
+      "title": "Importance of the budget",
+      "subtopic": "Surplus, balanced and deficit budgets",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_1ad6e9d8b9cf42f0a2107524966a7bdd",
+      "seq": 30,
+      "week": 6,
+      "title": "Human rights",
+      "subtopic": "Rights of a citizen and the Uganda Human Rights Commission",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_cf576b542124477bbe8959a6c665509e",
+      "seq": 31,
+      "week": 7,
+      "title": "Responsibilities of a citizen",
+      "subtopic": "Responsibilities of a citizen in developing Uganda",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_ebb648ef2b1149e4b4581f733d12e7bf",
+      "seq": 32,
+      "week": 7,
+      "title": "Child labour",
+      "subtopic": "Children's rights and child labour",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_78aea8dfc8d9478cbcaf5d9e756e8531",
+      "seq": 33,
+      "week": 7,
+      "title": "Population and the population census",
+      "subtopic": "Meaning of population and census",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Population, Size and Distribution"
+    },
+    {
+      "id": "lles_dba4204db0164ee6b065363b9025c4fe",
+      "seq": 34,
+      "week": 7,
+      "title": "Population growth",
+      "subtopic": "Factors that influence population growth",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Population, Size and Distribution"
+    },
+    {
+      "id": "lles_3a76846a2551482ebeb77fe8fc86caca",
+      "seq": 35,
+      "week": 7,
+      "title": "Population distribution",
+      "subtopic": "Factors affecting population distribution",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Population, Size and Distribution"
+    },
+    {
+      "id": "lles_f8c623f058e54bbaa04f1db803f67ea6",
+      "seq": 36,
+      "week": 8,
+      "title": "Population density",
+      "subtopic": "Meaning and calculation of population density",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Population, Size and Distribution"
+    },
+    {
+      "id": "lles_55f057a6abef4719a7ed9cad01f796d0",
+      "seq": 37,
+      "week": 8,
+      "title": "High and low population density",
+      "subtopic": "Areas of high and low population density",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Population, Size and Distribution"
+    },
+    {
+      "id": "lles_89e8887aa4724150bfeb5a8f37aba865",
+      "seq": 38,
+      "week": 8,
+      "title": "Problems of high and low population",
+      "subtopic": "Advantages and disadvantages of high and low population",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Population, Size and Distribution"
+    },
+    {
+      "id": "lles_ac706889f7aa4a2088c04950beaf23d9",
+      "seq": 39,
+      "week": 8,
+      "title": "Controlling population growth",
+      "subtopic": "Solutions to high population density",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Population, Size and Distribution"
+    },
+    {
+      "id": "lles_caa6477290e54a61a33b2386f0d08879",
+      "seq": 40,
+      "week": 8,
+      "title": "HIV/AIDS and population",
+      "subtopic": "Effects of HIV/AIDS on population and economic development",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Population, Size and Distribution"
+    },
+    {
+      "id": "lles_18f4bea3ecac4c18aad6b5bd4737a766",
+      "seq": 41,
+      "week": 9,
+      "title": "Hazards that check population growth",
+      "subtopic": "Natural and man-made hazards",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Population, Size and Distribution"
+    },
+    {
+      "id": "lles_f5c63946b6f14a26804d4d3021a38cc6",
+      "seq": 42,
+      "week": 9,
+      "title": "Population terms",
+      "subtopic": "Summary of population terms",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Population, Size and Distribution"
+    },
+    {
+      "id": "lles_d4a41884dbc6431fa7db7963bca08462",
+      "seq": 43,
+      "week": 9,
+      "title": "Revision: Uganda as an independent nation",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_29608edb52284b84815abca6d9204b78",
+      "seq": 44,
+      "week": 9,
+      "title": "Revision: The Government of Uganda",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_14aa97868f904a259dfd0b60a9577f64",
+      "seq": 45,
+      "week": 9,
+      "title": "Revision: Population, Size and Distribution",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Population, Size and Distribution"
+    },
+    {
+      "id": "lles_9a2753bbd95b4d9e84313391e5ec4506",
+      "seq": 46,
+      "week": 10,
+      "title": "Term revision 1: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_3a53301040464ad29d62b25c2651c542",
+      "seq": 47,
+      "week": 10,
+      "title": "Term revision 2: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "The Government of Uganda"
+    },
+    {
+      "id": "lles_922160d51b92469a8ec82d95a6fb54c8",
+      "seq": 48,
+      "week": 10,
+      "title": "Term revision 3: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Population, Size and Distribution"
+    },
+    {
+      "id": "lles_310fae2b123445f093a410f2e64e3b27",
+      "seq": 49,
+      "week": 10,
+      "title": "Term revision 4: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Uganda as an independent nation"
+    },
+    {
+      "id": "lles_381da0be0dc64895b0bade512779b38f",
+      "seq": 50,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Uganda as an independent nation"
+    }
+  ]
+}
