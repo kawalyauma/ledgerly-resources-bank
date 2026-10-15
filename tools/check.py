@@ -373,6 +373,8 @@ def main():
             print(f"{'PASS' if not problems else 'FAIL'}  {job_id}")
             for p in problems: print(f"  ✗ {p}")
             for w in warnings: print(f"  ! {w}")
+            if problems:
+                print(f"  => {job_id} is NOT DONE. Do not report it as complete. Fix the problems above, run check.py again, and push only after PASS.")
     if as_json: print(json.dumps(results, indent=1))
     sys.exit(1 if failed else 0)
 

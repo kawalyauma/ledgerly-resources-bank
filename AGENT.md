@@ -145,5 +145,10 @@ item is rejected as invented.
 
 ## Done means
 
-`python3 tools/check.py <job>` prints PASS, and a head teacher would hand
-these notes to a new teacher without changing them.
+`python3 tools/check.py <job>` prints PASS, the whole answer folder (notes, plan and
+activities for every lesson, figures, and `meta.json`) is pushed, and a head teacher would
+hand these notes to a new teacher without changing them.
+
+Anything less is **NOT DONE**: never call it complete. Ledgerly does not import an answer
+without `meta.json`, and it writes `jobs/feedback/<job>.md` listing what is missing from an
+unfinished answer folder.

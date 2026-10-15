@@ -22,5 +22,11 @@ Hard rules:
 - One lesson = one 40-minute period. A `practice` lesson is a Part B lesson: same subtopic, new activities from other sources.
 - Don't edit job inputs, library files or tools/.
 - If an answer comes back in jobs/feedback/, fix exactly what it says and resubmit.
+- **A job is COMPLETE only when `python3 tools/check.py <job-id>` prints PASS and the whole answer (every lesson's
+  `.notes.md`, `.plan.json`, `.activities.json`, any figures, and `meta.json`) is pushed.** Ledgerly ignores an answer
+  without `meta.json`. Never say "complete", "done" or "finished" about a job that has not passed. Drafts are not answers.
+- If you have to stop early, say **NOT DONE** for that job and paste what check.py lists as missing.
 
-When done, report the jobs you finished, the commit hashes and any gaps.
+When you stop, report:
+- COMPLETE: only jobs whose check.py printed PASS and whose answer is pushed, with the commit hashes and any gaps;
+- NOT DONE: every other job you touched, with check.py's list of what is missing.
