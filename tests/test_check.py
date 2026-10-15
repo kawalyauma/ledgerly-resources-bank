@@ -71,13 +71,21 @@ def act(q, a, quote):
 ACTS = [act("$\\frac{2}{7} + \\frac{3}{7}$", "$\\frac{5}{7}$", "Add: (a) 2/7 + 3/7"), act("$\\frac{1}{9} + \\frac{4}{9}$", "$\\frac{5}{9}$", "(b) 1/9 + 4/9 (c)"),
         act("$\\frac{3}{11} + \\frac{5}{11}$", "$\\frac{8}{11}$", "(c) 3/11 + 5/11"), act("$\\frac{1}{4} + \\frac{2}{4}$", "$\\frac{3}{4}$", "(d) 1/4 + 2/4. Answers")]
 
-PLAN = {"competences": ["Adds fractions with the same denominator"], "objectives": ["Add fractions with the same denominator"],
-        "methods": ["Explanation", "Question and answer", "Guided practice"], "materials": ["Fraction bars"],
+PLAN = {"competences": ["The learner adds fractions with the same denominator.", "The learner explains why the denominator stays the same."],
+        "languageCompetence": "Pronounces, spells and writes: fraction, numerator, denominator.",
+        "objectives": ["By the end of the lesson, learners should be able to add two fractions with the same denominator.",
+                       "By the end of the lesson, learners should be able to explain why the denominator does not change."],
+        "priorKnowledge": "Learners already know that a fraction is part of a whole and can name the numerator and denominator.",
+        "methods": ["Explanation", "Question and answer", "Guided practice"], "materials": ["Fraction bars", "Chart of fifths and ninths"],
         "references": ["Primary Four Mathematics Notes (sample)"],
-        "steps": [{"stage": "Introduction", "minutes": 5, "teacherActivity": "Revises the meaning of a fraction.", "learnerActivity": "Name the numerator and denominator."},
-                  {"stage": "Development", "minutes": 25, "teacherActivity": "Explains the rule and works Examples 1 and 2 on the board.", "learnerActivity": "Follow and answer questions."},
-                  {"stage": "Conclusion", "minutes": 10, "teacherActivity": "Gives the exercise.", "learnerActivity": "Do the exercise in their books."}],
-        "assessment": "Learners add four fractions with the same denominator."}
+        "steps": [{"stage": "Introduction", "minutes": 5, "teacherActivity": "The teacher holds up a fraction bar and asks: 'What is the top number called?' and 'What does the bottom number tell us?' to revise the meaning of a fraction.", "learnerActivity": "Learners name the numerator and the denominator of the fractions the teacher shows."},
+                  {"stage": "Development: the rule", "minutes": 10, "content": "Rule: when the denominators are the same, add the numerators and keep the denominator.", "teacherActivity": "The teacher writes the rule on the board and explains, with the fraction bars, why the size of each part does not change so the denominator stays the same.", "learnerActivity": "Learners read the rule aloud together and shade parts of fraction bars to show it."},
+                  {"stage": "Development: worked examples", "minutes": 10, "content": "Example 1: 1/5 + 2/5 = 3/5. Example 2: 2/9 + 4/9 = 6/9.", "teacherActivity": "The teacher works Examples 1 and 2 on the board, asking after each step: 'What do we add?' and 'What happens to the denominator?'", "learnerActivity": "Learners answer the questions at each step and copy the worked examples into their books."},
+                  {"stage": "Practice", "minutes": 12, "content": "Exercise: add 2/7 + 3/7, 1/9 + 4/9, 3/11 + 5/11 and 1/4 + 2/4.", "teacherActivity": "The teacher writes the exercise on the board, marks learners' work as they finish and helps those who add the denominators by mistake.", "learnerActivity": "Learners add the four pairs of fractions in their books and correct their mistakes."},
+                  {"stage": "Conclusion", "minutes": 3, "teacherActivity": "The teacher summarises the rule and asks: 'What is 1/5 + 2/5?' and 'Why does the denominator stay the same?' to check understanding.", "learnerActivity": "Learners answer the oral questions and say the rule together."}],
+        "assessment": "Oral questions (What is 1/5 + 2/5? Why does the denominator stay the same?) and the written exercise of four sums, marked in class.",
+        "homework": "Add 2/7 + 4/7 and 1/9 + 5/9 in your book.",
+        "lifeSkills": ["Critical thinking", "Accuracy"]}
 
 FIG = {"key": "fraction-bar-3-5", "lesson": "lles_t1", "title": "Three fifths", "method": "coded", "parts": [],
        "coded": {"type": "fraction", "shape": "bar", "numerator": 3, "denominator": 5},
@@ -127,6 +135,7 @@ cases = [
         notes=NOTES.replace("### Example 1", "### First sum").replace("### Example 2", "### Second sum")),
     run("missing diagram is rejected", False, "has no figures/", notes=NOTES.replace("fraction-bar-3-5", "missing-key")),
     run("plan minutes must add to 40", False, "add up to", plan={**PLAN, "steps": PLAN["steps"][:2]}),
+    run("shallow plan is rejected", False, "teacher activity too thin", plan={**PLAN, "steps": [{**st, "teacherActivity": "Explains key terms."} for st in PLAN["steps"]]}),
     run("stale attempt is rejected", False, "attempt", meta={**META, "attempt": 2}),
     run("unbalanced latex is rejected", False, "unbalanced", notes=NOTES.replace("$\\frac{2}{9}", "\\frac{2}{9}")),
 ]

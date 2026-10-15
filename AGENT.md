@@ -136,6 +136,63 @@ What the teacher writes on the board and learners copy, **content only**, in
 - Size by class: from about 6–14 points (P1) to 18–36 points (P7). The checker only
   rejects stubs (P1 under 50 words … P7 under 170).
 
+## Lesson plans
+
+A plan a head teacher or supervisor would accept (Ugandan format), written from the lesson's notes.
+Never one generic line per step ("Explain key terms", "Give questions"): name the terms and quote the questions.
+
+- `competences`: 2–4, each "The learner …" with a concrete verb and the lesson's actual content.
+- `languageCompetence`: the key words learners pronounce, spell, read and write.
+- `objectives`: 2–4 measurable ("By the end of the lesson, learners should be able to …"), not copies of the competences.
+- `priorKnowledge`: what learners already know that the lesson builds on.
+- `methods` ≥ 3 names; `materials` ≥ 2 specific aids ("chart of the three arms of government", not only "chalkboard");
+  `references`: source titles (with page numbers when the sources give them).
+- `steps`: 4–7, minutes adding up exactly to the lesson: Introduction (link to prior knowledge, the starter question),
+  one development step per notes section, a Practice / Exercise step, a Conclusion. Every step has
+  `content` (the points taught or written on the board in that step, from the notes; required except in the
+  introduction and conclusion), `teacherActivity` (2–4 sentences, ≥ 20 words, with the actual questions and
+  examples) and `learnerActivity` (1–3 sentences, ≥ 10 words).
+- `assessment`: at least 3 actual oral or written questions; `homework`: one specific task; `lifeSkills`: 2–4.
+
+```json
+{
+  "competences": ["The learner names the three arms of government.", "The learner states the duties of the legislature."],
+  "languageCompetence": "Pronounces, spells and writes: legislature, executive, judiciary, Speaker, bill.",
+  "objectives": ["By the end of the lesson, learners should be able to name the three arms of government.",
+                 "By the end of the lesson, learners should be able to state three duties of the legislature."],
+  "priorKnowledge": "Learners know from the previous lesson that Uganda has a government that leads the country.",
+  "methods": ["Explanation", "Question and answer", "Guided discussion"],
+  "materials": ["Chart of the three arms of government", "Picture of Parliament in session"],
+  "references": ["P.5 SST SCHEME TERM III 2019", "Primary Five Social Studies Notes 2020"],
+  "steps": [
+    {"stage": "Introduction", "minutes": 5,
+     "teacherActivity": "The teacher asks: 'Who makes the rules in our school?' and 'Who makes the laws of Uganda?', then links the answers to the arms of government.",
+     "learnerActivity": "Learners name people who make rules at school and at home, and guess who makes the laws of Uganda."},
+    {"stage": "Development: the arms of government", "minutes": 10,
+     "content": "The three arms of government: the legislature (makes laws), the executive (implements laws), the judiciary (interprets laws).",
+     "teacherActivity": "The teacher shows the chart, writes the three arms on the board and explains each with an example: Parliament passes a law, ministers carry it out, courts settle cases under it.",
+     "learnerActivity": "Learners read the three arms aloud from the chart and copy them with their work into their books."},
+    {"stage": "Development: duties of the legislature", "minutes": 10,
+     "content": "Duties of the legislature: to make laws, to approve the national budget, to approve ministers, to protect the constitution.",
+     "teacherActivity": "The teacher asks: 'Which arm of government makes laws?' and writes the duties of the legislature on the board, explaining what a bill is and how it becomes a law.",
+     "learnerActivity": "Learners discuss in pairs one duty of Parliament they have heard about on radio, then share with the class."},
+    {"stage": "Practice", "minutes": 10,
+     "content": "Exercise: name the three arms of government; state two duties of the legislature; who heads Parliament?",
+     "teacherActivity": "The teacher writes the exercise questions on the board, moves around marking, and helps learners who mix up the executive and the legislature.",
+     "learnerActivity": "Learners answer the exercise questions in their books and correct their mistakes as the teacher marks."},
+    {"stage": "Conclusion", "minutes": 5,
+     "teacherActivity": "The teacher summarises the arms of government and asks three learners: 'Which arm interprets the law?', 'Which arm makes laws?', 'Who heads Parliament?'",
+     "learnerActivity": "Learners answer the oral questions and read the summary on the board together."}
+  ],
+  "assessment": "Oral questions in the conclusion (Which arm interprets the law? Which arm makes laws? Who heads Parliament?) and the written exercise, marked in class.",
+  "homework": "Write two duties of the legislature and two of the judiciary in your book.",
+  "lifeSkills": ["Critical thinking", "Effective communication", "Respect for authority"]
+}
+```
+
+`tools/check.py` rejects plans that miss any of these (thin activities, missing content, too few steps,
+competences, objectives or aids, no prior knowledge, vague assessment, notes sections not taught).
+
 ## Quotes
 
 A quote is copied **exactly** from the passage (≤ 25 words, and at least 6 letters/digits:

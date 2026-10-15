@@ -205,13 +205,49 @@ def check_notes(text, lesson, job, cites, figures, activities, problems, warning
     if len(set(paragraphs)) < len(paragraphs): problems.append(f"{where}: repeated paragraphs")
 
 
-def check_plan(plan, lesson, cites, problems, warnings):
+PLAN_STOP = {"meaning", "examples", "example", "reasons", "importance", "problems", "solutions", "possible", "ways", "causes", "effects",
+             "types", "duties", "roles", "people", "living", "faced", "which", "their", "with", "from", "that", "this", "about", "what", "uganda"}
+
+
+def plan_depth(plan, lesson, notes, where, problems):
+    """Same rules as Ledgerly's plan gate: a plan a head teacher would accept, not one generic line per step."""
+    kind = lesson.get("kind", "teach")
+    teach = kind == "teach"
+    steps = [s for s in plan.get("steps", []) if isinstance(s, dict)]
+    need = 4 if teach else 3
+    if len(steps) < need: problems.append(f"{where}: needs at least {need} steps (introduction, a development step per notes section, practice, conclusion); it has {len(steps)}")
+    thin_t = [s.get("stage", "?") for s in steps if count_words(s.get("teacherActivity", "")) < 20]
+    if thin_t: problems.append(f"{where}: teacher activity too thin (under 20 words: say what is taught and quote the questions asked) in: {', '.join(thin_t[:4])}")
+    thin_l = [s.get("stage", "?") for s in steps if count_words(s.get("learnerActivity", "")) < 10]
+    if thin_l: problems.append(f"{where}: learner activity too thin (under 10 words) in: {', '.join(thin_l[:4])}")
+    no_content = [s.get("stage", "?") for s in steps if not re.search(r"intro|conclu", s.get("stage", ""), re.I) and count_words(s.get("content") or "") < 6]
+    if no_content: problems.append(f"{where}: steps need 'content' (the points taught or written on the board in that step) in: {', '.join(no_content[:4])}")
+    if len(plan.get("competences") or []) < 2: problems.append(f"{where}: needs at least 2 subject competences")
+    if len(plan.get("objectives") or []) < 2: problems.append(f"{where}: needs at least 2 measurable objectives")
+    if count_words(plan.get("priorKnowledge") or "") < 8: problems.append(f"{where}: needs priorKnowledge (what learners already know that the lesson builds on)")
+    if len(plan.get("methods") or []) < 3: problems.append(f"{where}: needs at least 3 methods")
+    if len(plan.get("materials") or []) < 2: problems.append(f"{where}: needs at least 2 specific teaching aids")
+    if count_words(plan.get("assessment") or "") < 15: problems.append(f"{where}: assessment must list the actual oral or written questions used to check learning")
+    if teach and count_words(plan.get("homework") or "") < 4: problems.append(f"{where}: needs a specific homework task")
+    if teach and notes:
+        taught = " ".join(f"{s.get('stage', '')} {s.get('content') or ''} {s.get('teacherActivity', '')}" for s in steps).lower()
+        sections = [h.strip() for h in re.findall(r"^###\s+(.+)$", re.sub(r"<!--.*?-->", "", notes, flags=re.S), re.M)
+                    if not re.match(r"(exercise|new words|note|nb|n\.b|example|remember|summary)\b", h.strip(), re.I)]
+        missed = []
+        for h in sections:
+            keys = [re.sub(r"(ies|es|s)$", "", k) for k in re.findall(r"[a-z]{4,}", h.lower()) if k not in PLAN_STOP]
+            if keys and not any(k in taught for k in keys): missed.append(h)
+        if missed: problems.append(f"{where}: does not teach these notes sections: {', '.join(missed[:5])}")
+
+
+def check_plan(plan, lesson, cites, problems, warnings, notes=None):
     where = f"{lesson['id']}.plan.json"
     validate(plan, schema("plan"), where, problems)
     if not isinstance(plan, dict): return
+    plan_depth(plan, lesson, notes, where, problems)
     total = sum(s.get("minutes", 0) for s in plan.get("steps", []) if isinstance(s, dict))
     want = 40 * int(lesson.get("periods") or 1)
-    if abs(total - want) > 5: problems.append(f"{where}: steps add up to {total} minutes; the lesson is {want}")
+    if abs(total - want) > 3: problems.append(f"{where}: steps add up to {total} minutes; the lesson is {want}")
     for i, step in enumerate(plan.get("steps", [])):
         if isinstance(step, dict) and "source" in step: cites.check(step["source"], f"{where}.steps[{i}]", problems)
         text = json.dumps(step).lower() if isinstance(step, dict) else ""
@@ -328,7 +364,9 @@ def check_job(job_id):
         for lesson in lessons:
             base = os.path.join(answer_dir, lesson["id"])
             plan = load_json(base + ".plan.json", problems)
-            if plan is not None: check_plan(plan, lesson, cites, problems, warnings)
+            try: notes_text = open(base + ".notes.md", encoding="utf-8").read()
+            except FileNotFoundError: notes_text = None
+            if plan is not None: check_plan(plan, lesson, cites, problems, warnings, notes_text)
             if kind == "lesson.plan": continue
             acts = load_json(base + ".activities.json", problems)
             if acts is not None: check_activities(acts, lesson, job, cites, problems, warnings)
