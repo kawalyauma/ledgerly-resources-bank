@@ -1,0 +1,86 @@
+[
+  {
+    "question": "How did the missionaries solve the problems below?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Advantages and disadvantages of high and low population",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8ad2728cf9040c7bb00f446d42fe513",
+      "quote": "How did the missionaries solve the problems below?"
+    }
+  },
+  {
+    "question": "Give two problems that the government is most likely to face when people don’t pay.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Advantages and disadvantages of high and low population",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_75679631316b42868d58f327c564a4ad",
+      "quote": "Give two problems that the government is most likely to face when people don’t pay."
+    }
+  },
+  {
+    "question": "Give two problems that the Uganda Revenue Authority faces when collecting revenue.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Advantages and disadvantages of high and low population",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_0a1164179dff4fca90acdf57f4577bce",
+      "quote": "Give two problems that the Uganda Revenue Authority faces when collecting revenue."
+    }
+  },
+  {
+    "question": "Why is Kalangala called an island district?",
+    "answer": "It is surrounded by a waterbody",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Advantages and disadvantages of high and low population",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_67107f7580ce4c7195e731127db15f02",
+      "quote": "Why is Kalangala called an island district?"
+    }
+  },
+  {
+    "question": "What caused land fragmentation in Kigezi sub region?",
+    "answer": "High population",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Advantages and disadvantages of high and low population",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_0577a67498854b97b52f74a7e458dec5",
+      "quote": "What caused land fragmentation in Kigezi sub region?"
+    }
+  },
+  {
+    "question": "How do mountains modify climate?",
+    "answer": "They help in rain formation",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Advantages and disadvantages of high and low population",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_aa35964446c04c818755452994fdeb52",
+      "quote": "How do mountains modify climate?"
+    }
+  }
+]

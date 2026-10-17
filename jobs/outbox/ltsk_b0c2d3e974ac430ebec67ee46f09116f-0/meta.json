@@ -1,0 +1,21 @@
+{
+  "job": "ltsk_b0c2d3e974ac430ebec67ee46f09116f-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "lles_55f057a6abef4719a7ed9cad01f796d0": [
+      "A few source questions were drawn from the wider unit because this precise subtopic had limited original questions."
+    ],
+    "lles_89e8887aa4724150bfeb5a8f37aba865": [
+      "A few source questions were drawn from the wider unit because this precise subtopic had limited original questions."
+    ],
+    "lles_ac706889f7aa4a2088c04950beaf23d9": [
+      "A few source questions were drawn from the wider unit because this precise subtopic had limited original questions."
+    ],
+    "lles_caa6477290e54a61a33b2386f0d08879": [
+      "A few source questions were drawn from the wider unit because this precise subtopic had limited original questions."
+    ]
+  },
+  "reviewerNotes": "P5 SST term 3 original sourced questions, notes and 40-minute plans. Teacher review of question answers is required."
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What is a budget?",
+    "answer": "This is the estimation of income and expenditure for a given period of time.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "How the government spends its revenue",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_75679631316b42868d58f327c564a4ad",
+      "quote": "What is a budget?"
+    }
+  },
+  {
+    "question": "Which ministry in Uganda is responsible for carrying out the national budget?",
+    "answer": "The ministry of finance, planning and Economic Development",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "How the government spends its revenue",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_0a1164179dff4fca90acdf57f4577bce",
+      "quote": "Which ministry in Uganda is responsible for carrying out the national budget?"
+    }
+  },
+  {
+    "question": "Who is the current ministers of finance in Uganda?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "How the government spends its revenue",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_0a1164179dff4fca90acdf57f4577bce",
+      "quote": "Who is the current ministers of finance in Uganda?"
+    }
+  },
+  {
+    "question": "Why are sugar prices high in Uganda yet is not imported?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "How the government spends its revenue",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_838b9eae769b4252977493d4828be957",
+      "quote": "Why are sugar prices high in Uganda yet is not imported?"
+    }
+  },
+  {
+    "question": "Give the major duty of the special Revenue Protection Service.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "How the government spends its revenue",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_0a1164179dff4fca90acdf57f4577bce",
+      "quote": "Give the major duty of the special Revenue Protection Service."
+    }
+  },
+  {
+    "question": "Give two problems that the Uganda Revenue Authority faces when collecting revenue.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "How the government spends its revenue",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_0a1164179dff4fca90acdf57f4577bce",
+      "quote": "Give two problems that the Uganda Revenue Authority faces when collecting revenue."
+    }
+  }
+]

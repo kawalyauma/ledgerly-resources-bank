@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Why are do some areas have high population?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Areas of high and low population density",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Why are do some areas have high population?"
+    }
+  },
+  {
+    "question": "What is land fragmentation?",
+    "answer": "This is the division of land into small plots",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Areas of high and low population density",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_97a01e70677f4b9681d229a69f9dca8c",
+      "quote": "What is land fragmentation?"
+    }
+  },
+  {
+    "question": "Give any three causes of high population growth in Uganda.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Areas of high and low population density",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+      "quote": "Give any three causes of high population growth in Uganda."
+    }
+  },
+  {
+    "question": "State any two advantages of a high population in an area.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Areas of high and low population density",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+      "quote": "State any two advantages of a high population in an area."
+    }
+  },
+  {
+    "question": "Give advantages of a low population to a country.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Areas of high and low population density",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Give advantages of a low population to a country."
+    }
+  },
+  {
+    "question": "What conference was the climax of all Uganda’s struggle for independence?",
+    "answer": "It was the London constitutional conference.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Areas of high and low population density",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8d263adf25145d9b9a94e0acaa20555",
+      "quote": "What conference was the climax of all Uganda’s struggle for independence?"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What is family planning?",
+    "answer": "Family planning is the spaced way of producing children.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Solutions to high population density",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+      "quote": "What is family planning?"
+    }
+  },
+  {
+    "question": "Why does the government of Uganda encourage family planning?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Solutions to high population density",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+      "quote": "Why does the government of Uganda encourage family planning?"
+    }
+  },
+  {
+    "question": "Give two reasons why people have got negative attitude towards family planning.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Solutions to high population density",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+      "quote": "Give two reasons why people have got negative attitude towards family planning."
+    }
+  },
+  {
+    "question": "What is urbanization?",
+    "answer": "This is the turning of a village into a town",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Solutions to high population density",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_97a01e70677f4b9681d229a69f9dca8c",
+      "quote": "What is urbanization?"
+    }
+  },
+  {
+    "question": "Name the body under URA that is responsible for controlling smuggling in Uganda.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Solutions to high population density",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Name the body under URA that is responsible for controlling smuggling in Uganda."
+    }
+  },
+  {
+    "question": "Who was the first prime minister of independent Uganda?",
+    "answer": "Apollo Milton obote",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Solutions to high population density",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8d263adf25145d9b9a94e0acaa20555",
+      "quote": "Who was the first prime minister of independent Uganda?"
+    }
+  }
+]

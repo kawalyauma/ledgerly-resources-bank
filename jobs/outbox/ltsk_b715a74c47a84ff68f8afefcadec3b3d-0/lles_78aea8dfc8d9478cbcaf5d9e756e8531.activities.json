@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which body in Uganda, carries out national population census?",
+    "answer": "The Uganda national bureau of statistics",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Meaning of population and census",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c39ba86482504f359b37660b3e5a1d42",
+      "quote": "Which body in Uganda, carries out national population census?"
+    }
+  },
+  {
+    "question": "What is population?",
+    "answer": "Population is the total number of people living in an area.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Meaning of population and census",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+      "quote": "What is population?"
+    }
+  },
+  {
+    "question": "Mention two causes of high population density",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Meaning of population and census",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+      "quote": "Mention two causes of high population density"
+    }
+  },
+  {
+    "question": "How does abig population affect vegetation?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Meaning of population and census",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+      "quote": "How does abig population affect vegetation?"
+    }
+  },
+  {
+    "question": "Write down any two advantages of a small population in a country.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Meaning of population and census",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_f3180c29719f4e6ba4d80288742b14d2",
+      "quote": "Write down any two advantages of a small population in a country."
+    }
+  },
+  {
+    "question": "Give the difference between population census and national population census.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Meaning of population and census",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_91e897c1be5f461ab3bbc9443993f48c",
+      "quote": "Give the difference between population census and national population census."
+    }
+  }
+]

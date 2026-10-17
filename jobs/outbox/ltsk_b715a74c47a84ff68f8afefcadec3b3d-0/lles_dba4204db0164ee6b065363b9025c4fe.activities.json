@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What is urbanization?",
+    "answer": "This is the turning of a village into a town",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Factors that influence population growth",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_97a01e70677f4b9681d229a69f9dca8c",
+      "quote": "What is urbanization?"
+    }
+  },
+  {
+    "question": "Give any three causes of high population growth in Uganda.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Factors that influence population growth",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+      "quote": "Give any three causes of high population growth in Uganda."
+    }
+  },
+  {
+    "question": "What is rural urban migration?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Factors that influence population growth",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_1df1227f2a7e400db4db1e18d0283126",
+      "quote": "What is rural urban migration?"
+    }
+  },
+  {
+    "question": "How to control rural urban migration?",
+    "answer": "Extending better social services in village",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Factors that influence population growth",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_1df1227f2a7e400db4db1e18d0283126",
+      "quote": "How to control rural urban migration?"
+    }
+  },
+  {
+    "question": "What is Urban rural Migration?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Factors that influence population growth",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_1df1227f2a7e400db4db1e18d0283126",
+      "quote": "What is Urban rural Migration?"
+    }
+  },
+  {
+    "question": "What is rural- rural migration?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Factors that influence population growth",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_1df1227f2a7e400db4db1e18d0283126",
+      "quote": "What is rural- rural migration?"
+    }
+  }
+]
