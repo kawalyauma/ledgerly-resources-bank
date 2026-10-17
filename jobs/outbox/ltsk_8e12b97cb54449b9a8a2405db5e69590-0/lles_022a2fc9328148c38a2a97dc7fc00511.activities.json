@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is marriage?",
+    "answer": "The legal union of a man and a woman as husband and wife.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "concept": "Marriage in Christian life",
+    "source": {
+      "source": "lchk_232ef985adf24ac1a738940b5f92a701",
+      "quote": "What is marriage?"
+    }
+  },
+  {
+    "question": "Who presides over each of the above types of marriage?",
+    "answer": "Civil: government registrar or CAO; religious: religious leader; customary: clan or family leaders.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "concept": "Marriage in Christian life",
+    "source": {
+      "source": "lchk_232ef985adf24ac1a738940b5f92a701",
+      "quote": "Who presides over each of the above types of marriage?"
+    }
+  },
+  {
+    "question": "How is Holy Matrimony important among Christians?",
+    "answer": "It unites a husband and wife as a married couple under God's family.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "concept": "Marriage in Christian life",
+    "source": {
+      "source": "lchk_232ef985adf24ac1a738940b5f92a701",
+      "quote": "How is Holy Matrimony important among Christians?"
+    }
+  },
+  {
+    "question": "Why do people marry?",
+    "answer": "For companionship and to form a family, among other reasons listed in the source.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "concept": "Marriage in Christian life",
+    "source": {
+      "source": "lchk_232ef985adf24ac1a738940b5f92a701",
+      "quote": "Why do people marry?"
+    }
+  },
+  {
+    "question": "What is a marriage vow?",
+    "answer": "A promise a couple make to one another about their commitment in marriage.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "concept": "Marriage in Christian life",
+    "source": {
+      "source": "lchk_ce7cf5d8d98940d2a65961808b128398",
+      "quote": "What is a marriage vow?"
+    }
+  }
+]

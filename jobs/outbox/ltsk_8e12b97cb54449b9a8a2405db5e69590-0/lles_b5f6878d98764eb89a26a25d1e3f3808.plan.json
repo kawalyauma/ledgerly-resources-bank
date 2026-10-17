@@ -1,0 +1,79 @@
+{
+  "competences": [
+    "The learner describes week 2 review using religious education vocabulary.",
+    "The learner identifies appropriate Christian values in decisions and family relationships."
+  ],
+  "languageCompetence": "Reads, spells and uses advice, peace, trust, marriage, respect, patience, tolerance, faithfulness and vows.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to explain week 2 review.",
+    "By the end of the lesson, learners should be able to answer at least three cited exercise questions using the correct facts."
+  ],
+  "priorKnowledge": "Learners have already learned the meaning of friendship and how Jesus demonstrated care, forgiveness, kindness and service to other people.",
+  "methods": [
+    "Guided discussion",
+    "Question and answer",
+    "Brainstorming",
+    "Guided Bible reading"
+  ],
+  "materials": [
+    "Holy Bible and passage references",
+    "P6 CRE teacher's notes on friendship and marriage",
+    "Chalkboard with source-based definitions and qualities"
+  ],
+  "references": [
+    "P.6 Religious Education Lesson Notes, Term III (2022)",
+    "P6 Religious Education Lesson Notes Term III",
+    "CRE Notes and Schemes P6"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Remind the learners of the meaning and qualities of good advice and ask how a person can decide whether advice is helpful or dangerous.",
+      "learnerActivity": "Learners recall the characteristics of helpful advice and bad advice and share source-based examples.",
+      "source": {
+        "source": "lchk_e507bcd5960b4bb8a251d420cdd59a57",
+        "quote": "HOW TO DISTINGUISH BETWEEN GOOD AND BAD ADVICE"
+      }
+    },
+    {
+      "stage": "Summary of two lessons",
+      "minutes": 14,
+      "content": "Summary: Good and bad advice; Summary: Marriage in Christian life: Advice means an opinion or suggestion about what someone should do. Good advice encourages wise choices, honesty and respect. Good advice can protect people from unnecessary danger. Bad advice encourages cheating, jealousy, conflict or disobedience. Careful people examine advice before choosing to follow it.",
+      "teacherActivity": "Revise distinctions between good and bad advice, then revisit types of marriage, qualities of married partners and promises made at a Christian wedding.",
+      "learnerActivity": "Learners define advice and marriage and identify the major ideas from the previous two lesson notes.",
+      "source": {
+        "source": "lchk_e507bcd5960b4bb8a251d420cdd59a57",
+        "quote": "HOW TO DISTINGUISH BETWEEN GOOD AND BAD ADVICE"
+      }
+    },
+    {
+      "stage": "Written review",
+      "minutes": 16,
+      "content": "Sourced review questions: Why do we all need advice? | How does good advice promote peace? | What is marriage? | What is a marriage vow?",
+      "teacherActivity": "Set each of the four existing source questions as a short written exercise. Check responses against the notes, especially advice, marriage and vows.",
+      "learnerActivity": "Learners answer the four review questions in exercise books and correct their answers using cited classroom notes.",
+      "source": {
+        "source": "lchk_232ef985adf24ac1a738940b5f92a701",
+        "quote": "Types of marriage"
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 5,
+      "teacherActivity": "Ask learners to give a final summary of good advice, respect in marriage and the meaning of vows, then identify unclear points for the next lesson.",
+      "learnerActivity": "Learners state the key ideas and explain the corrections made during the written review.",
+      "source": {
+        "source": "lchk_232ef985adf24ac1a738940b5f92a701",
+        "quote": "Types of marriage"
+      }
+    }
+  ],
+  "assessment": "Check learning from the cited source using the exact questions: Why do we all need advice? How does good advice promote peace? What is marriage? What is a marriage vow? Correct individual answers in class, then give revision feedback.",
+  "homework": "Revise the existing source questions on advice and marriage vows for the following lesson.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Decision-making",
+    "Effective communication"
+  ]
+}

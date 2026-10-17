@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Why do we all need advice?",
+    "answer": "To help make wise decisions, reduce mistakes, and receive guidance.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "concept": "Week 2 review",
+    "source": {
+      "source": "lchk_e507bcd5960b4bb8a251d420cdd59a57",
+      "quote": "Why do we all need advice?"
+    }
+  },
+  {
+    "question": "How does good advice promote peace?",
+    "answer": "It encourages respectful decisions and avoids misunderstanding and quarrels.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "concept": "Week 2 review",
+    "source": {
+      "source": "lchk_e507bcd5960b4bb8a251d420cdd59a57",
+      "quote": "How does good advice promote peace?"
+    }
+  },
+  {
+    "question": "What is marriage?",
+    "answer": "The legal union of a man and a woman as husband and wife.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "concept": "Week 2 review",
+    "source": {
+      "source": "lchk_232ef985adf24ac1a738940b5f92a701",
+      "quote": "What is marriage?"
+    }
+  },
+  {
+    "question": "What is a marriage vow?",
+    "answer": "A promise a couple make to one another about their commitment in marriage.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "concept": "Week 2 review",
+    "source": {
+      "source": "lchk_ce7cf5d8d98940d2a65961808b128398",
+      "quote": "What is a marriage vow?"
+    }
+  }
+]
