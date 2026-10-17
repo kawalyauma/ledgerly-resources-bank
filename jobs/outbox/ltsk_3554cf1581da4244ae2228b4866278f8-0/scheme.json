@@ -1,0 +1,1015 @@
+{
+  "title": "P4 Science Scheme of Work — Term 3, 2026",
+  "summary": "Term III school-scheme order with 59 periods: communicable intestinal diseases and worms, disease vectors, accidents and first aid, rabbit keeping, and sourced final assessment.",
+  "units": [
+    {
+      "title": "Communicable Intestinal Diseases and Worm Infestation",
+      "theme": "Human Health",
+      "weekFrom": 1,
+      "weekTo": 3,
+      "competences": "Identify causes and prevention of communicable intestinal diseases and common worms.",
+      "sources": [
+        {
+          "source": "lchk_dc2c047d903447cab4c39d91ced92868",
+          "quote": "Communicable diseases"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Communicable diseases",
+          "subtopic": "Communicable diseases",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe communicable diseases using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_dc2c047d903447cab4c39d91ced92868",
+              "quote": "Communicable diseases"
+            }
+          ]
+        },
+        {
+          "title": "Causes of diarrhoea",
+          "subtopic": "Causes of diarrhoea",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe causes of diarrhoea using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_dc2c047d903447cab4c39d91ced92868",
+              "quote": "Cause – bacteria or viruses"
+            }
+          ]
+        },
+        {
+          "title": "The four Fs of disease spread",
+          "subtopic": "The four Fs of disease spread",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe the four fs of disease spread using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_dc2c047d903447cab4c39d91ced92868",
+              "quote": "The 4Fs"
+            }
+          ]
+        },
+        {
+          "title": "Dysentery and its causes",
+          "subtopic": "Dysentery and its causes",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe dysentery and its causes using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_dc2c047d903447cab4c39d91ced92868",
+              "quote": "Dysentery"
+            }
+          ]
+        },
+        {
+          "title": "Cholera and its spread",
+          "subtopic": "Cholera and its spread",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe cholera and its spread using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_dc2c047d903447cab4c39d91ced92868",
+              "quote": "Cholera"
+            }
+          ]
+        },
+        {
+          "title": "Typhoid and its prevention",
+          "subtopic": "Typhoid and its prevention",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe typhoid and its prevention using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_dc2c047d903447cab4c39d91ced92868",
+              "quote": "Typhoid"
+            }
+          ]
+        },
+        {
+          "title": "Dehydration",
+          "subtopic": "Dehydration",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe dehydration using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b27e946bc5fb41328c393e4048eabc7c",
+              "quote": "Dehydration"
+            }
+          ]
+        },
+        {
+          "title": "Oral rehydration solution",
+          "subtopic": "Oral rehydration solution",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe oral rehydration solution using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b27e946bc5fb41328c393e4048eabc7c",
+              "quote": "Oral rehydration solution"
+            }
+          ]
+        },
+        {
+          "title": "Intestinal worm infestation",
+          "subtopic": "Intestinal worm infestation",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe intestinal worm infestation using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b27e946bc5fb41328c393e4048eabc7c",
+              "quote": "Worms infestation"
+            }
+          ]
+        },
+        {
+          "title": "Tapeworms",
+          "subtopic": "Tapeworms",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe tapeworms using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b27e946bc5fb41328c393e4048eabc7c",
+              "quote": "Tape worms"
+            }
+          ]
+        },
+        {
+          "title": "Hookworms",
+          "subtopic": "Hookworms",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe hookworms using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b27e946bc5fb41328c393e4048eabc7c",
+              "quote": "Hook worms"
+            }
+          ]
+        },
+        {
+          "title": "Threadworms",
+          "subtopic": "Threadworms",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe threadworms using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b27e946bc5fb41328c393e4048eabc7c",
+              "quote": "Thread worms"
+            }
+          ]
+        },
+        {
+          "title": "Ascaris",
+          "subtopic": "Ascaris",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe ascaris using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_687fb75c4339419d940590d699cef987",
+              "quote": "Ascaris"
+            }
+          ]
+        },
+        {
+          "title": "Preventing worm infestation",
+          "subtopic": "Preventing worm infestation",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe preventing worm infestation using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_687fb75c4339419d940590d699cef987",
+              "quote": "General control measures for worms"
+            }
+          ]
+        },
+        {
+          "title": "Preparing oral rehydration solution",
+          "subtopic": "Preparing oral rehydration solution",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe preparing oral rehydration solution using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b27e946bc5fb41328c393e4048eabc7c",
+              "quote": "Steps involved in making ORS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Disease Vectors",
+      "theme": "Human Health",
+      "weekFrom": 3,
+      "weekTo": 5,
+      "competences": "Identify disease vectors, their life cycles and appropriate disease-prevention measures.",
+      "sources": [
+        {
+          "source": "lchk_687fb75c4339419d940590d699cef987",
+          "quote": "Vectors"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning and examples of vectors",
+          "subtopic": "Meaning and examples of vectors",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe meaning and examples of vectors using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_687fb75c4339419d940590d699cef987",
+              "quote": "Vectors"
+            }
+          ]
+        },
+        {
+          "title": "Cockroaches and their habitat",
+          "subtopic": "Cockroaches and their habitat",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe cockroaches and their habitat using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_687fb75c4339419d940590d699cef987",
+              "quote": "Cockroaches"
+            }
+          ]
+        },
+        {
+          "title": "Life cycle of cockroaches",
+          "subtopic": "Life cycle of cockroaches",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe life cycle of cockroaches using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_687fb75c4339419d940590d699cef987",
+              "quote": "Lifecycle of a cockroach"
+            }
+          ]
+        },
+        {
+          "title": "Houseflies",
+          "subtopic": "Houseflies",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe houseflies using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_687fb75c4339419d940590d699cef987",
+              "quote": "House flies"
+            }
+          ]
+        },
+        {
+          "title": "Life cycle of houseflies",
+          "subtopic": "Life cycle of houseflies",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe life cycle of houseflies using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_687fb75c4339419d940590d699cef987",
+              "quote": "Life cycle of a house fly"
+            }
+          ]
+        },
+        {
+          "title": "Mosquitoes and habitats",
+          "subtopic": "Mosquitoes and habitats",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe mosquitoes and habitats using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_687fb75c4339419d940590d699cef987",
+              "quote": "Mosquitoes"
+            }
+          ]
+        },
+        {
+          "title": "Life cycle of mosquitoes",
+          "subtopic": "Life cycle of mosquitoes",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe life cycle of mosquitoes using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_687fb75c4339419d940590d699cef987",
+              "quote": "Life cycles of mosquitoes"
+            }
+          ]
+        },
+        {
+          "title": "How malaria spreads",
+          "subtopic": "How malaria spreads",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe how malaria spreads using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_687fb75c4339419d940590d699cef987",
+              "quote": "How malaria spreads"
+            }
+          ]
+        },
+        {
+          "title": "Tsetse flies",
+          "subtopic": "Tsetse flies",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe tsetse flies using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_687fb75c4339419d940590d699cef987",
+              "quote": "Tsetse flies"
+            }
+          ]
+        },
+        {
+          "title": "Life cycle of tsetse flies",
+          "subtopic": "Life cycle of tsetse flies",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe life cycle of tsetse flies using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e08ff84b884a43039cba425cfdde1b98",
+              "quote": "Life cycle of a tsetse fly"
+            }
+          ]
+        },
+        {
+          "title": "Sleeping sickness",
+          "subtopic": "Sleeping sickness",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe sleeping sickness using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e08ff84b884a43039cba425cfdde1b98",
+              "quote": "sleeping sickness"
+            }
+          ]
+        },
+        {
+          "title": "Fleas",
+          "subtopic": "Fleas",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe fleas using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e08ff84b884a43039cba425cfdde1b98",
+              "quote": "Ways of controlling bubonic plague"
+            }
+          ]
+        },
+        {
+          "title": "Itch mites",
+          "subtopic": "Itch mites",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe itch mites using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e08ff84b884a43039cba425cfdde1b98",
+              "quote": "Itch mites"
+            }
+          ]
+        },
+        {
+          "title": "Lice and their control",
+          "subtopic": "Lice and their control",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe lice and their control using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e08ff84b884a43039cba425cfdde1b98",
+              "quote": "Controlling ticks and lice"
+            }
+          ]
+        },
+        {
+          "title": "Water snails and bilharzia",
+          "subtopic": "Water snails and bilharzia",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe water snails and bilharzia using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e08ff84b884a43039cba425cfdde1b98",
+              "quote": "Water snails"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Accidents and First Aid",
+      "theme": "Human Health",
+      "weekFrom": 6,
+      "weekTo": 8,
+      "competences": "Explain common accidents, first-aid materials and accident prevention.",
+      "sources": [
+        {
+          "source": "lchk_e08ff84b884a43039cba425cfdde1b98",
+          "quote": "Common accidents"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Common accidents",
+          "subtopic": "Common accidents",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe common accidents using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e08ff84b884a43039cba425cfdde1b98",
+              "quote": "Common accidents"
+            }
+          ]
+        },
+        {
+          "title": "Causes of accidents",
+          "subtopic": "Causes of accidents",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe causes of accidents using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e08ff84b884a43039cba425cfdde1b98",
+              "quote": "Causes of accidents"
+            }
+          ]
+        },
+        {
+          "title": "Accidents at home and school",
+          "subtopic": "Accidents at home and school",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe accidents at home and school using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e08ff84b884a43039cba425cfdde1b98",
+              "quote": "Accidents at home / school"
+            }
+          ]
+        },
+        {
+          "title": "Road accidents",
+          "subtopic": "Road accidents",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe road accidents using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e08ff84b884a43039cba425cfdde1b98",
+              "quote": "Road accidents"
+            }
+          ]
+        },
+        {
+          "title": "Road safety and crossings",
+          "subtopic": "Road safety and crossings",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe road safety and crossings using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e08ff84b884a43039cba425cfdde1b98",
+              "quote": "How to cross the road"
+            }
+          ]
+        },
+        {
+          "title": "Meaning of first aid",
+          "subtopic": "Meaning of first aid",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe meaning of first aid using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_96bb9c91444b4473888ca3f00d68a890",
+              "quote": "First aid"
+            }
+          ]
+        },
+        {
+          "title": "First aid kit",
+          "subtopic": "First aid kit",
+          "kind": "teach",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe first aid kit using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_96bb9c91444b4473888ca3f00d68a890",
+              "quote": "First aid kit"
+            }
+          ]
+        },
+        {
+          "title": "Fractures",
+          "subtopic": "Fractures",
+          "kind": "teach",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe fractures using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_96bb9c91444b4473888ca3f00d68a890",
+              "quote": "Fractures"
+            }
+          ]
+        },
+        {
+          "title": "Burns and scalds",
+          "subtopic": "Burns and scalds",
+          "kind": "teach",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe burns and scalds using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_96bb9c91444b4473888ca3f00d68a890",
+              "quote": "Burns and scalds"
+            }
+          ]
+        },
+        {
+          "title": "Sprains and strains",
+          "subtopic": "Sprains and strains",
+          "kind": "teach",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe sprains and strains using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_96bb9c91444b4473888ca3f00d68a890",
+              "quote": "Sprains and strains"
+            }
+          ]
+        },
+        {
+          "title": "Dislocations",
+          "subtopic": "Dislocations",
+          "kind": "teach",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe dislocations using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_3e640d10b65a43af89a019881ffafee4",
+              "quote": "Dislocation"
+            }
+          ]
+        },
+        {
+          "title": "First aid for snake bites",
+          "subtopic": "First aid for snake bites",
+          "kind": "teach",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe first aid for snake bites using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_3e640d10b65a43af89a019881ffafee4",
+              "quote": "snake bit"
+            }
+          ]
+        },
+        {
+          "title": "Poisoning",
+          "subtopic": "Poisoning",
+          "kind": "teach",
+          "week": 8,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe poisoning using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_3e640d10b65a43af89a019881ffafee4",
+              "quote": "Poisoning"
+            }
+          ]
+        },
+        {
+          "title": "Preventing poisoning",
+          "subtopic": "Preventing poisoning",
+          "kind": "teach",
+          "week": 8,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe preventing poisoning using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_3e640d10b65a43af89a019881ffafee4",
+              "quote": "Prevention of poisoning"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rabbit Keeping",
+      "theme": "The World of Living Things",
+      "weekFrom": 8,
+      "weekTo": 10,
+      "competences": "Identify rabbit breeds, rearing methods, health, housing and farm records.",
+      "sources": [
+        {
+          "source": "lchk_3e640d10b65a43af89a019881ffafee4",
+          "quote": "Rabbit keeping"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning of rabbit keeping",
+          "subtopic": "Meaning of rabbit keeping",
+          "kind": "teach",
+          "week": 8,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe meaning of rabbit keeping using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_3e640d10b65a43af89a019881ffafee4",
+              "quote": "Rabbit keeping"
+            }
+          ]
+        },
+        {
+          "title": "External parts of a rabbit",
+          "subtopic": "External parts of a rabbit",
+          "kind": "teach",
+          "week": 8,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe external parts of a rabbit using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_3e640d10b65a43af89a019881ffafee4",
+              "quote": "Parts of a rabbit"
+            }
+          ]
+        },
+        {
+          "title": "Rabbit products",
+          "subtopic": "Rabbit products",
+          "kind": "teach",
+          "week": 8,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe rabbit products using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_3e640d10b65a43af89a019881ffafee4",
+              "quote": "Rabbit products"
+            }
+          ]
+        },
+        {
+          "title": "Local breeds of rabbits",
+          "subtopic": "Local breeds of rabbits",
+          "kind": "teach",
+          "week": 8,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe local breeds of rabbits using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_3e640d10b65a43af89a019881ffafee4",
+              "quote": "Local rabbits"
+            }
+          ]
+        },
+        {
+          "title": "Exotic breeds of rabbits",
+          "subtopic": "Exotic breeds of rabbits",
+          "kind": "teach",
+          "week": 9,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe exotic breeds of rabbits using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_3e640d10b65a43af89a019881ffafee4",
+              "quote": "Exotic rabbits"
+            }
+          ]
+        },
+        {
+          "title": "Housing rabbits",
+          "subtopic": "Housing rabbits",
+          "kind": "teach",
+          "week": 9,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe housing rabbits using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_3e640d10b65a43af89a019881ffafee4",
+              "quote": "Housing for rabbits"
+            }
+          ]
+        },
+        {
+          "title": "Qualities of a rabbit hutch",
+          "subtopic": "Qualities of a rabbit hutch",
+          "kind": "teach",
+          "week": 9,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe qualities of a rabbit hutch using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_3e640d10b65a43af89a019881ffafee4",
+              "quote": "Qualities of a good hutch"
+            }
+          ]
+        },
+        {
+          "title": "Feeding rabbits",
+          "subtopic": "Feeding rabbits",
+          "kind": "teach",
+          "week": 9,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe feeding rabbits using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_3e640d10b65a43af89a019881ffafee4",
+              "quote": "Feeding of rabbits"
+            }
+          ]
+        },
+        {
+          "title": "Breeding rabbits",
+          "subtopic": "Breeding rabbits",
+          "kind": "teach",
+          "week": 9,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe breeding rabbits using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_3e640d10b65a43af89a019881ffafee4",
+              "quote": "Breeding in rabbits"
+            }
+          ]
+        },
+        {
+          "title": "Caring for young rabbits",
+          "subtopic": "Caring for young rabbits",
+          "kind": "teach",
+          "week": 9,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe caring for young rabbits using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4de44e5115ce4459905a5f4fb53d384d",
+              "quote": "Care for young rabbits"
+            }
+          ]
+        },
+        {
+          "title": "Keeping rabbits healthy",
+          "subtopic": "Keeping rabbits healthy",
+          "kind": "teach",
+          "week": 10,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe keeping rabbits healthy using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4de44e5115ce4459905a5f4fb53d384d",
+              "quote": "ways of keeping rabbits health"
+            }
+          ]
+        },
+        {
+          "title": "Diseases of rabbits",
+          "subtopic": "Diseases of rabbits",
+          "kind": "teach",
+          "week": 10,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe diseases of rabbits using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4de44e5115ce4459905a5f4fb53d384d",
+              "quote": "Diseases of rabbits"
+            }
+          ]
+        },
+        {
+          "title": "Rabbit parasites",
+          "subtopic": "Rabbit parasites",
+          "kind": "teach",
+          "week": 10,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe rabbit parasites using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4de44e5115ce4459905a5f4fb53d384d",
+              "quote": "Parasites of rabbits"
+            }
+          ]
+        },
+        {
+          "title": "Rabbit farm records and requirements",
+          "subtopic": "Rabbit farm records and requirements",
+          "kind": "teach",
+          "week": 10,
+          "periods": 1,
+          "objectives": [
+            "Identify, explain or describe rabbit farm records and requirements using the cited school science scheme."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4de44e5115ce4459905a5f4fb53d384d",
+              "quote": "Requirements for starting a rabbit farm"
+            }
+          ]
+        },
+        {
+          "title": "End-of-term assessment",
+          "subtopic": "End-of-term assessment",
+          "kind": "practice",
+          "week": 10,
+          "periods": 1,
+          "objectives": [
+            "Complete an approved end-of-term Science assessment using sourced examination questions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_452e3a0642be4f88be951edf12f20652",
+              "quote": "This paper is made up of two sections"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "The supplied school schemes have detailed topics for intestinal diseases, vectors, accidents, first aid and rabbit keeping, but do not provide new exercises for every lesson; lesson writers must extract original workbook questions.",
+    "Practical first-aid, safe preparation of oral rehydration solution and medicine use require approved teacher and health-worker guidance; do not invent instructions.",
+    "The last session is a sourced end-of-year paper placeholder. Select the exact questions during assessment preparation."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "job": "ltsk_3554cf1581da4244ae2228b4866278f8-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "scheme": [
+      "The supplied school schemes have detailed topics for intestinal diseases, vectors, accidents, first aid and rabbit keeping, but do not provide new exercises for every lesson; lesson writers must extract original workbook questions.",
+      "Practical first-aid, safe preparation of oral rehydration solution and medicine use require approved teacher and health-worker guidance; do not invent instructions.",
+      "The last session is a sourced end-of-year paper placeholder. Select the exact questions during assessment preparation."
+    ]
+  },
+  "reviewerNotes": "Four Term III science topics assembled from the detailed Primary Four Science school scheme, with source citations per lesson and no invented questions."
+}
