@@ -11,12 +11,12 @@
 | 7 | 3 | teach | Discipleship and its Rewards | Jesus' teaching on discipleship — Jesus' teaching on discipleship | written |
 | 8 | 3 | teach | Discipleship and its Rewards | Finding happiness: the Beatitudes — Finding happiness: the Beatitudes | written |
 | 9 | 3 | review | Discipleship and its Rewards | Week 3 review — Discipleship and its Rewards | written |
-| 10 | 4 | teach | Relationship with God | God the Father — God the Father | writing |
-| 11 | 4 | teach | Relationship with God | God the Son — God the Son | writing |
-| 12 | 4 | review | Relationship with God | Week 4 review — Relationship with God | writing |
-| 13 | 5 | teach | Relationship with God | The Holy Spirit and the believer — The Holy Spirit and the believer | pending |
-| 14 | 5 | teach | Relationship with God | Baptism and the Christian — Baptism and the Christian | pending |
-| 15 | 5 | review | Relationship with God | Week 5 review — Relationship with God | pending |
+| 10 | 4 | teach | Relationship with God | God the Father — God the Father | written |
+| 11 | 4 | teach | Relationship with God | God the Son — God the Son | written |
+| 12 | 4 | review | Relationship with God | Week 4 review — Relationship with God | written |
+| 13 | 5 | teach | Relationship with God | The Holy Spirit and the believer — The Holy Spirit and the believer | writing |
+| 14 | 5 | teach | Relationship with God | Baptism and the Christian — Baptism and the Christian | writing |
+| 15 | 5 | review | Relationship with God | Week 5 review — Relationship with God | writing |
 | 16 | 6 | teach | Relationship with God | Confirmation — Confirmation | pending |
 | 17 | 6 | teach | Relationship with God | Christian prayer — Christian prayer | pending |
 | 18 | 6 | review | Relationship with God | Week 6 review — Relationship with God | pending |
