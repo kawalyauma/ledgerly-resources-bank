@@ -2,24 +2,24 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Communicable Intestinal Diseases and Worm Infestation | Communicable diseases — Communicable diseases | writing |
-| 2 | 1 | teach | Communicable Intestinal Diseases and Worm Infestation | Causes of diarrhoea — Causes of diarrhoea | writing |
-| 3 | 1 | teach | Communicable Intestinal Diseases and Worm Infestation | The four Fs of disease spread — The four Fs of disease spread | writing |
-| 4 | 1 | teach | Communicable Intestinal Diseases and Worm Infestation | Dysentery and its causes — Dysentery and its causes | writing |
-| 5 | 1 | teach | Communicable Intestinal Diseases and Worm Infestation | Cholera and its spread — Cholera and its spread | writing |
-| 6 | 1 | teach | Communicable Intestinal Diseases and Worm Infestation | Typhoid and its prevention — Typhoid and its prevention | writing |
+| 1 | 1 | teach | Communicable Intestinal Diseases and Worm Infestation | Communicable diseases — Communicable diseases | written |
+| 2 | 1 | teach | Communicable Intestinal Diseases and Worm Infestation | Causes of diarrhoea — Causes of diarrhoea | written |
+| 3 | 1 | teach | Communicable Intestinal Diseases and Worm Infestation | The four Fs of disease spread — The four Fs of disease spread | written |
+| 4 | 1 | teach | Communicable Intestinal Diseases and Worm Infestation | Dysentery and its causes — Dysentery and its causes | written |
+| 5 | 1 | teach | Communicable Intestinal Diseases and Worm Infestation | Cholera and its spread — Cholera and its spread | written |
+| 6 | 1 | teach | Communicable Intestinal Diseases and Worm Infestation | Typhoid and its prevention — Typhoid and its prevention | written |
 | 7 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Dehydration — Dehydration | writing |
 | 8 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Oral rehydration solution — Oral rehydration solution | writing |
 | 9 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Intestinal worm infestation — Intestinal worm infestation | writing |
 | 10 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Tapeworms — Tapeworms | writing |
 | 11 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Hookworms — Hookworms | writing |
 | 12 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Threadworms — Threadworms | writing |
-| 13 | 3 | teach | Communicable Intestinal Diseases and Worm Infestation | Ascaris — Ascaris | pending |
-| 14 | 3 | teach | Communicable Intestinal Diseases and Worm Infestation | Preventing worm infestation — Preventing worm infestation | pending |
-| 15 | 3 | teach | Communicable Intestinal Diseases and Worm Infestation | Preparing oral rehydration solution — Preparing oral rehydration solution | pending |
-| 16 | 3 | teach | Disease Vectors | Meaning and examples of vectors — Meaning and examples of vectors | pending |
-| 17 | 3 | teach | Disease Vectors | Cockroaches and their habitat — Cockroaches and their habitat | pending |
-| 18 | 3 | teach | Disease Vectors | Life cycle of cockroaches — Life cycle of cockroaches | pending |
+| 13 | 3 | teach | Communicable Intestinal Diseases and Worm Infestation | Ascaris — Ascaris | writing |
+| 14 | 3 | teach | Communicable Intestinal Diseases and Worm Infestation | Preventing worm infestation — Preventing worm infestation | writing |
+| 15 | 3 | teach | Communicable Intestinal Diseases and Worm Infestation | Preparing oral rehydration solution — Preparing oral rehydration solution | writing |
+| 16 | 3 | teach | Disease Vectors | Meaning and examples of vectors — Meaning and examples of vectors | writing |
+| 17 | 3 | teach | Disease Vectors | Cockroaches and their habitat — Cockroaches and their habitat | writing |
+| 18 | 3 | teach | Disease Vectors | Life cycle of cockroaches — Life cycle of cockroaches | writing |
 | 19 | 4 | teach | Disease Vectors | Houseflies — Houseflies | pending |
 | 20 | 4 | teach | Disease Vectors | Life cycle of houseflies — Life cycle of houseflies | pending |
 | 21 | 4 | teach | Disease Vectors | Mosquitoes and habitats — Mosquitoes and habitats | pending |
