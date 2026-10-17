@@ -1,0 +1,330 @@
+{
+  "units": [
+    {
+      "title": "Witness: Christ the Light",
+      "theme": "Christian witness, discipleship and hope",
+      "weekFrom": 1,
+      "weekTo": 1
+    },
+    {
+      "title": "Discipleship and its Rewards",
+      "theme": "Christian witness, discipleship and hope",
+      "weekFrom": 2,
+      "weekTo": 3
+    },
+    {
+      "title": "Relationship with God",
+      "theme": "Christian witness, discipleship and hope",
+      "weekFrom": 4,
+      "weekTo": 6
+    },
+    {
+      "title": "Hope",
+      "theme": "Christian witness, discipleship and hope",
+      "weekFrom": 7,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_0a9008c0d4a047e299ce7fa955d8e95a",
+      "seq": 1,
+      "week": 1,
+      "title": "Christ as the light of the world",
+      "subtopic": "Christ as the light of the world",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Witness: Christ the Light"
+    },
+    {
+      "id": "lles_8940941320e64253b1738c546e46726d",
+      "seq": 2,
+      "week": 1,
+      "title": "Christ's light seen in people",
+      "subtopic": "Christ's light seen in people",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Witness: Christ the Light"
+    },
+    {
+      "id": "lles_a12ec3037d564816b1bf7db410ddeb62",
+      "seq": 3,
+      "week": 1,
+      "title": "Week 1 review",
+      "subtopic": "Witness: Christ the Light",
+      "kind": "review",
+      "status": "writing",
+      "unit": "Witness: Christ the Light"
+    },
+    {
+      "id": "lles_c61847e39bb04c88bd619a91316859ee",
+      "seq": 4,
+      "week": 2,
+      "title": "The meaning of discipleship",
+      "subtopic": "The meaning of discipleship",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Discipleship and its Rewards"
+    },
+    {
+      "id": "lles_cf8730c6017744e9a05d725c23043f0f",
+      "seq": 5,
+      "week": 2,
+      "title": "Examples of discipleship",
+      "subtopic": "Examples of discipleship",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Discipleship and its Rewards"
+    },
+    {
+      "id": "lles_ea60aea956b24fcba1f9e52258c43617",
+      "seq": 6,
+      "week": 2,
+      "title": "Week 2 review",
+      "subtopic": "Discipleship and its Rewards",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Discipleship and its Rewards"
+    },
+    {
+      "id": "lles_f067b19b57a74204a1b04b1c46b57158",
+      "seq": 7,
+      "week": 3,
+      "title": "Jesus' teaching on discipleship",
+      "subtopic": "Jesus' teaching on discipleship",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Discipleship and its Rewards"
+    },
+    {
+      "id": "lles_1aeffb255afa48318fd1193c5d52c747",
+      "seq": 8,
+      "week": 3,
+      "title": "Finding happiness: the Beatitudes",
+      "subtopic": "Finding happiness: the Beatitudes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Discipleship and its Rewards"
+    },
+    {
+      "id": "lles_3c121ee6547e4936833535ffd4d4d384",
+      "seq": 9,
+      "week": 3,
+      "title": "Week 3 review",
+      "subtopic": "Discipleship and its Rewards",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Discipleship and its Rewards"
+    },
+    {
+      "id": "lles_a93d5133ea7a4bfdb2769cf70d316a62",
+      "seq": 10,
+      "week": 4,
+      "title": "God the Father",
+      "subtopic": "God the Father",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Relationship with God"
+    },
+    {
+      "id": "lles_35d7dbaf06aa455db2f46a37bc03c0f0",
+      "seq": 11,
+      "week": 4,
+      "title": "God the Son",
+      "subtopic": "God the Son",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Relationship with God"
+    },
+    {
+      "id": "lles_b9f1d59a391444809b4d48cd5b9f7b7a",
+      "seq": 12,
+      "week": 4,
+      "title": "Week 4 review",
+      "subtopic": "Relationship with God",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Relationship with God"
+    },
+    {
+      "id": "lles_433d4ef81ea441cab345e5ac098757ca",
+      "seq": 13,
+      "week": 5,
+      "title": "The Holy Spirit and the believer",
+      "subtopic": "The Holy Spirit and the believer",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Relationship with God"
+    },
+    {
+      "id": "lles_4832c484a1234a5b8a7df050bd505368",
+      "seq": 14,
+      "week": 5,
+      "title": "Baptism and the Christian",
+      "subtopic": "Baptism and the Christian",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Relationship with God"
+    },
+    {
+      "id": "lles_eed49c6ccfdd47a8b67a4e0a07998a15",
+      "seq": 15,
+      "week": 5,
+      "title": "Week 5 review",
+      "subtopic": "Relationship with God",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Relationship with God"
+    },
+    {
+      "id": "lles_fcca432932164635b80e20646399ebff",
+      "seq": 16,
+      "week": 6,
+      "title": "Confirmation",
+      "subtopic": "Confirmation",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Relationship with God"
+    },
+    {
+      "id": "lles_c2680b3571c34ec7808395fb3a6d87f9",
+      "seq": 17,
+      "week": 6,
+      "title": "Christian prayer",
+      "subtopic": "Christian prayer",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Relationship with God"
+    },
+    {
+      "id": "lles_0d6f5fabbe4e44cd97e6c77db9433fde",
+      "seq": 18,
+      "week": 6,
+      "title": "Week 6 review",
+      "subtopic": "Relationship with God",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Relationship with God"
+    },
+    {
+      "id": "lles_f38e047d09f64ab092979623361cfbbb",
+      "seq": 19,
+      "week": 7,
+      "title": "Meaning and importance of hope",
+      "subtopic": "Meaning and importance of hope",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hope"
+    },
+    {
+      "id": "lles_cbeef0cfaad348778a4edd3a822d3fa6",
+      "seq": 20,
+      "week": 7,
+      "title": "Psalms of hope",
+      "subtopic": "Psalms of hope",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hope"
+    },
+    {
+      "id": "lles_e80607e0f473454d85dcfe87a564bab9",
+      "seq": 21,
+      "week": 7,
+      "title": "Week 7 review",
+      "subtopic": "Hope",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Hope"
+    },
+    {
+      "id": "lles_386b9de9c7814d28ab033dd745e34417",
+      "seq": 22,
+      "week": 8,
+      "title": "Hope in trouble",
+      "subtopic": "Hope in trouble",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hope"
+    },
+    {
+      "id": "lles_6009cbdc128f4ca9bf22330f35f734b7",
+      "seq": 23,
+      "week": 8,
+      "title": "Hope for the Messiah",
+      "subtopic": "Hope for the Messiah",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hope"
+    },
+    {
+      "id": "lles_d8b86328901d41c8afb546fe74417edd",
+      "seq": 24,
+      "week": 8,
+      "title": "Week 8 review",
+      "subtopic": "Hope",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Hope"
+    },
+    {
+      "id": "lles_1624d13569614900b2464c23b9d56874",
+      "seq": 25,
+      "week": 9,
+      "title": "Zechariah's vision",
+      "subtopic": "Zechariah's vision",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hope"
+    },
+    {
+      "id": "lles_912aa9b7626c4133a654eb9c626e5451",
+      "seq": 26,
+      "week": 9,
+      "title": "The birth of Jesus",
+      "subtopic": "The birth of Jesus",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hope"
+    },
+    {
+      "id": "lles_623fe4399ee94120ae0c28178a15ff36",
+      "seq": 27,
+      "week": 9,
+      "title": "Week 9 review",
+      "subtopic": "Hope",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Hope"
+    },
+    {
+      "id": "lles_b5de074d364b408a9c93823cb69e54da",
+      "seq": 28,
+      "week": 10,
+      "title": "The wise men and the Messiah",
+      "subtopic": "The wise men and the Messiah",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hope"
+    },
+    {
+      "id": "lles_9ee1186bf8d6425fb3b8833bf4d6697f",
+      "seq": 29,
+      "week": 10,
+      "title": "Hope of eternal life",
+      "subtopic": "Hope of eternal life",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hope"
+    },
+    {
+      "id": "lles_ae73d43ce83d4dfb90706067f0847aa1",
+      "seq": 30,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Witness: Christ the Light, Discipleship and its Rewards, Relationship with God, Hope",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Hope"
+    }
+  ]
+}

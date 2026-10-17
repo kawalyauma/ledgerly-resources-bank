@@ -1,0 +1,56 @@
+{
+  "job": "ltsk_efd4759469c14ee7b2caeed81086bff0-0",
+  "task": "ltsk_efd4759469c14ee7b2caeed81086bff0",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 51,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Christian Religious Education",
+  "term": "2026-T3",
+  "week": 1,
+  "weeks": 10,
+  "periodsPerWeek": 3,
+  "lessons": [
+    {
+      "id": "lles_0a9008c0d4a047e299ce7fa955d8e95a",
+      "kind": "teach",
+      "week": 1,
+      "title": "Christ as the light of the world",
+      "periods": 1,
+      "subtopic": "Christ as the light of the world"
+    },
+    {
+      "id": "lles_8940941320e64253b1738c546e46726d",
+      "kind": "teach",
+      "week": 1,
+      "title": "Christ's light seen in people",
+      "periods": 1,
+      "subtopic": "Christ's light seen in people"
+    },
+    {
+      "id": "lles_a12ec3037d564816b1bf7db410ddeb62",
+      "kind": "review",
+      "week": 1,
+      "title": "Week 1 review",
+      "periods": 1,
+      "subtopic": "Witness: Christ the Light"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/christian-religious-education",
+  "passages": [
+    "lchk_af0983e9dd8d42c9818cd1d9093d8fb2",
+    "lchk_0a3e241529644f8281bf332325d73f12",
+    "lchk_3f56d32c757948a687e50291e63ce909",
+    "lchk_cbaf0568f9c24ebbb333e51a1dc51891",
+    "lchk_33701deccaae42a8a951c8e4f63437bb",
+    "lchk_526fa31e33c048179dbdaa358f860e49",
+    "lchk_070218ba35a74b91a8fcdd3abd96bf35",
+    "lchk_affb83d4494649f8b4852147b51b41e6"
+  ],
+  "created": "2026-10-17T12:02:48.558Z"
+}
