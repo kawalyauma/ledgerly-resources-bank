@@ -14,18 +14,18 @@
 | 10 | 2 | teach | Accidents and First Aid | Accidents and first aid — Accidents and first aid | writing |
 | 11 | 2 | teach | Accidents and First Aid | Burns and scalds — Burns and scalds | writing |
 | 12 | 2 | teach | Accidents and First Aid | Preventing burns — Preventing burns | writing |
-| 13 | 3 | teach | Accidents and First Aid | First aid for burns — First aid for burns | pending |
-| 14 | 3 | teach | Accidents and First Aid | Fever and convulsions — Fever and convulsions | pending |
-| 15 | 3 | teach | Accidents and First Aid | Causes of fever — Causes of fever | pending |
-| 16 | 3 | teach | Accidents and First Aid | First aid for fever — First aid for fever | pending |
-| 17 | 3 | teach | Accidents and First Aid | Near drowning — Near drowning | pending |
-| 18 | 3 | teach | Accidents and First Aid | First aid for near drowning — First aid for near drowning | pending |
-| 19 | 4 | teach | Accidents and First Aid | Fainting — Fainting | pending |
-| 20 | 4 | teach | Accidents and First Aid | Causes of fainting — Causes of fainting | pending |
-| 21 | 4 | teach | Accidents and First Aid | First aid for fainting — First aid for fainting | pending |
-| 22 | 4 | teach | Accidents and First Aid | Foreign bodies in passages — Foreign bodies in passages | pending |
-| 23 | 4 | teach | Accidents and First Aid | Safety precautions — Safety precautions | pending |
-| 24 | 4 | teach | Accidents and First Aid | Practical first aid — Practical first aid | pending |
+| 13 | 3 | teach | Accidents and First Aid | First aid for burns — First aid for burns | writing |
+| 14 | 3 | teach | Accidents and First Aid | Fever and convulsions — Fever and convulsions | writing |
+| 15 | 3 | teach | Accidents and First Aid | Causes of fever — Causes of fever | writing |
+| 16 | 3 | teach | Accidents and First Aid | First aid for fever — First aid for fever | writing |
+| 17 | 3 | teach | Accidents and First Aid | Near drowning — Near drowning | writing |
+| 18 | 3 | teach | Accidents and First Aid | First aid for near drowning — First aid for near drowning | writing |
+| 19 | 4 | teach | Accidents and First Aid | Fainting — Fainting | writing |
+| 20 | 4 | teach | Accidents and First Aid | Causes of fainting — Causes of fainting | writing |
+| 21 | 4 | teach | Accidents and First Aid | First aid for fainting — First aid for fainting | writing |
+| 22 | 4 | teach | Accidents and First Aid | Foreign bodies in passages — Foreign bodies in passages | writing |
+| 23 | 4 | teach | Accidents and First Aid | Safety precautions — Safety precautions | writing |
+| 24 | 4 | teach | Accidents and First Aid | Practical first aid — Practical first aid | writing |
 | 25 | 5 | teach | Sanitation | Meaning of sanitation — Meaning of sanitation | pending |
 | 26 | 5 | teach | Sanitation | Toilets and latrines — Toilets and latrines | pending |
 | 27 | 5 | teach | Sanitation | Conventional latrines — Conventional latrines | pending |

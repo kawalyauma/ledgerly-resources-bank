@@ -1,0 +1,78 @@
+{
+  "job": "ltsk_cb3075d67fee4bf3b2cf9ef9a70fdc96-0",
+  "task": "ltsk_cb3075d67fee4bf3b2cf9ef9a70fdc96",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 63,
+  "school": "sch-7207f9",
+  "class": "P6",
+  "classLevel": 6,
+  "subject": "Science",
+  "term": "2026-T3",
+  "week": 3,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [
+    {
+      "id": "lles_80e57e204f724e928c9958d6d03cb11d",
+      "kind": "teach",
+      "week": 3,
+      "title": "First aid for burns",
+      "periods": 1,
+      "subtopic": "First aid for burns"
+    },
+    {
+      "id": "lles_d63e261f107e4043bc4914755961fe30",
+      "kind": "teach",
+      "week": 3,
+      "title": "Fever and convulsions",
+      "periods": 1,
+      "subtopic": "Fever and convulsions"
+    },
+    {
+      "id": "lles_de89385225d14487af0153ba9c894e7a",
+      "kind": "teach",
+      "week": 3,
+      "title": "Causes of fever",
+      "periods": 1,
+      "subtopic": "Causes of fever"
+    },
+    {
+      "id": "lles_42446ce24b364adf8ffa5b8aa2f75333",
+      "kind": "teach",
+      "week": 3,
+      "title": "First aid for fever",
+      "periods": 1,
+      "subtopic": "First aid for fever"
+    },
+    {
+      "id": "lles_43e47cb05c67473da0dc9ee29cc8b9c5",
+      "kind": "teach",
+      "week": 3,
+      "title": "Near drowning",
+      "periods": 1,
+      "subtopic": "Near drowning"
+    },
+    {
+      "id": "lles_5a30bef06f864e4091441d10fea09e91",
+      "kind": "teach",
+      "week": 3,
+      "title": "First aid for near drowning",
+      "periods": 1,
+      "subtopic": "First aid for near drowning"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P6/science",
+  "passages": [
+    "lchk_a99260574eee4dc4be7def09f7890d7a",
+    "lchk_9e237a9a8a0a4170a1315a7e49aba9d0",
+    "lchk_9dcb4ab681fe405a8dcdb4ec067ee3eb",
+    "lchk_0f111e68199d4db394440b790dbd919d",
+    "lchk_96b8a9c35810499cad9f14f103777116",
+    "lchk_f40b92e904a047848ab2874de1234e64"
+  ],
+  "created": "2026-10-17T19:08:03.183Z"
+}
