@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_c63decc85b3949f3afeeda75362ddd28-0",
+  "task": "ltsk_c63decc85b3949f3afeeda75362ddd28",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 56,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 2,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_831d3e35d6084faba037b1ed09260a0e",
+      "kind": "teach",
+      "week": 2,
+      "title": "The national emblem",
+      "periods": 1,
+      "subtopic": "Symbols of a nation: the crested crane"
+    },
+    {
+      "id": "lles_e56bd80763154dfaa05ad7b74ee19fc4",
+      "kind": "teach",
+      "week": 2,
+      "title": "The national language",
+      "periods": 1,
+      "subtopic": "National and official language"
+    },
+    {
+      "id": "lles_d4eb7099e7af4befa05c9ce95976389d",
+      "kind": "teach",
+      "week": 2,
+      "title": "The capital city",
+      "periods": 1,
+      "subtopic": "Symbols of a nation: the capital city"
+    },
+    {
+      "id": "lles_03d523830f3641daa4b8a090f1e3e387",
+      "kind": "teach",
+      "week": 2,
+      "title": "The national currency",
+      "periods": 1,
+      "subtopic": "Uganda's currency and financial institutions"
+    },
+    {
+      "id": "lles_f72c6211677f44ea828a1c7da3bdcc08",
+      "kind": "teach",
+      "week": 2,
+      "title": "Democracy",
+      "periods": 1,
+      "subtopic": "Meaning, importance and challenges of democracy"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_a51d4f1ab8634588a6770df9da1b613d",
+    "lchk_1162553670784949a6a5f4ead61c3374",
+    "lchk_8565a70475344911b9db098cef933069",
+    "lchk_048ba2ce490e4899bc75b49b2fa571ad",
+    "lchk_6816a0521efb434a8d222966ed00fd03",
+    "lchk_3dedebb31c1e4c9783852eb0a4fc6cfb",
+    "lchk_1d0a00b334ac4c53bc15fad9593b34fd",
+    "lchk_868bb787b248475a9303e07ee616b3c3"
+  ],
+  "created": "2026-10-17T10:44:51.171Z"
+}

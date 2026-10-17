@@ -2,16 +2,16 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Uganda as an independent nation | Independence — Meaning of independence and characteristics of an independent nation | writing |
-| 2 | 1 | teach | Uganda as an independent nation | The national flag — Symbols of a nation: the national flag | writing |
-| 3 | 1 | teach | Uganda as an independent nation | The national anthem — Symbols of a nation: the national anthem | writing |
-| 4 | 1 | teach | Uganda as an independent nation | The national coat of arms — Features of the coat of arms | writing |
-| 5 | 1 | Part B | Uganda as an independent nation | The national motto and the coat of arms — Significance of the coat of arms and its features | writing |
-| 6 | 2 | teach | Uganda as an independent nation | The national emblem — Symbols of a nation: the crested crane | pending |
-| 7 | 2 | teach | Uganda as an independent nation | The national language — National and official language | pending |
-| 8 | 2 | teach | Uganda as an independent nation | The capital city — Symbols of a nation: the capital city | pending |
-| 9 | 2 | teach | Uganda as an independent nation | The national currency — Uganda's currency and financial institutions | pending |
-| 10 | 2 | teach | Uganda as an independent nation | Democracy — Meaning, importance and challenges of democracy | pending |
+| 1 | 1 | teach | Uganda as an independent nation | Independence — Meaning of independence and characteristics of an independent nation | written |
+| 2 | 1 | teach | Uganda as an independent nation | The national flag — Symbols of a nation: the national flag | written |
+| 3 | 1 | teach | Uganda as an independent nation | The national anthem — Symbols of a nation: the national anthem | written |
+| 4 | 1 | teach | Uganda as an independent nation | The national coat of arms — Features of the coat of arms | written |
+| 5 | 1 | Part B | Uganda as an independent nation | The national motto and the coat of arms — Significance of the coat of arms and its features | written |
+| 6 | 2 | teach | Uganda as an independent nation | The national emblem — Symbols of a nation: the crested crane | writing |
+| 7 | 2 | teach | Uganda as an independent nation | The national language — National and official language | writing |
+| 8 | 2 | teach | Uganda as an independent nation | The capital city — Symbols of a nation: the capital city | writing |
+| 9 | 2 | teach | Uganda as an independent nation | The national currency — Uganda's currency and financial institutions | writing |
+| 10 | 2 | teach | Uganda as an independent nation | Democracy — Meaning, importance and challenges of democracy | writing |
 | 11 | 3 | teach | Uganda as an independent nation | Citizenship — Ways of becoming a citizen of Uganda | pending |
 | 12 | 3 | teach | Uganda as an independent nation | Elections — Meaning and types of elections | pending |
 | 13 | 3 | teach | Uganda as an independent nation | Terms used in elections — Election terms and the importance of elections | pending |

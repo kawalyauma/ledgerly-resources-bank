@@ -1,4 +1,4 @@
-# Job ltsk_959b79e586ec420d9b9b817451bf497a-0
+# Job ltsk_c63decc85b3949f3afeeda75362ddd28-0
 
 You are the curriculum engine of Ledgerly AI for a Ugandan school.
 Work from the passages, page images and records given in this prompt. Do not invent facts, topics, notes, examples, activities, questions, answers or names: every one of them is taken from the passages. You choose, order, tidy and format the material; you never make it up.
@@ -6,30 +6,29 @@ If the material does not cover something, leave it out or set the field to null 
 Do not run commands, open files or browse. Everything you need is in this prompt.
 Reply with ONE JSON object only, exactly matching the requested shape. No prose before or after it.
 
-Task: write ALL 5 lesson(s) below of week 1 of the Social Studies scheme for Primary Five 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
+Task: write ALL 5 lesson(s) below of week 2 of the Social Studies scheme for Primary Five 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
 Return exactly one entry per lessonId, keeping each lessonId exactly. Write the lessons in order so they build on each other; a practice or review lesson works from the lessons before it in this week.
 Class-depth rule: P5: one 40-minute lesson: 3–5 sections; about 14–28 points (meaning, examples, reasons, problems and solutions as the passages give); 5–8 activities.
 
-lessonId=lles_ea27eef39bc04f1b80544b7836e833a8: lesson 1, Monday, 1 period(s), 40 minutes.
-  Unit: Uganda as an independent nation (theme: Living together in Uganda). Lesson: Independence — Meaning of independence and characteristics of an independent nation.
-  Objectives: Define independence; State the characteristics of an independent nation
+lessonId=lles_831d3e35d6084faba037b1ed09260a0e: lesson 6, Monday, 1 period(s), 40 minutes.
+  Unit: Uganda as an independent nation (theme: Living together in Uganda). Lesson: The national emblem — Symbols of a nation: the crested crane.
+  Objectives: Name the national emblem; Give reasons why the crested crane was chosen
 
-lessonId=lles_4ffc3c8c5282426c8fd1dd71d712a007: lesson 2, Tuesday, 1 period(s), 40 minutes.
-  Unit: Uganda as an independent nation (theme: Living together in Uganda). Lesson: The national flag — Symbols of a nation: the national flag.
-  Objectives: Name the symbols of a nation; Describe the colours of the national flag and what they stand for
+lessonId=lles_e56bd80763154dfaa05ad7b74ee19fc4: lesson 7, Tuesday, 1 period(s), 40 minutes.
+  Unit: Uganda as an independent nation (theme: Living together in Uganda). Lesson: The national language — National and official language.
+  Objectives: Name Uganda's official language; Give reasons why Uganda has no national language
 
-lessonId=lles_982fb9e85e004d528bb9517124377890: lesson 3, Wednesday, 1 period(s), 40 minutes.
-  Unit: Uganda as an independent nation (theme: Living together in Uganda). Lesson: The national anthem — Symbols of a nation: the national anthem.
-  Objectives: Name the composer of the national anthem; State occasions when the national anthem is sung
+lessonId=lles_d4eb7099e7af4befa05c9ce95976389d: lesson 8, Wednesday, 1 period(s), 40 minutes.
+  Unit: Uganda as an independent nation (theme: Living together in Uganda). Lesson: The capital city — Symbols of a nation: the capital city.
+  Objectives: Name the capital city of Uganda; State the importance of a capital city
 
-lessonId=lles_4430a2b499fc4a4b9ca9dc331eb0da41: lesson 4, Thursday, 1 period(s), 40 minutes.
-  Unit: Uganda as an independent nation (theme: Living together in Uganda). Lesson: The national coat of arms — Features of the coat of arms.
-  Objectives: Draw the coat of arms; Name the features of the coat of arms
+lessonId=lles_03d523830f3641daa4b8a090f1e3e387: lesson 9, Thursday, 1 period(s), 40 minutes.
+  Unit: Uganda as an independent nation (theme: Living together in Uganda). Lesson: The national currency — Uganda's currency and financial institutions.
+  Objectives: Name Uganda's currency and its denominations; State the roles of the Bank of Uganda
 
-lessonId=lles_fcaf265518c64dde8444330b8da2a508: lesson 5, Friday, 1 period(s), 40 minutes.
-  Unit: Uganda as an independent nation (theme: Living together in Uganda). Lesson: The national motto and the coat of arms — Significance of the coat of arms and its features.
-  Objectives: State the national motto; Give the significance of the features of the coat of arms
-  This is a PART B lesson: it continues the subtopic taught in the lesson before it. notes = '### Remember' with the key points ('- ' points, 4–8 lines); in Mathematics, English and Reading then NEW '### Example' sections not used in Part A; then '### Exercise' with NEW numbered activities learners copy and answer. All of it is taken from other passages (other notes, workbooks, past papers), never invented. Oral work, drawing and group activities go in methods. activities = those exercises.
+lessonId=lles_f72c6211677f44ea828a1c7da3bdcc08: lesson 10, Friday, 1 period(s), 40 minutes.
+  Unit: Uganda as an independent nation (theme: Living together in Uganda). Lesson: Democracy — Meaning, importance and challenges of democracy.
+  Objectives: Define democracy; State the importance and challenges of democracy
 
 Write, using ONLY the passages below. Passages from "NCDC" documents are the official base for what to teach; NCDC lower-primary thematic curricula put every learning area in columns separated by " | ": use only the Social Studies column.
 For EACH lesson:
@@ -94,6 +93,159 @@ Reply shape:
 {"lessons":[{"lessonId":string,"notes":string,"methods":string|null,"teachingGuide":string|null,"materials":string|null,"lifeSkills":string|null,"assessment":string|null,"sourcePassageIds":[string],"lessonPlan":{"competences":[string],"languageCompetence":string|null,"objectives":[string],"priorKnowledge":string|null,"methods":[string],"materials":[string],"references":[string],"steps":[{"stage":string,"minutes":int,"content":string,"teacherActivity":string,"learnerActivity":string}],"assessment":string|null,"homework":string|null,"lifeSkills":[string]},"diagrams":[{"key":string,"title":string,"caption":string|null,"method":"illustration"|"coded"|"svg","concept":string|null,"parts":[string],"coded":object|null,"svg":string|null,"sourcePassageId":string|null}],"activities":[{"question":string,"answer":string|null,"options":[string]|null,"kind":string,"concept":string,"skill":string,"cognitiveLevel":string,"difficulty":1-5,"origin":"source"|"generated","sourcePassageId":string|null,"sourceQuote":string|null}],"gaps":[string]}]}
 
 <passages>
+<passage id="lchk_a51d4f1ab8634588a6770df9da1b613d" source="P.5 SST SCHEME TERM III 2019" part="2">
+-Identify the importance of the National language.
+-name the official language and why its used in Uganda
+-Pronounce , read, spell and write words related to language.
+National language.
+-Language
+-National language
+-Importance
+-Official language
+-Reasons
+-Reasons why Uganda is not having a national language.
+-Role play
+-Questions and answer
+-Explanation
+-Appreciation
+-Critical thinking
+-Love
+-Respect
+-naming different languages
+-Learn the meaning of words from different languages
+-Text books
+-Resource
+Persons
+-A chart showing different words in different languages.
+Functional SST bk 5
+Page 172
+3
+Symbols of a nation (Capital city)
+-Naming the capital city
+- Identifying the importance of a capital city.
+-Naming the towns which were once capital cities and years
+-Pronounce , read and write words related to capital cities.
+The National Capital
+-The capital city of Uganda.
+-Importance of a capital city.
+-Towns that were once capital cities and years.
+-Discussion
+-Discovery
+-Explanation
+-Question and answer
+-Love
+-Respect
+-Critical thinking
+-Caring
+-Identifying the importance of a capital city.
+-Naming the towns that were once capital cities.
+-Chalk board illustrations
+-Text books
+Mk std
+Bk 5
+Page 129
+2
+4
+LIVING TOGETHER IN UGANDA
+Uganda as an independent nation
+National currency
+-identifying Uganda’s currency and importance.
+-Naming financial institutions and their roles.
+-Pronounce, read and write words related to currencies.
+National currency
+-Uganda’s national currency.
+-Denominations.
+-Importance of currency.
+-Financial institutions eg
+BOU and roles
+Commercial banks and roles.
+-Question and answer
+-Discovery
+-Explanation
+-Self awareness
+-Love
+-Appreciation
+-Critical thinking
+-Identifying Uganda’s currency and its importance.
+-naming the financial institutions and their roles.
+-Text books
+-Papers having printed roles of currencies.
+5
+Democracy
+-Explaining democracy
+-Discussing the importance of democracy
+-spells, reads , pronounces and writes words related to democracy
+Democracy
+-Definition
+-Importance of democracy, functions
+-Challenges of democracy
+-Ways how democracy is practiced
+-Explanation
+-Discussion
+-Discovery
+-Question and answer
+-Description
+-Critical thinking
+-Effective communication
+-Explaining democracy.
+-Discussing the importance of democracy
+-Text books
+-Chalk board illustration
+3
+1
+Citizenship
+-Explaining a citizen
+The new words are challenges, election , citizen , conduct
+Citizen ship
+-Defining a citizen
+-Ways in which one play can become a citizen.
+-Ways how one can loose his/her citizenship.
+-Roles of a citizen in practicing demoncracy
+-Role play
+-Role playing elections
+MK stdbk 5 page 142-143
+3
+2
+LIVING TOGETHER IN UGANDA
+Uganda as an independent nation
+Pronounces, spells, reads and writes words of bad practices
+Bad practices during elections.
+-before voting
+-during voting
+-after voting
+3
+Elections
+-Explaining elections and its importances
+-spells, read, pronounce and write words related to elections
+Elections
+-Definition
+-Types of elections
+Ballot paper elections
+Lining elections
+Appointing elections
+-How elections are conducted
+-Role play
+-Explanation
+-Discussion
+-Critical thinking
+-Respect
+-Effective communication
+-Inquiry
+-Naming the different elections
+-Role playing elections
+-Drawing different elections materials
+-Text books
+4
+Terms used in elections
+-Explaining terms used in elections
+Terms used in elections.
+-polling station
+-Bullot box etc
+-Polling Assistant
+-Polling officer etc
+-Importances of elections
+</passage>
+
 <passage id="lchk_1162553670784949a6a5f4ead61c3374" source="P.5 SST SCHEME TERM III 2019" part="1">
 SCHEME OF WORK:
 SUBJECT: SOCIAL STUDIES CLASS: P.5 SUBJECT TEACHER ………………………………………………….. TERM THREE YEAR ………………….
@@ -264,6 +416,182 @@ The National Language
 -Name the Local languages.
 </passage>
 
+<passage id="lchk_8565a70475344911b9db098cef933069" source="P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation" part="12">
+ Officials that were elected in 1994 to debate the 1995 constitution.
+29
+iii) Mr. Stephen Akabway
+ He was the chairperson of the Interim Electoral commission which organized the
+elections of the CADS.
+iv) Hon James Wapakhabulo
+ He was the chairperson of the Constituent Assembly.
+v) Professor Victoria Mwaka (Hon)
+ She was the deputy chairperson of the Constituent Assembly.
+A draft constitution
+ A constitution where the views of citizens were represented.
+ The Constituent Assembly debated and finalized the 1995 constitution.
+ It took a period of sixteen months.
+ On the 8 th October 1995, the 1995 – constitution was promulgated at the constitutional
+square formerly known as city square.
+Functions of a national constitution
+ It protects the rights of the citizens.
+ It guides the nation systematically in a particular direction of governance.
+ It provides the means through which conflicts can be solved peacefully.
+ It promotes national unity.
+ It provides a peaceful transition of leadership.
+The constitution promotes democracy in a country.
+Activity
+1. What is a national constitution
+2. Write down any two constitutions that Uganda has had since independence.
+3. What contribution was made by Godfrey Lukongwa Binaisa and Kofi Crable in 1967?
+4. Why is a constitution important in a democratic country like Uganda?
+5. Write short notes on the people below.
+a) Stephen Akabway
+b) Hon. James Wapakhabulo
+6. Why is 8 th October 1995 politically important?
+30
+7. Mention the way, the 1967 constitution was unfriendly to the kingdoms in Uganda.
+8. Write CADs in full.
+9. What contribution was made by the constituent Assembly in 1994?
+Date Class Subject No. of pupils Time
+P.5
+TOPIC: The Government of Uganda
+SUB –TOPIC: Democracy
+LANGUAGE COMPETENCE :
+The learner:- Spells and uses words related to the sub -topic: freedom, democracy, human rights
+, press
+Content : Democracy
+ What is democracy?
+ Democracy is a system of governance which gives people freedom of speech, worship
+and participation in politics
+Or
+ Democracy is the government of the people by the people and for the people.
+ Democracy was first introduced and practiced by the Greeks in the city of Athens in
+Greece.
+Signs of modern democracy in a democratic country
+ Elected political leaders.
+ Elected parliament
+ Freedom of speech
+ There is freedom of the press.
+ There is freedom of movement
+ There is freedom of worship.
+ Freedom to carry out business.
+ Observance of human rights.
+ Constitutional rule.
+ Competitive politics.
+Roles of citizens in promoting democracy
+ Obeying the law.
+31
+ Respecting other people’s rights.
+ Reporting wrong doers to the police.
+ Participating in elections.
+Ways through which Democracy is exercised in Uganda today
+ Through elections by giving people freedom of speech
+ By giving people freedom of press.
+ Through freedom of worship
+Ways how democracy is practiced in schools
+ By electing prefects.
+ By giving children freedom of expression.
+ Through freedom of worship.
+Activity
+1. Define democracy
+2. In which city was democracy first practiced?
+3. State one way democracy is practiced in Uganda today.
+4. How is democracy important in a country like Uganda?
+5. Give two roles of citizens in the promotion of democracy in a country.
+Date Class Subject No. of pupils Time
+P.5
+TOPIC: The Government of Uganda
+SUB –TOPIC: Human rights in Uganda
+LANGUAGE COMPETENCE :
+</passage>
+
+<passage id="lchk_048ba2ce490e4899bc75b49b2fa571ad" source="P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation" part="7">
+ A capital city of a nation serves as the centre of all the major activities of a country.
+ The capital city of Uganda is Kampala
+Which was the capital city of the colonial government?
+ It was Entebbe
+Importance of a capital city in a country
+ It serves as an administrative centre
+ It serves as a commercial centre
+ It is a communication centre.
+ It is an educational centre
+Important buildings found in Kampala
+ Parliamentary buildings
+ Television stations
+ The state house
+ International conference centre
+ Bank of Uganda
+The National Emblem
+ The crested crane was chosen as the national Emblem of Uganda.
+ It was chosen because of its good characteristics which were observed by Ugandans.
+The good characteristics of the crested crane
+ It is gentle
+ It is peaceful
+ It is a gracious bird
+ It has all the three colours of the Uganda flag.
+Areas where the crested crane symbol is used
+ It is used on any government official documents
+ It is found on the national flag.
+ It is used on the parliamentary building.
+ It is used on national currencies.
+ It is used on the hats of police, prisons and army officials.
+17
+Activity
+1. Why should a nation have a national capital city?
+2. How does a national language promote trade in a country?
+3. Who called Uganda the pearl of Africa?
+4. Why was Uganda called the pearl of Africa?
+5. Why does Uganda use English as the official language?
+6. Why was the crested crane chosen as the Uganda’s emblem. Give any three reasons.
+7. Why has Uganda taken long to adopt a national language?
+Topical tests on Uganda as an independent nation
+1. What is an independent nation?
+2. Why was it important for Uganda to fight for her independence?
+3. Quote the date, month and year when Uganda attained her political independence.\
+4. Why is it important for a country to have national attributes?
+5. Who was the first directly elected president of Uganda?
+6. a) What is an election?
+b) Why are periodical general elections important in Uganda?
+7. Which feature on the Uganda coat of arms shows that Ugandans are God fearing people?
+8. Give two occasions at which the Uganda Anthem is sung.
+9. What were the contributions of the following towards Uganda independence;
+a. George William Kakoma
+b. Grace Ibingira
+c. Mzee Paul Mukasa
+10. Mention two places where the Uganda flag is hoisted.
+Date Class Subject No. of pupils Time
+P.5
+TOPIC: The Government of Uganda
+SUB –TOPIC: The organs of Government and their functions
+18
+LANGUAGE COMPETENCE :
+The learner:- Spells and uses words related to the sub -topic: government, central government,
+by laws, decentralization, president, council
+General importance of national symbols
+- For identification
+- They promote national unity, nationalism e.t.c
+Content : Meaning of a Government
+A government is a group of people who exercise power in a particular country.
+Or
+A government is an established authority that runs the affairs of a country on behalf of her
+people.
+Types of Government
+i) The National (central) government.
+ii) Local government
+The local government
+This is the government that begins at the district level.
+Levels of the local government
+Rural settings. Urban settings
+ The District level LC V District LC V
+ The county level LC IV Municipality LC IV
+ Sub county level LC III Division LC III
+ Local council II Parish Ward LC II
+ Local council I Village Cell LC I
+They are all under the National government.
+1. Name the laws that are used at local government.
+2. What are bye laws?
+</passage>
+
 <passage id="lchk_6816a0521efb434a8d222966ed00fd03" source="P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation" part="6">
  The national coat of arms is a symbol by which our nation if identified.
 Features on the coat of arms
@@ -413,487 +741,229 @@ Importance / significance
 - National heritage
 </passage>
 
-<passage id="lchk_b297e6921590437280a1192ded841240" source="P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation" part="4">
-How many stanzas has the Uganda national anthem?
- There three stanzas of the Uganda national anthem.
-The National Anthem
-1. Oh Uganda! May God uphold thee,
-We lay our future in thy hand,
-United free for liberty,
-Together we’ll always stand.
-2. Oh Uganda! The land of freedom,
-Our love and labour we give,
-And with neighbours all,
-At our country’s call,
-In peace and friendship we’ll live.
-3. Oh Uganda! The land that feeds us,
-9
-By sun and fertile soil grown,
-For our own dear land
-We shall always stand
-When and how the stanzas of the national anthem are sung?
- At the opening of any function of national importance.
-Messages of the National Anthem
- Belief in one God.
- Determination to remain free from foreign control.
- Desire to live at peace with our neighbours.
- To remind people about the fertile soil and favorable climate of Uganda.
-Respect for the National Anthem
- When the national anthem is being sung all the people should stand still or at attention and
-remain in one place until it is completed.
-Reasons why we should respect the National Anthem when it is being sung
- To pray to God for our nation
- To respect our nation, which is more important than all other things in the country
- To remind us f our national duties
- It shows national unity
-The importance of the national anthem during national anthem occasions
- To express the national beliefs of the nation
- To show national identify
- To remember the rich environment of Uganda
- To promote unity among the people
-Activity
-1. Why is Late. George William Kakoma remembered in the history of Uganda.
-2. Give two reasons why Ugandans sing the national anthem
-3. Apart from the national anthem, outline two other attributes of a nation.
-4. When was the national anthem played for the first time in Uganda?
-10
-5. Give one way school children express the spirit of nationalism when on assemblies.
-6. In which stanza of the Uganda National Anthem is the statement;
-a. At our country’s call?
-b. United free for Liberty?
-c. By sun and fertile soil grown?
-7. How is the National Anthem respected when its being sung?
-Date Class Subject No. of pupils Time
-P.5
-TOPIC: Uganda as an Independent nation
-SUB –TOPIC: The Uganda national flag
-LANGUAGE COMPETENCE :
-The learner:- Spells and uses words related to the sub -topic:- black, yellow, red, flag, crested
-crane
-Content: The Uganda national flag – Signifies unity among Ugandans
- Before getting independence. Uganda used the British flag known as the union jack
-How was the union jack treated on 9 th October 1962?
- The Union Jack was lowered and Uganda national flag was raised.
-Who was responsible for the ceremony of lowering the union jack and raising our flag?
- He was major Kanuti Akorimo
-When was the Uganda National flag first raised?
- The Uganda National flag was first raised on Monday 9 th October 1962?
-Who designed the Uganda national flag?
- Grace Ibingira assisted by Paul Mukasa
-The colours of the Uganda national flag
- The Uganda national flag has three colours. Namely;
- Black
- Yellow
- Red
-Meaning of each colour
-A: THE BLACK COLOUR
- The black shows Uganda as a black African country.
- It signifies that Ugandans are dark skinned people / Africans
-11
-B: THE YELLOW COLOUR
- What does the yellow colour symbolize?
- The yellow colour symbolizes sun shine.
- It shows that the Equator passes through Uganda and therefore country enjoys sunshine
-throughout the year.
-C: THE RED COLOUR
- The Red colour signifies international brother hood.
+<passage id="lchk_1d0a00b334ac4c53bc15fad9593b34fd" source="Primary Five Social Studies Notes 2020" part="50">
+Qn: What title is given to the political head of capital city authority ?
+ Lord Mayor.
+Qn; What title is given to the head of civil servants in a city /municipality ?
+ Town clerk
+218
+Duties of KCCA
+i) To clean the city
+ii) To put lights on streets
+iii) To collect taxes in the city
+iv) To construct and maintain roads in the city
+v) It sets ordinances in the city.
+Importance of Kampala as a city .
+i) It serves as the main administrative centre
+ii) It serves as the main trading centre
+Problems faced by people in Kampala.
+i) High crime rates
+ii) Traffic jam during rush hours
+iii) Poor sanitation
+iv) Unemployment
+What is slum ?
+ A slum is an area congested with unplanned houses.
+DEMOCRACY
+ Democracy is a type of government that allows citizens to use their
+power and authority.
+Or
+ This is a type of government that allows citizens to exercise their rights.
+Signs /indicators of democracy
+219
+i) Freedom of speech
+ii) Freedomof worship
+iii) Freedom of movement
+iv) Freedom of expression
+v) Freedom of association.
+Name the town where democracy started .
+ Athens of Greece.
+Ways democracy is practiced in Uganda .
+i) Through freedom of worship
+ii) Through freedom of expression
+iii) Through freedom of association
+iv) Through freedom of press
+v) Through freedom of speech
+vi) Through freedom of movement
+Ways democracy is practiced in schools .
+i) Through freedom of worship
+ii) Through freedom of expression
+iii) Through freedom of association
+iv) Through electing prefects
+Qn: How is democracy exercised in the following ways.
+a) Association
+i) By attending political rallies.
+ii) By forming clubs.
+b) Freedom of press
+220
+ People are free to write articles in newspapers.
+c) Freedom of movement
+ People are free to move to any part of the country
+d) Freedom of worship
+ People are free to pray from any where
+Importance of democracy .
+ It promotes peaceful transition of leaders.
+ It promotes unity among people.
+ It promotes human rights.
+ It helps people to choose their ownleaders.
+Challenges /problems faced by democracy.
+ Corrupt political leaders
+ Dictatorship
+ Vote rigging
+ Ignorance of citizen about their rights
+ Bribing voters.
+ Threatening voters.
+Roles of citizens in democracy.
+ Participating in elections
+ Promoting human rights
+ Promoting peace, security and unity
+ELECTIONS
+ An election is a democratic way of choosing leaders.
+Qn: What is the minimum age in which one can participate in elections
+in Uganda?
+ 18 Years
+221
+Qn: Why are children not allowed to vote in an election?
+ They cannot make their own decision
+ They are taken to be young according to the constitution of Uganda
+Types of elections
+ Parliamentary elections
+ By elections
+ Presidential elections
+ By elections
+ Referendum
+ By elections
+ This is an election held to fill a vacant political post
+Causes of a by election
+ When an elected political leader dies.
+ When an elected political leader runs insane.
+ When an elected political leader resigns.
+ When an elected political leader has rigged voters
+ When an elected political leader has been exiled.
+Qn: What does the electoral commission do when election results have
+been nullified by the courts of law?
+ It organizes a by – election
+Examples of leaders who acquire offices through elections.
+i) President
+ii) Members of parliament
+iii) Local council chairperson
+iv) Youth council representatives
+v) District councilors
+222
+Qn: What is referendum ?
 </passage>
 
-<passage id="lchk_a8d263adf25145d9b9a94e0acaa20555" source="P.5 Social Studies Lesson Notes Term III: Uganda as an Independent Nation" part="1">
-1
-P.5 SST LESSON NOTES FOR TERM III
-Date Class Subject No. of pupils Time
-P.5
-TOPIC: Uganda as an Independent nation
-SUB –TOPIC: The Independence of Uganda
-LANGUAGE COMPETENCE :
-The learner:- Spells and uses words related to the sub -topic:- Nation, independence, state,
-Freedom, foreign
-Content: Independence
-The independence of Uganda
-a) The meaning of independence
- Independence is when a country is free from foreign political, social and economic
-influence.
- It is when the highest power in a country is transferred into the hands of the citizens.
-When did Uganda get her independence?
- Uganda got her independence on Monday 9 th October 1962.
-What conference was the climax of all Uganda’s struggle for independence?
- It was the London constitutional conference.
-Who was the first prime minister of independent Uganda?
- Apollo Milton obote
-Who was the first president of Uganda in 1963?
- Sir Edward Muteesa II
-Who was the first non executive president of Uganda?
- Sir Edward Muteesa II
-Name the first vice president of the non executive Uganda?
- He was Wilberforce Nadiope
-Who had power to appoint ministers in Uganda in 1964?
- The prime minister had power to appoint ministers in Uganda in 1964
-A nation
-The meaning of a nation
- A nation is a large community of people united by common aspiration/ aims which
-makes them to want to be under one government.
- A group of people with the same history, culture and language under one government.
-2
-Type of a nation
- Heterogenous nation
- Monolithic nation
-Heterogenous nation
- These are nations composed of different groups of people with different culture, origin
-and languages but share the same territory.
-Examples of Heterogenous nations
- Uganda
- Kenya
- Tanzania
- Nigeria
-Monolithic nations
- These are nations with a common origin, langauge, history, and cultural institutions.
- These are nations made up of people of the same ethnic group.
-Examples of monolithic nations
- Rwanda
- Burundi
- Swaziland
- Lesotho
- Saudi Arabia
-Characteristics of a nation
- It has a common culture.
- It has a common language
- It shares a common ethnicity or heritage
- Has a common desire.
-A STATE
-What is a state?
- A state refers to a country considered as an organized political community controlled by
-one government.
-Characteristics of a state
- It has a national leader.
- It is not controlled by any other country
-3
- It has clearly marked boundaries
- Its citizens should have a sense of belonging
- It has its own citizen.
- It has control over all its territorial areas.
-Uganda becomes a republic
-What is a republic?
- A republic is the country governed by its own laws with a president as the head of state.
-Name the president who abolished kingdoms in Uganda in 1967?
- Apollo Milton Obote
-In which year was Uganda declared as a republic
- It was in 1967
-Activity
-1. What is political independence?
-2. How did World War II contribute towards Uganda’s independence? Give three ways.
-3. When did Uganda get her independence?
-4. How did Ben Kiwanuka became Uganda’s first chief minister?
-5. What was Kabaka crisis?
-6. What failed Ben Kiwanuka from becoming the first Prime minister of independent
-Uganda?
-7. What enabled Obote to become the first Executive Prime Minister of Uganda?
-8. Who was the first Republican president of Uganda?
-9. What political even took place in Uganda in 1967?
-10. Give two characteristics of monolithic nations.
-11. Why is Uganda regarded as a heterogeneous nation?
-</passage>
-
-<passage id="lchk_b6ebfff8d01745efa6141743d019e6df" source="Primary Five Social Studies Notes 2020" part="46">
- To promote democracy
-Examples of political parties before independence
- Uganda National Congress (UNC)
- Democratic party (DP)
- United Congress party (UCP)
- Uganda people’s congress (UPC)
- Uganda People’s Union(UPU)
- KabakaYekka(K.Y)
-Qn: How did political parties help to fight for independence?
- They united people
- They mobilized people
-Political parties and their founders
-Political party founder year of formation
-U.N.C Ignatius
-KangaveMusaazi
-1952
-D.P Joseph Kasolo 1954
-U.P.C Dr. Apollo Milton Obote 1960
-K.Y Augustine Kamya
-Masembe.S.
-1961
-203
-Qn: What was the first political party to be formed in Uganda?
- UNC(Uganda National Congress)
-Qn: Name the two political parties that joined to form U.P.C
- U.N.C (Uganda National Congress)
- U.P.C (Uganda People’s Union)
-Qn: How did united Congress Party come into existence?
- After the splitting of U.N.C
-Note: It was led by David Lubega
-Aims of Democratic Party
- To demand for Uganda’s independence.
- To protect the rights of Catholics in government.
-Qn: Which political party won the 1961 general elections ?
- D.p (Democratic Party)
-Qn: Who won the 1961 general elections ?
- Benedicto Kiwanuka
-Qn: Who was the first chief minister of Uganda ?
- Benedicto Kiwanuka
-Qn: What title was given to the leader of government in1961 ?
- Chief Minister
-Qn: Which title was given to the leader of government in1962 – 1966?
- Executive Prime Minister
-Aims of K.Y
- To protect interests of Buganda
- To secure a favorable political position for Kabaka in the independent
-Uganda.
-204
-Qn: Why did UPC form an alliance with KY IN 1961?
- To win the 1962 general elections
- To destroy the support and influence of democratic party.
-Ways how political parties struggled for Uganda’s independence
- By writing news articles against colonialism
- They united people
- They mobilized people
- They organized demonstrations and boycotts
-Problems political parties faced in the struggle for independence
- Shortage of funds
- Some leaders were imprisoned
- Disunity among political leaders
- Illiteracy amongpeople.
-Qn: What was the aim of the Lancaster conference?
- To plan for Uganda’s independence
-Recommendations of the Lancaster conference
-i) The leader of Uganda’s government was to be prime minister.
-ii) Buganda was to remain part of Uganda.
-Note: After the Lancaster conference different kingdoms and chiefdoms
-Joined to form Uganda.
-TERM THREE
-UGANDA AS AN INDEPENDENT NATION
-Qn: What is an independent nation ?
-205
- This is a country which is free from colonial rule
-The independence of Uganda
-Questions
-1. When did Uganda get her independence ?
- 9 th October 1962
-2. Which political party led Uganda to her independence ?
- Uganda People’s Congress
-3. Who led Uganda to independence ?
- Dr. Apollo Milton Obote
-Note: Apollo Milton Obote got instruments of power from Duke of Kent.
-4. Name the first executive prime minister of Uganda.
- Dr. Apollo Milton Obote
-5. What title was given to the leader of Uganda after independence
- Prime Minister
-6. Why did UPC make an alliance with KY in 1962 ?
- To win the independence election
- To reduce the support of DPin Uganda
-7. How was the union treated on the Independence day ?
- It was lowered.
-Instruments of power Obote got from Duke of Kent .
- Dummy Key
- Uganda flag
- Uganda coat of arms
- Uganda Constitution
-206
-8. What is a republic ?
- A republic is a country ruled by an elected president
-9. Which constitution granted Uganda independence ?
- The 1962 constitution
-</passage>
-
-<passage id="lchk_0f400a3753174ca4964cfae5fee9eca7" source="Excel P 5 SST Term III" part="6">
-Oh Uganda! the land that feeds us
-By sun and fertile soil grown.
-For our own dear land,
-We'll always stand:
-The Pearl of Africa's Crown.
-➢ “Oh Uganda,land of beauty” is the country’s official
-song. It was composed by George Wilberforce
-Kakoma.
-➢ George W.Kakoma was assisted by Peter G.Wingard.
-➢ It was first officially sung on independence day on
-9 th October 1962 by Makerere college school choir,
-conducted by a student Catherine Mwandha.
-➢ The Uganda national anthem is sung and played
-during official functions.It symbolises the country’s
-principles, hopes and goals.
-➢ The Uganda national anthem has three stanzas . All
-the three stanzas are sung to open and close official
-and important functions.
-NOTE:
-✓ If there are other anthems or prayers during a
-function, the national anthem is sung first, followed
-by other anthems and then a prayer. At the end of the
-function, other anthems are sung first and the
-national anthem is sung last to close the function.
-Occasions where Uganda national anthem is sung
-▪ On school assemblies
-▪ During parliamentary sessions.
-▪ Opening of sports activities.
-▪ Opening of school debates.
-▪ At official ceremonies
-▪ Start of public functions.
-Page 11
-Importance of the Uganda national anthem.
-❖ It promotes national unity.
-❖ It promotes nationalism and patriotism.
-❖ It is a national prayer for Uganda.
-❖ It promotes the fear of God amongst Ugandans.
-Respect for the Uganda national anthem.
-▪ When singing the national anthem, people must stand up at attention to show
-respect to the nation.
-▪ When one is unable to stand up, he/she should raise up the right hand.
-THE UGANDA COAT OF ARMS.
-➢ Uganda coat of arms is composed of a shield and
-two spears on a green hill with the Uganda kob on
-the left and the crested crane on the right. It is
-designed using symbols that summarise important
-ideas and things Uganda holds .
-➢ It is found on official documents, the national
-currency, parliament, the government seal and the
-president’s official car.
-➢ It is also hung in government institutions like
-courts and offices to symbolise power and
-authority.
-➢ The Uganda coat of arms was designed by Paul
-Mukasa.
-➢ The Uganda coat of arms acts as a public seal of
-Uganda.
-➢ The public seal is used to signify the official nature
-of government documents that bear its stamp.
-Features found on the Uganda coat of arms.
-▪ The Uganda Kob.
-▪ The crested crane.
-▪ The sun.
-▪ The drum.
-▪ The shield and spear.
-▪ The black colour of the shield.
-▪ Coffee and cotton.
-▪ The Green land scape.
-▪ The National Motto.
-▪ Blue stripes on top of the shield.
-▪ Blue stripes entering the shield at the bottom.
-Meaning of features found on the Uganda coat of arms.
-❖ The spears and shield represents the traditional means of defence.
-❖ The blue stripes at the top represents the water bodies in Uganda.
-❖ The blue stripes at the bottom entering the shield represent the source of River
-Nile found in Uganda.
-❖ The sun represents the abundant sunshine received in Uganda or warm climate
-experienced in Uganda.
-❖ The drum represents the traditional means of communication.
-It also represents the culture of the people of Uganda.
-❖ The black colour on the shield symbolises the African race of Ugandans.
-❖ The kob represents the rich/abundant wildlife in Uganda.
-Page 12
-❖ The crested crane represents the gentleness and peaceful nature of the people of
-Uganda.
-❖ Coffee and cotton on the green hill show the traditional cash crops grown in
-Uganda.
-</passage>
-
-<passage id="lchk_ce94496dbd07478db4aed434f20a4a6c" source="Excel P 5 SST Term III" part="5">
-➢ From 27 th Jul,1985-26 th Jan, 1986 (183days)
-❖ He was born in 1914 and died on 3 June 1996.
-❖ He took over power from Obote through a military coup on
-27 th July, 1985.
-❖ He was overthrown by H.E Yoweri K.Museveni on 26 th Jan,
-1986.
-H.E Yoweri K. Museveni
-➢ From 26 th Jan, 1986 up to date .
-❖ He was born on 15th September 1944.
-❖ He started a g uerilla war against Obote II’s government in
-1981.
-❖ He took over power from Tito Okello on 26 th January, 1986
-using the National Resistance Army (NRA)
-Reforms under the NRM government.
-▪ Restoration of kingdoms in 1993.
-▪ Completion of the 1995 constitution
-▪ Women enmpowerment.
-▪ Construction of infrastructure.
-Page 9
-▪ Promotion of democratic elections.
-▪ Introduction of UPE and USE.
-▪ Ugandans of Asian origin who had been expelled by Amin
-Dada were allowed to come back to Uganda.
-SYMBOLS OF AN INDEPENDENT NATION.
-National symbols are features/items that help one to identify a particular country.
-Symbols of an independent nation include;
-▪ National anthem
-▪ National motto
-▪ National currency
-▪ National coat of arms
-▪ National flag.
-▪ National emblem
-▪ National constitution
-Symbols of Uganda as a nation.
-• The Uganda national flag.
-• The Uganda national anthem.
-• The Uganda national coat of arms.
-• The Uganda national seal.
-• The Uganda national constitution.
-• The Uganda national emblem.
-• The Uganda national currency.
-Importance of national symbols.
-❖ They promote national identity.
-❖ They show that a country is independent.
-❖ They promote national unity.
-❖ They promote the spirit of patriotism.
-❖ They show the core values of a nation.
-THE UGANDA NATIONAL FLAG.
-❖ The Uganda national flag has three colours
-ie. black, yellow and red.
-❖ The flag has a white circle with a crested
-crane in the middle.
-❖ The crested crane is standing on one leg
-meaning to show that Uganda is moving
-forward in development.
-❖ The Uganda national flag was designed by
-Grace Ibingira.
-❖ The Uganda national flag was first raised on
-9 th October, 1962, replacing the Union jack.
-Meaning of the colours of the Uganda National flag.
-(i) Black.
-➢ Shows that Uganda is a black African country.
-➢ It represents the dark skinned people of Uganda.
-(ii) Yellow.
-➢ It represents the abundant sunshine received in Uganda.
-➢ It also represents Uganda’s tropical climate.
-(iii) Red.
-➢ It represents the international brotherhood.
-Page 10
-(iv) White
-➢ It stands for the peace enjoyed in Uganda.
-Places where the Uganda national flag can be raised.
-• Schools
-• Airports
-• At National radio and TV stations.
-• Police stations
-• Hospitals
-• Government offices
-• State house
-• Embassies and High Commissions.
-How to show respect for the Uganda National flag.
-❖ By standing still when it is being raised or lowered.
-❖ It is not wet by either washing or by rainfall.
-❖ It is not worn as a clothing.
-❖ It does not touch the ground when being lowered.
-Note:
-➢ The Uganda national flag shows national identity.
-➢ The Uganda national flag is flown at half mast to show a national mourning.
-Conditions that can make a government declare a national mourning.
-➢ Death of a very important person in the government.
-➢ When there is a major national calamity.
-THE UGANDA NATIONAL ANTHEM.
-1.
-Oh Uganda! may God uphold thee,
-We lay our future in thy hand.
-United, free,
-For liberty
-Together we'll always stand.
-2.
-Oh Uganda! the land of freedom.
-Our love and labour we give,
-And with neighbours all
-At our country's call
-In peace and friendship we'll live.
-3.
+<passage id="lchk_868bb787b248475a9303e07ee616b3c3" source="Primary Five Social Studies Notes 2020" part="49">
+ Busoga College Mwiri
+214
+Importance of the national motto
+ It promotes love for one’s country
+ It promotes national identify
+ It promotes unity among citizens
+ It symbolizes that Uganda’s are God fearing people
+Uganda national Emblem
+Uganda national emblem is the crested crane.
+Qn: Why was the crested crane chosen as the Uganda national emblem?
+ It is a gentile bird
+ It is a peaceful bird
+ It is a graceful bird
+ It is a humble bird
+Qn: What does the crested crane symbolizes?
+ It symbolizes that Ugandans are peace loving people
+Qn: Why is the crested crane drawn standing on one leg?
+ It shows that Uganda is moving forward to development.
+Government official objects where the crested crane appear.
+ National flag
+ Security flag
+ Number plates
+ Bank of Uganda buildings
+ Parliamentary currency
+ National coat of arms
+ Huts of prison, police and army officials
+Qn: Why is it wrong for a Ugandan to kill a crested crane?
+ It is Uganda’s national emblem.
+NATIONAL LANGUAGE.
+215
+1. What is a national language?
+ This is a local language spoken and under stood by most citizens in a
+country.
+2. Give two reasons why Uganda does not have a national language.
+ It has many tribes.
+3. What is Uganda’s official language?
+ English.
+4. Why does Uganda use English as the official language?
+ It was colonized by Britain.
+5. What is an official language?
+ This is a language used in government offices.
+Advantages of having a national language.
+ It promotes national unity
+ It promotes trade
+ It brings a sense of belonging
+ It promotes easy communication
+Uganda national currency
+ The Uganda shillings is the national currency
+ Uganda currency is in both paper and coins
+Qn:What is the Uganda legal lender?
+Uganda shillings.
+Types of money
+ Paper notes
+ Coins
+Features found on different denominations of Uganda shillings
+Denominations Unique feature
+216
+50/= Head of antelope
+100/= cow
+200/= fish
+500/= Head of a crested crane
+1000/= Antelope
+2000/ fish
+5000/= nest,bird
+10,000/= banana plant
+20,000/= cow
+50,000/= mountain gorilla
+Examples of foreign currency commonly used in Uganda
+Us Dollar
+The central bank .
+ The central bank in Uganda is called Bank of Uganda .
+ It is head by the Governor.
+Duties of the central bank
+ It prints new money
+ It controls money incirculation.
+ It gives licences to commercial banks
+ It gives loans to commercial banks
+ It controls forex bureaus
+ It manages public debts
+ It buys valuable minerals like gold.
+Commercial banks
+ These are banks where people keep their money safe.
+Examples of commercial banks
+i) Stanbic bank
+ii) Centenary bank
+iiI) Tropical bank
+iv) DFCU bank
+217
+V) Absa bank
+vi) Diamond Trust bank
+vii) Equity bank
+importance of commercial banks
+ They create employment /jobs
+ They keep people’s money safe
+ They give loans to people
+ They give financial advice to people
+Why people keep their money in banks
+ To get interest
+ To get loans
+ For their money to be safe
+ It keeps government important documents
+ It keeps money for commercial banks
+NATIONAL CAPITAL CITY
+ A national capital city is the main administrative centre in the country.
+ Kampala is the capital city of Uganda.
+ Entebbe was the colonial capital city of Uganda.
+Qn: Why was the capital city of Uganda transferred from Entebbe
+toKampala?
+ Kampala is centrally located.
+Qn: Name the body that governs Kampala city .
+ Kampala Capital city Authority. (KCCA)
 </passage>
 </passages>
 
