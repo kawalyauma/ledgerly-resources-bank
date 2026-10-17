@@ -1,0 +1,82 @@
+{
+  "competences": [
+    "The learner defines decentralisation and distinguishes central from local government.",
+    "The learner identifies local government levels and advantages of decentralisation."
+  ],
+  "languageCompetence": "Learners read, spell and pronounce decentralisation, central government, local government, LC I, LC V.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to define decentralisation in their own words.",
+    "By the end of the lesson, learners should be able to identify at least two differences and advantages of local government."
+  ],
+  "priorKnowledge": "Learners know that their village has elected local council leaders who help solve community problems.",
+  "methods": [
+    "Explanation",
+    "Brainstorming",
+    "Question and answer",
+    "Guided discussion"
+  ],
+  "materials": [
+    "Chart showing Uganda's local government levels",
+    "Primary Four Social Studies source notes on district leadership"
+  ],
+  "references": [
+    "Excel P 4 SST Term III",
+    "P4 Social Studies Notes for Terms 1–3"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "The teacher asks the sourced question \"Who is a leader?\" and invites pupils to name a village leader. They introduce decentralisation as a division of responsibilities between central and local government.",
+      "learnerActivity": "Learners recall local leaders they know, answer the opening question and explain who serves people in their village."
+    },
+    {
+      "stage": "Development: Meaning of decentralisation",
+      "minutes": 6,
+      "content": "Decentralisation transfers some powers from central to local government. Central government serves the whole nation. Local governments provide services in local areas. Uganda has central and local governments.",
+      "teacherActivity": "The teacher writes the sourced facts for meaning of decentralisation, including \"Decentralisation transfers some powers from central to local government. Central government serves the whole nation.\" They ask learners to relate the facts to the district and check understanding using \"Give any two difference between the central government and the local government.\".",
+      "learnerActivity": "Learners read the displayed content, identify the key facts, answer the teacher's questions and copy the corresponding notes accurately."
+    },
+    {
+      "stage": "Development: Differences between central and local government",
+      "minutes": 6,
+      "content": "Uganda has one central government and many local governments. Central government maintains major roads. Local government maintains feeder roads. Central government runs major hospitals. Local government controls health centres. Central government controls all armed forces. Local government controls local defence forces.",
+      "teacherActivity": "The teacher writes the sourced facts for differences between central and local government, including \"Uganda has one central government and many local governments. Central government maintains major roads.\" They ask learners to relate the facts to the district and check understanding using \"Mention the highest level of local government in the district.\".",
+      "learnerActivity": "Learners read the displayed content, identify the key facts, answer the teacher's questions and copy the corresponding notes accurately."
+    },
+    {
+      "stage": "Development: Levels of local government",
+      "minutes": 6,
+      "content": "A village is served by Local Council One. A parish is served by Local Council Two. A sub-county is served by Local Council Three. A district is served by Local Council Five.",
+      "teacherActivity": "The teacher writes the sourced facts for levels of local government, including \"A village is served by Local Council One. A parish is served by Local Council Two.\" They ask learners to relate the facts to the district and check understanding using \"Mention any two decentralised sectors in Uganda.\".",
+      "learnerActivity": "Learners read the displayed content, identify the key facts, answer the teacher's questions and copy the corresponding notes accurately."
+    },
+    {
+      "stage": "Development: Advantages of decentralisation",
+      "minutes": 6,
+      "content": "Decentralisation brings services nearer to people. It makes government administration easier. It promotes development in different areas. It creates job opportunities for people.",
+      "teacherActivity": "The teacher writes the sourced facts for advantages of decentralisation, including \"Decentralisation brings services nearer to people. It makes government administration easier.\" They ask learners to relate the facts to the district and check understanding using \"State any two advantages of decentralisation.\".",
+      "learnerActivity": "Learners read the displayed content, identify the key facts, answer the teacher's questions and copy the corresponding notes accurately."
+    },
+    {
+      "stage": "Exercise",
+      "minutes": 7,
+      "content": "Who is a leader? | Give any two difference between the central government and the local government. | Mention the highest level of local government in the district. | Mention any two decentralised sectors in Uganda.",
+      "teacherActivity": "The teacher gives the original exercise questions, including \"Give any two difference between the central government and the local government.\" and \"Mention the highest level of local government in the district.\". They mark pupils' responses, explain the levels of government and correct errors using the notes.",
+      "learnerActivity": "Learners complete the written questions independently, compare the responses with their notes and correct any mistaken facts."
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 4,
+      "teacherActivity": "The teacher revisits the meaning of decentralisation and asks the source questions \"Mention any two decentralised sectors in Uganda.\" and \"State any two advantages of decentralisation.\". They confirm the advantages and assign revision work.",
+      "learnerActivity": "Learners state how government services reach local people, answer oral questions and record homework in their books."
+    }
+  ],
+  "assessment": "Use the questions \"Give any two difference between the central government and the local government.\", \"Mention the highest level of local government in the district.\", and \"State any two advantages of decentralisation.\" and check the written answers against the lesson notes.",
+  "homework": "Answer the original question: \"State any two advantages of decentralisation.\"",
+  "lifeSkills": [
+    "Communication",
+    "Critical thinking",
+    "Respect for authority"
+  ]
+}

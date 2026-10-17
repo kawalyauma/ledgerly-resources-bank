@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Who is the president’s representative in the district?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Political and civic heads of a district",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b5e07aa2f0d74d81ba74c9e3b4d442ff",
+      "quote": "Who is the president’s representative in the district?"
+    }
+  },
+  {
+    "question": "What title is given to the head of the municipality?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Political and civic heads of a district",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b5e07aa2f0d74d81ba74c9e3b4d442ff",
+      "quote": "What title is given to the head of the municipality?"
+    }
+  },
+  {
+    "question": "How does CAO attain leadership powers?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Political and civic heads of a district",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_373ac6ec3b7042c482fab204c740d6db",
+      "quote": "How does CAO attain leadership powers?"
+    }
+  },
+  {
+    "question": "Apart from the CAO, mention any four other examples of civic leaders in your district.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Political and civic heads of a district",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_373ac6ec3b7042c482fab204c740d6db",
+      "quote": "Apart from the CAO, mention any four other examples of civic leaders in your district."
+    }
+  },
+  {
+    "question": "How is a Veterinary officer different from an Agricultural officer?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Political and civic heads of a district",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_373ac6ec3b7042c482fab204c740d6db",
+      "quote": "How is a Veterinary officer different from an Agricultural officer?"
+    }
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "competences": [
+    "The learner identifies district political leaders and describes their duties.",
+    "The learner identifies appointed civic leaders and explains their responsibilities."
+  ],
+  "languageCompetence": "Learners pronounce, read and spell chairperson, mayor, speaker, commissioner, civic and administrative officer.",
+  "objectives": [
+    "By the end of the lesson learners should be able to distinguish political from civic leaders.",
+    "By the end of the lesson learners should be able to name at least four district officials and state their duties."
+  ],
+  "priorKnowledge": "Learners have studied district local councils, decentralisation, by-laws and elected village officials.",
+  "methods": [
+    "Explanation",
+    "Guided discussion",
+    "Question and answer",
+    "Observation"
+  ],
+  "materials": [
+    "Chart of district political and civic officers",
+    "Primary Four SST booklet on district leadership"
+  ],
+  "references": [
+    "Excel P 4 SST Term III",
+    "P4 Social Studies Notes for Terms 1–3"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "The teacher links the previous local-government lessons to district officials. They ask the original question \"Who is the president’s representative in the district?\" and invite learners to recall which officers they already know.",
+      "learnerActivity": "Learners recall local government positions, answer the starter question and describe where they have encountered district leadership."
+    },
+    {
+      "stage": "Development: Political heads of local government",
+      "minutes": 8,
+      "content": "Political leaders are chosen through elections. The district political head is Chairperson LC V. The municipal political head is a mayor. The sub-county head is Chairperson LC III. The district speaker chairs district council meetings.",
+      "teacherActivity": "The teacher explains the documented roles of political heads of local government and writes the points, including \"Political leaders are chosen through elections. The district political head is Chairperson LC V.\" They assess understanding with the sourced question \"What title is given to the head of the municipality?\".",
+      "learnerActivity": "Learners read the chart, identify duties of each official, answer the teacher's exact question and copy the facts into their books."
+    },
+    {
+      "stage": "Development: Resident District Commissioner",
+      "minutes": 8,
+      "content": "The RDC represents the president in the district. The president appoints the Resident District Commissioner. The RDC chairs the district security committee. The RDC coordinates central-government activities in the district. The RDC advises the district chairperson on national matters.",
+      "teacherActivity": "The teacher explains the documented roles of resident district commissioner and writes the points, including \"The RDC represents the president in the district. The president appoints the Resident District Commissioner.\" They assess understanding with the sourced question \"How does CAO attain leadership powers?\".",
+      "learnerActivity": "Learners read the chart, identify duties of each official, answer the teacher's exact question and copy the facts into their books."
+    },
+    {
+      "stage": "Development: Civic leaders and their duties",
+      "minutes": 8,
+      "content": "Civic leaders provide social services to communities. Civic leaders obtain office through appointment. The CAO heads district civil servants. The DDHS supervises health centres and workers. The DEO improves standards of education. The veterinary officer advises livestock farmers. The agricultural officer advises crop farmers. The district water officer provides clean water. The district police commander maintains law and order.",
+      "teacherActivity": "The teacher explains the documented roles of civic leaders and their duties and writes the points, including \"Civic leaders provide social services to communities. Civic leaders obtain office through appointment.\" They assess understanding with the sourced question \"Apart from the CAO, mention any four other examples of civic leaders in your district.\".",
+      "learnerActivity": "Learners read the chart, identify duties of each official, answer the teacher's exact question and copy the facts into their books."
+    },
+    {
+      "stage": "Practice and exercise",
+      "minutes": 7,
+      "content": "Who is the president’s representative in the district? | What title is given to the head of the municipality? | How does CAO attain leadership powers? | Apart from the CAO, mention any four other examples of civic leaders in your district.",
+      "teacherActivity": "The teacher writes the existing exercise questions, beginning with \"Who is the president’s representative in the district?\" and \"What title is given to the head of the municipality?\". They supervise individual writing, compare answers with the source texts and give corrective explanations.",
+      "learnerActivity": "Learners answer the written questions, compare political and civic roles and make corrections in their Social Studies books."
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 4,
+      "teacherActivity": "The teacher checks the difference between appointed and elected leaders using \"How does CAO attain leadership powers?\" and \"Apart from the CAO, mention any four other examples of civic leaders in your district.\". They summarise the sourced roles and assign the final question.",
+      "learnerActivity": "Learners state the difference between civic and political leaders, give an example of each and record the homework."
+    }
+  ],
+  "assessment": "Mark learner responses to \"Who is the president’s representative in the district?\", \"How does CAO attain leadership powers?\", and \"Apart from the CAO, mention any four other examples of civic leaders in your district.\". Use source-supported duties to explain corrections.",
+  "homework": "Answer the original question: \"How is a Veterinary officer different from an Agricultural officer?\"",
+  "lifeSkills": [
+    "Critical thinking",
+    "Communication",
+    "Respect for public service"
+  ]
+}

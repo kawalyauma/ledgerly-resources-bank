@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Who is a leader?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Local government and decentralisation",
+    "skill": "identification",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_3a6e8c49df0d457ba74ba7a4dd7a4711",
+      "quote": "Who is a leader?"
+    }
+  },
+  {
+    "question": "Give any two difference between the central government and the local government.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Local government and decentralisation",
+    "skill": "identification",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_3a6e8c49df0d457ba74ba7a4dd7a4711",
+      "quote": "Give any two difference between the central government and the local government."
+    }
+  },
+  {
+    "question": "Mention the highest level of local government in the district.",
+    "answer": "Local Council Five.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Local government and decentralisation",
+    "skill": "identification",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_3a6e8c49df0d457ba74ba7a4dd7a4711",
+      "quote": "Mention the highest level of local government in the district."
+    }
+  },
+  {
+    "question": "Mention any two decentralised sectors in Uganda.",
+    "answer": "Primary health care and primary education.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Local government and decentralisation",
+    "skill": "identification",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_3a6e8c49df0d457ba74ba7a4dd7a4711",
+      "quote": "Mention any two decentralised sectors in Uganda."
+    }
+  },
+  {
+    "question": "State any two advantages of decentralisation.",
+    "answer": "Services come nearer and administration becomes easier.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Local government and decentralisation",
+    "skill": "identification",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_3a6e8c49df0d457ba74ba7a4dd7a4711",
+      "quote": "State any two advantages of decentralisation."
+    }
+  }
+]
