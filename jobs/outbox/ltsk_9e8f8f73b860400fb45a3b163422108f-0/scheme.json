@@ -1,0 +1,833 @@
+{
+  "title": "P7 Social Studies — Term 3, 2026",
+  "summary": "NCDC topics 9 and 10: economic developments in Africa and major world organisations; 25 economic lessons and 24 UN/Commonwealth teaching and Part B lessons over ten weeks.",
+  "units": [
+    {
+      "title": "Economic Developments in Africa",
+      "theme": "Living together in Africa",
+      "weekFrom": 1,
+      "weekTo": 5,
+      "competences": "Identify Africa's natural resources, their contributions to economies, and challenges in selected African countries.",
+      "sources": [
+        {
+          "source": "lchk_ff110c6b16684b4bbf56de29c7e48fff",
+          "quote": "Topic 9: Economic Developments in"
+        },
+        {
+          "source": "lchk_5c3a3a7c8ba3485a8c456cd449d741e2",
+          "quote": "Major economic resources of Africa"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Major economic resources of Africa",
+          "subtopic": "Major economic resources of Africa",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe major economic resources of africa."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ff110c6b16684b4bbf56de29c7e48fff",
+              "quote": "Major economic"
+            }
+          ]
+        },
+        {
+          "title": "Land and soil resources",
+          "subtopic": "Land and soil resources",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe land and soil resources."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ff110c6b16684b4bbf56de29c7e48fff",
+              "quote": "Land and soils"
+            }
+          ]
+        },
+        {
+          "title": "Mineral resources",
+          "subtopic": "Mineral resources",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe mineral resources."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ff110c6b16684b4bbf56de29c7e48fff",
+              "quote": "Minerals"
+            }
+          ]
+        },
+        {
+          "title": "Animals as resources",
+          "subtopic": "Animals as resources",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe animals as resources."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ff110c6b16684b4bbf56de29c7e48fff",
+              "quote": "Animals"
+            }
+          ]
+        },
+        {
+          "title": "People as resources",
+          "subtopic": "People as resources",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe people as resources."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ff110c6b16684b4bbf56de29c7e48fff",
+              "quote": "People"
+            }
+          ]
+        },
+        {
+          "title": "Vegetation resources",
+          "subtopic": "Vegetation resources",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe vegetation resources."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ff110c6b16684b4bbf56de29c7e48fff",
+              "quote": "Vegetation"
+            }
+          ]
+        },
+        {
+          "title": "Climate as a resource",
+          "subtopic": "Climate as a resource",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe climate as a resource."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ff110c6b16684b4bbf56de29c7e48fff",
+              "quote": "Climate"
+            }
+          ]
+        },
+        {
+          "title": "Water resources",
+          "subtopic": "Water resources",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe water resources."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ff110c6b16684b4bbf56de29c7e48fff",
+              "quote": "Water"
+            }
+          ]
+        },
+        {
+          "title": "Problems in using resources",
+          "subtopic": "Problems in using resources",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe problems in using resources."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ff110c6b16684b4bbf56de29c7e48fff",
+              "quote": "Problems faced in"
+            }
+          ]
+        },
+        {
+          "title": "Caring for resources",
+          "subtopic": "Caring for resources",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe caring for resources."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "Care for our"
+            }
+          ]
+        },
+        {
+          "title": "Nigeria: climate and oil",
+          "subtopic": "Nigeria: climate and oil",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe nigeria: climate and oil."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "Oil drilling"
+            }
+          ]
+        },
+        {
+          "title": "Nigeria: farming and nomadism",
+          "subtopic": "Nigeria: farming and nomadism",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe nigeria: farming and nomadism."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "Farming"
+            }
+          ]
+        },
+        {
+          "title": "Nigeria: hydropower and transport",
+          "subtopic": "Nigeria: hydropower and transport",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe nigeria: hydropower and transport."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "Kainji dam"
+            }
+          ]
+        },
+        {
+          "title": "Sudan: Gezira irrigation",
+          "subtopic": "Sudan: Gezira irrigation",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe sudan: gezira irrigation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "Gezira Irrigation"
+            }
+          ]
+        },
+        {
+          "title": "Sudan: the Nile Valley",
+          "subtopic": "Sudan: the Nile Valley",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe sudan: the nile valley."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "The Nile Valley"
+            }
+          ]
+        },
+        {
+          "title": "Libya: climate and oil",
+          "subtopic": "Libya: climate and oil",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe libya: climate and oil."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "Oil mining"
+            }
+          ]
+        },
+        {
+          "title": "Libya: irrigation and tourism",
+          "subtopic": "Libya: irrigation and tourism",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe libya: irrigation and tourism."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "Irrigation farming"
+            }
+          ]
+        },
+        {
+          "title": "South Africa: mining and farming",
+          "subtopic": "South Africa: mining and farming",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe south africa: mining and farming."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "South Africa:"
+            }
+          ]
+        },
+        {
+          "title": "South Africa: industry and trade",
+          "subtopic": "South Africa: industry and trade",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe south africa: industry and trade."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "Industrialisation"
+            }
+          ]
+        },
+        {
+          "title": "DR Congo: mining",
+          "subtopic": "DR Congo: mining",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe dr congo: mining."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "Democratic"
+            }
+          ]
+        },
+        {
+          "title": "DR Congo: farming and lumbering",
+          "subtopic": "DR Congo: farming and lumbering",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe dr congo: farming and lumbering."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "Lumbering"
+            }
+          ]
+        },
+        {
+          "title": "Uganda: farming and mining",
+          "subtopic": "Uganda: farming and mining",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe uganda: farming and mining."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "Uganda"
+            }
+          ]
+        },
+        {
+          "title": "Uganda: irrigation and pastoralism",
+          "subtopic": "Uganda: irrigation and pastoralism",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe uganda: irrigation and pastoralism."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "Pastoralism"
+            }
+          ]
+        },
+        {
+          "title": "Comparing development in Africa",
+          "subtopic": "Comparing development in Africa",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe comparing development in africa."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "Comparing"
+            }
+          ]
+        },
+        {
+          "title": "Challenges to development",
+          "subtopic": "Challenges to development",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Identify and describe challenges to development."
+          ],
+          "sources": [
+            {
+              "source": "lchk_08b4203996574de4b3f2914bd9384c2c",
+              "quote": "Possible solutions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Major World Organisations",
+      "theme": "Living together in Africa",
+      "weekFrom": 6,
+      "weekTo": 10,
+      "competences": "Explain the UN's formation, organs, agencies, human rights, Commonwealth roles, and challenges faced by world organisations.",
+      "sources": [
+        {
+          "source": "lchk_6189871e1121435bb424a22e5d3e2b1f",
+          "quote": "Topic 10: Major World Organisations"
+        },
+        {
+          "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+          "quote": "The Commonwealth of"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Formation of the United Nations",
+          "subtopic": "Formation of the United Nations",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Identify and explain formation of the united nations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_6189871e1121435bb424a22e5d3e2b1f",
+              "quote": "Formation of the"
+            }
+          ]
+        },
+        {
+          "title": "Formation of the United Nations — Part B",
+          "subtopic": "Formation of the United Nations",
+          "kind": "practice",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Practise explaining formation of the united nations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_6189871e1121435bb424a22e5d3e2b1f",
+              "quote": "Formation of the"
+            }
+          ]
+        },
+        {
+          "title": "Importance of the United Nations",
+          "subtopic": "Importance of the United Nations",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Identify and explain importance of the united nations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_6189871e1121435bb424a22e5d3e2b1f",
+              "quote": "Importance of the"
+            }
+          ]
+        },
+        {
+          "title": "Importance of the United Nations — Part B",
+          "subtopic": "Importance of the United Nations",
+          "kind": "practice",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Practise explaining importance of the united nations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_6189871e1121435bb424a22e5d3e2b1f",
+              "quote": "Importance of the"
+            }
+          ]
+        },
+        {
+          "title": "Membership of the UN",
+          "subtopic": "Membership of the UN",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Identify and explain membership of the un."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "membership of"
+            }
+          ]
+        },
+        {
+          "title": "Membership of the UN — Part B",
+          "subtopic": "Membership of the UN",
+          "kind": "practice",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "Practise explaining membership of the un."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "membership of"
+            }
+          ]
+        },
+        {
+          "title": "Organs of the UN",
+          "subtopic": "Organs of the UN",
+          "kind": "teach",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "Identify and explain organs of the un."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "organs of the"
+            }
+          ]
+        },
+        {
+          "title": "Organs of the UN — Part B",
+          "subtopic": "Organs of the UN",
+          "kind": "practice",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "Practise explaining organs of the un."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "organs of the"
+            }
+          ]
+        },
+        {
+          "title": "Functions of the UN",
+          "subtopic": "Functions of the UN",
+          "kind": "teach",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "Identify and explain functions of the un."
+          ],
+          "sources": [
+            {
+              "source": "lchk_6189871e1121435bb424a22e5d3e2b1f",
+              "quote": "Functions"
+            }
+          ]
+        },
+        {
+          "title": "Functions of the UN — Part B",
+          "subtopic": "Functions of the UN",
+          "kind": "practice",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "Practise explaining functions of the un."
+          ],
+          "sources": [
+            {
+              "source": "lchk_6189871e1121435bb424a22e5d3e2b1f",
+              "quote": "Functions"
+            }
+          ]
+        },
+        {
+          "title": "UN agencies",
+          "subtopic": "UN agencies",
+          "kind": "teach",
+          "week": 8,
+          "periods": 1,
+          "objectives": [
+            "Identify and explain un agencies."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "UNESCO, UNICEF"
+            }
+          ]
+        },
+        {
+          "title": "UN agencies — Part B",
+          "subtopic": "UN agencies",
+          "kind": "practice",
+          "week": 8,
+          "periods": 1,
+          "objectives": [
+            "Practise explaining un agencies."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "UNESCO, UNICEF"
+            }
+          ]
+        },
+        {
+          "title": "UNESCO, UNICEF and WHO",
+          "subtopic": "UNESCO, UNICEF and WHO",
+          "kind": "teach",
+          "week": 8,
+          "periods": 1,
+          "objectives": [
+            "Identify and explain unesco, unicef and who."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "UNESCO, UNICEF"
+            }
+          ]
+        },
+        {
+          "title": "UNESCO, UNICEF and WHO — Part B",
+          "subtopic": "UNESCO, UNICEF and WHO",
+          "kind": "practice",
+          "week": 8,
+          "periods": 1,
+          "objectives": [
+            "Practise explaining unesco, unicef and who."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "UNESCO, UNICEF"
+            }
+          ]
+        },
+        {
+          "title": "ILO, UNDP and UNHCR",
+          "subtopic": "ILO, UNDP and UNHCR",
+          "kind": "teach",
+          "week": 8,
+          "periods": 1,
+          "objectives": [
+            "Identify and explain ilo, undp and unhcr."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "ILO, UNDP, WHO"
+            }
+          ]
+        },
+        {
+          "title": "ILO, UNDP and UNHCR — Part B",
+          "subtopic": "ILO, UNDP and UNHCR",
+          "kind": "practice",
+          "week": 9,
+          "periods": 1,
+          "objectives": [
+            "Practise explaining ilo, undp and unhcr."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "ILO, UNDP, WHO"
+            }
+          ]
+        },
+        {
+          "title": "Human rights in the UN Charter",
+          "subtopic": "Human rights in the UN Charter",
+          "kind": "teach",
+          "week": 9,
+          "periods": 1,
+          "objectives": [
+            "Identify and explain human rights in the un charter."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "Human rights in the"
+            }
+          ]
+        },
+        {
+          "title": "Human rights in the UN Charter — Part B",
+          "subtopic": "Human rights in the UN Charter",
+          "kind": "practice",
+          "week": 9,
+          "periods": 1,
+          "objectives": [
+            "Practise explaining human rights in the un charter."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "Human rights in the"
+            }
+          ]
+        },
+        {
+          "title": "Respect and violation of human rights",
+          "subtopic": "Respect and violation of human rights",
+          "kind": "teach",
+          "week": 9,
+          "periods": 1,
+          "objectives": [
+            "Identify and explain respect and violation of human rights."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "Ways of respecting"
+            }
+          ]
+        },
+        {
+          "title": "Respect and violation of human rights — Part B",
+          "subtopic": "Respect and violation of human rights",
+          "kind": "practice",
+          "week": 9,
+          "periods": 1,
+          "objectives": [
+            "Practise explaining respect and violation of human rights."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "Ways of respecting"
+            }
+          ]
+        },
+        {
+          "title": "Commonwealth of Nations",
+          "subtopic": "Commonwealth of Nations",
+          "kind": "teach",
+          "week": 10,
+          "periods": 1,
+          "objectives": [
+            "Identify and explain commonwealth of nations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "The Commonwealth of"
+            }
+          ]
+        },
+        {
+          "title": "Commonwealth of Nations — Part B",
+          "subtopic": "Commonwealth of Nations",
+          "kind": "practice",
+          "week": 10,
+          "periods": 1,
+          "objectives": [
+            "Practise explaining commonwealth of nations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "The Commonwealth of"
+            }
+          ]
+        },
+        {
+          "title": "Challenges of world organisations",
+          "subtopic": "Challenges of world organisations",
+          "kind": "teach",
+          "week": 10,
+          "periods": 1,
+          "objectives": [
+            "Identify and explain challenges of world organisations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "Challenges of the UN"
+            }
+          ]
+        },
+        {
+          "title": "Challenges of world organisations — Part B",
+          "subtopic": "Challenges of world organisations",
+          "kind": "practice",
+          "week": 10,
+          "periods": 1,
+          "objectives": [
+            "Practise explaining challenges of world organisations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2cae02f1e65c407487b79fa56031400c",
+              "quote": "Challenges of the UN"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "The official NCDC curriculum allocates 30 periods to Topic 9 and 10 to Topic 10, whereas the current school job requests approximately 25 and 24. The DOS must verify the adapted distribution.",
+    "Part B lessons require actual source-backed exercises from past papers or workbooks before lesson writing.",
+    "The last teaching slot should be reserved for the end-of-term assessment."
+  ]
+}

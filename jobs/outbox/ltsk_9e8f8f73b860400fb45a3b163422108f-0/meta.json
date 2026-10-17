@@ -1,0 +1,14 @@
+{
+  "job": "ltsk_9e8f8f73b860400fb45a3b163422108f-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "scheme": [
+      "The official NCDC curriculum allocates 30 periods to Topic 9 and 10 to Topic 10, whereas the current school job requests approximately 25 and 24. The DOS must verify the adapted distribution.",
+      "Part B lessons require actual source-backed exercises from past papers or workbooks before lesson writing.",
+      "The last teaching slot should be reserved for the end-of-term assessment."
+    ]
+  },
+  "reviewerNotes": "NCDC direct topic/lesson citations validated. Pacing requires DOS approval where the school job differs from official NCDC period allocations."
+}
