@@ -1,0 +1,656 @@
+{
+  "title": "P7 Mathematics — Term 3, 2026",
+  "summary": "The NCDC Term III core covers 18 measurement lessons and 20 algebra lessons, supported by the school's P7 mathematics scheme.",
+  "units": [
+    {
+      "title": "Length, Mass and Capacity",
+      "theme": "Measurement",
+      "weekFrom": 1,
+      "weekTo": 3,
+      "competences": "Calculate lengths, perimeters, areas, volumes and capacities using standard units.",
+      "sources": [
+        {
+          "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+          "quote": "Topic 10: Length, Mass and Capacity"
+        },
+        {
+          "source": "lchk_dafbc1708c7c4ee7ad41fe07bd1383fb",
+          "quote": "Area of a circle"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Length and standard measures",
+          "subtopic": "Length and standard measures",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain length and standard measures."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+              "quote": "measures"
+            }
+          ]
+        },
+        {
+          "title": "Metric units of length",
+          "subtopic": "Metric units of length",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain metric units of length."
+          ],
+          "sources": [
+            {
+              "source": "lchk_1bcedbf0ff1447baa4625871f060b7b3",
+              "quote": "metric units"
+            }
+          ]
+        },
+        {
+          "title": "Addition of metric lengths",
+          "subtopic": "Addition of metric lengths",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain addition of metric lengths."
+          ],
+          "sources": [
+            {
+              "source": "lchk_1bcedbf0ff1447baa4625871f060b7b3",
+              "quote": "Adding"
+            }
+          ]
+        },
+        {
+          "title": "Subtraction of metric lengths",
+          "subtopic": "Subtraction of metric lengths",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain subtraction of metric lengths."
+          ],
+          "sources": [
+            {
+              "source": "lchk_1bcedbf0ff1447baa4625871f060b7b3",
+              "quote": "Subtracting"
+            }
+          ]
+        },
+        {
+          "title": "Perimeter of figures",
+          "subtopic": "Perimeter of figures",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain perimeter of figures."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+              "quote": "Perimeter"
+            }
+          ]
+        },
+        {
+          "title": "Perimeter of triangles",
+          "subtopic": "Perimeter of triangles",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain perimeter of triangles."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+              "quote": "triangles"
+            }
+          ]
+        },
+        {
+          "title": "Perimeter of quadrilaterals",
+          "subtopic": "Perimeter of quadrilaterals",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain perimeter of quadrilaterals."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+              "quote": "quadraterals"
+            }
+          ]
+        },
+        {
+          "title": "Calculating area",
+          "subtopic": "Calculating area",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain calculating area."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+              "quote": "calculates"
+            }
+          ]
+        },
+        {
+          "title": "Area of circles",
+          "subtopic": "Area of circles",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain area of circles."
+          ],
+          "sources": [
+            {
+              "source": "lchk_dafbc1708c7c4ee7ad41fe07bd1383fb",
+              "quote": "Area of a circle"
+            }
+          ]
+        },
+        {
+          "title": "Circumference of circles",
+          "subtopic": "Circumference of circles",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain circumference of circles."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+              "quote": "circumference"
+            }
+          ]
+        },
+        {
+          "title": "Area word problems",
+          "subtopic": "Area word problems",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain area word problems."
+          ],
+          "sources": [
+            {
+              "source": "lchk_dafbc1708c7c4ee7ad41fe07bd1383fb",
+              "quote": "word problem"
+            }
+          ]
+        },
+        {
+          "title": "Volume of solid figures",
+          "subtopic": "Volume of solid figures",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain volume of solid figures."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+              "quote": "solid figures"
+            }
+          ]
+        },
+        {
+          "title": "Volume of cubes",
+          "subtopic": "Volume of cubes",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain volume of cubes."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+              "quote": "cuboids"
+            }
+          ]
+        },
+        {
+          "title": "Volume of cuboids",
+          "subtopic": "Volume of cuboids",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain volume of cuboids."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+              "quote": "cuboids"
+            }
+          ]
+        },
+        {
+          "title": "Volume of cylinders",
+          "subtopic": "Volume of cylinders",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain volume of cylinders."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+              "quote": "cylinders"
+            }
+          ]
+        },
+        {
+          "title": "Capacity calculations",
+          "subtopic": "Capacity calculations",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain capacity calculations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+              "quote": "capacity"
+            }
+          ]
+        },
+        {
+          "title": "Volume versus capacity",
+          "subtopic": "Volume versus capacity",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain volume versus capacity."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+              "quote": "difference between"
+            }
+          ]
+        },
+        {
+          "title": "Volume and capacity in real life",
+          "subtopic": "Volume and capacity in real life",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain volume and capacity in real life."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+              "quote": "real life"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Algebra",
+      "theme": "Algebra",
+      "weekFrom": 4,
+      "weekTo": 7,
+      "competences": "Form and simplify algebraic expressions, solve equations and inequalities, and apply algebra in real life.",
+      "sources": [
+        {
+          "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+          "quote": "Topic 11: Algebra"
+        },
+        {
+          "source": "lchk_78c2c8c4536e44a382a02d70eba2f1bc",
+          "quote": "simple equation"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Algebraic unknowns",
+          "subtopic": "Algebraic unknowns",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain algebraic unknowns."
+          ],
+          "sources": [
+            {
+              "source": "lchk_351fdbe48a1343d780205a01e92f5fd1",
+              "quote": "unknown"
+            }
+          ]
+        },
+        {
+          "title": "Algebraic expressions",
+          "subtopic": "Algebraic expressions",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain algebraic expressions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_351fdbe48a1343d780205a01e92f5fd1",
+              "quote": "Algebraic"
+            }
+          ]
+        },
+        {
+          "title": "Simplifying expressions",
+          "subtopic": "Simplifying expressions",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain simplifying expressions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_351fdbe48a1343d780205a01e92f5fd1",
+              "quote": "Simplifying"
+            }
+          ]
+        },
+        {
+          "title": "Combining expressions",
+          "subtopic": "Combining expressions",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain combining expressions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_351fdbe48a1343d780205a01e92f5fd1",
+              "quote": "expressions"
+            }
+          ]
+        },
+        {
+          "title": "Variables and coefficients",
+          "subtopic": "Variables and coefficients",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain variables and coefficients."
+          ],
+          "sources": [
+            {
+              "source": "lchk_78c2c8c4536e44a382a02d70eba2f1bc",
+              "quote": "Variables"
+            }
+          ]
+        },
+        {
+          "title": "Expressions with two operations",
+          "subtopic": "Expressions with two operations",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain expressions with two operations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ebd2619011d24b73baee8f4027f2b325",
+              "quote": "Two operations"
+            }
+          ]
+        },
+        {
+          "title": "Substitution of values",
+          "subtopic": "Substitution of values",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain substitution of values."
+          ],
+          "sources": [
+            {
+              "source": "lchk_351fdbe48a1343d780205a01e92f5fd1",
+              "quote": "Substitution"
+            }
+          ]
+        },
+        {
+          "title": "Substitution in expressions",
+          "subtopic": "Substitution in expressions",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain substitution in expressions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_351fdbe48a1343d780205a01e92f5fd1",
+              "quote": "substitutes"
+            }
+          ]
+        },
+        {
+          "title": "Algebraic equations",
+          "subtopic": "Algebraic equations",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain algebraic equations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_351fdbe48a1343d780205a01e92f5fd1",
+              "quote": "Equations"
+            }
+          ]
+        },
+        {
+          "title": "Simple equations",
+          "subtopic": "Simple equations",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain simple equations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_78c2c8c4536e44a382a02d70eba2f1bc",
+              "quote": "simple equation"
+            }
+          ]
+        },
+        {
+          "title": "Addition and subtraction equations",
+          "subtopic": "Addition and subtraction equations",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain addition and subtraction equations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_78c2c8c4536e44a382a02d70eba2f1bc",
+              "quote": "simple equation"
+            }
+          ]
+        },
+        {
+          "title": "Multiplication equations",
+          "subtopic": "Multiplication equations",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain multiplication equations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_78c2c8c4536e44a382a02d70eba2f1bc",
+              "quote": "Solves equations"
+            }
+          ]
+        },
+        {
+          "title": "Equations with brackets",
+          "subtopic": "Equations with brackets",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain equations with brackets."
+          ],
+          "sources": [
+            {
+              "source": "lchk_78c2c8c4536e44a382a02d70eba2f1bc",
+              "quote": "Simplifies equation"
+            }
+          ]
+        },
+        {
+          "title": "Equations with fractions",
+          "subtopic": "Equations with fractions",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain equations with fractions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_78c2c8c4536e44a382a02d70eba2f1bc",
+              "quote": "Equations involving fraction"
+            }
+          ]
+        },
+        {
+          "title": "Algebra in practical situations",
+          "subtopic": "Algebra in practical situations",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain algebra in practical situations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_351fdbe48a1343d780205a01e92f5fd1",
+              "quote": "Algebra in real"
+            }
+          ]
+        },
+        {
+          "title": "Inequalities",
+          "subtopic": "Inequalities",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain inequalities."
+          ],
+          "sources": [
+            {
+              "source": "lchk_351fdbe48a1343d780205a01e92f5fd1",
+              "quote": "Inequalities"
+            }
+          ]
+        },
+        {
+          "title": "Inequality symbols",
+          "subtopic": "Inequality symbols",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain inequality symbols."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4d661396b95f48799170008c4e2b1edf",
+              "quote": "inequality"
+            }
+          ]
+        },
+        {
+          "title": "Solving inequalities",
+          "subtopic": "Solving inequalities",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain solving inequalities."
+          ],
+          "sources": [
+            {
+              "source": "lchk_351fdbe48a1343d780205a01e92f5fd1",
+              "quote": "inequalities"
+            }
+          ]
+        },
+        {
+          "title": "Solution sets",
+          "subtopic": "Solution sets",
+          "kind": "teach",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain solution sets."
+          ],
+          "sources": [
+            {
+              "source": "lchk_351fdbe48a1343d780205a01e92f5fd1",
+              "quote": "solution sets"
+            }
+          ]
+        },
+        {
+          "title": "Word problems in algebra",
+          "subtopic": "Word problems in algebra",
+          "kind": "teach",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "Solve or explain word problems in algebra."
+          ],
+          "sources": [
+            {
+              "source": "lchk_351fdbe48a1343d780205a01e92f5fd1",
+              "quote": "problems"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "NCDC allocates 18 periods to measurement and 20 to algebra. These 38 core lessons are fully outlined; the other school periods require verified review, extension and assessment activities.",
+    "Worked examples and exercises must be selected from existing Maths notes and past papers; no new numbers or questions have been invented."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "job": "ltsk_3ae3f0297c3349fd90d59eb72b4cf658-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "scheme": [
+      "NCDC allocates 18 periods to measurement and 20 to algebra. These 38 core lessons are fully outlined; the other school periods require verified review, extension and assessment activities.",
+      "Worked examples and exercises must be selected from existing Maths notes and past papers; no new numbers or questions have been invented."
+    ]
+  },
+  "reviewerNotes": "Source-referenced school and NCDC topic sequence, preserving the official 18/20-period allocation."
+}
