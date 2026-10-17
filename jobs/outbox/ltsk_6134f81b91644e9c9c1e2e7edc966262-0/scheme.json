@@ -1,0 +1,1015 @@
+{
+  "title": "P6 Science Scheme of Work — Term 3, 2026",
+  "summary": "NCDC-based four-topic Term III sequence with 59 periods for Science at Home, Accidents and First Aid, Sanitation and the Reproductive System.",
+  "units": [
+    {
+      "title": "Science at Home and in Our Community",
+      "theme": "Science in Human Activities and Occupations",
+      "weekFrom": 1,
+      "weekTo": 2,
+      "competences": "Explain methods of preparing safe water and cleaning clothes.",
+      "sources": [
+        {
+          "source": "lchk_d7b0023efa0b400ab0a9db8c5d3e9f9b",
+          "quote": "Science at Home and in Our Community"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Safe drinking water",
+          "subtopic": "Safe drinking water",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate safe drinking water."
+          ],
+          "sources": [
+            {
+              "source": "lchk_423533289cce49e2ad444f1ac034ec9e",
+              "quote": "safe drinking water"
+            }
+          ]
+        },
+        {
+          "title": "Water impurities",
+          "subtopic": "Water impurities",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate water impurities."
+          ],
+          "sources": [
+            {
+              "source": "lchk_423533289cce49e2ad444f1ac034ec9e",
+              "quote": "impurities"
+            }
+          ]
+        },
+        {
+          "title": "Boiling water",
+          "subtopic": "Boiling water",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate boiling water."
+          ],
+          "sources": [
+            {
+              "source": "lchk_423533289cce49e2ad444f1ac034ec9e",
+              "quote": "boiling"
+            }
+          ]
+        },
+        {
+          "title": "Filtering water",
+          "subtopic": "Filtering water",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate filtering water."
+          ],
+          "sources": [
+            {
+              "source": "lchk_423533289cce49e2ad444f1ac034ec9e",
+              "quote": "filtering"
+            }
+          ]
+        },
+        {
+          "title": "Treating water",
+          "subtopic": "Treating water",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate treating water."
+          ],
+          "sources": [
+            {
+              "source": "lchk_423533289cce49e2ad444f1ac034ec9e",
+              "quote": "treating"
+            }
+          ]
+        },
+        {
+          "title": "Distilling water",
+          "subtopic": "Distilling water",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate distilling water."
+          ],
+          "sources": [
+            {
+              "source": "lchk_423533289cce49e2ad444f1ac034ec9e",
+              "quote": "distilling"
+            }
+          ]
+        },
+        {
+          "title": "Decanting water",
+          "subtopic": "Decanting water",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate decanting water."
+          ],
+          "sources": [
+            {
+              "source": "lchk_423533289cce49e2ad444f1ac034ec9e",
+              "quote": "decanting"
+            }
+          ]
+        },
+        {
+          "title": "Sorting and soaking clothes",
+          "subtopic": "Sorting and soaking clothes",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate sorting and soaking clothes."
+          ],
+          "sources": [
+            {
+              "source": "lchk_423533289cce49e2ad444f1ac034ec9e",
+              "quote": "soaking"
+            }
+          ]
+        },
+        {
+          "title": "Washing and rinsing clothes",
+          "subtopic": "Washing and rinsing clothes",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate washing and rinsing clothes."
+          ],
+          "sources": [
+            {
+              "source": "lchk_423533289cce49e2ad444f1ac034ec9e",
+              "quote": "rinsing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Accidents and First Aid",
+      "theme": "Human Health",
+      "weekFrom": 2,
+      "weekTo": 4,
+      "competences": "Recognise accidents, identify prevention and first-aid practices.",
+      "sources": [
+        {
+          "source": "lchk_423533289cce49e2ad444f1ac034ec9e",
+          "quote": "Accidents and First Aid"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Accidents and first aid",
+          "subtopic": "Accidents and first aid",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate accidents and first aid."
+          ],
+          "sources": [
+            {
+              "source": "lchk_423533289cce49e2ad444f1ac034ec9e",
+              "quote": "Accidents and First Aid"
+            }
+          ]
+        },
+        {
+          "title": "Burns and scalds",
+          "subtopic": "Burns and scalds",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate burns and scalds."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "Burns and"
+            }
+          ]
+        },
+        {
+          "title": "Preventing burns",
+          "subtopic": "Preventing burns",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate preventing burns."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "burns and scalds"
+            }
+          ]
+        },
+        {
+          "title": "First aid for burns",
+          "subtopic": "First aid for burns",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate first aid for burns."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "first aid"
+            }
+          ]
+        },
+        {
+          "title": "Fever and convulsions",
+          "subtopic": "Fever and convulsions",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate fever and convulsions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "Convulsions"
+            }
+          ]
+        },
+        {
+          "title": "Causes of fever",
+          "subtopic": "Causes of fever",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate causes of fever."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "causes"
+            }
+          ]
+        },
+        {
+          "title": "First aid for fever",
+          "subtopic": "First aid for fever",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate first aid for fever."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "first aid"
+            }
+          ]
+        },
+        {
+          "title": "Near drowning",
+          "subtopic": "Near drowning",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate near drowning."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "Near-Drowning"
+            }
+          ]
+        },
+        {
+          "title": "First aid for near drowning",
+          "subtopic": "First aid for near drowning",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate first aid for near drowning."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "near drowning"
+            }
+          ]
+        },
+        {
+          "title": "Fainting",
+          "subtopic": "Fainting",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate fainting."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "Fainting:"
+            }
+          ]
+        },
+        {
+          "title": "Causes of fainting",
+          "subtopic": "Causes of fainting",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate causes of fainting."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "causes"
+            }
+          ]
+        },
+        {
+          "title": "First aid for fainting",
+          "subtopic": "First aid for fainting",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate first aid for fainting."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "first aid"
+            }
+          ]
+        },
+        {
+          "title": "Foreign bodies in passages",
+          "subtopic": "Foreign bodies in passages",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate foreign bodies in passages."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "Foreign"
+            }
+          ]
+        },
+        {
+          "title": "Safety precautions",
+          "subtopic": "Safety precautions",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate safety precautions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "precautions"
+            }
+          ]
+        },
+        {
+          "title": "Practical first aid",
+          "subtopic": "Practical first aid",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate practical first aid."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "first aid to"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sanitation",
+      "theme": "Human Health",
+      "weekFrom": 5,
+      "weekTo": 7,
+      "competences": "Explain sanitation, toilet types, cleaning and hygienic maintenance.",
+      "sources": [
+        {
+          "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+          "quote": "Sanitation"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning of sanitation",
+          "subtopic": "Meaning of sanitation",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate meaning of sanitation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "Sanitation"
+            }
+          ]
+        },
+        {
+          "title": "Toilets and latrines",
+          "subtopic": "Toilets and latrines",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate toilets and latrines."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ec2d5bd8732840619e6b271261b6953a",
+              "quote": "Toilets and"
+            }
+          ]
+        },
+        {
+          "title": "Conventional latrines",
+          "subtopic": "Conventional latrines",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate conventional latrines."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ec2d5bd8732840619e6b271261b6953a",
+              "quote": "Conventional"
+            }
+          ]
+        },
+        {
+          "title": "VIP latrines",
+          "subtopic": "VIP latrines",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate vip latrines."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ec2d5bd8732840619e6b271261b6953a",
+              "quote": "The VIP"
+            }
+          ]
+        },
+        {
+          "title": "Ecosan sanitation",
+          "subtopic": "Ecosan sanitation",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate ecosan sanitation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ec2d5bd8732840619e6b271261b6953a",
+              "quote": "Ecosan"
+            }
+          ]
+        },
+        {
+          "title": "Water closet toilets",
+          "subtopic": "Water closet toilets",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate water closet toilets."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ec2d5bd8732840619e6b271261b6953a",
+              "quote": "Closet/borne"
+            }
+          ]
+        },
+        {
+          "title": "Proper use of a potty",
+          "subtopic": "Proper use of a potty",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate proper use of a potty."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ec2d5bd8732840619e6b271261b6953a",
+              "quote": "Latrine and"
+            }
+          ]
+        },
+        {
+          "title": "Comparing toilets and latrines",
+          "subtopic": "Comparing toilets and latrines",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate comparing toilets and latrines."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ec2d5bd8732840619e6b271261b6953a",
+              "quote": "differences"
+            }
+          ]
+        },
+        {
+          "title": "Importance of toilets and latrines",
+          "subtopic": "Importance of toilets and latrines",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate importance of toilets and latrines."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ec2d5bd8732840619e6b271261b6953a",
+              "quote": "Importance"
+            }
+          ]
+        },
+        {
+          "title": "Sanitation and disease prevention",
+          "subtopic": "Sanitation and disease prevention",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate sanitation and disease prevention."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a99260574eee4dc4be7def09f7890d7a",
+              "quote": "diarrhoeal diseases"
+            }
+          ]
+        },
+        {
+          "title": "Proper use of latrines",
+          "subtopic": "Proper use of latrines",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate proper use of latrines."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ec2d5bd8732840619e6b271261b6953a",
+              "quote": "Proper"
+            }
+          ]
+        },
+        {
+          "title": "Cleaning toilets",
+          "subtopic": "Cleaning toilets",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate cleaning toilets."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ec2d5bd8732840619e6b271261b6953a",
+              "quote": "Cleaning"
+            }
+          ]
+        },
+        {
+          "title": "Maintaining latrines",
+          "subtopic": "Maintaining latrines",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate maintaining latrines."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ec2d5bd8732840619e6b271261b6953a",
+              "quote": "Maintenance"
+            }
+          ]
+        },
+        {
+          "title": "Sanitation cleaning tools",
+          "subtopic": "Sanitation cleaning tools",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate sanitation cleaning tools."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ec2d5bd8732840619e6b271261b6953a",
+              "quote": "cleaning"
+            }
+          ]
+        },
+        {
+          "title": "School sanitation activities",
+          "subtopic": "School sanitation activities",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate school sanitation activities."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ec2d5bd8732840619e6b271261b6953a",
+              "quote": "sanitation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Reproductive System",
+      "theme": "Human Body",
+      "weekFrom": 7,
+      "weekTo": 10,
+      "competences": "Explain puberty, reproductive systems, health and responsible care.",
+      "sources": [
+        {
+          "source": "lchk_ec2d5bd8732840619e6b271261b6953a",
+          "quote": "The Reproductive System"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Human growth and development",
+          "subtopic": "Human growth and development",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate human growth and development."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "Growth and"
+            }
+          ]
+        },
+        {
+          "title": "Puberty and adolescence",
+          "subtopic": "Puberty and adolescence",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate puberty and adolescence."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "Puberty and"
+            }
+          ]
+        },
+        {
+          "title": "Primary sex characteristics",
+          "subtopic": "Primary sex characteristics",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate primary sex characteristics."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "Primary and"
+            }
+          ]
+        },
+        {
+          "title": "Secondary sex characteristics",
+          "subtopic": "Secondary sex characteristics",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate secondary sex characteristics."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "Secondary Sex"
+            }
+          ]
+        },
+        {
+          "title": "Social changes in adolescence",
+          "subtopic": "Social changes in adolescence",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate social changes in adolescence."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "Social and"
+            }
+          ]
+        },
+        {
+          "title": "Emotional changes in adolescence",
+          "subtopic": "Emotional changes in adolescence",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate emotional changes in adolescence."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "Emotional"
+            }
+          ]
+        },
+        {
+          "title": "Male reproductive organs",
+          "subtopic": "Male reproductive organs",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate male reproductive organs."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "male and"
+            }
+          ]
+        },
+        {
+          "title": "Female reproductive organs",
+          "subtopic": "Female reproductive organs",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate female reproductive organs."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "female"
+            }
+          ]
+        },
+        {
+          "title": "Reproductive cells",
+          "subtopic": "Reproductive cells",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate reproductive cells."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "Reproductive"
+            }
+          ]
+        },
+        {
+          "title": "Fertilisation",
+          "subtopic": "Fertilisation",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate fertilisation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "Fertilisation"
+            }
+          ]
+        },
+        {
+          "title": "Conception",
+          "subtopic": "Conception",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate conception."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "Conception"
+            }
+          ]
+        },
+        {
+          "title": "Pregnancy",
+          "subtopic": "Pregnancy",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate pregnancy."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "Pregnancy"
+            }
+          ]
+        },
+        {
+          "title": "Reproductive health",
+          "subtopic": "Reproductive health",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate reproductive health."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "Reproductive"
+            }
+          ]
+        },
+        {
+          "title": "Teenage pregnancy",
+          "subtopic": "Teenage pregnancy",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate teenage pregnancy."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "Teenage"
+            }
+          ]
+        },
+        {
+          "title": "Problems in pregnancy",
+          "subtopic": "Problems in pregnancy",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate problems in pregnancy."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "problems in"
+            }
+          ]
+        },
+        {
+          "title": "Care of reproductive organs",
+          "subtopic": "Care of reproductive organs",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate care of reproductive organs."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "Care for"
+            }
+          ]
+        },
+        {
+          "title": "Diseases and disorders",
+          "subtopic": "Diseases and disorders",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate diseases and disorders."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "Diseases and"
+            }
+          ]
+        },
+        {
+          "title": "Family planning and child spacing",
+          "subtopic": "Family planning and child spacing",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate family planning and child spacing."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "child spacing"
+            }
+          ]
+        },
+        {
+          "title": "Myths about reproductive health",
+          "subtopic": "Myths about reproductive health",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe or demonstrate myths about reproductive health."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8a4df4780f14b1ea004b14dd7dad96e",
+              "quote": "myths and"
+            }
+          ]
+        },
+        {
+          "title": "End-of-term science assessment",
+          "subtopic": "End-of-term science assessment",
+          "week": 10,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Describe or demonstrate end-of-term science assessment."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4529e61aa79c4c2c87ac0bea16a24703",
+              "quote": "Suggested Competences for Assessment"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "The NCDC Term III syllabus has four topics including Science at Home (Topic 9); the required-topics summary omitted that topic. All four are covered.",
+    "The official allocation totals 60 periods; the job caps teaching and practice entries at 59, including one assessment.",
+    "Classroom first-aid procedures, reproductive health guidance and exact assessment questions require expert teacher review and verified reference notes."
+  ]
+}

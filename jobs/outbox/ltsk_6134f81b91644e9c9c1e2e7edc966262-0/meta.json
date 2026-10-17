@@ -1,0 +1,14 @@
+{
+  "job": "ltsk_6134f81b91644e9c9c1e2e7edc966262-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "scheme": [
+      "The NCDC Term III syllabus has four topics including Science at Home (Topic 9); the required-topics summary omitted that topic. All four are covered.",
+      "The official allocation totals 60 periods; the job caps teaching and practice entries at 59, including one assessment.",
+      "Classroom first-aid procedures, reproductive health guidance and exact assessment questions require expert teacher review and verified reference notes."
+    ]
+  },
+  "reviewerNotes": "Curriculum order from complete NCDC Term III syllabus, with precise source passage quotations."
+}
