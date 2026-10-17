@@ -1,0 +1,15 @@
+{
+  "job": "ltsk_e060fdfce508402eaed4da760d9c140f-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "lles_57098df4ab9c415792163a76db374e02": [
+      "The source pack has few verbatim questions limited to cooperation, so original questions about caring for others and using talents are included for wider-unit practice."
+    ],
+    "lles_c1a7e553104f493db056ef00f73f924e": [
+      "The source pack has few questions on cooperation alone. Original questions about voluntary Christian organisations and caring for the needy are included."
+    ]
+  },
+  "reviewerNotes": "P6 CRE week 3: notes and 40-minute plans with original cited exercise questions. Answers left null where no answer key is explicitly available. Teacher review before classroom use."
+}
