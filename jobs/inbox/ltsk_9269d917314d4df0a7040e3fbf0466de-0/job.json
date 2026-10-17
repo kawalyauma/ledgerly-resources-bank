@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_9269d917314d4df0a7040e3fbf0466de-0",
+  "task": "ltsk_9269d917314d4df0a7040e3fbf0466de",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 51,
+  "school": "sch-7207f9",
+  "class": "P4",
+  "classLevel": 4,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 1,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_c2b05b6d1d9b4bdca6efef92eab7771a",
+      "kind": "teach",
+      "week": 1,
+      "title": "Decentralisation",
+      "periods": 1,
+      "subtopic": "Decentralisation"
+    },
+    {
+      "id": "lles_a27d148fec354d1ab097b65462cf787a",
+      "kind": "practice",
+      "week": 1,
+      "title": "Decentralisation — Part B",
+      "periods": 1,
+      "subtopic": "Decentralisation"
+    },
+    {
+      "id": "lles_af23a03c1ecc4f6c8c2e4986cac41f11",
+      "kind": "teach",
+      "week": 1,
+      "title": "By-laws",
+      "periods": 1,
+      "subtopic": "By-laws"
+    },
+    {
+      "id": "lles_316a62b4feef4603beeea35acc848505",
+      "kind": "practice",
+      "week": 1,
+      "title": "By-laws — Part B",
+      "periods": 1,
+      "subtopic": "By-laws"
+    },
+    {
+      "id": "lles_62e324bca60a4d92a7a694bb3138a9b1",
+      "kind": "teach",
+      "week": 1,
+      "title": "District political and civic heads",
+      "periods": 1,
+      "subtopic": "District political and civic heads"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P4/social-studies",
+  "passages": [
+    "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+    "lchk_a6c1d3301a7743d3a21b117783ccf339",
+    "lchk_4f1813f648d140cd892a0f18ac07c8c5",
+    "lchk_0c5ec1b888e3496a801febd087ddb64b",
+    "lchk_f9b0059407fa480588c49763ca813b43",
+    "lchk_20d9921cd787472b93b9e1fc62d6ac3d",
+    "lchk_0b5f3048fe934b8c8fc3e9b936a54917",
+    "lchk_dcd8cd6cfffa46a0b1e9565735b52296"
+  ],
+  "created": "2026-10-17T12:06:48.706Z"
+}

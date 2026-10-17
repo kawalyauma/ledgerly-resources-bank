@@ -1,0 +1,518 @@
+{
+  "units": [
+    {
+      "title": "OUR LEADERS IN THE DISTRICT",
+      "theme": "Living together in our district",
+      "weekFrom": 1,
+      "weekTo": 5
+    },
+    {
+      "title": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT",
+      "theme": "Living together in our district",
+      "weekFrom": 6,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_c2b05b6d1d9b4bdca6efef92eab7771a",
+      "seq": 1,
+      "week": 1,
+      "title": "Decentralisation",
+      "subtopic": "Decentralisation",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_a27d148fec354d1ab097b65462cf787a",
+      "seq": 2,
+      "week": 1,
+      "title": "Decentralisation — Part B",
+      "subtopic": "Decentralisation",
+      "kind": "practice",
+      "status": "writing",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_af23a03c1ecc4f6c8c2e4986cac41f11",
+      "seq": 3,
+      "week": 1,
+      "title": "By-laws",
+      "subtopic": "By-laws",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_316a62b4feef4603beeea35acc848505",
+      "seq": 4,
+      "week": 1,
+      "title": "By-laws — Part B",
+      "subtopic": "By-laws",
+      "kind": "practice",
+      "status": "writing",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_62e324bca60a4d92a7a694bb3138a9b1",
+      "seq": 5,
+      "week": 1,
+      "title": "District political and civic heads",
+      "subtopic": "District political and civic heads",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_4191d46431ae41b3a5c5e23ed7906f92",
+      "seq": 6,
+      "week": 2,
+      "title": "District political and civic heads — Part B",
+      "subtopic": "District political and civic heads",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_ebae88faee144f48a609250cfbdb83a5",
+      "seq": 7,
+      "week": 2,
+      "title": "Types of district leaders",
+      "subtopic": "Types of district leaders",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_f614bfb6a48c4e40ae818b7106195c53",
+      "seq": 8,
+      "week": 2,
+      "title": "Types of district leaders — Part B",
+      "subtopic": "Types of district leaders",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_11f9e9638ca7446a9596405d8ce61239",
+      "seq": 9,
+      "week": 2,
+      "title": "Members of the district council",
+      "subtopic": "Members of the district council",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_d31a61a6df1d444cb8b2d6d53bb86ec8",
+      "seq": 10,
+      "week": 2,
+      "title": "Members of the district council — Part B",
+      "subtopic": "Members of the district council",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_49c61db30d4b4e0fb80e5372815c2afb",
+      "seq": 11,
+      "week": 3,
+      "title": "Departments in the district",
+      "subtopic": "Departments in the district",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_d8a43f363bfd4e69bc02162ba0a7eaeb",
+      "seq": 12,
+      "week": 3,
+      "title": "Departments in the district — Part B",
+      "subtopic": "Departments in the district",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_1f8a92e3846b47c5ad18aef9b98596d2",
+      "seq": 13,
+      "week": 3,
+      "title": "Roles of district officials",
+      "subtopic": "Roles of district officials",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_e209f6618247435c8629884d2b485bda",
+      "seq": 14,
+      "week": 3,
+      "title": "Roles of district officials — Part B",
+      "subtopic": "Roles of district officials",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_e018802f174f4bbe9ce275932f84e022",
+      "seq": 15,
+      "week": 3,
+      "title": "Qualities of a good leader",
+      "subtopic": "Qualities of a good leader",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_e319625990824d2daa77e8df2f3298ef",
+      "seq": 16,
+      "week": 4,
+      "title": "Qualities of a good leader — Part B",
+      "subtopic": "Qualities of a good leader",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_4cd19953f9dd4c3fb427f15e5d3311e6",
+      "seq": 17,
+      "week": 4,
+      "title": "Ways of acquiring leadership",
+      "subtopic": "Ways of acquiring leadership",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_721f7d5adba040c19effd09791a618ca",
+      "seq": 18,
+      "week": 4,
+      "title": "Ways of acquiring leadership — Part B",
+      "subtopic": "Ways of acquiring leadership",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_248ba9afadc34150b5928ff9ca52a843",
+      "seq": 19,
+      "week": 4,
+      "title": "Rights of district residents",
+      "subtopic": "Rights of district residents",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_2eb9a0b8f8d2462f952c6c5e1f230957",
+      "seq": 20,
+      "week": 4,
+      "title": "Rights of district residents — Part B",
+      "subtopic": "Rights of district residents",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_99b759036f1d4367bb22a107dd1e1d41",
+      "seq": 21,
+      "week": 5,
+      "title": "Responsibilities of district residents",
+      "subtopic": "Responsibilities of district residents",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_c37a88405d224f95b1ba9d77c77d4ccf",
+      "seq": 22,
+      "week": 5,
+      "title": "Responsibilities of district residents — Part B",
+      "subtopic": "Responsibilities of district residents",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_5485662790874b70b5873378efd66cd3",
+      "seq": 23,
+      "week": 5,
+      "title": "Community leadership elections",
+      "subtopic": "Community leadership elections",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_a506ac98c3a947ee857f66f2ce3b2481",
+      "seq": 24,
+      "week": 5,
+      "title": "Community leadership elections — Part B",
+      "subtopic": "Community leadership elections",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_95c4ee21de8b494f80336d17ae393abe",
+      "seq": 25,
+      "week": 5,
+      "title": "District administrative structures",
+      "subtopic": "District administrative structures",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "OUR LEADERS IN THE DISTRICT"
+    },
+    {
+      "id": "lles_f7473e5aeca249a29b9120d43232284d",
+      "seq": 26,
+      "week": 6,
+      "title": "Basic needs and luxuries",
+      "subtopic": "Basic needs and luxuries",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_85d0f55e7eb24e209bd552b1c40a8f2d",
+      "seq": 27,
+      "week": 6,
+      "title": "Basic needs and luxuries — Part B",
+      "subtopic": "Basic needs and luxuries",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_75486637a1f34805a5f612a83d4d4eeb",
+      "seq": 28,
+      "week": 6,
+      "title": "Social services in our district",
+      "subtopic": "Social services in our district",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_1008a1552ac24872b570c66debf0d242",
+      "seq": 29,
+      "week": 6,
+      "title": "Social services in our district — Part B",
+      "subtopic": "Social services in our district",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_0c880aa4f417485288d096b30f2e1aa3",
+      "seq": 30,
+      "week": 6,
+      "title": "Social service centres",
+      "subtopic": "Social service centres",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_846b0da80d844d6b96692cb64883660f",
+      "seq": 31,
+      "week": 7,
+      "title": "Social service centres — Part B",
+      "subtopic": "Social service centres",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_5b291d08605c425a810189ca07a6a456",
+      "seq": 32,
+      "week": 7,
+      "title": "Service providers",
+      "subtopic": "Service providers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_23e31c254e6640c8aa1345ee55e578cb",
+      "seq": 33,
+      "week": 7,
+      "title": "Service providers — Part B",
+      "subtopic": "Service providers",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_e69b33ac00b248edbcc39db1d750cca3",
+      "seq": 34,
+      "week": 7,
+      "title": "Types of education",
+      "subtopic": "Types of education",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_41e2abcbd22e4e4eb72ada1b037a0a25",
+      "seq": 35,
+      "week": 7,
+      "title": "Types of education — Part B",
+      "subtopic": "Types of education",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_44483bb72751438e838fbb1d0c787682",
+      "seq": 36,
+      "week": 8,
+      "title": "Formal and informal education",
+      "subtopic": "Formal and informal education",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_70e365a37fbd47e890e0f3114a96e3f4",
+      "seq": 37,
+      "week": 8,
+      "title": "Formal and informal education — Part B",
+      "subtopic": "Formal and informal education",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_ac163601c6bf45bc933948438e1f2e06",
+      "seq": 38,
+      "week": 8,
+      "title": "Importance of education",
+      "subtopic": "Importance of education",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_c35517be08484f1c9effece8469ee61d",
+      "seq": 39,
+      "week": 8,
+      "title": "Importance of education — Part B",
+      "subtopic": "Importance of education",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_9eff8b2ecf8f4aebb9b863baa104ce88",
+      "seq": 40,
+      "week": 8,
+      "title": "Universal Primary Education",
+      "subtopic": "Universal Primary Education",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_0fc2975309b840a38110babd74b230b1",
+      "seq": 41,
+      "week": 9,
+      "title": "Universal Primary Education — Part B",
+      "subtopic": "Universal Primary Education",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_ec54ac3dfe1545d3be8a0d20dc90e76d",
+      "seq": 42,
+      "week": 9,
+      "title": "Problems facing UPE schools",
+      "subtopic": "Problems facing UPE schools",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_a279dd654f7e4442b306eceedf922cd1",
+      "seq": 43,
+      "week": 9,
+      "title": "Problems facing UPE schools — Part B",
+      "subtopic": "Problems facing UPE schools",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_cbf8964934064fad88904fca35dffacf",
+      "seq": 44,
+      "week": 9,
+      "title": "Problems in meeting people's needs",
+      "subtopic": "Problems in meeting people's needs",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_c81efc1b0b1d4f40b5165e13f698ccba",
+      "seq": 45,
+      "week": 9,
+      "title": "Problems in meeting people's needs — Part B",
+      "subtopic": "Problems in meeting people's needs",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_3d4c19834d204b83be7b4a90d738cdfd",
+      "seq": 46,
+      "week": 10,
+      "title": "Solutions to district service problems",
+      "subtopic": "Solutions to district service problems",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_ead0ef0c201044b18d62393b45aa1f9b",
+      "seq": 47,
+      "week": 10,
+      "title": "Solutions to district service problems — Part B",
+      "subtopic": "Solutions to district service problems",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_5cdfd4b558da4e7a9e920b5e81cc25bd",
+      "seq": 48,
+      "week": 10,
+      "title": "Caring for social service centres",
+      "subtopic": "Caring for social service centres",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_8d173defe5d24047ab16f9321cddfc85",
+      "seq": 49,
+      "week": 10,
+      "title": "End-of-term assessment: caring for social service centres",
+      "subtopic": "Caring for social service centres",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    },
+    {
+      "id": "lles_394424e90b2242b69be9d9114279c418",
+      "seq": 50,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "OUR LEADERS IN THE DISTRICT, HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+    }
+  ]
+}
