@@ -1,0 +1,12 @@
+{
+  "job": "ltsk_40bc9f82677849c2b5c493e6753d72b5-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "scheme": [
+      "Additional sourced questions are needed for some Part B lessons; the class teacher should select the exercises from the linked texts before delivery."
+    ]
+  },
+  "reviewerNotes": "Grounded in NCDC Topic 5 and Topic 6, plus school Term III sources. Source quotes checked. Part B lessons point to the same subtopic and teacher must select actual sourced exercises."
+}

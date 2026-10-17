@@ -1,0 +1,831 @@
+{
+  "title": "Primary Four Social Studies Scheme — Term 3, 2026",
+  "summary": "The NCDC Term III sequence covers district leadership (25 periods) and meeting people's needs in our district (24 sourced periods plus reserved end-of-term assessment). Teaching and Part B exercises follow source scheme topics.",
+  "units": [
+    {
+      "title": "OUR LEADERS IN THE DISTRICT",
+      "theme": "Living together in our district",
+      "weekFrom": 1,
+      "weekTo": 5,
+      "competences": "Explain district leadership, leaders' roles, local government, citizens' rights and responsibilities.",
+      "sources": [
+        {
+          "source": "lchk_6b855f7d5d9242e5bce8a9ec560765ed",
+          "quote": "TOPIC 5: OUR LEADERS IN THE DISTRICT"
+        },
+        {
+          "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+          "quote": "DISTRICT LEADERSHIP"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Decentralisation",
+          "subtopic": "Decentralisation",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain decentralisation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "decentralisation."
+            }
+          ]
+        },
+        {
+          "title": "Decentralisation — Part B",
+          "subtopic": "Decentralisation",
+          "week": 1,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining decentralisation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "decentralisation."
+            }
+          ]
+        },
+        {
+          "title": "By-laws",
+          "subtopic": "By-laws",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Define by-laws in district local government."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "By- laws:"
+            }
+          ]
+        },
+        {
+          "title": "By-laws — Part B",
+          "subtopic": "By-laws",
+          "week": 1,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining by-laws."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "By- laws:"
+            }
+          ]
+        },
+        {
+          "title": "District political and civic heads",
+          "subtopic": "District political and civic heads",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify district political and civic heads."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "political heads"
+            }
+          ]
+        },
+        {
+          "title": "District political and civic heads — Part B",
+          "subtopic": "District political and civic heads",
+          "week": 2,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining district political and civic heads."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "political heads"
+            }
+          ]
+        },
+        {
+          "title": "Types of district leaders",
+          "subtopic": "Types of district leaders",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Differentiate appointed and elected district leaders."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "TYPES OF LEADERS."
+            }
+          ]
+        },
+        {
+          "title": "Types of district leaders — Part B",
+          "subtopic": "Types of district leaders",
+          "week": 2,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining types of district leaders."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "TYPES OF LEADERS."
+            }
+          ]
+        },
+        {
+          "title": "Members of the district council",
+          "subtopic": "Members of the district council",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify members of the district local council."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "Members that make up the district local council"
+            }
+          ]
+        },
+        {
+          "title": "Members of the district council — Part B",
+          "subtopic": "Members of the district council",
+          "week": 2,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining members of the district council."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "Members that make up the district local council"
+            }
+          ]
+        },
+        {
+          "title": "Departments in the district",
+          "subtopic": "Departments in the district",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify important district departments."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "Different departments and their roles."
+            }
+          ]
+        },
+        {
+          "title": "Departments in the district — Part B",
+          "subtopic": "Departments in the district",
+          "week": 3,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining departments in the district."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "Different departments and their roles."
+            }
+          ]
+        },
+        {
+          "title": "Roles of district officials",
+          "subtopic": "Roles of district officials",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain roles of district officials."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "District chairperson"
+            }
+          ]
+        },
+        {
+          "title": "Roles of district officials — Part B",
+          "subtopic": "Roles of district officials",
+          "week": 3,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining roles of district officials."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "District chairperson"
+            }
+          ]
+        },
+        {
+          "title": "Qualities of a good leader",
+          "subtopic": "Qualities of a good leader",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State qualities of a good leader."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "Qualities of a good leader."
+            }
+          ]
+        },
+        {
+          "title": "Qualities of a good leader — Part B",
+          "subtopic": "Qualities of a good leader",
+          "week": 4,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining qualities of a good leader."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "Qualities of a good leader."
+            }
+          ]
+        },
+        {
+          "title": "Ways of acquiring leadership",
+          "subtopic": "Ways of acquiring leadership",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify ways of acquiring leadership."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "How people acquire leadership"
+            }
+          ]
+        },
+        {
+          "title": "Ways of acquiring leadership — Part B",
+          "subtopic": "Ways of acquiring leadership",
+          "week": 4,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining ways of acquiring leadership."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "How people acquire leadership"
+            }
+          ]
+        },
+        {
+          "title": "Rights of district residents",
+          "subtopic": "Rights of district residents",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State people's rights in a district."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "People’s rights in a district"
+            }
+          ]
+        },
+        {
+          "title": "Rights of district residents — Part B",
+          "subtopic": "Rights of district residents",
+          "week": 4,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining rights of district residents."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "People’s rights in a district"
+            }
+          ]
+        },
+        {
+          "title": "Responsibilities of district residents",
+          "subtopic": "Responsibilities of district residents",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain responsibilities in a district."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "Responsibilities of people in our district"
+            }
+          ]
+        },
+        {
+          "title": "Responsibilities of district residents — Part B",
+          "subtopic": "Responsibilities of district residents",
+          "week": 5,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining responsibilities of district residents."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "Responsibilities of people in our district"
+            }
+          ]
+        },
+        {
+          "title": "Community leadership elections",
+          "subtopic": "Community leadership elections",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe how elections are used to choose leaders."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "Role playing election"
+            }
+          ]
+        },
+        {
+          "title": "Community leadership elections — Part B",
+          "subtopic": "Community leadership elections",
+          "week": 5,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining community leadership elections."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "Role playing election"
+            }
+          ]
+        },
+        {
+          "title": "District administrative structures",
+          "subtopic": "District administrative structures",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify political and civic administrative structures."
+          ],
+          "sources": [
+            {
+              "source": "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+              "quote": "political and civic administrative"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT",
+      "theme": "Living together in our district",
+      "weekFrom": 6,
+      "weekTo": 10,
+      "competences": "Explain social services, service providers and centres, education, service-delivery problems and ways to care for public facilities.",
+      "sources": [
+        {
+          "source": "lchk_6b855f7d5d9242e5bce8a9ec560765ed",
+          "quote": "TOPIC 6: HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
+        },
+        {
+          "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+          "quote": "Social services in our district"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Basic needs and luxuries",
+          "subtopic": "Basic needs and luxuries",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Distinguish basic needs from luxuries."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "Differentiating basic needs from luxuries"
+            }
+          ]
+        },
+        {
+          "title": "Basic needs and luxuries — Part B",
+          "subtopic": "Basic needs and luxuries",
+          "week": 6,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining basic needs and luxuries."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "Differentiating basic needs from luxuries"
+            }
+          ]
+        },
+        {
+          "title": "Social services in our district",
+          "subtopic": "Social services in our district",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain social services and name examples."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "Social services in our district"
+            }
+          ]
+        },
+        {
+          "title": "Social services in our district — Part B",
+          "subtopic": "Social services in our district",
+          "week": 6,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining social services in our district."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "Social services in our district"
+            }
+          ]
+        },
+        {
+          "title": "Social service centres",
+          "subtopic": "Social service centres",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain the meaning of social service centres."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "Social service centres in our district"
+            }
+          ]
+        },
+        {
+          "title": "Social service centres — Part B",
+          "subtopic": "Social service centres",
+          "week": 7,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining social service centres."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "Social service centres in our district"
+            }
+          ]
+        },
+        {
+          "title": "Service providers",
+          "subtopic": "Service providers",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify service providers at social service centres."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "Service providers at different social service centres"
+            }
+          ]
+        },
+        {
+          "title": "Service providers — Part B",
+          "subtopic": "Service providers",
+          "week": 7,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining service providers."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "Service providers at different social service centres"
+            }
+          ]
+        },
+        {
+          "title": "Types of education",
+          "subtopic": "Types of education",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe types of education."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "Types of education"
+            }
+          ]
+        },
+        {
+          "title": "Types of education — Part B",
+          "subtopic": "Types of education",
+          "week": 7,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining types of education."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "Types of education"
+            }
+          ]
+        },
+        {
+          "title": "Formal and informal education",
+          "subtopic": "Formal and informal education",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Distinguish formal and informal education."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "informal and formal education"
+            }
+          ]
+        },
+        {
+          "title": "Formal and informal education — Part B",
+          "subtopic": "Formal and informal education",
+          "week": 8,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining formal and informal education."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "informal and formal education"
+            }
+          ]
+        },
+        {
+          "title": "Importance of education",
+          "subtopic": "Importance of education",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State the importance of education."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "Importance of education"
+            }
+          ]
+        },
+        {
+          "title": "Importance of education — Part B",
+          "subtopic": "Importance of education",
+          "week": 8,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining importance of education."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "Importance of education"
+            }
+          ]
+        },
+        {
+          "title": "Universal Primary Education",
+          "subtopic": "Universal Primary Education",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify reasons UPE was introduced."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "reasons for introduction of UPE"
+            }
+          ]
+        },
+        {
+          "title": "Universal Primary Education — Part B",
+          "subtopic": "Universal Primary Education",
+          "week": 9,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining universal primary education."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "reasons for introduction of UPE"
+            }
+          ]
+        },
+        {
+          "title": "Problems facing UPE schools",
+          "subtopic": "Problems facing UPE schools",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify problems experienced by UPE schools."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "Problems facing schools under UPE"
+            }
+          ]
+        },
+        {
+          "title": "Problems facing UPE schools — Part B",
+          "subtopic": "Problems facing UPE schools",
+          "week": 9,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining problems facing upe schools."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc0c8851ffe548008fa7de367dfd1f6e",
+              "quote": "Problems facing schools under UPE"
+            }
+          ]
+        },
+        {
+          "title": "Problems in meeting people's needs",
+          "subtopic": "Problems in meeting people's needs",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify problems that affect social service provision."
+          ],
+          "sources": [
+            {
+              "source": "lchk_cae8896aa27442ec9b249b954c9d6574",
+              "quote": "Problems in meeting"
+            }
+          ]
+        },
+        {
+          "title": "Problems in meeting people's needs — Part B",
+          "subtopic": "Problems in meeting people's needs",
+          "week": 9,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining problems in meeting people's needs."
+          ],
+          "sources": [
+            {
+              "source": "lchk_cae8896aa27442ec9b249b954c9d6574",
+              "quote": "Problems in meeting"
+            }
+          ]
+        },
+        {
+          "title": "Solutions to district service problems",
+          "subtopic": "Solutions to district service problems",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State solutions for problems in social services."
+          ],
+          "sources": [
+            {
+              "source": "lchk_cae8896aa27442ec9b249b954c9d6574",
+              "quote": "Providing medical services"
+            }
+          ]
+        },
+        {
+          "title": "Solutions to district service problems — Part B",
+          "subtopic": "Solutions to district service problems",
+          "week": 10,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise identifying and explaining solutions to district service problems."
+          ],
+          "sources": [
+            {
+              "source": "lchk_cae8896aa27442ec9b249b954c9d6574",
+              "quote": "Providing medical services"
+            }
+          ]
+        },
+        {
+          "title": "Caring for social service centres",
+          "subtopic": "Caring for social service centres",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe ways to care for social service centres."
+          ],
+          "sources": [
+            {
+              "source": "lchk_cae8896aa27442ec9b249b954c9d6574",
+              "quote": "Caring for social"
+            }
+          ]
+        },
+        {
+          "title": "End-of-term assessment: caring for social service centres",
+          "subtopic": "Caring for social service centres",
+          "week": 10,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Assess knowledge of caring for social service centres."
+          ],
+          "sources": [
+            {
+              "source": "lchk_cae8896aa27442ec9b249b954c9d6574",
+              "quote": "Suggested competences for assessment"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "Additional sourced questions are needed for some Part B lessons; the class teacher should select the exercises from the linked texts before delivery."
+  ]
+}
