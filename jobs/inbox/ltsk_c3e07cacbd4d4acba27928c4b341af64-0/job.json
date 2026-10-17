@@ -1,0 +1,80 @@
+{
+  "job": "ltsk_c3e07cacbd4d4acba27928c4b341af64-0",
+  "task": "ltsk_c3e07cacbd4d4acba27928c4b341af64",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 87,
+  "school": "sch-7207f9",
+  "class": "P4",
+  "classLevel": 4,
+  "subject": "Science",
+  "term": "2026-T3",
+  "week": 7,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [
+    {
+      "id": "lles_82971049150a4ad09bb223c7c4958377",
+      "kind": "teach",
+      "week": 7,
+      "title": "First aid kit",
+      "periods": 1,
+      "subtopic": "First aid kit"
+    },
+    {
+      "id": "lles_6f5e541356f3477090f23bcaba0ccf44",
+      "kind": "teach",
+      "week": 7,
+      "title": "Fractures",
+      "periods": 1,
+      "subtopic": "Fractures"
+    },
+    {
+      "id": "lles_b414de7a880949969e97b837ebe48aa9",
+      "kind": "teach",
+      "week": 7,
+      "title": "Burns and scalds",
+      "periods": 1,
+      "subtopic": "Burns and scalds"
+    },
+    {
+      "id": "lles_7ecba26718f04969a91e29f96a45de22",
+      "kind": "teach",
+      "week": 7,
+      "title": "Sprains and strains",
+      "periods": 1,
+      "subtopic": "Sprains and strains"
+    },
+    {
+      "id": "lles_df05910d31524d1db82310a26cf62838",
+      "kind": "teach",
+      "week": 7,
+      "title": "Dislocations",
+      "periods": 1,
+      "subtopic": "Dislocations"
+    },
+    {
+      "id": "lles_9ed2757706a94e4b9a0d2a1e227f95c5",
+      "kind": "teach",
+      "week": 7,
+      "title": "First aid for snake bites",
+      "periods": 1,
+      "subtopic": "First aid for snake bites"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P4/science",
+  "passages": [
+    "lchk_96bb9c91444b4473888ca3f00d68a890",
+    "lchk_3e640d10b65a43af89a019881ffafee4",
+    "lchk_9fb001fb6fb14b58aac1e43b3109ccaf",
+    "lchk_73b688b0899f450286c151bf40e4f659",
+    "lchk_5dafbe1c7a86470881adbcdfdb1b75b2",
+    "lchk_b89739df4ad84b5ea443dbc9f20aa41f",
+    "lchk_da38c3138978427ab82947cbd83d7882",
+    "lchk_72580cdbd253401da5c354457261d4c4"
+  ],
+  "created": "2026-10-17T19:05:48.121Z"
+}

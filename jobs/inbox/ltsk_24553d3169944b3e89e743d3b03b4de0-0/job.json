@@ -1,0 +1,80 @@
+{
+  "job": "ltsk_24553d3169944b3e89e743d3b03b4de0-0",
+  "task": "ltsk_24553d3169944b3e89e743d3b03b4de0",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 93,
+  "school": "sch-7207f9",
+  "class": "P4",
+  "classLevel": 4,
+  "subject": "Science",
+  "term": "2026-T3",
+  "week": 8,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [
+    {
+      "id": "lles_ac9e0d13e31b46469b9f239e350f3acd",
+      "kind": "teach",
+      "week": 8,
+      "title": "Poisoning",
+      "periods": 1,
+      "subtopic": "Poisoning"
+    },
+    {
+      "id": "lles_8ce777f1ea844d369dca7586cdfec070",
+      "kind": "teach",
+      "week": 8,
+      "title": "Preventing poisoning",
+      "periods": 1,
+      "subtopic": "Preventing poisoning"
+    },
+    {
+      "id": "lles_7cc6958d75874c0b8fc9ea05a8f99276",
+      "kind": "teach",
+      "week": 8,
+      "title": "Meaning of rabbit keeping",
+      "periods": 1,
+      "subtopic": "Meaning of rabbit keeping"
+    },
+    {
+      "id": "lles_7aff4347189a4b6b8c256ced9028c707",
+      "kind": "teach",
+      "week": 8,
+      "title": "External parts of a rabbit",
+      "periods": 1,
+      "subtopic": "External parts of a rabbit"
+    },
+    {
+      "id": "lles_b36f2195c83c481aa3402bc56a39279f",
+      "kind": "teach",
+      "week": 8,
+      "title": "Rabbit products",
+      "periods": 1,
+      "subtopic": "Rabbit products"
+    },
+    {
+      "id": "lles_cf5fccfd7da041a4a1ef49e8204e082c",
+      "kind": "teach",
+      "week": 8,
+      "title": "Local breeds of rabbits",
+      "periods": 1,
+      "subtopic": "Local breeds of rabbits"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P4/science",
+  "passages": [
+    "lchk_3e640d10b65a43af89a019881ffafee4",
+    "lchk_98670b27a5454f21a36a23dd71e9ad3e",
+    "lchk_5dafbe1c7a86470881adbcdfdb1b75b2",
+    "lchk_73b688b0899f450286c151bf40e4f659",
+    "lchk_2b4fb78b47bb4beab4c6e31bc4cb4036",
+    "lchk_d13b27bd6a7f4f85a1625d3fd208f53f",
+    "lchk_72580cdbd253401da5c354457261d4c4",
+    "lchk_452e3a0642be4f88be951edf12f20652"
+  ],
+  "created": "2026-10-17T19:05:53.119Z"
+}

@@ -1,0 +1,80 @@
+{
+  "job": "ltsk_b8b89e33ab0c4ea8a985b1945d716d92-0",
+  "task": "ltsk_b8b89e33ab0c4ea8a985b1945d716d92",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 69,
+  "school": "sch-7207f9",
+  "class": "P4",
+  "classLevel": 4,
+  "subject": "Science",
+  "term": "2026-T3",
+  "week": 4,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [
+    {
+      "id": "lles_c1454abea9e64aa9bb3fc0f879c8f187",
+      "kind": "teach",
+      "week": 4,
+      "title": "Houseflies",
+      "periods": 1,
+      "subtopic": "Houseflies"
+    },
+    {
+      "id": "lles_ef124607e8df4dc592af7c38bb2adb1b",
+      "kind": "teach",
+      "week": 4,
+      "title": "Life cycle of houseflies",
+      "periods": 1,
+      "subtopic": "Life cycle of houseflies"
+    },
+    {
+      "id": "lles_76e1c7846298466dbfa170690f15f60d",
+      "kind": "teach",
+      "week": 4,
+      "title": "Mosquitoes and habitats",
+      "periods": 1,
+      "subtopic": "Mosquitoes and habitats"
+    },
+    {
+      "id": "lles_fc8cb00db7f14536a02d22c50a90c65e",
+      "kind": "teach",
+      "week": 4,
+      "title": "Life cycle of mosquitoes",
+      "periods": 1,
+      "subtopic": "Life cycle of mosquitoes"
+    },
+    {
+      "id": "lles_149dea280b3c46cab03d4d020ec5f645",
+      "kind": "teach",
+      "week": 4,
+      "title": "How malaria spreads",
+      "periods": 1,
+      "subtopic": "How malaria spreads"
+    },
+    {
+      "id": "lles_9965e9569cb84cf0979aa30ea99439df",
+      "kind": "teach",
+      "week": 4,
+      "title": "Tsetse flies",
+      "periods": 1,
+      "subtopic": "Tsetse flies"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P4/science",
+  "passages": [
+    "lchk_687fb75c4339419d940590d699cef987",
+    "lchk_98670b27a5454f21a36a23dd71e9ad3e",
+    "lchk_e08ff84b884a43039cba425cfdde1b98",
+    "lchk_5dafbe1c7a86470881adbcdfdb1b75b2",
+    "lchk_73b688b0899f450286c151bf40e4f659",
+    "lchk_22cf1c2956054d78ae9b018de886000b",
+    "lchk_72580cdbd253401da5c354457261d4c4",
+    "lchk_1b88b6d5144441fabe043b13479541af"
+  ],
+  "created": "2026-10-17T19:05:33.155Z"
+}

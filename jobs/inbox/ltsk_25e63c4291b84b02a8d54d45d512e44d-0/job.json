@@ -1,0 +1,81 @@
+{
+  "job": "ltsk_25e63c4291b84b02a8d54d45d512e44d-0",
+  "task": "ltsk_25e63c4291b84b02a8d54d45d512e44d",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 99,
+  "school": "sch-7207f9",
+  "class": "P4",
+  "classLevel": 4,
+  "subject": "Science",
+  "term": "2026-T3",
+  "week": 10,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [
+    {
+      "id": "lles_e728a4656de1487e8056f0c9b3fc8423",
+      "kind": "teach",
+      "week": 10,
+      "title": "Keeping rabbits healthy",
+      "periods": 1,
+      "subtopic": "Keeping rabbits healthy"
+    },
+    {
+      "id": "lles_4441b3af29954e7ca1c304659f55f988",
+      "kind": "teach",
+      "week": 10,
+      "title": "Diseases of rabbits",
+      "periods": 1,
+      "subtopic": "Diseases of rabbits"
+    },
+    {
+      "id": "lles_909d4540f9ef4ff3a6a5a30170c6a6c4",
+      "kind": "teach",
+      "week": 10,
+      "title": "Rabbit parasites",
+      "periods": 1,
+      "subtopic": "Rabbit parasites"
+    },
+    {
+      "id": "lles_58d00ecfb02c441ba4052b6be4a56bbb",
+      "kind": "teach",
+      "week": 10,
+      "title": "Rabbit farm records and requirements",
+      "periods": 1,
+      "subtopic": "Rabbit farm records and requirements"
+    },
+    {
+      "id": "lles_043529a1b10649719c4cd661253fd64a",
+      "kind": "practice",
+      "week": 10,
+      "title": "End-of-term assessment",
+      "periods": 1,
+      "subtopic": "End-of-term assessment"
+    },
+    {
+      "id": "lles_ff65882172e7490997330038be6c17ad",
+      "kind": "assessment",
+      "week": 10,
+      "title": "End of term assessment",
+      "periods": 1,
+      "subtopic": "Communicable Intestinal Diseases and Worm Infestation, Disease Vectors, Accidents and First Aid, Rabbit Keeping"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P4/science",
+  "passages": [
+    "lchk_dc2c047d903447cab4c39d91ced92868",
+    "lchk_b27e946bc5fb41328c393e4048eabc7c",
+    "lchk_687fb75c4339419d940590d699cef987",
+    "lchk_e08ff84b884a43039cba425cfdde1b98",
+    "lchk_96bb9c91444b4473888ca3f00d68a890",
+    "lchk_3e640d10b65a43af89a019881ffafee4",
+    "lchk_4de44e5115ce4459905a5f4fb53d384d",
+    "lchk_452e3a0642be4f88be951edf12f20652",
+    "lchk_5dafbe1c7a86470881adbcdfdb1b75b2"
+  ],
+  "created": "2026-10-17T19:06:03.186Z"
+}
