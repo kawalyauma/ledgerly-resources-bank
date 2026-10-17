@@ -1,0 +1,13 @@
+{
+  "job": "ltsk_79e306acf8ed4a14908e3bd41a95bfc5-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "scheme": [
+      "NCDC assigns 40 periods to independence and 15 to responsible living, but this job allows only 49; this is a condensed 34/15-period outline.",
+      "No new exercises or assessment questions are invented; obtain verified source exercises for the final assessment."
+    ]
+  },
+  "reviewerNotes": "Source-anchored syllabus outline; full school scheme and NCDC period allocations must be reconciled by the DOS."
+}

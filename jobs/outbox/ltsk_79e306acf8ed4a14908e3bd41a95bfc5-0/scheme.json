@@ -1,0 +1,832 @@
+{
+  "title": "P6 Social Studies Scheme — Term 3, 2026",
+  "summary": "34 periods on the Road to Independence in East Africa and 15 periods on Responsible Living in the East African Environment, from the NCDC Term III syllabus.",
+  "units": [
+    {
+      "title": "The Road to Independence in East Africa",
+      "theme": "Living Together in East Africa",
+      "weekFrom": 1,
+      "weekTo": 7,
+      "competences": "Describe foreigners' contributions, struggles for independence and the democratic rights and processes of East African countries.",
+      "sources": [
+        {
+          "source": "lchk_a5d4a64df20448d5a0afea36588ef152",
+          "quote": "Topic 4: The Road to Independence"
+        },
+        {
+          "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+          "quote": "Struggle for"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Foreigners in East Africa",
+          "subtopic": "Foreigners in East Africa",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain foreigners in east africa."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "foreigners who"
+            }
+          ]
+        },
+        {
+          "title": "Explorers of East Africa",
+          "subtopic": "Explorers of East Africa",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain explorers of east africa."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "Explorers:"
+            }
+          ]
+        },
+        {
+          "title": "Missions of explorers",
+          "subtopic": "Missions of explorers",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain missions of explorers."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "purpose of their"
+            }
+          ]
+        },
+        {
+          "title": "Achievements of explorers",
+          "subtopic": "Achievements of explorers",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain achievements of explorers."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "Achievements"
+            }
+          ]
+        },
+        {
+          "title": "Challenges faced by explorers",
+          "subtopic": "Challenges faced by explorers",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain challenges faced by explorers."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "challenges"
+            }
+          ]
+        },
+        {
+          "title": "Colonial settlements",
+          "subtopic": "Colonial settlements",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain colonial settlements."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "settlements"
+            }
+          ]
+        },
+        {
+          "title": "Colonial administration",
+          "subtopic": "Colonial administration",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain colonial administration."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "administration"
+            }
+          ]
+        },
+        {
+          "title": "Direct and indirect rule",
+          "subtopic": "Direct and indirect rule",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain direct and indirect rule."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "direct rule"
+            }
+          ]
+        },
+        {
+          "title": "Contributions of missionaries",
+          "subtopic": "Contributions of missionaries",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain contributions of missionaries."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "missionaries"
+            }
+          ]
+        },
+        {
+          "title": "Positive colonial contributions",
+          "subtopic": "Positive colonial contributions",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain positive colonial contributions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "positive"
+            }
+          ]
+        },
+        {
+          "title": "Negative effects of colonialism",
+          "subtopic": "Negative effects of colonialism",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain negative effects of colonialism."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "negative"
+            }
+          ]
+        },
+        {
+          "title": "Foreign cultural influences",
+          "subtopic": "Foreign cultural influences",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain foreign cultural influences."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "culture"
+            }
+          ]
+        },
+        {
+          "title": "Journeys of foreigners",
+          "subtopic": "Journeys of foreigners",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain journeys of foreigners."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "journeys of"
+            }
+          ]
+        },
+        {
+          "title": "Struggle for independence",
+          "subtopic": "Struggle for independence",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain struggle for independence."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "Struggle for"
+            }
+          ]
+        },
+        {
+          "title": "Independence in Kenya",
+          "subtopic": "Independence in Kenya",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain independence in kenya."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "Struggle for"
+            }
+          ]
+        },
+        {
+          "title": "Independence in Tanganyika",
+          "subtopic": "Independence in Tanganyika",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain independence in tanganyika."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "Tanganyika"
+            }
+          ]
+        },
+        {
+          "title": "Independence in Uganda",
+          "subtopic": "Independence in Uganda",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain independence in uganda."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "Uganda"
+            }
+          ]
+        },
+        {
+          "title": "Independence in Burundi",
+          "subtopic": "Independence in Burundi",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain independence in burundi."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "Burundi"
+            }
+          ]
+        },
+        {
+          "title": "Independence in Rwanda",
+          "subtopic": "Independence in Rwanda",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain independence in rwanda."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "Rwanda"
+            }
+          ]
+        },
+        {
+          "title": "Independence leaders",
+          "subtopic": "Independence leaders",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain independence leaders."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "Leaders of the"
+            }
+          ]
+        },
+        {
+          "title": "Ways independence was gained",
+          "subtopic": "Ways independence was gained",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain ways independence was gained."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "means used"
+            }
+          ]
+        },
+        {
+          "title": "Post-independence challenges",
+          "subtopic": "Post-independence challenges",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain post-independence challenges."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "Challenges"
+            }
+          ]
+        },
+        {
+          "title": "Achievements after independence",
+          "subtopic": "Achievements after independence",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain achievements after independence."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "achievements"
+            }
+          ]
+        },
+        {
+          "title": "Political parties",
+          "subtopic": "Political parties",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain political parties."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "political parties"
+            }
+          ]
+        },
+        {
+          "title": "Formation of republics",
+          "subtopic": "Formation of republics",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain formation of republics."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a2fadfa5c4cb4640b6f2bdb31b81a318",
+              "quote": "Formation"
+            }
+          ]
+        },
+        {
+          "title": "Meaning of democracy",
+          "subtopic": "Meaning of democracy",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain meaning of democracy."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bb8482c04cc84a12b42a91b78915fe22",
+              "quote": "Definition of"
+            }
+          ]
+        },
+        {
+          "title": "Democratic processes",
+          "subtopic": "Democratic processes",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain democratic processes."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bb8482c04cc84a12b42a91b78915fe22",
+              "quote": "Democratic"
+            }
+          ]
+        },
+        {
+          "title": "Citizenship",
+          "subtopic": "Citizenship",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain citizenship."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bb8482c04cc84a12b42a91b78915fe22",
+              "quote": "citizenship"
+            }
+          ]
+        },
+        {
+          "title": "Citizens' rights",
+          "subtopic": "Citizens' rights",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain citizens' rights."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bb8482c04cc84a12b42a91b78915fe22",
+              "quote": "Basic rights"
+            }
+          ]
+        },
+        {
+          "title": "The Electoral Commission",
+          "subtopic": "The Electoral Commission",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain the electoral commission."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bb8482c04cc84a12b42a91b78915fe22",
+              "quote": "Electoral"
+            }
+          ]
+        },
+        {
+          "title": "Campaigns and candidates",
+          "subtopic": "Campaigns and candidates",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain campaigns and candidates."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bb8482c04cc84a12b42a91b78915fe22",
+              "quote": "candidate"
+            }
+          ]
+        },
+        {
+          "title": "Ballot papers and voting",
+          "subtopic": "Ballot papers and voting",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain ballot papers and voting."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bb8482c04cc84a12b42a91b78915fe22",
+              "quote": "ballot papers"
+            }
+          ]
+        },
+        {
+          "title": "Electoral challenges",
+          "subtopic": "Electoral challenges",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain electoral challenges."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bb8482c04cc84a12b42a91b78915fe22",
+              "quote": "Challenges of"
+            }
+          ]
+        },
+        {
+          "title": "Political stability",
+          "subtopic": "Political stability",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain political stability."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bb8482c04cc84a12b42a91b78915fe22",
+              "quote": "political stability"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Responsible Living in the East African Environment",
+      "theme": "Living Together in East Africa",
+      "weekFrom": 7,
+      "weekTo": 10,
+      "competences": "Identify responsible environmental management, conservation, climate-change concerns and practical solutions.",
+      "sources": [
+        {
+          "source": "lchk_bb8482c04cc84a12b42a91b78915fe22",
+          "quote": "Topic 5: Responsible Living in the East"
+        },
+        {
+          "source": "lchk_580306678cb14fafb4a44dfc1c739574",
+          "quote": "Sustainable use of"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Responsible environmental living",
+          "subtopic": "Responsible environmental living",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain responsible environmental living."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bb8482c04cc84a12b42a91b78915fe22",
+              "quote": "Responsible Living"
+            }
+          ]
+        },
+        {
+          "title": "Uses of the environment",
+          "subtopic": "Uses of the environment",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain uses of the environment."
+          ],
+          "sources": [
+            {
+              "source": "lchk_580306678cb14fafb4a44dfc1c739574",
+              "quote": "uses of the"
+            }
+          ]
+        },
+        {
+          "title": "Environmental conservation",
+          "subtopic": "Environmental conservation",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain environmental conservation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_580306678cb14fafb4a44dfc1c739574",
+              "quote": "conservation"
+            }
+          ]
+        },
+        {
+          "title": "Good and bad environmental practices",
+          "subtopic": "Good and bad environmental practices",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain good and bad environmental practices."
+          ],
+          "sources": [
+            {
+              "source": "lchk_580306678cb14fafb4a44dfc1c739574",
+              "quote": "positive"
+            }
+          ]
+        },
+        {
+          "title": "Sustainable use",
+          "subtopic": "Sustainable use",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain sustainable use."
+          ],
+          "sources": [
+            {
+              "source": "lchk_580306678cb14fafb4a44dfc1c739574",
+              "quote": "Sustainable use of"
+            }
+          ]
+        },
+        {
+          "title": "Afforestation",
+          "subtopic": "Afforestation",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain afforestation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_580306678cb14fafb4a44dfc1c739574",
+              "quote": "afforestation"
+            }
+          ]
+        },
+        {
+          "title": "Good farming methods",
+          "subtopic": "Good farming methods",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain good farming methods."
+          ],
+          "sources": [
+            {
+              "source": "lchk_580306678cb14fafb4a44dfc1c739574",
+              "quote": "proper methods"
+            }
+          ]
+        },
+        {
+          "title": "Alternative energy",
+          "subtopic": "Alternative energy",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain alternative energy."
+          ],
+          "sources": [
+            {
+              "source": "lchk_580306678cb14fafb4a44dfc1c739574",
+              "quote": "alternative"
+            }
+          ]
+        },
+        {
+          "title": "Waste disposal",
+          "subtopic": "Waste disposal",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain waste disposal."
+          ],
+          "sources": [
+            {
+              "source": "lchk_580306678cb14fafb4a44dfc1c739574",
+              "quote": "proper disposals"
+            }
+          ]
+        },
+        {
+          "title": "Recycling",
+          "subtopic": "Recycling",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain recycling."
+          ],
+          "sources": [
+            {
+              "source": "lchk_580306678cb14fafb4a44dfc1c739574",
+              "quote": "recycling"
+            }
+          ]
+        },
+        {
+          "title": "Environmental Management Authority",
+          "subtopic": "Environmental Management Authority",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain environmental management authority."
+          ],
+          "sources": [
+            {
+              "source": "lchk_580306678cb14fafb4a44dfc1c739574",
+              "quote": "Management"
+            }
+          ]
+        },
+        {
+          "title": "Climate change",
+          "subtopic": "Climate change",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain climate change."
+          ],
+          "sources": [
+            {
+              "source": "lchk_580306678cb14fafb4a44dfc1c739574",
+              "quote": "Climate change"
+            }
+          ]
+        },
+        {
+          "title": "Effects of environmental damage",
+          "subtopic": "Effects of environmental damage",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain effects of environmental damage."
+          ],
+          "sources": [
+            {
+              "source": "lchk_580306678cb14fafb4a44dfc1c739574",
+              "quote": "Consequences"
+            }
+          ]
+        },
+        {
+          "title": "Floods and desertification",
+          "subtopic": "Floods and desertification",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain floods and desertification."
+          ],
+          "sources": [
+            {
+              "source": "lchk_580306678cb14fafb4a44dfc1c739574",
+              "quote": "desertification"
+            }
+          ]
+        },
+        {
+          "title": "Possible solutions to environmental problems",
+          "subtopic": "Possible solutions to environmental problems",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and explain possible solutions to environmental problems."
+          ],
+          "sources": [
+            {
+              "source": "lchk_580306678cb14fafb4a44dfc1c739574",
+              "quote": "Solutions to"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "NCDC assigns 40 periods to independence and 15 to responsible living, but this job allows only 49; this is a condensed 34/15-period outline.",
+    "No new exercises or assessment questions are invented; obtain verified source exercises for the final assessment."
+  ]
+}
