@@ -1,0 +1,630 @@
+{
+  "units": [
+    {
+      "title": "Communicable Intestinal Diseases and Worm Infestation",
+      "theme": "Human Health",
+      "weekFrom": 1,
+      "weekTo": 3
+    },
+    {
+      "title": "Disease Vectors",
+      "theme": "Human Health",
+      "weekFrom": 3,
+      "weekTo": 5
+    },
+    {
+      "title": "Accidents and First Aid",
+      "theme": "Human Health",
+      "weekFrom": 6,
+      "weekTo": 8
+    },
+    {
+      "title": "Rabbit Keeping",
+      "theme": "The World of Living Things",
+      "weekFrom": 8,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_2fbe135772eb41edb484e54fe82bd5af",
+      "seq": 1,
+      "week": 1,
+      "title": "Communicable diseases",
+      "subtopic": "Communicable diseases",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Communicable Intestinal Diseases and Worm Infestation"
+    },
+    {
+      "id": "lles_1ba0378ca4b045e995bfee5cc430e793",
+      "seq": 2,
+      "week": 1,
+      "title": "Causes of diarrhoea",
+      "subtopic": "Causes of diarrhoea",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Communicable Intestinal Diseases and Worm Infestation"
+    },
+    {
+      "id": "lles_722bdc0b0e6d433d8a9c28de1b7c017c",
+      "seq": 3,
+      "week": 1,
+      "title": "The four Fs of disease spread",
+      "subtopic": "The four Fs of disease spread",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Communicable Intestinal Diseases and Worm Infestation"
+    },
+    {
+      "id": "lles_81a7eb0ae59d41539c90ff325d934a74",
+      "seq": 4,
+      "week": 1,
+      "title": "Dysentery and its causes",
+      "subtopic": "Dysentery and its causes",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Communicable Intestinal Diseases and Worm Infestation"
+    },
+    {
+      "id": "lles_3bfafa3403ad479f944d9bfe62960d32",
+      "seq": 5,
+      "week": 1,
+      "title": "Cholera and its spread",
+      "subtopic": "Cholera and its spread",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Communicable Intestinal Diseases and Worm Infestation"
+    },
+    {
+      "id": "lles_667a55b4691d4ef2935a5d41af88c47a",
+      "seq": 6,
+      "week": 1,
+      "title": "Typhoid and its prevention",
+      "subtopic": "Typhoid and its prevention",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Communicable Intestinal Diseases and Worm Infestation"
+    },
+    {
+      "id": "lles_fd1c8d85ef044232ae8add26207f1432",
+      "seq": 7,
+      "week": 2,
+      "title": "Dehydration",
+      "subtopic": "Dehydration",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Communicable Intestinal Diseases and Worm Infestation"
+    },
+    {
+      "id": "lles_749f9e8b8f6d4bbebadc864a59a1cf53",
+      "seq": 8,
+      "week": 2,
+      "title": "Oral rehydration solution",
+      "subtopic": "Oral rehydration solution",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Communicable Intestinal Diseases and Worm Infestation"
+    },
+    {
+      "id": "lles_5147b3679ea24a95a7ca5c797e8e36c8",
+      "seq": 9,
+      "week": 2,
+      "title": "Intestinal worm infestation",
+      "subtopic": "Intestinal worm infestation",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Communicable Intestinal Diseases and Worm Infestation"
+    },
+    {
+      "id": "lles_d031f7e874c542e1a3fffff29c4cce3c",
+      "seq": 10,
+      "week": 2,
+      "title": "Tapeworms",
+      "subtopic": "Tapeworms",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Communicable Intestinal Diseases and Worm Infestation"
+    },
+    {
+      "id": "lles_261eec1b640647b39dcf8bdf4d894e31",
+      "seq": 11,
+      "week": 2,
+      "title": "Hookworms",
+      "subtopic": "Hookworms",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Communicable Intestinal Diseases and Worm Infestation"
+    },
+    {
+      "id": "lles_02d2aa79bd9f407590fa7e4da1a8f715",
+      "seq": 12,
+      "week": 2,
+      "title": "Threadworms",
+      "subtopic": "Threadworms",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Communicable Intestinal Diseases and Worm Infestation"
+    },
+    {
+      "id": "lles_98e39ea9a4ea427a84e65061ca69f8af",
+      "seq": 13,
+      "week": 3,
+      "title": "Ascaris",
+      "subtopic": "Ascaris",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Communicable Intestinal Diseases and Worm Infestation"
+    },
+    {
+      "id": "lles_edf0147059a749cbb5e9dc4bc1cbf92c",
+      "seq": 14,
+      "week": 3,
+      "title": "Preventing worm infestation",
+      "subtopic": "Preventing worm infestation",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Communicable Intestinal Diseases and Worm Infestation"
+    },
+    {
+      "id": "lles_ce373df1c3494d0dbbd16685cca9a22a",
+      "seq": 15,
+      "week": 3,
+      "title": "Preparing oral rehydration solution",
+      "subtopic": "Preparing oral rehydration solution",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Communicable Intestinal Diseases and Worm Infestation"
+    },
+    {
+      "id": "lles_de4b0bcf3f7545ee8bd602ac8ca3b680",
+      "seq": 16,
+      "week": 3,
+      "title": "Meaning and examples of vectors",
+      "subtopic": "Meaning and examples of vectors",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Disease Vectors"
+    },
+    {
+      "id": "lles_40ff571cc9354d208085386926caea6a",
+      "seq": 17,
+      "week": 3,
+      "title": "Cockroaches and their habitat",
+      "subtopic": "Cockroaches and their habitat",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Disease Vectors"
+    },
+    {
+      "id": "lles_0c7ed1a0e5fe44e8b575f72093e200ca",
+      "seq": 18,
+      "week": 3,
+      "title": "Life cycle of cockroaches",
+      "subtopic": "Life cycle of cockroaches",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Disease Vectors"
+    },
+    {
+      "id": "lles_c1454abea9e64aa9bb3fc0f879c8f187",
+      "seq": 19,
+      "week": 4,
+      "title": "Houseflies",
+      "subtopic": "Houseflies",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Disease Vectors"
+    },
+    {
+      "id": "lles_ef124607e8df4dc592af7c38bb2adb1b",
+      "seq": 20,
+      "week": 4,
+      "title": "Life cycle of houseflies",
+      "subtopic": "Life cycle of houseflies",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Disease Vectors"
+    },
+    {
+      "id": "lles_76e1c7846298466dbfa170690f15f60d",
+      "seq": 21,
+      "week": 4,
+      "title": "Mosquitoes and habitats",
+      "subtopic": "Mosquitoes and habitats",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Disease Vectors"
+    },
+    {
+      "id": "lles_fc8cb00db7f14536a02d22c50a90c65e",
+      "seq": 22,
+      "week": 4,
+      "title": "Life cycle of mosquitoes",
+      "subtopic": "Life cycle of mosquitoes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Disease Vectors"
+    },
+    {
+      "id": "lles_149dea280b3c46cab03d4d020ec5f645",
+      "seq": 23,
+      "week": 4,
+      "title": "How malaria spreads",
+      "subtopic": "How malaria spreads",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Disease Vectors"
+    },
+    {
+      "id": "lles_9965e9569cb84cf0979aa30ea99439df",
+      "seq": 24,
+      "week": 4,
+      "title": "Tsetse flies",
+      "subtopic": "Tsetse flies",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Disease Vectors"
+    },
+    {
+      "id": "lles_8bdd4ac63f6c4a239494e66bfa26d898",
+      "seq": 25,
+      "week": 5,
+      "title": "Life cycle of tsetse flies",
+      "subtopic": "Life cycle of tsetse flies",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Disease Vectors"
+    },
+    {
+      "id": "lles_56df682f33934e259b6f3c858243d629",
+      "seq": 26,
+      "week": 5,
+      "title": "Sleeping sickness",
+      "subtopic": "Sleeping sickness",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Disease Vectors"
+    },
+    {
+      "id": "lles_1fd318947ca94248a3b0c6cbd5062d9d",
+      "seq": 27,
+      "week": 5,
+      "title": "Fleas",
+      "subtopic": "Fleas",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Disease Vectors"
+    },
+    {
+      "id": "lles_46b7175829704edfa856f7b6ad05ccc1",
+      "seq": 28,
+      "week": 5,
+      "title": "Itch mites",
+      "subtopic": "Itch mites",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Disease Vectors"
+    },
+    {
+      "id": "lles_f9aa9e59870e48d1b01a32d6a5f2c37d",
+      "seq": 29,
+      "week": 5,
+      "title": "Lice and their control",
+      "subtopic": "Lice and their control",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Disease Vectors"
+    },
+    {
+      "id": "lles_90c5c86d48504b42ae3d5463b5e51562",
+      "seq": 30,
+      "week": 5,
+      "title": "Water snails and bilharzia",
+      "subtopic": "Water snails and bilharzia",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Disease Vectors"
+    },
+    {
+      "id": "lles_f788139fc0614f68856cdd805d605817",
+      "seq": 31,
+      "week": 6,
+      "title": "Common accidents",
+      "subtopic": "Common accidents",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_194b6d1e08bc4a528ca73e33ad8c74f2",
+      "seq": 32,
+      "week": 6,
+      "title": "Causes of accidents",
+      "subtopic": "Causes of accidents",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_239966c8aebb4db2bb33cc83d800a158",
+      "seq": 33,
+      "week": 6,
+      "title": "Accidents at home and school",
+      "subtopic": "Accidents at home and school",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_984c5e6bd15f4bfea603d743ddcb428d",
+      "seq": 34,
+      "week": 6,
+      "title": "Road accidents",
+      "subtopic": "Road accidents",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_ef585285c736442780045ef44d0412ff",
+      "seq": 35,
+      "week": 6,
+      "title": "Road safety and crossings",
+      "subtopic": "Road safety and crossings",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_fb724a61ea26494db8a1d9e162f7c060",
+      "seq": 36,
+      "week": 6,
+      "title": "Meaning of first aid",
+      "subtopic": "Meaning of first aid",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_82971049150a4ad09bb223c7c4958377",
+      "seq": 37,
+      "week": 7,
+      "title": "First aid kit",
+      "subtopic": "First aid kit",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_6f5e541356f3477090f23bcaba0ccf44",
+      "seq": 38,
+      "week": 7,
+      "title": "Fractures",
+      "subtopic": "Fractures",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_b414de7a880949969e97b837ebe48aa9",
+      "seq": 39,
+      "week": 7,
+      "title": "Burns and scalds",
+      "subtopic": "Burns and scalds",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_7ecba26718f04969a91e29f96a45de22",
+      "seq": 40,
+      "week": 7,
+      "title": "Sprains and strains",
+      "subtopic": "Sprains and strains",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_df05910d31524d1db82310a26cf62838",
+      "seq": 41,
+      "week": 7,
+      "title": "Dislocations",
+      "subtopic": "Dislocations",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_9ed2757706a94e4b9a0d2a1e227f95c5",
+      "seq": 42,
+      "week": 7,
+      "title": "First aid for snake bites",
+      "subtopic": "First aid for snake bites",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_ac9e0d13e31b46469b9f239e350f3acd",
+      "seq": 43,
+      "week": 8,
+      "title": "Poisoning",
+      "subtopic": "Poisoning",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_8ce777f1ea844d369dca7586cdfec070",
+      "seq": 44,
+      "week": 8,
+      "title": "Preventing poisoning",
+      "subtopic": "Preventing poisoning",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_7cc6958d75874c0b8fc9ea05a8f99276",
+      "seq": 45,
+      "week": 8,
+      "title": "Meaning of rabbit keeping",
+      "subtopic": "Meaning of rabbit keeping",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    },
+    {
+      "id": "lles_7aff4347189a4b6b8c256ced9028c707",
+      "seq": 46,
+      "week": 8,
+      "title": "External parts of a rabbit",
+      "subtopic": "External parts of a rabbit",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    },
+    {
+      "id": "lles_b36f2195c83c481aa3402bc56a39279f",
+      "seq": 47,
+      "week": 8,
+      "title": "Rabbit products",
+      "subtopic": "Rabbit products",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    },
+    {
+      "id": "lles_cf5fccfd7da041a4a1ef49e8204e082c",
+      "seq": 48,
+      "week": 8,
+      "title": "Local breeds of rabbits",
+      "subtopic": "Local breeds of rabbits",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    },
+    {
+      "id": "lles_9cc8cef94edc4b47891bb86e6616db67",
+      "seq": 49,
+      "week": 9,
+      "title": "Exotic breeds of rabbits",
+      "subtopic": "Exotic breeds of rabbits",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    },
+    {
+      "id": "lles_12aabd42faeb4e718d959510c6c785e6",
+      "seq": 50,
+      "week": 9,
+      "title": "Housing rabbits",
+      "subtopic": "Housing rabbits",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    },
+    {
+      "id": "lles_aaab5f87911945a6945f85ca96c3b705",
+      "seq": 51,
+      "week": 9,
+      "title": "Qualities of a rabbit hutch",
+      "subtopic": "Qualities of a rabbit hutch",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    },
+    {
+      "id": "lles_fe46bbdcad3b478ab28f73f6599cb87e",
+      "seq": 52,
+      "week": 9,
+      "title": "Feeding rabbits",
+      "subtopic": "Feeding rabbits",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    },
+    {
+      "id": "lles_5ea3fbbc15374a66abe446bcb11c10ea",
+      "seq": 53,
+      "week": 9,
+      "title": "Breeding rabbits",
+      "subtopic": "Breeding rabbits",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    },
+    {
+      "id": "lles_9d1f084ceb564d009ce11382864b316a",
+      "seq": 54,
+      "week": 9,
+      "title": "Caring for young rabbits",
+      "subtopic": "Caring for young rabbits",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    },
+    {
+      "id": "lles_e728a4656de1487e8056f0c9b3fc8423",
+      "seq": 55,
+      "week": 10,
+      "title": "Keeping rabbits healthy",
+      "subtopic": "Keeping rabbits healthy",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    },
+    {
+      "id": "lles_4441b3af29954e7ca1c304659f55f988",
+      "seq": 56,
+      "week": 10,
+      "title": "Diseases of rabbits",
+      "subtopic": "Diseases of rabbits",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    },
+    {
+      "id": "lles_909d4540f9ef4ff3a6a5a30170c6a6c4",
+      "seq": 57,
+      "week": 10,
+      "title": "Rabbit parasites",
+      "subtopic": "Rabbit parasites",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    },
+    {
+      "id": "lles_58d00ecfb02c441ba4052b6be4a56bbb",
+      "seq": 58,
+      "week": 10,
+      "title": "Rabbit farm records and requirements",
+      "subtopic": "Rabbit farm records and requirements",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    },
+    {
+      "id": "lles_043529a1b10649719c4cd661253fd64a",
+      "seq": 59,
+      "week": 10,
+      "title": "End-of-term assessment",
+      "subtopic": "End-of-term assessment",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    },
+    {
+      "id": "lles_ff65882172e7490997330038be6c17ad",
+      "seq": 60,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Communicable Intestinal Diseases and Worm Infestation, Disease Vectors, Accidents and First Aid, Rabbit Keeping",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Rabbit Keeping"
+    }
+  ]
+}

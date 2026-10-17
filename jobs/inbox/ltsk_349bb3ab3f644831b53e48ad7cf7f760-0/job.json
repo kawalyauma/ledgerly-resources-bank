@@ -1,0 +1,80 @@
+{
+  "job": "ltsk_349bb3ab3f644831b53e48ad7cf7f760-0",
+  "task": "ltsk_349bb3ab3f644831b53e48ad7cf7f760",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 51,
+  "school": "sch-7207f9",
+  "class": "P4",
+  "classLevel": 4,
+  "subject": "Science",
+  "term": "2026-T3",
+  "week": 1,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [
+    {
+      "id": "lles_2fbe135772eb41edb484e54fe82bd5af",
+      "kind": "teach",
+      "week": 1,
+      "title": "Communicable diseases",
+      "periods": 1,
+      "subtopic": "Communicable diseases"
+    },
+    {
+      "id": "lles_1ba0378ca4b045e995bfee5cc430e793",
+      "kind": "teach",
+      "week": 1,
+      "title": "Causes of diarrhoea",
+      "periods": 1,
+      "subtopic": "Causes of diarrhoea"
+    },
+    {
+      "id": "lles_722bdc0b0e6d433d8a9c28de1b7c017c",
+      "kind": "teach",
+      "week": 1,
+      "title": "The four Fs of disease spread",
+      "periods": 1,
+      "subtopic": "The four Fs of disease spread"
+    },
+    {
+      "id": "lles_81a7eb0ae59d41539c90ff325d934a74",
+      "kind": "teach",
+      "week": 1,
+      "title": "Dysentery and its causes",
+      "periods": 1,
+      "subtopic": "Dysentery and its causes"
+    },
+    {
+      "id": "lles_3bfafa3403ad479f944d9bfe62960d32",
+      "kind": "teach",
+      "week": 1,
+      "title": "Cholera and its spread",
+      "periods": 1,
+      "subtopic": "Cholera and its spread"
+    },
+    {
+      "id": "lles_667a55b4691d4ef2935a5d41af88c47a",
+      "kind": "teach",
+      "week": 1,
+      "title": "Typhoid and its prevention",
+      "periods": 1,
+      "subtopic": "Typhoid and its prevention"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P4/science",
+  "passages": [
+    "lchk_dc2c047d903447cab4c39d91ced92868",
+    "lchk_14d3b12c87444f08bcf54f1bdd08bc10",
+    "lchk_b27e946bc5fb41328c393e4048eabc7c",
+    "lchk_f0819c00bdbe41f2bbcd6f53aa2aa723",
+    "lchk_98670b27a5454f21a36a23dd71e9ad3e",
+    "lchk_c47246ed87674185877ed9d0c744eef2",
+    "lchk_72580cdbd253401da5c354457261d4c4",
+    "lchk_1b88b6d5144441fabe043b13479541af"
+  ],
+  "created": "2026-10-17T13:26:51.563Z"
+}
