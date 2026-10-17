@@ -1,0 +1,384 @@
+{
+  "title": "P7 Christian Religious Education — Term 3, 2026",
+  "summary": "Term III NCDC themes: accepting the events of life, praying and growing in the Spirit; 20 sourced teaching lessons in curriculum order, with remaining weekly periods available for review.",
+  "units": [
+    {
+      "title": "Strengthened by the Spirit we Accept the Events of Life",
+      "theme": "Christians and the Holy Spirit",
+      "weekFrom": 1,
+      "weekTo": 3,
+      "competences": "Recognise success, failure and fear; explain courage and managing emotions with guidance from scripture.",
+      "sources": [
+        {
+          "source": "lchk_b0147db8650c4ac78a3b68a71ebb998e",
+          "quote": "Topic 8: Strengthened by the Spirit we"
+        },
+        {
+          "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+          "quote": "Causes of fear"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning of success and failure",
+          "subtopic": "Meaning of success and failure",
+          "kind": "teach",
+          "periods": 1,
+          "week": 1,
+          "objectives": [
+            "Define success and failure."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b0147db8650c4ac78a3b68a71ebb998e",
+              "quote": "Define success"
+            }
+          ]
+        },
+        {
+          "title": "Causes of success and failure",
+          "subtopic": "Causes of success and failure",
+          "kind": "teach",
+          "periods": 1,
+          "week": 1,
+          "objectives": [
+            "Explain causes of success and failure."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b0147db8650c4ac78a3b68a71ebb998e",
+              "quote": "Causes of success"
+            }
+          ]
+        },
+        {
+          "title": "Coping with life experiences",
+          "subtopic": "Coping with life experiences",
+          "kind": "teach",
+          "periods": 1,
+          "week": 2,
+          "objectives": [
+            "Explain how people cope with positive and negative experiences."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b0147db8650c4ac78a3b68a71ebb998e",
+              "quote": "How God helps"
+            }
+          ]
+        },
+        {
+          "title": "Fear in people and animals",
+          "subtopic": "Fear in people and animals",
+          "kind": "teach",
+          "periods": 1,
+          "week": 2,
+          "objectives": [
+            "Identify causes and value of fear."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "Causes of fear"
+            }
+          ]
+        },
+        {
+          "title": "Bible teachings about fear and courage",
+          "subtopic": "Bible teachings about fear and courage",
+          "kind": "teach",
+          "periods": 1,
+          "week": 3,
+          "objectives": [
+            "Explain biblical teaching on courage."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b0147db8650c4ac78a3b68a71ebb998e",
+              "quote": "Bible teaching"
+            }
+          ]
+        },
+        {
+          "title": "Recognising and managing emotions",
+          "subtopic": "Recognising and managing emotions",
+          "kind": "teach",
+          "periods": 1,
+          "week": 3,
+          "objectives": [
+            "Identify emotions and how they can be controlled."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "How to control emotions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Praying in the Spirit",
+      "theme": "Christians and the Holy Spirit",
+      "weekFrom": 4,
+      "weekTo": 6,
+      "competences": "Understand prayer as communication with God, prayer types and principles, and Jesus' teaching on prayer.",
+      "sources": [
+        {
+          "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+          "quote": "TOPIC 9 PRAYING IN THE SPIRIT"
+        },
+        {
+          "source": "lchk_6fbb76e4226043a4b69e2930bcaf1e7f",
+          "quote": "Topic 9: | Praying in the Spirit"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "God's communication with people",
+          "subtopic": "God's communication with people",
+          "kind": "teach",
+          "periods": 1,
+          "week": 4,
+          "objectives": [
+            "Identify ways God communicates with people."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "How God communicates to us"
+            }
+          ]
+        },
+        {
+          "title": "Types of prayer",
+          "subtopic": "Types of prayer",
+          "kind": "teach",
+          "periods": 1,
+          "week": 4,
+          "objectives": [
+            "Identify types of prayer."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "Types of prayer"
+            }
+          ]
+        },
+        {
+          "title": "Importance and reasons for prayer",
+          "subtopic": "Importance and reasons for prayer",
+          "kind": "teach",
+          "periods": 1,
+          "week": 5,
+          "objectives": [
+            "Explain why Christians pray."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "Importance of prayer"
+            }
+          ]
+        },
+        {
+          "title": "Ways and principles of prayer",
+          "subtopic": "Ways and principles of prayer",
+          "kind": "teach",
+          "periods": 1,
+          "week": 5,
+          "objectives": [
+            "State the principles of praying."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "Principles to follow during prayer"
+            }
+          ]
+        },
+        {
+          "title": "The Lord's Prayer",
+          "subtopic": "The Lord's Prayer",
+          "kind": "teach",
+          "periods": 1,
+          "week": 6,
+          "objectives": [
+            "Explain lessons from the Lord's Prayer."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "Jesus taught his disciples"
+            }
+          ]
+        },
+        {
+          "title": "Why and where Jesus prayed",
+          "subtopic": "Why and where Jesus prayed",
+          "kind": "teach",
+          "periods": 1,
+          "week": 6,
+          "objectives": [
+            "State reasons and places of Jesus' prayers."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "Places where Jesus prayed from"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Growing in the Spirit",
+      "theme": "Christians and the Holy Spirit",
+      "weekFrom": 7,
+      "weekTo": 10,
+      "competences": "Describe prayer in the early church, events in Acts, creeds and sacraments.",
+      "sources": [
+        {
+          "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+          "quote": "TOPIC 10 GROWING IN THE SPIRIT"
+        },
+        {
+          "source": "lchk_6fbb76e4226043a4b69e2930bcaf1e7f",
+          "quote": "Topic 10: | Growing in the Spirit"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Prayer in the early church",
+          "subtopic": "Prayer in the early church",
+          "kind": "teach",
+          "periods": 1,
+          "week": 7,
+          "objectives": [
+            "Recognise prayer in the early church."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "Prayer in the early church"
+            }
+          ]
+        },
+        {
+          "title": "Arrest of Peter and John",
+          "subtopic": "Arrest of Peter and John",
+          "kind": "teach",
+          "periods": 1,
+          "week": 7,
+          "objectives": [
+            "Recall the arrest of Peter and John."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "Arrest of Peter and John"
+            }
+          ]
+        },
+        {
+          "title": "Peter's release from prison",
+          "subtopic": "Peter's release from prison",
+          "kind": "teach",
+          "periods": 1,
+          "week": 8,
+          "objectives": [
+            "Describe Peter's release from prison."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "Release at Peter from prison"
+            }
+          ]
+        },
+        {
+          "title": "Peter and Tabitha",
+          "subtopic": "Peter and Tabitha",
+          "kind": "teach",
+          "periods": 1,
+          "week": 8,
+          "objectives": [
+            "Recall Peter's raising of Tabitha."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "Peter resurrects Tabitha"
+            }
+          ]
+        },
+        {
+          "title": "Paul and Barnabas",
+          "subtopic": "Paul and Barnabas",
+          "kind": "teach",
+          "periods": 1,
+          "week": 9,
+          "objectives": [
+            "Identify Paul and Barnabas in the early church."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "Paul and Barnabas"
+            }
+          ]
+        },
+        {
+          "title": "Meaning and types of creeds",
+          "subtopic": "Meaning and types of creeds",
+          "kind": "teach",
+          "periods": 1,
+          "week": 9,
+          "objectives": [
+            "Define creeds and identify their examples."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "Creeds are statements of Christian beliefs."
+            }
+          ]
+        },
+        {
+          "title": "The sections of a creed",
+          "subtopic": "The sections of a creed",
+          "kind": "teach",
+          "periods": 1,
+          "week": 10,
+          "objectives": [
+            "Identify the three sections of a creed."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "sections of creed"
+            }
+          ]
+        },
+        {
+          "title": "Sacraments and their characteristics",
+          "subtopic": "Sacraments and their characteristics",
+          "kind": "teach",
+          "periods": 1,
+          "week": 10,
+          "objectives": [
+            "Explain the meaning and characteristics of sacraments."
+          ],
+          "sources": [
+            {
+              "source": "lchk_407576c7d86e431fb64bcb8c8a691e27",
+              "quote": "Characteristics of sacraments"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": []
+}
