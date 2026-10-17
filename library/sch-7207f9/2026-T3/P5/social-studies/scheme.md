@@ -7,26 +7,26 @@
 | 3 | 1 | teach | Uganda as an independent nation | The national anthem — Symbols of a nation: the national anthem | written |
 | 4 | 1 | teach | Uganda as an independent nation | The national coat of arms — Features of the coat of arms | written |
 | 5 | 1 | Part B | Uganda as an independent nation | The national motto and the coat of arms — Significance of the coat of arms and its features | written |
-| 6 | 2 | teach | Uganda as an independent nation | The national emblem — Symbols of a nation: the crested crane | writing |
-| 7 | 2 | teach | Uganda as an independent nation | The national language — National and official language | writing |
-| 8 | 2 | teach | Uganda as an independent nation | The capital city — Symbols of a nation: the capital city | writing |
-| 9 | 2 | teach | Uganda as an independent nation | The national currency — Uganda's currency and financial institutions | writing |
-| 10 | 2 | teach | Uganda as an independent nation | Democracy — Meaning, importance and challenges of democracy | writing |
-| 11 | 3 | teach | Uganda as an independent nation | Citizenship — Ways of becoming a citizen of Uganda | writing |
-| 12 | 3 | teach | Uganda as an independent nation | Elections — Meaning and types of elections | writing |
-| 13 | 3 | teach | Uganda as an independent nation | Terms used in elections — Election terms and the importance of elections | writing |
-| 14 | 3 | teach | Uganda as an independent nation | Bad practices during elections — Bad practices before, during and after voting | writing |
-| 15 | 3 | teach | Uganda as an independent nation | The Electoral Commission — Roles and challenges of the Electoral Commission | writing |
-| 16 | 4 | teach | The Government of Uganda | The government of Uganda — Meaning of government and its organs | writing |
-| 17 | 4 | teach | The Government of Uganda | The legislature — Parliament: duties, officers and qualifications of a Member of Parliament | writing |
-| 18 | 4 | teach | The Government of Uganda | The executive — The President, ministers and civil servants | writing |
-| 19 | 4 | teach | The Government of Uganda | The judiciary — Composition and roles of the judiciary | writing |
-| 20 | 4 | Part B | The Government of Uganda | Organs of government Part B — The legislature, executive and judiciary | writing |
-| 21 | 5 | teach | The Government of Uganda | Roles of the central government — Types of government and roles of the central government | writing |
-| 22 | 5 | teach | The Government of Uganda | Local government — Roles of the local government | writing |
-| 23 | 5 | teach | The Government of Uganda | The constitution — Meaning, functions and importance of a constitution | writing |
-| 24 | 5 | teach | The Government of Uganda | The constitutions of Uganda — The 1962, 1967 and 1995 constitutions | writing |
-| 25 | 5 | teach | The Government of Uganda | Government revenue — Taxation and types of taxes | writing |
+| 6 | 2 | teach | Uganda as an independent nation | The national emblem — Symbols of a nation: the crested crane | written |
+| 7 | 2 | teach | Uganda as an independent nation | The national language — National and official language | written |
+| 8 | 2 | teach | Uganda as an independent nation | The capital city — Symbols of a nation: the capital city | written |
+| 9 | 2 | teach | Uganda as an independent nation | The national currency — Uganda's currency and financial institutions | written |
+| 10 | 2 | teach | Uganda as an independent nation | Democracy — Meaning, importance and challenges of democracy | written |
+| 11 | 3 | teach | Uganda as an independent nation | Citizenship — Ways of becoming a citizen of Uganda | written |
+| 12 | 3 | teach | Uganda as an independent nation | Elections — Meaning and types of elections | written |
+| 13 | 3 | teach | Uganda as an independent nation | Terms used in elections — Election terms and the importance of elections | written |
+| 14 | 3 | teach | Uganda as an independent nation | Bad practices during elections — Bad practices before, during and after voting | written |
+| 15 | 3 | teach | Uganda as an independent nation | The Electoral Commission — Roles and challenges of the Electoral Commission | written |
+| 16 | 4 | teach | The Government of Uganda | The government of Uganda — Meaning of government and its organs | written |
+| 17 | 4 | teach | The Government of Uganda | The legislature — Parliament: duties, officers and qualifications of a Member of Parliament | written |
+| 18 | 4 | teach | The Government of Uganda | The executive — The President, ministers and civil servants | written |
+| 19 | 4 | teach | The Government of Uganda | The judiciary — Composition and roles of the judiciary | written |
+| 20 | 4 | Part B | The Government of Uganda | Organs of government Part B — The legislature, executive and judiciary | written |
+| 21 | 5 | teach | The Government of Uganda | Roles of the central government — Types of government and roles of the central government | written |
+| 22 | 5 | teach | The Government of Uganda | Local government — Roles of the local government | written |
+| 23 | 5 | teach | The Government of Uganda | The constitution — Meaning, functions and importance of a constitution | written |
+| 24 | 5 | teach | The Government of Uganda | The constitutions of Uganda — The 1962, 1967 and 1995 constitutions | written |
+| 25 | 5 | teach | The Government of Uganda | Government revenue — Taxation and types of taxes | written |
 | 26 | 6 | teach | The Government of Uganda | Sources of government revenue — The URA and other sources of government revenue | writing |
 | 27 | 6 | teach | The Government of Uganda | Government expenditure — How the government spends its revenue | writing |
 | 28 | 6 | teach | The Government of Uganda | The national budget — Meaning and types of budgets | writing |

@@ -1,0 +1,32 @@
+{
+  "job": "ltsk_5a173a08b34c4985acdfb95e285e4037-0",
+  "task": "ltsk_5a173a08b34c4985acdfb95e285e4037",
+  "call": 0,
+  "kind": "scheme.outline",
+  "status": "open",
+  "attempt": 1,
+  "priority": 20,
+  "school": "sch-7207f9",
+  "class": "P2",
+  "classLevel": 2,
+  "subject": "Mathematics",
+  "term": "2026-T3",
+  "week": null,
+  "weeks": 10,
+  "periodsPerWeek": 7,
+  "lessons": [],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P2/mathematics",
+  "passages": [
+    "lchk_aa675499326849b4b8f192f968303357",
+    "lchk_5eb337d321c141418c9df1b957220895",
+    "lchk_57e08c1671f04ec4bde84554a7024b7a",
+    "lchk_8c76c5dd08874240af41cd55daea1d0c",
+    "lchk_d97c374034db4d46a4566545fd9e1852",
+    "lchk_d2f25fa1944f4ddaaf209d44955cac49",
+    "lchk_e54641066cc54deeb3180c39cd998459",
+    "lchk_7d79c3018c0a461b94ab0bac1c820d7f",
+    "lchk_d66fc9c8c4184ecda302faf638661156"
+  ],
+  "created": "2026-10-17T11:41:57.840Z"
+}

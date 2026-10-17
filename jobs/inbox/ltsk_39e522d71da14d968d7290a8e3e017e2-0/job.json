@@ -1,0 +1,33 @@
+{
+  "job": "ltsk_39e522d71da14d968d7290a8e3e017e2-0",
+  "task": "ltsk_39e522d71da14d968d7290a8e3e017e2",
+  "call": 0,
+  "kind": "scheme.outline",
+  "status": "open",
+  "attempt": 1,
+  "priority": 20,
+  "school": "sch-7207f9",
+  "class": "P3",
+  "classLevel": 3,
+  "subject": "Christian Religious Education",
+  "term": "2026-T3",
+  "week": null,
+  "weeks": 10,
+  "periodsPerWeek": 3,
+  "lessons": [],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P3/christian-religious-education",
+  "passages": [
+    "lchk_6f11d17629e74461865445d9f26369f1",
+    "lchk_8a908ba4886e4d62ac30811dbe54f9e4",
+    "lchk_801d58ef610b45fc98ad724cde437368",
+    "lchk_b28499144e76424abfa8ce46c8f61e5c",
+    "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+    "lchk_558a97a0e05c4c8d94be54acb4d9d9d5",
+    "lchk_76d6f78605744cabb34657b1da5a5b88",
+    "lchk_a83013cd383c48de90628d362d713da2",
+    "lchk_4618ea35e3104a36aa29f27bacbf6419",
+    "lchk_9c9307d24eba4110b8493160dcb29021"
+  ],
+  "created": "2026-10-17T11:41:12.826Z"
+}

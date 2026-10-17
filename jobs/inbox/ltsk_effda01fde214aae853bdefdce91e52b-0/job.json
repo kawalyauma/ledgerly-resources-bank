@@ -1,0 +1,32 @@
+{
+  "job": "ltsk_effda01fde214aae853bdefdce91e52b-0",
+  "task": "ltsk_effda01fde214aae853bdefdce91e52b",
+  "call": 0,
+  "kind": "scheme.outline",
+  "status": "open",
+  "attempt": 1,
+  "priority": 20,
+  "school": "sch-7207f9",
+  "class": "P6",
+  "classLevel": 6,
+  "subject": "English",
+  "term": "2026-T3",
+  "week": null,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P6/english",
+  "passages": [
+    "lchk_78210c34394d426fb25236bf43264a79",
+    "lchk_fc4a0c49508c459fac6f429f0d47516d",
+    "lchk_db29091ee57847f3b69d56532a5ecf0a",
+    "lchk_b5a2dafc02bb40f9bb8d7f1ae949bbe2",
+    "lchk_6cd7b6e16c3341cfb29fdb45262b718d",
+    "lchk_099286fd9988461b92bca1780922d342",
+    "lchk_699717cc5b2442fead3c75b1947455c4",
+    "lchk_1f27f60dccfb4be1a52dd816a77c1ed2",
+    "lchk_efa31369f7934c45b374951d6c7d3574"
+  ],
+  "created": "2026-10-17T11:40:47.860Z"
+}

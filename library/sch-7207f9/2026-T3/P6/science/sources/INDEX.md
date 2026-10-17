@@ -8,7 +8,3 @@
 | lsrc_9eae8c19872440028500f2214c3616d0 | P.6 PRIMARY SIX SCI NOTES TEACHER.AC Copy (2) | notes | ulibtech | 52 |
 | lsrc_c8dbe920e14941a69366b754216782bf | P6 sci notes Batch Watermark | notes | ulibtech | 62 |
 | lsrc_48009b0017334bcdaffa2484f01b3d90 | SCIENCE LESSON NOTES FOR P6 2019(1) | notes | ulibtech | 55 |
-| lsrc_ecd6aba5c9284f67a66170e5b4d618a6 | P 6 Scie Lesson Notes | reference | ulibtech | 44 |
-| lsrc_629709e6615d4daa9c2d8521ae54333d | P.6 science Recess Work | reference | ulibtech | 8 |
-| lsrc_f571c48b61884241b1fa6491e6bc9c90 | P6 science topic 7 | reference | ulibtech | 6 |
-| lsrc_97f825107701438390a5cb779941c67c | 𝐏𝐫𝐢𝐦𝐚𝐫𝐲 𝐒𝐢𝐱 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐍𝐨𝐭𝐞𝐬 2024 | reference | ulibtech | 22 |
