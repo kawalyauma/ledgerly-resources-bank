@@ -5,12 +5,12 @@
 | 1 | 1 | teach | Friends on the Way | Meaning and importance of friendship — Meaning and importance of friendship | written |
 | 2 | 1 | teach | Friends on the Way | Qualities of true friends — Qualities of true friends | written |
 | 3 | 1 | review | Friends on the Way | Week 1 review — Friends on the Way | written |
-| 4 | 2 | teach | Friends on the Way | Distinguishing good and bad advice — Distinguishing good and bad advice | writing |
-| 5 | 2 | teach | Friends on the Way | Marriage in Christian life — Marriage in Christian life | writing |
-| 6 | 2 | review | Friends on the Way | Week 2 review — Friends on the Way | writing |
-| 7 | 3 | teach | Christian Involvement in the World | Importance of working together — Importance of working together | pending |
-| 8 | 3 | teach | Christian Involvement in the World | Ways of cooperation — Ways of cooperation | pending |
-| 9 | 3 | review | Christian Involvement in the World | Week 3 review — Christian Involvement in the World | pending |
+| 4 | 2 | teach | Friends on the Way | Distinguishing good and bad advice — Distinguishing good and bad advice | written |
+| 5 | 2 | teach | Friends on the Way | Marriage in Christian life — Marriage in Christian life | written |
+| 6 | 2 | review | Friends on the Way | Week 2 review — Friends on the Way | written |
+| 7 | 3 | teach | Christian Involvement in the World | Importance of working together — Importance of working together | writing |
+| 8 | 3 | teach | Christian Involvement in the World | Ways of cooperation — Ways of cooperation | writing |
+| 9 | 3 | review | Christian Involvement in the World | Week 3 review — Christian Involvement in the World | writing |
 | 10 | 4 | teach | Christian Involvement in the World | Christian voluntary organisations — Christian voluntary organisations | pending |
 | 11 | 4 | teach | Christian Involvement in the World | Role of Christian organisations — Role of Christian organisations | pending |
 | 12 | 4 | review | Christian Involvement in the World | Week 4 review — Christian Involvement in the World | pending |

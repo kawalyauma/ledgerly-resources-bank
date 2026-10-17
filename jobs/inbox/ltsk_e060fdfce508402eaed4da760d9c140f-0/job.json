@@ -1,0 +1,54 @@
+{
+  "job": "ltsk_e060fdfce508402eaed4da760d9c140f-0",
+  "task": "ltsk_e060fdfce508402eaed4da760d9c140f",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 57,
+  "school": "sch-7207f9",
+  "class": "P6",
+  "classLevel": 6,
+  "subject": "Christian Religious Education",
+  "term": "2026-T3",
+  "week": 3,
+  "weeks": 10,
+  "periodsPerWeek": 3,
+  "lessons": [
+    {
+      "id": "lles_57098df4ab9c415792163a76db374e02",
+      "kind": "teach",
+      "week": 3,
+      "title": "Importance of working together",
+      "periods": 1,
+      "subtopic": "Importance of working together"
+    },
+    {
+      "id": "lles_c1a7e553104f493db056ef00f73f924e",
+      "kind": "teach",
+      "week": 3,
+      "title": "Ways of cooperation",
+      "periods": 1,
+      "subtopic": "Ways of cooperation"
+    },
+    {
+      "id": "lles_6a378a58b6be49bd903c7fc90ec01b11",
+      "kind": "review",
+      "week": 3,
+      "title": "Week 3 review",
+      "periods": 1,
+      "subtopic": "Christian Involvement in the World"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P6/christian-religious-education",
+  "passages": [
+    "lchk_62622d06b00c4698b1f540bbf5ba9278",
+    "lchk_48579250e06e49c3945066f2fdf59bf0",
+    "lchk_2256b09f74a442eca1dd4d536a3baa98",
+    "lchk_b9d0ddbf1787408da1f2d108c6cdca35",
+    "lchk_72408bf80d91438bbf3bb3f312247c94",
+    "lchk_3c9035cd159b4d149db8993f7019f1e8"
+  ],
+  "created": "2026-10-17T13:16:51.175Z"
+}
