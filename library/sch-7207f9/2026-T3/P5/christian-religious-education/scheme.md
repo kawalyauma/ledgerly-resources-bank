@@ -8,12 +8,12 @@
 | 4 | 2 | teach | Discipleship and its Rewards | The meaning of discipleship — The meaning of discipleship | writing |
 | 5 | 2 | teach | Discipleship and its Rewards | Examples of discipleship — Examples of discipleship | writing |
 | 6 | 2 | review | Discipleship and its Rewards | Week 2 review — Discipleship and its Rewards | writing |
-| 7 | 3 | teach | Discipleship and its Rewards | Jesus' teaching on discipleship — Jesus' teaching on discipleship | writing |
-| 8 | 3 | teach | Discipleship and its Rewards | Finding happiness: the Beatitudes — Finding happiness: the Beatitudes | writing |
-| 9 | 3 | review | Discipleship and its Rewards | Week 3 review — Discipleship and its Rewards | writing |
-| 10 | 4 | teach | Relationship with God | God the Father — God the Father | pending |
-| 11 | 4 | teach | Relationship with God | God the Son — God the Son | pending |
-| 12 | 4 | review | Relationship with God | Week 4 review — Relationship with God | pending |
+| 7 | 3 | teach | Discipleship and its Rewards | Jesus' teaching on discipleship — Jesus' teaching on discipleship | written |
+| 8 | 3 | teach | Discipleship and its Rewards | Finding happiness: the Beatitudes — Finding happiness: the Beatitudes | written |
+| 9 | 3 | review | Discipleship and its Rewards | Week 3 review — Discipleship and its Rewards | written |
+| 10 | 4 | teach | Relationship with God | God the Father — God the Father | writing |
+| 11 | 4 | teach | Relationship with God | God the Son — God the Son | writing |
+| 12 | 4 | review | Relationship with God | Week 4 review — Relationship with God | writing |
 | 13 | 5 | teach | Relationship with God | The Holy Spirit and the believer — The Holy Spirit and the believer | pending |
 | 14 | 5 | teach | Relationship with God | Baptism and the Christian — Baptism and the Christian | pending |
 | 15 | 5 | review | Relationship with God | Week 5 review — Relationship with God | pending |

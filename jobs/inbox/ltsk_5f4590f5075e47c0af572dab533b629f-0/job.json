@@ -1,0 +1,57 @@
+{
+  "job": "ltsk_5f4590f5075e47c0af572dab533b629f-0",
+  "task": "ltsk_5f4590f5075e47c0af572dab533b629f",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 60,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Christian Religious Education",
+  "term": "2026-T3",
+  "week": 4,
+  "weeks": 10,
+  "periodsPerWeek": 3,
+  "lessons": [
+    {
+      "id": "lles_a93d5133ea7a4bfdb2769cf70d316a62",
+      "kind": "teach",
+      "week": 4,
+      "title": "God the Father",
+      "periods": 1,
+      "subtopic": "God the Father"
+    },
+    {
+      "id": "lles_35d7dbaf06aa455db2f46a37bc03c0f0",
+      "kind": "teach",
+      "week": 4,
+      "title": "God the Son",
+      "periods": 1,
+      "subtopic": "God the Son"
+    },
+    {
+      "id": "lles_b9f1d59a391444809b4d48cd5b9f7b7a",
+      "kind": "review",
+      "week": 4,
+      "title": "Week 4 review",
+      "periods": 1,
+      "subtopic": "Relationship with God"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/christian-religious-education",
+  "passages": [
+    "lchk_ca727a4838654f60bf1fdd1287c7b8a8",
+    "lchk_4e61ef831c6a48ac964838bbb3f44a11",
+    "lchk_cbaf0568f9c24ebbb333e51a1dc51891",
+    "lchk_3f56d32c757948a687e50291e63ce909",
+    "lchk_526fa31e33c048179dbdaa358f860e49",
+    "lchk_c86a32aa12604f768607232ce603074a",
+    "lchk_b7a765d26a7d4b2a803fec3f9aa4ef7f",
+    "lchk_22f2378359f84747b73366e55bae3282",
+    "lchk_6f2918a39f984de4839bf0b19bb4b31c"
+  ],
+  "created": "2026-10-17T18:40:52.282Z"
+}
