@@ -12,21 +12,21 @@
 | 8 | 2 | Part B | OUR LEADERS IN THE DISTRICT | Types of district leaders — Part B — Types of district leaders | written |
 | 9 | 2 | teach | OUR LEADERS IN THE DISTRICT | Members of the district council — Members of the district council | written |
 | 10 | 2 | Part B | OUR LEADERS IN THE DISTRICT | Members of the district council — Part B — Members of the district council | written |
-| 11 | 3 | teach | OUR LEADERS IN THE DISTRICT | Departments in the district — Departments in the district | writing |
-| 12 | 3 | Part B | OUR LEADERS IN THE DISTRICT | Departments in the district — Part B — Departments in the district | writing |
-| 13 | 3 | teach | OUR LEADERS IN THE DISTRICT | Roles of district officials — Roles of district officials | writing |
-| 14 | 3 | Part B | OUR LEADERS IN THE DISTRICT | Roles of district officials — Part B — Roles of district officials | writing |
-| 15 | 3 | teach | OUR LEADERS IN THE DISTRICT | Qualities of a good leader — Qualities of a good leader | writing |
+| 11 | 3 | teach | OUR LEADERS IN THE DISTRICT | Departments in the district — Departments in the district | written |
+| 12 | 3 | Part B | OUR LEADERS IN THE DISTRICT | Departments in the district — Part B — Departments in the district | written |
+| 13 | 3 | teach | OUR LEADERS IN THE DISTRICT | Roles of district officials — Roles of district officials | written |
+| 14 | 3 | Part B | OUR LEADERS IN THE DISTRICT | Roles of district officials — Part B — Roles of district officials | written |
+| 15 | 3 | teach | OUR LEADERS IN THE DISTRICT | Qualities of a good leader — Qualities of a good leader | written |
 | 16 | 4 | Part B | OUR LEADERS IN THE DISTRICT | Qualities of a good leader — Part B — Qualities of a good leader | writing |
 | 17 | 4 | teach | OUR LEADERS IN THE DISTRICT | Ways of acquiring leadership — Ways of acquiring leadership | writing |
 | 18 | 4 | Part B | OUR LEADERS IN THE DISTRICT | Ways of acquiring leadership — Part B — Ways of acquiring leadership | writing |
 | 19 | 4 | teach | OUR LEADERS IN THE DISTRICT | Rights of district residents — Rights of district residents | writing |
 | 20 | 4 | Part B | OUR LEADERS IN THE DISTRICT | Rights of district residents — Part B — Rights of district residents | writing |
-| 21 | 5 | teach | OUR LEADERS IN THE DISTRICT | Responsibilities of district residents — Responsibilities of district residents | pending |
-| 22 | 5 | Part B | OUR LEADERS IN THE DISTRICT | Responsibilities of district residents — Part B — Responsibilities of district residents | pending |
-| 23 | 5 | teach | OUR LEADERS IN THE DISTRICT | Community leadership elections — Community leadership elections | pending |
-| 24 | 5 | Part B | OUR LEADERS IN THE DISTRICT | Community leadership elections — Part B — Community leadership elections | pending |
-| 25 | 5 | teach | OUR LEADERS IN THE DISTRICT | District administrative structures — District administrative structures | pending |
+| 21 | 5 | teach | OUR LEADERS IN THE DISTRICT | Responsibilities of district residents — Responsibilities of district residents | writing |
+| 22 | 5 | Part B | OUR LEADERS IN THE DISTRICT | Responsibilities of district residents — Part B — Responsibilities of district residents | writing |
+| 23 | 5 | teach | OUR LEADERS IN THE DISTRICT | Community leadership elections — Community leadership elections | writing |
+| 24 | 5 | Part B | OUR LEADERS IN THE DISTRICT | Community leadership elections — Part B — Community leadership elections | writing |
+| 25 | 5 | teach | OUR LEADERS IN THE DISTRICT | District administrative structures — District administrative structures | writing |
 | 26 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Basic needs and luxuries — Basic needs and luxuries | pending |
 | 27 | 6 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Basic needs and luxuries — Part B — Basic needs and luxuries | pending |
 | 28 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social services in our district — Social services in our district | pending |

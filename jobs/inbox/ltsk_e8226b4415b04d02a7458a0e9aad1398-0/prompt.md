@@ -1,4 +1,4 @@
-# Job ltsk_8734155ec15b494baecd70d512810975-0
+# Job ltsk_e8226b4415b04d02a7458a0e9aad1398-0
 
 You are the curriculum engine of Ledgerly AI for a Ugandan school.
 Work from the passages, page images and records given in this prompt. Do not invent facts, topics, notes, examples, activities, questions, answers or names: every one of them is taken from the passages. You choose, order, tidy and format the material; you never make it up.
@@ -6,31 +6,31 @@ If the material does not cover something, leave it out or set the field to null 
 Do not run commands, open files or browse. Everything you need is in this prompt.
 Reply with ONE JSON object only, exactly matching the requested shape. No prose before or after it.
 
-Task: write ALL 5 lesson(s) below of week 3 of the Social Studies scheme for Primary Four 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
+Task: write ALL 5 lesson(s) below of week 5 of the Social Studies scheme for Primary Four 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
 Return exactly one entry per lessonId, keeping each lessonId exactly. Write the lessons in order so they build on each other; a practice or review lesson works from the lessons before it in this week.
 Class-depth rule: P4: one 40-minute lesson: 2–4 sections; about 12–24 points; meanings, examples and uses; 5–7 activities.
 
-lessonId=lles_49c61db30d4b4e0fb80e5372815c2afb: lesson 11, Monday, 1 period(s), 40 minutes.
-  Unit: OUR LEADERS IN THE DISTRICT (theme: Living together in our district). Lesson: Departments in the district — Departments in the district.
-  Objectives: Identify important district departments.
+lessonId=lles_99b759036f1d4367bb22a107dd1e1d41: lesson 21, Monday, 1 period(s), 40 minutes.
+  Unit: OUR LEADERS IN THE DISTRICT (theme: Living together in our district). Lesson: Responsibilities of district residents — Responsibilities of district residents.
+  Objectives: Explain responsibilities in a district.
 
-lessonId=lles_d8a43f363bfd4e69bc02162ba0a7eaeb: lesson 12, Tuesday, 1 period(s), 40 minutes.
-  Unit: OUR LEADERS IN THE DISTRICT (theme: Living together in our district). Lesson: Departments in the district — Part B — Departments in the district.
-  Objectives: Practise identifying and explaining departments in the district.
+lessonId=lles_c37a88405d224f95b1ba9d77c77d4ccf: lesson 22, Tuesday, 1 period(s), 40 minutes.
+  Unit: OUR LEADERS IN THE DISTRICT (theme: Living together in our district). Lesson: Responsibilities of district residents — Part B — Responsibilities of district residents.
+  Objectives: Practise identifying and explaining responsibilities of district residents.
   This is a PART B lesson: it continues the subtopic taught in the lesson before it. notes = '### Remember' with the key points ('- ' points, 4–8 lines); in Mathematics, English and Reading then NEW '### Example' sections not used in Part A; then '### Exercise' with NEW numbered activities learners copy and answer. All of it is taken from other passages (other notes, workbooks, past papers), never invented. Oral work, drawing and group activities go in methods. activities = those exercises.
 
-lessonId=lles_1f8a92e3846b47c5ad18aef9b98596d2: lesson 13, Wednesday, 1 period(s), 40 minutes.
-  Unit: OUR LEADERS IN THE DISTRICT (theme: Living together in our district). Lesson: Roles of district officials — Roles of district officials.
-  Objectives: Explain roles of district officials.
+lessonId=lles_5485662790874b70b5873378efd66cd3: lesson 23, Wednesday, 1 period(s), 40 minutes.
+  Unit: OUR LEADERS IN THE DISTRICT (theme: Living together in our district). Lesson: Community leadership elections — Community leadership elections.
+  Objectives: Describe how elections are used to choose leaders.
 
-lessonId=lles_e209f6618247435c8629884d2b485bda: lesson 14, Thursday, 1 period(s), 40 minutes.
-  Unit: OUR LEADERS IN THE DISTRICT (theme: Living together in our district). Lesson: Roles of district officials — Part B — Roles of district officials.
-  Objectives: Practise identifying and explaining roles of district officials.
+lessonId=lles_a506ac98c3a947ee857f66f2ce3b2481: lesson 24, Thursday, 1 period(s), 40 minutes.
+  Unit: OUR LEADERS IN THE DISTRICT (theme: Living together in our district). Lesson: Community leadership elections — Part B — Community leadership elections.
+  Objectives: Practise identifying and explaining community leadership elections.
   This is a PART B lesson: it continues the subtopic taught in the lesson before it. notes = '### Remember' with the key points ('- ' points, 4–8 lines); in Mathematics, English and Reading then NEW '### Example' sections not used in Part A; then '### Exercise' with NEW numbered activities learners copy and answer. All of it is taken from other passages (other notes, workbooks, past papers), never invented. Oral work, drawing and group activities go in methods. activities = those exercises.
 
-lessonId=lles_e018802f174f4bbe9ce275932f84e022: lesson 15, Friday, 1 period(s), 40 minutes.
-  Unit: OUR LEADERS IN THE DISTRICT (theme: Living together in our district). Lesson: Qualities of a good leader — Qualities of a good leader.
-  Objectives: State qualities of a good leader.
+lessonId=lles_95c4ee21de8b494f80336d17ae393abe: lesson 25, Friday, 1 period(s), 40 minutes.
+  Unit: OUR LEADERS IN THE DISTRICT (theme: Living together in our district). Lesson: District administrative structures — District administrative structures.
+  Objectives: Identify political and civic administrative structures.
 
 Write, using ONLY the passages below. Passages from "NCDC" documents are the official base for what to teach; NCDC lower-primary thematic curricula put every learning area in columns separated by " | ": use only the Social Studies column.
 For EACH lesson:
@@ -336,6 +336,54 @@ activities.
 activities.
 </passage>
 
+<passage id="lchk_4f1813f648d140cd892a0f18ac07c8c5" source="Primary 4 Social Studies Scheme of Work, Term 3, 2022" part="1">
+~s
+
+IBANDA DISTRICT LOCAL GOVERNMENT
+P.4 SOCIAL STUDIES SCHEMES OF WORK TERM THREE 2022
+
+SUBTOPIC = [CONTENT COMPETENCES [METHODS LEARNING LIFE SKILLS AND VJINSTRUCTIONAL REFERENCE REMARI
+[SUBJECT. LANGUAGE ACTIVITIES MATERILS I;
+Types of leaders TheTear The learner Group discussioy .{dentifying types ¢.Cooperation __|.€ lection posters ;MK Standard SST
+four district |.Political leaders Defines a leader |.pronounces and spells th Question and an|leaders in our disty .Classifying -Pictures of leaders In pug BK4 pg66
+.Civic leaders: Identifies types of | related to theleadership |.Role play Giving examples of Respect books Primary Four SST
+Religious leaders leaders district. political leaders |.Critlcal thinking CUrriculum pgi6
+Cultural leaders :Glves example sof —_|.Constructs sentences using the a
+.Voluntary leaders political leaders |words related to political leaders,
+POLITICAL LEADERS ac:
+Definition of a political leader.
+Examples of political
+leaders
+a|LIVING TOGETHER LOCAL COUNCIL 2 Listing the titles given
+IN OUR DISTRICT EXECUTIVE COMMITTEE MEMBERS. to executive committee .
+~ | Roles@FEC E xecutive The learner; The learner; -Role play members. -Responsibility _|.Chalkboard Illustrations |MK Standard SST
+F Intenance of sanitation .ldentifies duties of | ,pronounces, reads and |.Demonstration |,|déntifying the LC|,Appreciation _|Pictures in puplls'books |BK 4 pg67
+Settling disputes played by each LC juses the words related chairpersons In th¢ Self-esteem Primary 4 calliculum
+.Implementing government lexecutive memberS _|local council committee. areas, ™ pBiG
+policies Names the executivé members a a :
+-keeping peace and seurity lof LC 1. 6 .
+F = promotion of development F 3 4
+LIVING TOGETHER ,pomotion of food security $
+IN i L
+;RESIDENT DISTRICT COMMISSIO The learner; The learner; “Discussion idertifyin g the du|.critical thinking’ |.Resourceful person __ [Mk Standard SST bk 4
+3 .\dentifiesaive duties ind spellsthe | Question and anjof the ROC In a dj.inquiry ” pe 68
+|. Duties per formed lof the ROC'snd the DIS(words related to the dutl{.Dramatisation |.Locating the RDC! pattecys communication
+DISO -Nameg the ROC of euytimRDC offices inourarea, —*
+| Dutles ofDISO tra @istrict district.
+THE DISTRICT CHAIRPERSON — |The learner; The learner; Inquiry |Mentloning the di.Honesty A chart showing.LC structures:
+People who elect the chalrpersq.outlines the duties of |.reads,spells-and.pronour.lilustration of the chalrperson| Cooperation Cmprehensive sst
+d fe " ,Dutles perfomed the LCV chairperson |the words related to the {Discision :Responsibility bk4 ps8
+i THE STRUCTURE OF LCV Identifies the compositchalrperson LC v. MK Standard SST bk4
+- Its composition of the LGW structure pp 70
+—
+CIVIC LEADERS IN OUR DISFAICT |The learner ; “|The learner; Group discussior/Listing examples o|.Self-awareness [A chart showing civic lead Comprehensive SST
+k How they attain thelr positions _|./dentifles examples of | uses the words related tq.Demonstration |leaders In.our: critical thinking |structures, book 4 pg 59
+4.The body that appoints them [civic leaders + |the topic in structures _|.Question and an|Naming the body t].Appreclation -MK Standard SST bk
+| Examples of gic leaders |.names-the body that. |.pronounces and spells the leppoints civic leaders In ge M4 pg 70
+3 lappoints civic leaders il words related to the topic Jour district,
+district.
+</passage>
+
 <passage id="lchk_a6c1d3301a7743d3a21b117783ccf339" source="Primary Four Social Studies Schemes of Work, Terms 1–3" part="6">
 DISTRICT Social activities
  Factors contributing to
@@ -568,6 +616,102 @@ district
 - Suggesting
 </passage>
 
+<passage id="lchk_ebd7903d943347949b1dbbda763df810" source="NCDC Primary Four Social Studies Syllabus Book" part="14">
+National Curriculum Development Centre 2010 | 15 | 15
+
+
+
+
+Subject Competence | Language Competence | Content | Suggested Activities
+The Learner; |  Pronounces, reads, writes | Types of leaders in our |  Grouping leaders in our district.
+ Identifies different | and practices structures | district. | Describing and drawing the
+groups of leaders in | related to different groups | Political leaders: | political and civic administrative
+the district | of leaders in the district. | LC1 – LC 5, RDC, | structures.
+District Internal |  Role playing an L.C I meeting
+Security Officer |  Identifying names of leaders in
+(DISO) | our district.
+ Civic leaders: |  Role playing election
+CAO, District | procedures.
+Health Officer, |  Singing patriotic songs.
+District |  Drawing election posters.
+Agricultural |  Modeling a ballot paper.
+Officer, |  Demonstrating campaigning to
+Magistrates, | be prefects.
+District Police
+Commander.
+ Religious
+Leaders: Bishops,
+Priests,
+Reverends,
+Sheiks, Pastors
+and Khadis.
+ Voluntary leaders:
+Scouts, Guides, All
+leaders of NGOs.,
+UWESO, TASO, The Red
+Cross etc
+ Describes how leaders |  | 
+How leaders are
+are chosen in the
+chosen n Our district
+district.
+- By election
+- By appointment
+- Through inheritance.
+
+16 | National Curriculum Development Centre 2010 | 16
+
+
+
+Subject Competence | Language Competence | Content | Suggested Activities
+- By volunteering
+ Identifies qualities of a |  Pronounces, reads, writes | Qualities of a good leader |  Brainstorming on qualities of a good
+good leader and roles | and practices structures | - Ability/able | leader.
+of different leaders in | related to qualities of a | - Kindness |  Telling a story on how she helped
+the district. | good leader | - Respectful | someone in a problem.
+- Knowledgeable |  Discussing the roles of different
+- Approachable | leaders.
+- Responsible |  Role – play an L.C V Council meeting.
+- Tolerant |  Listening to a resource person on
+- Obedient
+roles of cultural leaders, Civic and
+- Careful
+political
+- Hardworking
+- Cooperative |  Listing down roles of different
+- Exemplary | leaders in the district.
+- Confident |  Matching the leaders with their
+correct roles.
+ Identifies the rights and |  Pronounces, reads, writes |  Rights and |  Listing children’s rights.
+responsibilities of the | and practices structures | responsibilities of people |  Identifying people who provide
+people in our district | related to peoples rights | in our district: | services related to these rights.
+and responsibilities. | Rights of the people in our |  Singing songs of appreciation to the
+District. | people who provide these rights.
+- Life, food, Education, |  Making posters of people who abuse
+security | their rights and display their work in
+- Right to medical care. | class and compound
+ Making campaign against people
+(ii) Responsibilities of | who abuse peoples’ rights in the
+people in our | school and neighborhood.
+district: |  Discussing in groups the
+Obeying laws | responsibilities people do in their
+Participating in | localities to provide the basic needs.
+community work, Doing |  Reporting the discussed
+Productive activities, | responsibilities to class
+Caring for the sick,, |  Writing class rules for them to follow.
+going to school.
+
+National Curriculum Development Centre 2010 | 17 | 17
+
+
+
+Subject Competence | Language Competence | Content | Suggested Activities
+- Participating in making
+laws.
+- Maintaining proper
+sanitation.
+</passage>
+
 <passage id="lchk_0c5ec1b888e3496a801febd087ddb64b" source="Primary 4 Social Studies Notes: Living Together in Our District" part="26">
 Contact: 0754895241/0783298434
 Email: tekule@tekartlearning.com
@@ -685,160 +829,104 @@ iii) Calls the executive and council meetings
 - Mobilizes youth to take part in development.
 </passage>
 
-<passage id="lchk_48ff9f7f41ca41cb89b9c5849eeeeee9" source="Primary 4 Social Studies Scheme of Work, Term 3, 2022" part="4">
-appointing authority Identifies examples of |.reads and writes the wo7.Group method | appointed leaders|.Honesty in our district MK Standard bk 4
-.examples of appointed leaders in|appointéd leaders In ol/related to choosing cultut Problem solving |. Answering oral QY Tolerance
-district leaders.
-HES NR] ene a —1.
-"Explaining how
-Choosing cultural leaders |The learner; The learner; .|-Dramatisation cultural leaders ary.Appreciation Pictures In pupil's book pg.MK Standard SST bk 4
-choosing such leaders through In|.explains how cultural l{.pronounces the words rq. Discussion chosen. .Love pg 82
-examples of such leaders lare chosen Ithe choosing cultural lead Discovery .Giving examples d.Respect Primary Four carriculum
-Gives examples of cultural cultural leaders. |.Critical thinking
-Ls leaders,
-
-
-leader
-
-jour district
-
-LIVING TOGETHER
-IN OUR DISTRICT
-
-Child abuse
-
-LEADERS IN OUR
-DISTRICT
-
-his oe «
-
-|Qualities of a
-
-Rights of peo}
-
-Forms of child abuse jabuse,
-.physical,emotional and psycological
-
-(Groups of people who commonly The learner;
-[children's rights
-.witch-doctors,step-mothers,alcol abusers:
-strangers thieves rebels
-
-[Causes of child abuse
-.death of parents
-.Indiscipline among children
-.drunk parents
-unemployment
-
-greed for wealth
-
-.explains the forms of child
-
-.identifies children's rig].pronounces the words
-
-lists causes of child abuse
-
-The learner; ulilustration
-
-related to chi d abuse.
-Discussion
-
-“identifying group:
-people who abuse| Negotiation
-children's rights | Assertiveness
-Listing causes of child abuse
-
-“Critical thinking
-
-“chalkboard Mustrations
-MK Standard SST bk4
-pes?
-.Newspaper articles about
-child abuse.
-
-[Choosing Voluntary leaders | The learner, The learner; jaming voluntary Assertiveness (MK Standard SSTbk4 |
-.qualities to consider before choo} Identifies how volunta|.spells,reads and writes tH Group discussior lalning how su.Care pg 82
-leaders leaders are chosen words related to voluntary Demonstration |leaders are choser).Effective communication
-.how they are chosen Gives examples of cult|leaders.
-examples of such leaders in our s|leaders.
-«Definition of the term qualities o|The learner; The learner; Group discussior .Discussing the qui.Problem-solving |Pictures in pupil's bks = | MK Standard SST bk 4
-leader .outlines the qualities q.constructs sentences using la good leader .Critical thinking |pg 84 pg 84
-.Reasons why It's Important to ha\good leader words related to the top|.Demonstration |.Identifying the —_|.Assertiveness
-leaders gives reasons for good dangers of bad leadership
-leadership
-What are rights? |The learner; The learner; problem-solving] .Listing children's 4.Appreciation chalkboard illustrations |MK Standard SST bk 4
-These are natural freedoms every Defines the term right{.pronounces,reads and w).Discussion Defining children’ Assertiveness pg 85
-must enjoy .outlines some of the |the words related to chilq.Demonstration .Self esteem Magazines talking about
-They Include; people's rights right s. children's rights.
--tight to life,right to education, rig.Gives examples of children's
-right to medical care, right to food rights.
-(Children's rights
--Are natural freedoms which every child must
-jenjoy for being a child.
-examples of chilren's rights
-—__——
-What Is child abuse? The learner; The learner; singing songs abo|.Coping with emot Chalkboard illustrations |Primary Four carriculum
-</passage>
-
-<passage id="lchk_f9b0059407fa480588c49763ca813b43" source="Primary 4 Social Studies Scheme of Work, Term 3, 2022" part="6">
-lour district. |.It's the fastest type of transport. |.compares alr transpor{.pronounces,reads and sq.Group discussiohas been used. |.Critical thinking _|.A chart with means of alfibk 4 pg 91 ‘
-Aeroplanes land on alrports and awith other types of |_| words related to alr trans).lIlustration Naming districts 4.Self-esteem MK Standard SST bk 4
-.Difference between airport and atransport, [served by aeroplanes. pg 104,
-i Some districts In Uganda served by aeroplanes Answering oral questions.
-Entebbe as an International alrport.
-
-I Advantages and disadvantages of alr transport
-
-
-IN OUR DISTRICT.
-
-.Proper disposal of waste
-Clearing the bushes around our homes
-.Covering dust bins after rubbish disposal.
-
-|sanitation In our district.
-
-7 People who protect
-human rights |.The police The learner; The learner; Role play Listing people wh{.Apprectation _| pictures in pupil's bk pgs|.Primary Four carriculum
-jour district |.Parents explains the groups of|.reads and practices the |.Demonstratlon jour rights. Assertiveness |.MK Standard SST bk 4
-[The army people who protect oulstructures related to diffd.Group dlscussloy Role playing n grd.Respect pg 87.
-Religious leaders rights. |groups of people who protect different groups protect Comprehensive SST
-jour rights lour rights. bk 4 pg 63
-LIVING TOGETHER [Othe groups of people who prote j The learners [Listening to aresq.Negotlation | Pictures In pupil's bk pgs|Primary Four Carriculum
-IN OUR DISTRICT rights . identifies how security ,pronounces,reads andsp| Discussion person .Critical thinkking Comprehensive SST
-.Local Defence Forces promotes development words related to security| .lIlustration .Listing down the 1]. Appreciation bk 4 pg66
-The Prisons Officers .Lists the groups of people who Role play key different human
-Private security companies protect our rights. rights protectors.
-importance of security In our district
-promotes development
-sti Increases production
-|. promotes peace
-ensures [aw and order
-promotes trade
-[3] Responsibiiiti¢ Our responsibilities, The learner; The learner; [Demonstration |.Listing down our |.Care |MK Standard SST bk 4
-people In our |.Obeying laws . Identifies our responst.pronounces,reads and willlustration responsibilities |.Sympathy [pictures in pupil's book M pgs 88-89
-district, Taking part In community work |.lists down our respons the words related to our {Discussion Listing ways of cal.Appreciation | PP91.
-Caring for the sick In a society. bilities In our district. ithe sick Critical thinking
-.Taking part In making laws
-Caring for plants
-Taking part In reproductive activities
-Helping others
-LIVING TOGETHER (Maintaining pjActivities that promote proper sa The learner; The learner; Role play Defining the term| Appreciation pictures in pl's Bk pgs 90], imary Four carriculum
-IN OUR DISTALEADERS IN {sanitation, | Draining stagnant water. . identifies the Importar ids and writes the wor].Demonstration |sanitatlon Care MK Standard SST bk 4
-DISTRICT .Cleaning the compound. proper sanitation. _|related to the sanitation ].Discussion _|.Listing down the v.Creative thinking pgs 90-82
-.Collecting and burning the rubbis| gives activities that promote maintaining sanitation.
-
-The learner; Discussion
-
--Lsting servicesprd. Assertiveness
-
-“pletures in pl's Bk MK SSY.MK Standard SST BK 4
-
-What social services are, The learner;
-These are the services that are pr .Defines the term socla|.pronounces,reads and writes government. Appreciation Pg 97
-</passage>
-
-<passage id="lchk_c099f6a889f34c5a90fb6e076c54947d" source="P 4 SST Lesson Notes Term III" part="2">
+<passage id="lchk_ff3b51efe44c4cfe8922d9a49d70971f" source="P 4 SST Lesson Notes Term III" part="7">
+ Leader
+ Administration
+ Decentralization
+ Disability
+CONTENT: LEADERS
+A leader is a person who manages and controls something/ person given authority to control / direct
+others.
+Administration is the act of managing and controlling an organization.
+Decentralization is the transfer of power from central government to local government.
+Types of leaders in our district
+ Political leaders
+ These are leaders of areas.
+Examples of leaders
+ LCI – LC5
+ RDC – Resident District Commissioner
+ LC – Local Council
+Local Council V system
+ The district council is made up of the following
+ Chair person
+ Councilors elected to represent district sub-county / divisions and towns
+ Two councilors elected to represent the youth
+ Two councilors with disabilities
+The Local Council Structure
+ LCV – District
+ LC IV – County/ Municipality
+ LC III – Sub – County / division
+ LC II – Parish Executive
+ LC I – Village executive
+Exercise
+8. Who is a leader?
+9. Mention any two types of leaders.
+10. Give any three examples of political leaders
+11. State the political heads of the following areas
+a. Country
+b. District
+c. Country
+12. How are leaders important in a community?
+13. How do civic leaders came into power?
+14. Write LC in full.
+Date Class Subject No. of pupils Time
+P.4
+TOPIC: Leaders in our district
+SUB –TOPIC: Members of the LC Executive
+INTRODUCTION: The lesson will be introduced by
+COMPETENCES: Learners should be able to read, write, and spell correctly.
+ Resident
+ Chairperson
+ Commissioner
+ Disabilities
+ Finance
+CONTENT: MEMBERS OF LC EXECUTIVE
+Chairperson – He chairs meetings
+Vice chairperson – Helps the chairperson
+He is in charge of children
+General Secretary – Records minutes
+Secretary for defence – Responsible for security matters
+Secretary for finance – In charge of money
+Secretary for information – In charge of delivering messages / mobilization
+Secretary for production and environment – To care for the environment
+Secretary for youth – Responsible for youth affairs.
+Secretary for women affairs – Responsible for women
+Secretary for disabilities – Responsible for the disabled
+There are ten members who make the LCI executive
+RDC
+RDC in full is Resident District Commissioner
+Roles of the RDC
+ He heads a district.
+ He is appointed by the president
+ He advises the chairperson.
+ He carries out any other function assigned by the president.
+CIVIL LEADERS
+Civil leaders are
+Example of civil leaders
+ DEO
+ DFO
+Exercise
+7. Write LC in full.
+8. How many members make up LC committee?
+9. Who is responsible for children affairs in LC
+10. Write RDC in full.
+11. Outline any three roles of RDC in a district.
+12. Mention any one role of the CAO in a district.
+Date Class Subject No. of pupils Time
+P.4
+TOPIC: Leaders in our district
+SUB –TOPIC: The duties of the district leaders
+INTRODUCTION:
+COMPETENCES: Learners should be able to read, write, and spell correctly.
+ Co-ordinates
+ Marriage
+ Agriculture
+ Commander
+CONTENT: Duties of the District leaders
+District chairperson
+ He is the political head of the district.
+ He is directly elected by adults.
+Roles of a chairperson
  He monitors the general administration of the district.
  He co-ordinates the activities of the local government.
  He supervise the work of all other officers in the district.
@@ -846,258 +934,6 @@ Chief Administrative Officer (CAO)
  He is the chief accounting officer of the district.
 Duties of CAO
  He is the highest civil servant in the district.
- He officiates legal marriage on behalf of the district.
- He is responsible for payment of civil servants in a district.
-District Agriculture Officer (DAO)
- He advises farmers on better farming methods.
- He ensures food security in the district.
- He helps farmers to improve on their income
-District Police Commander (DPC)
- He controls the police force of the district.
- He makes sure that all people keep law and order in the district.
- He gives permission before public rallies take place.
-District Forest Officer (DFO)
- He is in charge of conserving forests.
- He encourages tree planting and controls the felling down of trees.
-Exercise
-1. Name the political head of a district.
-2. Mention the top civil servant in the district.
-3. Write the following abbreviations in full.
-a) DEO
-b) CAO
-c) DPC
-4. State the role of the DPC in the country
-Date Class Subject No. of pupils Time
-P.4
-TOPIC: Our leaders in our district
-SUB –TOPIC: Civic leaders in our district
-INTRODUCTION: The lesson will be introduced by reviewing the previous lesson
-CONTENT: DISTRICT DIRECTOR OF HEALTH SERVICES (DDHS)
-He was formerly known as District Medical Officer.
- He is responsible for medical programmes and departments in the district.
- He supervises all medical workers in the district.
- He controls epidemic diseases in the district.
-District Veterinary Officer (DVO)
- He advises farmers on how to look after their livestock.
- He teaches people how to improve on the quality of their live stock.
- He supervises the veterinary works in the district.
-District Fisheries Officer (DFO)
- He is in charge of fisheries in the district.
- He controls over fishing and catching of young fish.
- He teaches people proper methods of fishing.
-District Speaker
- The district speaker presides over council meeting
- He controls council meetings
-The District Planner (DP)
- He plans development in the district.
- He discourages unplanned building in the district.
-Exercise
-1. Write the following in full.
-a) DFO
-b) DVO
-c) DDHS
-2. State the role of a District Fisheries Officer
-3. Give the importance of a veterinary doctor in our community.
-4. What role is played by the District planner in a district?
-Date Class Subject No. of pupils Time
-P.4
-TOPIC: Our leaders in our district
-SUB –TOPIC: Religious Leaders
-INTRODUCTION:
-COMPETENCES: Learners should be able to read, write, and spell correctly.
- Bishop
- Priest
- Reverend
- Sheikhs
- Pastors
- Mufti
-CONTENT: RELIGIOUS LEADERS
-These are leaders of different religions
-Examples of Religious Leaders
- Bishops
- Priest
- Reverends
- Sheikhs
- Pastors
- Mufti
- A pope – leads catholic in the world
- Arch Bishop – leads Anglicans in a country
- A mufti – heads Moslems in a country.
-Roles of religion towards development
- Religion helps to shape the morals of people
- It has built worshiping places.
- It has built schools
- It has built hospitals
- It has provided employment
-Voluntary leaders
- Voluntary leaders are people who willingly offer free services to people.
-Examples of voluntary leaders
- Scouts and guides
- Leaders of non – government organizations
-Roles played by scouts and guides
-</passage>
-
-<passage id="lchk_dcd8cd6cfffa46a0b1e9565735b52296" source="Sipro P4 Beginning Of Term 3 By Kalulu Brian 0755518221" part="2">
-36.Either:Name the mother of Jacob and Esau.
-
-Or —: Name the mother of Prophet Muhammad (PBUH).
-
-37.Either: State any one way Jesus Christ helped Lazarus.
-
-Or —: Why are Muslims encouraged to pay zakat?
-
-38.Either: State any one way the devil tempted Jesus in the wilderness.
-
-Or _ : State any one way Prophet Muhammad (PBUH) suffered.
-
-39.Either: Name the Christian symbol that promotes salvation.
-
-Qr =: Name the Islamic symbol that is a source of hadith.
-
-40.Either: How is Baptism important to Christians? a
-
-Or — : Why ee Muslims circumcise their male children?
-
-SECTION B: 60 MARKS
-Questions 41 to 55 carry four marks each.
-41.2) What term is given to the violation of children's rights?
-
-State any teen Wye GR
-b) State any theo ways children's rights are violated in your district,
--
-
-ii)
-
-ee
-
- Montion anu a. en
-©) Mention any one danger of violating chidren's rights
-
-
-42.Match the following informa
-
-GatA tion correctly.
-Buganda Kingdom Om
-Busoga Kingdom omenge
-Rwenzururu Kingdom Kabaka
-Bunyoro Kingdom Kyabi i"
-i) Buganda Kingdom _e
-ii) Busoga Kingdom
-
-ili) Rwenzururu Kingdom
-
-iv) Bunyoro Kingdom
-
-43.a) What is the main role of the school bursar?
-
-b) State any two ways a school benefits from the community.
-
-i)
-
-ii)
-
-c) Mention one item a community can get from the school.
-
-eS Mention any two groups of people who tell legends.
-i
-
-ii)
-
-b) State any two ways legends are important to children.
-
-i)
-
-ii)
-
-45.a) Name one example of tree species in natural forests.
-
-b) State any two characteristics of natural forests.
-
-| ae
-
-ii)
-
-c) How do forests promote people's health?
-
-46.a) Draw any two means of water transport.
-
-b) State any two uses of transport to people.
-
-i)
-ii)
-
-al Services Tel. 0414669050/ 0755-274911/0776-274911
-2.4 SOCIAL STUDIES WITH RELIGIOUS EDUCATION BEGINNING OF TERM II - 2023
-
-
-47.Study the sketch map of Kitu Village below and use
-
-it to answer the questions
-that follow.
-
-Key:
-P - Police
-M- Market
-
-a) Name the feature on the road marked A and T.
-iA (ii) T.
-b) What is the direction of P from M?
-
-c) Name.one basic need got from the place marked M.
-
-. 7
-48.a) Mention the type of leaders where teachers belong.
-
-b) Give any two other types of leaders apart from (a) above.
-i)
-ii)
-
-c) How is a class monitor important?
-
-49.a) Name the town where Entebbe international airport is found.
-
-b) Apart from airports, mention any two other important places.
-i) a:
-ii)
-
-c) How is an airport important? _ 5
-
-50.a) Mention any two examples of economic activities
-i)
-ui) ; e ee ae
-b) State any two problems faced by people who Carry out economic activities 4
-i)
-ii)
-Gay © Soro Ecueatonal Series Tet O41 4559050 0755-27591 VOT7ETIAGIT
-AS SOCIAL STUDIES WITH RELIGIOUS EDUCATION BEGINNING OF TERM «i. 2023
-
-CamScanner
-
-jneach of the questions 51
-C to 55
-nsstions but not both 0 99, answer EITHER the Christi i
-questions on th e Christian OR Islamic
-Eierded to a n the same numb i
-pupil who attempts both questions ina particular number,
-
-tither:a) Name the place where God put Adam and Eve to live.
-
-b) State any two reasons why God created people.
-i)
-ii)
-c) How did Adam and Eve disobey God?
-
-Or =a) Name the place where Allah put Adam and Hawah to live.
-
-b) State any two reasons why Allah created people.
-i)
-ii)
-c) How did Adam and Hawah disobey Allah?
-
-32.Either:a) Which angel delivered the good news to Virgin Mary about the birth of
-Jesus Christ?
-
-: b) State anyone way angels are important in Christianity.
 </passage>
 
 <passage id="lchk_0b5f3048fe934b8c8fc3e9b936a54917" source="Sipro P4 Beginning Of Term 3 By Kalulu Brian 0755518221" part="1">
@@ -1286,6 +1122,169 @@ cular number.
 in each of the questions 36 to 40, answer EITHER a ay
 question but not both questions on the same num arth
 awarded to a pupil who attempts both questions inaP
+</passage>
+
+<passage id="lchk_dcd8cd6cfffa46a0b1e9565735b52296" source="Sipro P4 Beginning Of Term 3 By Kalulu Brian 0755518221" part="2">
+36.Either:Name the mother of Jacob and Esau.
+
+Or —: Name the mother of Prophet Muhammad (PBUH).
+
+37.Either: State any one way Jesus Christ helped Lazarus.
+
+Or —: Why are Muslims encouraged to pay zakat?
+
+38.Either: State any one way the devil tempted Jesus in the wilderness.
+
+Or _ : State any one way Prophet Muhammad (PBUH) suffered.
+
+39.Either: Name the Christian symbol that promotes salvation.
+
+Qr =: Name the Islamic symbol that is a source of hadith.
+
+40.Either: How is Baptism important to Christians? a
+
+Or — : Why ee Muslims circumcise their male children?
+
+SECTION B: 60 MARKS
+Questions 41 to 55 carry four marks each.
+41.2) What term is given to the violation of children's rights?
+
+State any teen Wye GR
+b) State any theo ways children's rights are violated in your district,
+-
+
+ii)
+
+ee
+
+ Montion anu a. en
+©) Mention any one danger of violating chidren's rights
+
+
+42.Match the following informa
+
+GatA tion correctly.
+Buganda Kingdom Om
+Busoga Kingdom omenge
+Rwenzururu Kingdom Kabaka
+Bunyoro Kingdom Kyabi i"
+i) Buganda Kingdom _e
+ii) Busoga Kingdom
+
+ili) Rwenzururu Kingdom
+
+iv) Bunyoro Kingdom
+
+43.a) What is the main role of the school bursar?
+
+b) State any two ways a school benefits from the community.
+
+i)
+
+ii)
+
+c) Mention one item a community can get from the school.
+
+eS Mention any two groups of people who tell legends.
+i
+
+ii)
+
+b) State any two ways legends are important to children.
+
+i)
+
+ii)
+
+45.a) Name one example of tree species in natural forests.
+
+b) State any two characteristics of natural forests.
+
+| ae
+
+ii)
+
+c) How do forests promote people's health?
+
+46.a) Draw any two means of water transport.
+
+b) State any two uses of transport to people.
+
+i)
+ii)
+
+al Services Tel. 0414669050/ 0755-274911/0776-274911
+2.4 SOCIAL STUDIES WITH RELIGIOUS EDUCATION BEGINNING OF TERM II - 2023
+
+
+47.Study the sketch map of Kitu Village below and use
+
+it to answer the questions
+that follow.
+
+Key:
+P - Police
+M- Market
+
+a) Name the feature on the road marked A and T.
+iA (ii) T.
+b) What is the direction of P from M?
+
+c) Name.one basic need got from the place marked M.
+
+. 7
+48.a) Mention the type of leaders where teachers belong.
+
+b) Give any two other types of leaders apart from (a) above.
+i)
+ii)
+
+c) How is a class monitor important?
+
+49.a) Name the town where Entebbe international airport is found.
+
+b) Apart from airports, mention any two other important places.
+i) a:
+ii)
+
+c) How is an airport important? _ 5
+
+50.a) Mention any two examples of economic activities
+i)
+ui) ; e ee ae
+b) State any two problems faced by people who Carry out economic activities 4
+i)
+ii)
+Gay © Soro Ecueatonal Series Tet O41 4559050 0755-27591 VOT7ETIAGIT
+AS SOCIAL STUDIES WITH RELIGIOUS EDUCATION BEGINNING OF TERM «i. 2023
+
+CamScanner
+
+jneach of the questions 51
+C to 55
+nsstions but not both 0 99, answer EITHER the Christi i
+questions on th e Christian OR Islamic
+Eierded to a n the same numb i
+pupil who attempts both questions ina particular number,
+
+tither:a) Name the place where God put Adam and Eve to live.
+
+b) State any two reasons why God created people.
+i)
+ii)
+c) How did Adam and Eve disobey God?
+
+Or =a) Name the place where Allah put Adam and Hawah to live.
+
+b) State any two reasons why Allah created people.
+i)
+ii)
+c) How did Adam and Hawah disobey Allah?
+
+32.Either:a) Which angel delivered the good news to Virgin Mary about the birth of
+Jesus Christ?
+
+: b) State anyone way angels are important in Christianity.
 </passage>
 </passages>
 
