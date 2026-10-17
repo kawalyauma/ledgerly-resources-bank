@@ -1,0 +1,386 @@
+{
+  "title": "P6 Christian Religious Education Scheme of Work — Term 3, 2026",
+  "summary": "Uses the school's Term III sequence: Friends on the Way, Christian Involvement in the World and Happiness on the Way to Arrival, with the NCDC Term III themes included. 20 sourced lessons and a free weekly review period.",
+  "units": [
+    {
+      "title": "Friends on the Way",
+      "theme": "Christians on the way",
+      "weekFrom": 1,
+      "weekTo": 2,
+      "competences": "Develop understanding of friendship, advice and Jesus' example of friendship.",
+      "sources": [
+        {
+          "source": "lchk_352756f3359c4065bddf3735cad81ad3",
+          "quote": "P.6 R.E SCHEME OF WORK TERM THREE 2019"
+        },
+        {
+          "source": "lchk_62622d06b00c4698b1f540bbf5ba9278",
+          "quote": "Friends on the way"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning and importance of friendship",
+          "subtopic": "Meaning and importance of friendship",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain the meaning and importance of friendship."
+          ],
+          "sources": [
+            {
+              "source": "lchk_352756f3359c4065bddf3735cad81ad3",
+              "quote": "Meaning and importance of friendship"
+            }
+          ]
+        },
+        {
+          "title": "Qualities of true friends",
+          "subtopic": "Qualities of true friends",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify qualities of true friends."
+          ],
+          "sources": [
+            {
+              "source": "lchk_62622d06b00c4698b1f540bbf5ba9278",
+              "quote": "Qualities of true friends"
+            }
+          ]
+        },
+        {
+          "title": "Distinguishing good and bad advice",
+          "subtopic": "Distinguishing good and bad advice",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Distinguish good advice from bad advice."
+          ],
+          "sources": [
+            {
+              "source": "lchk_352756f3359c4065bddf3735cad81ad3",
+              "quote": "How to distinguish between good and bad advice"
+            }
+          ]
+        },
+        {
+          "title": "Marriage in Christian life",
+          "subtopic": "Marriage in Christian life",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe Christian teachings on marriage."
+          ],
+          "sources": [
+            {
+              "source": "lchk_72408bf80d91438bbf3bb3f312247c94",
+              "quote": "Meaning of marriage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Christian Involvement in the World",
+      "theme": "Christians on the way",
+      "weekFrom": 3,
+      "weekTo": 6,
+      "competences": "Explain cooperation, Christian voluntary organisations, science and technology and national laws.",
+      "sources": [
+        {
+          "source": "lchk_f0f2f487715b434fa6ab5c94d63932cc",
+          "quote": "Christian Involvement in the World"
+        },
+        {
+          "source": "lchk_62622d06b00c4698b1f540bbf5ba9278",
+          "quote": "Christian organization in developing the world"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Importance of working together",
+          "subtopic": "Importance of working together",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain the importance of cooperation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_62622d06b00c4698b1f540bbf5ba9278",
+              "quote": "Importance of working together"
+            }
+          ]
+        },
+        {
+          "title": "Ways of cooperation",
+          "subtopic": "Ways of cooperation",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe possible ways of cooperation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_62622d06b00c4698b1f540bbf5ba9278",
+              "quote": "Possible ways of co-operation"
+            }
+          ]
+        },
+        {
+          "title": "Christian voluntary organisations",
+          "subtopic": "Christian voluntary organisations",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify Christian voluntary organisations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_62622d06b00c4698b1f540bbf5ba9278",
+              "quote": "Christian voluntary organizations."
+            }
+          ]
+        },
+        {
+          "title": "Role of Christian organisations",
+          "subtopic": "Role of Christian organisations",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe roles of Christian voluntary organisations."
+          ],
+          "sources": [
+            {
+              "source": "lchk_62622d06b00c4698b1f540bbf5ba9278",
+              "quote": "Roles of Christian Voluntary Organization"
+            }
+          ]
+        },
+        {
+          "title": "Technology in Christian development",
+          "subtopic": "Technology in Christian development",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State contributions of science and technology."
+          ],
+          "sources": [
+            {
+              "source": "lchk_62622d06b00c4698b1f540bbf5ba9278",
+              "quote": "Contributions of science technology and education"
+            }
+          ]
+        },
+        {
+          "title": "Applications of technology",
+          "subtopic": "Applications of technology",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe applications of technology."
+          ],
+          "sources": [
+            {
+              "source": "lchk_62622d06b00c4698b1f540bbf5ba9278",
+              "quote": "Application of technology"
+            }
+          ]
+        },
+        {
+          "title": "Bad effects of technology",
+          "subtopic": "Bad effects of technology",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify harmful effects of technology."
+          ],
+          "sources": [
+            {
+              "source": "lchk_62622d06b00c4698b1f540bbf5ba9278",
+              "quote": "Bad effects of technology."
+            }
+          ]
+        },
+        {
+          "title": "National laws and rules",
+          "subtopic": "National laws and rules",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain why Christians follow national laws and rules."
+          ],
+          "sources": [
+            {
+              "source": "lchk_62622d06b00c4698b1f540bbf5ba9278",
+              "quote": "National laws and rules"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Happiness on the Way to Arrival",
+      "theme": "Christians on the way",
+      "weekFrom": 7,
+      "weekTo": 10,
+      "competences": "Describe Christian purity, hope and happiness in giving and receiving.",
+      "sources": [
+        {
+          "source": "lchk_f0f2f487715b434fa6ab5c94d63932cc",
+          "quote": "Happiness on the Way to Arrival"
+        },
+        {
+          "source": "lchk_103d74844b1745b4a3b7fe2a24e04ded",
+          "quote": "True source of happiness."
+        }
+      ],
+      "lessons": [
+        {
+          "title": "The Christian life of purity",
+          "subtopic": "The Christian life of purity",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain the meaning and importance of a life of purity."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d6bba15e192f4643bb63d6960deda0cf",
+              "quote": "Christians are called to lead a life of purity"
+            }
+          ]
+        },
+        {
+          "title": "Ways of purifying ourselves",
+          "subtopic": "Ways of purifying ourselves",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify ways of seeking purity."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d6bba15e192f4643bb63d6960deda0cf",
+              "quote": "Ways through which we can purify ourselves"
+            }
+          ]
+        },
+        {
+          "title": "Repentance and forgiveness",
+          "subtopic": "Repentance and forgiveness",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe repentance and forgiveness as ways of being pure."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d6bba15e192f4643bb63d6960deda0cf",
+              "quote": "Repenting"
+            }
+          ]
+        },
+        {
+          "title": "Prayer and Christian fellowship",
+          "subtopic": "Prayer and Christian fellowship",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify prayer and fellowship as ways of developing purity."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d6bba15e192f4643bb63d6960deda0cf",
+              "quote": "Attending fellowships at church"
+            }
+          ]
+        },
+        {
+          "title": "The parable of the ten virgins",
+          "subtopic": "The parable of the ten virgins",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Retell the parable of the ten virgins."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d6bba15e192f4643bb63d6960deda0cf",
+              "quote": "The parable of the ten virgins"
+            }
+          ]
+        },
+        {
+          "title": "Lessons from the ten virgins",
+          "subtopic": "Lessons from the ten virgins",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "State lessons learned from the parable."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d6bba15e192f4643bb63d6960deda0cf",
+              "quote": "Lessons learnt from the parable"
+            }
+          ]
+        },
+        {
+          "title": "True sources of happiness",
+          "subtopic": "True sources of happiness",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify sources of happiness in Christian life."
+          ],
+          "sources": [
+            {
+              "source": "lchk_103d74844b1745b4a3b7fe2a24e04ded",
+              "quote": "True source of happiness."
+            }
+          ]
+        },
+        {
+          "title": "Giving and receiving",
+          "subtopic": "Giving and receiving",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain how giving and receiving can bring happiness."
+          ],
+          "sources": [
+            {
+              "source": "lchk_103d74844b1745b4a3b7fe2a24e04ded",
+              "quote": "How giving and receiving brings happiness"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "Additional cited exercises are needed to plan separate practice and end-of-term assessment periods."
+  ]
+}
