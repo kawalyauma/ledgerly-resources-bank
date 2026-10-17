@@ -1,0 +1,57 @@
+{
+  "job": "ltsk_4fe70c4346fd4f1a9c81e36023435861-0",
+  "task": "ltsk_4fe70c4346fd4f1a9c81e36023435861",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 57,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Christian Religious Education",
+  "term": "2026-T3",
+  "week": 3,
+  "weeks": 10,
+  "periodsPerWeek": 3,
+  "lessons": [
+    {
+      "id": "lles_f067b19b57a74204a1b04b1c46b57158",
+      "kind": "teach",
+      "week": 3,
+      "title": "Jesus' teaching on discipleship",
+      "periods": 1,
+      "subtopic": "Jesus' teaching on discipleship"
+    },
+    {
+      "id": "lles_1aeffb255afa48318fd1193c5d52c747",
+      "kind": "teach",
+      "week": 3,
+      "title": "Finding happiness: the Beatitudes",
+      "periods": 1,
+      "subtopic": "Finding happiness: the Beatitudes"
+    },
+    {
+      "id": "lles_3c121ee6547e4936833535ffd4d4d384",
+      "kind": "review",
+      "week": 3,
+      "title": "Week 3 review",
+      "periods": 1,
+      "subtopic": "Discipleship and its Rewards"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/christian-religious-education",
+  "passages": [
+    "lchk_1d36d3d5815c47b0bf16226c862c3c98",
+    "lchk_b7a765d26a7d4b2a803fec3f9aa4ef7f",
+    "lchk_3f56d32c757948a687e50291e63ce909",
+    "lchk_33701deccaae42a8a951c8e4f63437bb",
+    "lchk_526fa31e33c048179dbdaa358f860e49",
+    "lchk_0332d47087784303882eb838f71c1700",
+    "lchk_c86a32aa12604f768607232ce603074a",
+    "lchk_51b03dd73c9b46369a7ba097e0551de3",
+    "lchk_400058970ee84e94be4329c82df7c991"
+  ],
+  "created": "2026-10-17T17:54:30.777Z"
+}

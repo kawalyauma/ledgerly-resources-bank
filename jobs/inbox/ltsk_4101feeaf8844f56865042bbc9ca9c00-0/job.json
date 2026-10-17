@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_4101feeaf8844f56865042bbc9ca9c00-0",
+  "task": "ltsk_4101feeaf8844f56865042bbc9ca9c00",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 56,
+  "school": "sch-7207f9",
+  "class": "P7",
+  "classLevel": 7,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 2,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_3745add6250f42289d2007a5435bebc5",
+      "kind": "teach",
+      "week": 2,
+      "title": "Vegetation resources",
+      "periods": 1,
+      "subtopic": "Vegetation resources"
+    },
+    {
+      "id": "lles_a95a8f0385cb4e0b9aa625af14eff200",
+      "kind": "teach",
+      "week": 2,
+      "title": "Climate as a resource",
+      "periods": 1,
+      "subtopic": "Climate as a resource"
+    },
+    {
+      "id": "lles_719cd0fd5429446487a9ecb607133e68",
+      "kind": "teach",
+      "week": 2,
+      "title": "Water resources",
+      "periods": 1,
+      "subtopic": "Water resources"
+    },
+    {
+      "id": "lles_842d6ec1c8864216a846513be7859e56",
+      "kind": "teach",
+      "week": 2,
+      "title": "Problems in using resources",
+      "periods": 1,
+      "subtopic": "Problems in using resources"
+    },
+    {
+      "id": "lles_d2aa3de8bd33401fb404dc2b95f38fce",
+      "kind": "teach",
+      "week": 2,
+      "title": "Caring for resources",
+      "periods": 1,
+      "subtopic": "Caring for resources"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P7/social-studies",
+  "passages": [
+    "lchk_ff110c6b16684b4bbf56de29c7e48fff",
+    "lchk_08b4203996574de4b3f2914bd9384c2c",
+    "lchk_c8e10e5097074644ad353ff3556c7e2b",
+    "lchk_d2861670341541fc82e4b0a679a47bf0",
+    "lchk_bcfdfd36126440009097fbf1315f366d",
+    "lchk_6189871e1121435bb424a22e5d3e2b1f",
+    "lchk_45b3b7d8a19b431c93f6a52f1f12a1e9",
+    "lchk_2d29d7724d2449769a73a781aefc6250"
+  ],
+  "created": "2026-10-17T17:54:15.788Z"
+}

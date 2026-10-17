@@ -1,0 +1,80 @@
+{
+  "job": "ltsk_5df20c5df2e342f7a6199cf37a521abb-0",
+  "task": "ltsk_5df20c5df2e342f7a6199cf37a521abb",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 57,
+  "school": "sch-7207f9",
+  "class": "P4",
+  "classLevel": 4,
+  "subject": "Science",
+  "term": "2026-T3",
+  "week": 2,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [
+    {
+      "id": "lles_fd1c8d85ef044232ae8add26207f1432",
+      "kind": "teach",
+      "week": 2,
+      "title": "Dehydration",
+      "periods": 1,
+      "subtopic": "Dehydration"
+    },
+    {
+      "id": "lles_749f9e8b8f6d4bbebadc864a59a1cf53",
+      "kind": "teach",
+      "week": 2,
+      "title": "Oral rehydration solution",
+      "periods": 1,
+      "subtopic": "Oral rehydration solution"
+    },
+    {
+      "id": "lles_5147b3679ea24a95a7ca5c797e8e36c8",
+      "kind": "teach",
+      "week": 2,
+      "title": "Intestinal worm infestation",
+      "periods": 1,
+      "subtopic": "Intestinal worm infestation"
+    },
+    {
+      "id": "lles_d031f7e874c542e1a3fffff29c4cce3c",
+      "kind": "teach",
+      "week": 2,
+      "title": "Tapeworms",
+      "periods": 1,
+      "subtopic": "Tapeworms"
+    },
+    {
+      "id": "lles_261eec1b640647b39dcf8bdf4d894e31",
+      "kind": "teach",
+      "week": 2,
+      "title": "Hookworms",
+      "periods": 1,
+      "subtopic": "Hookworms"
+    },
+    {
+      "id": "lles_02d2aa79bd9f407590fa7e4da1a8f715",
+      "kind": "teach",
+      "week": 2,
+      "title": "Threadworms",
+      "periods": 1,
+      "subtopic": "Threadworms"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P4/science",
+  "passages": [
+    "lchk_b27e946bc5fb41328c393e4048eabc7c",
+    "lchk_dc2c047d903447cab4c39d91ced92868",
+    "lchk_98670b27a5454f21a36a23dd71e9ad3e",
+    "lchk_14d3b12c87444f08bcf54f1bdd08bc10",
+    "lchk_f0819c00bdbe41f2bbcd6f53aa2aa723",
+    "lchk_78129b48452e4cff8e709c0b2e755bbb",
+    "lchk_72580cdbd253401da5c354457261d4c4",
+    "lchk_1b88b6d5144441fabe043b13479541af"
+  ],
+  "created": "2026-10-17T17:54:25.781Z"
+}

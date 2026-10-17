@@ -11,9 +11,9 @@
 | 7 | 3 | teach | Christian Involvement in the World | Importance of working together — Importance of working together | writing |
 | 8 | 3 | teach | Christian Involvement in the World | Ways of cooperation — Ways of cooperation | writing |
 | 9 | 3 | review | Christian Involvement in the World | Week 3 review — Christian Involvement in the World | writing |
-| 10 | 4 | teach | Christian Involvement in the World | Christian voluntary organisations — Christian voluntary organisations | pending |
-| 11 | 4 | teach | Christian Involvement in the World | Role of Christian organisations — Role of Christian organisations | pending |
-| 12 | 4 | review | Christian Involvement in the World | Week 4 review — Christian Involvement in the World | pending |
+| 10 | 4 | teach | Christian Involvement in the World | Christian voluntary organisations — Christian voluntary organisations | writing |
+| 11 | 4 | teach | Christian Involvement in the World | Role of Christian organisations — Role of Christian organisations | writing |
+| 12 | 4 | review | Christian Involvement in the World | Week 4 review — Christian Involvement in the World | writing |
 | 13 | 5 | teach | Christian Involvement in the World | Technology in Christian development — Technology in Christian development | pending |
 | 14 | 5 | teach | Christian Involvement in the World | Applications of technology — Applications of technology | pending |
 | 15 | 5 | review | Christian Involvement in the World | Week 5 review — Christian Involvement in the World | pending |

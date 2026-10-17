@@ -8,12 +8,12 @@
 | 4 | 1 | teach | Science at Home and in Our Community | Filtering water — Filtering water | writing |
 | 5 | 1 | teach | Science at Home and in Our Community | Treating water — Treating water | writing |
 | 6 | 1 | teach | Science at Home and in Our Community | Distilling water — Distilling water | writing |
-| 7 | 2 | teach | Science at Home and in Our Community | Decanting water — Decanting water | pending |
-| 8 | 2 | teach | Science at Home and in Our Community | Sorting and soaking clothes — Sorting and soaking clothes | pending |
-| 9 | 2 | teach | Science at Home and in Our Community | Washing and rinsing clothes — Washing and rinsing clothes | pending |
-| 10 | 2 | teach | Accidents and First Aid | Accidents and first aid — Accidents and first aid | pending |
-| 11 | 2 | teach | Accidents and First Aid | Burns and scalds — Burns and scalds | pending |
-| 12 | 2 | teach | Accidents and First Aid | Preventing burns — Preventing burns | pending |
+| 7 | 2 | teach | Science at Home and in Our Community | Decanting water — Decanting water | writing |
+| 8 | 2 | teach | Science at Home and in Our Community | Sorting and soaking clothes — Sorting and soaking clothes | writing |
+| 9 | 2 | teach | Science at Home and in Our Community | Washing and rinsing clothes — Washing and rinsing clothes | writing |
+| 10 | 2 | teach | Accidents and First Aid | Accidents and first aid — Accidents and first aid | writing |
+| 11 | 2 | teach | Accidents and First Aid | Burns and scalds — Burns and scalds | writing |
+| 12 | 2 | teach | Accidents and First Aid | Preventing burns — Preventing burns | writing |
 | 13 | 3 | teach | Accidents and First Aid | First aid for burns — First aid for burns | pending |
 | 14 | 3 | teach | Accidents and First Aid | Fever and convulsions — Fever and convulsions | pending |
 | 15 | 3 | teach | Accidents and First Aid | Causes of fever — Causes of fever | pending |

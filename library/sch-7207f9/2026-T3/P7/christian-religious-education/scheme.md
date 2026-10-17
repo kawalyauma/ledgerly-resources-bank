@@ -5,9 +5,9 @@
 | 1 | 1 | teach | Strengthened by the Spirit we Accept the Events of Life | Meaning of success and failure — Meaning of success and failure | writing |
 | 2 | 1 | teach | Strengthened by the Spirit we Accept the Events of Life | Causes of success and failure — Causes of success and failure | writing |
 | 3 | 1 | review | Strengthened by the Spirit we Accept the Events of Life | Week 1 review — Strengthened by the Spirit we Accept the Events of Life | writing |
-| 4 | 2 | teach | Strengthened by the Spirit we Accept the Events of Life | Coping with life experiences — Coping with life experiences | pending |
-| 5 | 2 | teach | Strengthened by the Spirit we Accept the Events of Life | Fear in people and animals — Fear in people and animals | pending |
-| 6 | 2 | review | Strengthened by the Spirit we Accept the Events of Life | Week 2 review — Strengthened by the Spirit we Accept the Events of Life | pending |
+| 4 | 2 | teach | Strengthened by the Spirit we Accept the Events of Life | Coping with life experiences — Coping with life experiences | writing |
+| 5 | 2 | teach | Strengthened by the Spirit we Accept the Events of Life | Fear in people and animals — Fear in people and animals | writing |
+| 6 | 2 | review | Strengthened by the Spirit we Accept the Events of Life | Week 2 review — Strengthened by the Spirit we Accept the Events of Life | writing |
 | 7 | 3 | teach | Strengthened by the Spirit we Accept the Events of Life | Bible teachings about fear and courage — Bible teachings about fear and courage | pending |
 | 8 | 3 | teach | Strengthened by the Spirit we Accept the Events of Life | Recognising and managing emotions — Recognising and managing emotions | pending |
 | 9 | 3 | review | Strengthened by the Spirit we Accept the Events of Life | Week 3 review — Strengthened by the Spirit we Accept the Events of Life | pending |

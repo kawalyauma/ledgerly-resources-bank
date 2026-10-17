@@ -7,11 +7,11 @@
 | 3 | 1 | teach | OUR LEADERS IN THE DISTRICT | By-laws — By-laws | writing |
 | 4 | 1 | Part B | OUR LEADERS IN THE DISTRICT | By-laws — Part B — By-laws | writing |
 | 5 | 1 | teach | OUR LEADERS IN THE DISTRICT | District political and civic heads — District political and civic heads | writing |
-| 6 | 2 | Part B | OUR LEADERS IN THE DISTRICT | District political and civic heads — Part B — District political and civic heads | pending |
-| 7 | 2 | teach | OUR LEADERS IN THE DISTRICT | Types of district leaders — Types of district leaders | pending |
-| 8 | 2 | Part B | OUR LEADERS IN THE DISTRICT | Types of district leaders — Part B — Types of district leaders | pending |
-| 9 | 2 | teach | OUR LEADERS IN THE DISTRICT | Members of the district council — Members of the district council | pending |
-| 10 | 2 | Part B | OUR LEADERS IN THE DISTRICT | Members of the district council — Part B — Members of the district council | pending |
+| 6 | 2 | Part B | OUR LEADERS IN THE DISTRICT | District political and civic heads — Part B — District political and civic heads | writing |
+| 7 | 2 | teach | OUR LEADERS IN THE DISTRICT | Types of district leaders — Types of district leaders | writing |
+| 8 | 2 | Part B | OUR LEADERS IN THE DISTRICT | Types of district leaders — Part B — Types of district leaders | writing |
+| 9 | 2 | teach | OUR LEADERS IN THE DISTRICT | Members of the district council — Members of the district council | writing |
+| 10 | 2 | Part B | OUR LEADERS IN THE DISTRICT | Members of the district council — Part B — Members of the district council | writing |
 | 11 | 3 | teach | OUR LEADERS IN THE DISTRICT | Departments in the district — Departments in the district | pending |
 | 12 | 3 | Part B | OUR LEADERS IN THE DISTRICT | Departments in the district — Part B — Departments in the district | pending |
 | 13 | 3 | teach | OUR LEADERS IN THE DISTRICT | Roles of district officials — Roles of district officials | pending |

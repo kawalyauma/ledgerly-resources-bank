@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_0211415259674fd882ad963de90d5d50-0",
+  "task": "ltsk_0211415259674fd882ad963de90d5d50",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 56,
+  "school": "sch-7207f9",
+  "class": "P4",
+  "classLevel": 4,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 2,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_4191d46431ae41b3a5c5e23ed7906f92",
+      "kind": "practice",
+      "week": 2,
+      "title": "District political and civic heads — Part B",
+      "periods": 1,
+      "subtopic": "District political and civic heads"
+    },
+    {
+      "id": "lles_ebae88faee144f48a609250cfbdb83a5",
+      "kind": "teach",
+      "week": 2,
+      "title": "Types of district leaders",
+      "periods": 1,
+      "subtopic": "Types of district leaders"
+    },
+    {
+      "id": "lles_f614bfb6a48c4e40ae818b7106195c53",
+      "kind": "practice",
+      "week": 2,
+      "title": "Types of district leaders — Part B",
+      "periods": 1,
+      "subtopic": "Types of district leaders"
+    },
+    {
+      "id": "lles_11f9e9638ca7446a9596405d8ce61239",
+      "kind": "teach",
+      "week": 2,
+      "title": "Members of the district council",
+      "periods": 1,
+      "subtopic": "Members of the district council"
+    },
+    {
+      "id": "lles_d31a61a6df1d444cb8b2d6d53bb86ec8",
+      "kind": "practice",
+      "week": 2,
+      "title": "Members of the district council — Part B",
+      "periods": 1,
+      "subtopic": "Members of the district council"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P4/social-studies",
+  "passages": [
+    "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+    "lchk_0c5ec1b888e3496a801febd087ddb64b",
+    "lchk_a6c1d3301a7743d3a21b117783ccf339",
+    "lchk_4f1813f648d140cd892a0f18ac07c8c5",
+    "lchk_20d9921cd787472b93b9e1fc62d6ac3d",
+    "lchk_58affcbc803e43608d7f28807ab8fc43",
+    "lchk_0b5f3048fe934b8c8fc3e9b936a54917",
+    "lchk_dcd8cd6cfffa46a0b1e9565735b52296"
+  ],
+  "created": "2026-10-17T17:54:10.796Z"
+}

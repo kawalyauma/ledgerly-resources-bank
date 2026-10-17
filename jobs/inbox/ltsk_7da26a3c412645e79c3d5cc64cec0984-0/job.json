@@ -1,0 +1,54 @@
+{
+  "job": "ltsk_7da26a3c412645e79c3d5cc64cec0984-0",
+  "task": "ltsk_7da26a3c412645e79c3d5cc64cec0984",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 60,
+  "school": "sch-7207f9",
+  "class": "P6",
+  "classLevel": 6,
+  "subject": "Christian Religious Education",
+  "term": "2026-T3",
+  "week": 4,
+  "weeks": 10,
+  "periodsPerWeek": 3,
+  "lessons": [
+    {
+      "id": "lles_5ca97a41dd4a4da1bc842f3c9d6683b5",
+      "kind": "teach",
+      "week": 4,
+      "title": "Christian voluntary organisations",
+      "periods": 1,
+      "subtopic": "Christian voluntary organisations"
+    },
+    {
+      "id": "lles_dcff9f2158bc41cab581ab57c4cdad40",
+      "kind": "teach",
+      "week": 4,
+      "title": "Role of Christian organisations",
+      "periods": 1,
+      "subtopic": "Role of Christian organisations"
+    },
+    {
+      "id": "lles_4e7217eaf3b64e0289f96f873c5bf050",
+      "kind": "review",
+      "week": 4,
+      "title": "Week 4 review",
+      "periods": 1,
+      "subtopic": "Christian Involvement in the World"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P6/christian-religious-education",
+  "passages": [
+    "lchk_62622d06b00c4698b1f540bbf5ba9278",
+    "lchk_2256b09f74a442eca1dd4d536a3baa98",
+    "lchk_6af4f52db25643a8b54c687e3cd2a4fe",
+    "lchk_127f56d74e9f4b1099783d9ef777672d",
+    "lchk_1d61423169f3452f95af9dcaf32ccab4",
+    "lchk_2fb7f3526b2948ab9b25f475235d0794"
+  ],
+  "created": "2026-10-17T17:54:35.778Z"
+}

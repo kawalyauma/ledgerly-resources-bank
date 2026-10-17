@@ -7,11 +7,11 @@
 | 3 | 1 | teach | Economic Developments in Africa | Mineral resources — Mineral resources | writing |
 | 4 | 1 | teach | Economic Developments in Africa | Animals as resources — Animals as resources | writing |
 | 5 | 1 | teach | Economic Developments in Africa | People as resources — People as resources | writing |
-| 6 | 2 | teach | Economic Developments in Africa | Vegetation resources — Vegetation resources | pending |
-| 7 | 2 | teach | Economic Developments in Africa | Climate as a resource — Climate as a resource | pending |
-| 8 | 2 | teach | Economic Developments in Africa | Water resources — Water resources | pending |
-| 9 | 2 | teach | Economic Developments in Africa | Problems in using resources — Problems in using resources | pending |
-| 10 | 2 | teach | Economic Developments in Africa | Caring for resources — Caring for resources | pending |
+| 6 | 2 | teach | Economic Developments in Africa | Vegetation resources — Vegetation resources | writing |
+| 7 | 2 | teach | Economic Developments in Africa | Climate as a resource — Climate as a resource | writing |
+| 8 | 2 | teach | Economic Developments in Africa | Water resources — Water resources | writing |
+| 9 | 2 | teach | Economic Developments in Africa | Problems in using resources — Problems in using resources | writing |
+| 10 | 2 | teach | Economic Developments in Africa | Caring for resources — Caring for resources | writing |
 | 11 | 3 | teach | Economic Developments in Africa | Nigeria: climate and oil — Nigeria: climate and oil | pending |
 | 12 | 3 | teach | Economic Developments in Africa | Nigeria: farming and nomadism — Nigeria: farming and nomadism | pending |
 | 13 | 3 | teach | Economic Developments in Africa | Nigeria: hydropower and transport — Nigeria: hydropower and transport | pending |
