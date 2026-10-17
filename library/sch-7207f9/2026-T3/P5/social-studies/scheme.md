@@ -42,13 +42,13 @@
 | 38 | 8 | teach | Population, Size and Distribution | Problems of high and low population — Advantages and disadvantages of high and low population | written |
 | 39 | 8 | teach | Population, Size and Distribution | Controlling population growth — Solutions to high population density | written |
 | 40 | 8 | teach | Population, Size and Distribution | HIV/AIDS and population — Effects of HIV/AIDS on population and economic development | written |
-| 41 | 9 | teach | Population, Size and Distribution | Hazards that check population growth — Natural and man-made hazards | writing |
-| 42 | 9 | teach | Population, Size and Distribution | Population terms — Summary of population terms | writing |
-| 43 | 9 | revision | Uganda as an independent nation | Revision: Uganda as an independent nation — Revision and practice | writing |
-| 44 | 9 | revision | The Government of Uganda | Revision: The Government of Uganda — Revision and practice | writing |
-| 45 | 9 | revision | Population, Size and Distribution | Revision: Population, Size and Distribution — Revision and practice | writing |
-| 46 | 10 | revision | Uganda as an independent nation | Term revision 1: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution — Mixed revision of the term | writing |
-| 47 | 10 | revision | The Government of Uganda | Term revision 2: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution — Mixed revision of the term | writing |
-| 48 | 10 | revision | Population, Size and Distribution | Term revision 3: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution — Mixed revision of the term | writing |
-| 49 | 10 | revision | Uganda as an independent nation | Term revision 4: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution — Mixed revision of the term | writing |
-| 50 | 10 | assessment | Uganda as an independent nation | End of term assessment — Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution | writing |
+| 41 | 9 | teach | Population, Size and Distribution | Hazards that check population growth — Natural and man-made hazards | written |
+| 42 | 9 | teach | Population, Size and Distribution | Population terms — Summary of population terms | written |
+| 43 | 9 | revision | Uganda as an independent nation | Revision: Uganda as an independent nation — Revision and practice | written |
+| 44 | 9 | revision | The Government of Uganda | Revision: The Government of Uganda — Revision and practice | written |
+| 45 | 9 | revision | Population, Size and Distribution | Revision: Population, Size and Distribution — Revision and practice | written |
+| 46 | 10 | revision | Uganda as an independent nation | Term revision 1: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution — Mixed revision of the term | written |
+| 47 | 10 | revision | The Government of Uganda | Term revision 2: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution — Mixed revision of the term | written |
+| 48 | 10 | revision | Population, Size and Distribution | Term revision 3: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution — Mixed revision of the term | written |
+| 49 | 10 | revision | Uganda as an independent nation | Term revision 4: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution — Mixed revision of the term | written |
+| 50 | 10 | assessment | Uganda as an independent nation | End of term assessment — Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution | written |
