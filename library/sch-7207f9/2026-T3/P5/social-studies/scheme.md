@@ -27,21 +27,21 @@
 | 23 | 5 | teach | The Government of Uganda | The constitution — Meaning, functions and importance of a constitution | written |
 | 24 | 5 | teach | The Government of Uganda | The constitutions of Uganda — The 1962, 1967 and 1995 constitutions | written |
 | 25 | 5 | teach | The Government of Uganda | Government revenue — Taxation and types of taxes | written |
-| 26 | 6 | teach | The Government of Uganda | Sources of government revenue — The URA and other sources of government revenue | writing |
-| 27 | 6 | teach | The Government of Uganda | Government expenditure — How the government spends its revenue | writing |
-| 28 | 6 | teach | The Government of Uganda | The national budget — Meaning and types of budgets | writing |
-| 29 | 6 | Part B | The Government of Uganda | Importance of the budget — Surplus, balanced and deficit budgets | writing |
-| 30 | 6 | teach | The Government of Uganda | Human rights — Rights of a citizen and the Uganda Human Rights Commission | writing |
-| 31 | 7 | teach | The Government of Uganda | Responsibilities of a citizen — Responsibilities of a citizen in developing Uganda | writing |
-| 32 | 7 | teach | The Government of Uganda | Child labour — Children's rights and child labour | writing |
-| 33 | 7 | teach | Population, Size and Distribution | Population and the population census — Meaning of population and census | writing |
-| 34 | 7 | teach | Population, Size and Distribution | Population growth — Factors that influence population growth | writing |
-| 35 | 7 | teach | Population, Size and Distribution | Population distribution — Factors affecting population distribution | writing |
-| 36 | 8 | teach | Population, Size and Distribution | Population density — Meaning and calculation of population density | writing |
-| 37 | 8 | Part B | Population, Size and Distribution | High and low population density — Areas of high and low population density | writing |
-| 38 | 8 | teach | Population, Size and Distribution | Problems of high and low population — Advantages and disadvantages of high and low population | writing |
-| 39 | 8 | teach | Population, Size and Distribution | Controlling population growth — Solutions to high population density | writing |
-| 40 | 8 | teach | Population, Size and Distribution | HIV/AIDS and population — Effects of HIV/AIDS on population and economic development | writing |
+| 26 | 6 | teach | The Government of Uganda | Sources of government revenue — The URA and other sources of government revenue | written |
+| 27 | 6 | teach | The Government of Uganda | Government expenditure — How the government spends its revenue | written |
+| 28 | 6 | teach | The Government of Uganda | The national budget — Meaning and types of budgets | written |
+| 29 | 6 | Part B | The Government of Uganda | Importance of the budget — Surplus, balanced and deficit budgets | written |
+| 30 | 6 | teach | The Government of Uganda | Human rights — Rights of a citizen and the Uganda Human Rights Commission | written |
+| 31 | 7 | teach | The Government of Uganda | Responsibilities of a citizen — Responsibilities of a citizen in developing Uganda | written |
+| 32 | 7 | teach | The Government of Uganda | Child labour — Children's rights and child labour | written |
+| 33 | 7 | teach | Population, Size and Distribution | Population and the population census — Meaning of population and census | written |
+| 34 | 7 | teach | Population, Size and Distribution | Population growth — Factors that influence population growth | written |
+| 35 | 7 | teach | Population, Size and Distribution | Population distribution — Factors affecting population distribution | written |
+| 36 | 8 | teach | Population, Size and Distribution | Population density — Meaning and calculation of population density | written |
+| 37 | 8 | Part B | Population, Size and Distribution | High and low population density — Areas of high and low population density | written |
+| 38 | 8 | teach | Population, Size and Distribution | Problems of high and low population — Advantages and disadvantages of high and low population | written |
+| 39 | 8 | teach | Population, Size and Distribution | Controlling population growth — Solutions to high population density | written |
+| 40 | 8 | teach | Population, Size and Distribution | HIV/AIDS and population — Effects of HIV/AIDS on population and economic development | written |
 | 41 | 9 | teach | Population, Size and Distribution | Hazards that check population growth — Natural and man-made hazards | writing |
 | 42 | 9 | teach | Population, Size and Distribution | Population terms — Summary of population terms | writing |
 | 43 | 9 | revision | Uganda as an independent nation | Revision: Uganda as an independent nation — Revision and practice | writing |

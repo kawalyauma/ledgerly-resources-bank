@@ -3,7 +3,7 @@
   "task": "ltsk_82d464096efa40a39fb5f8f9c5529db6",
   "call": 0,
   "kind": "lesson.write",
-  "status": "open",
+  "status": "answered",
   "attempt": 1,
   "priority": 96,
   "school": "sch-7207f9",
@@ -68,5 +68,6 @@
     "lchk_613d1868da5840e4844b343f10260aa2",
     "lchk_8565a70475344911b9db098cef933069"
   ],
-  "created": "2026-10-17T10:56:11.627Z"
+  "created": "2026-10-17T10:56:11.627Z",
+  "answeredBy": "gpt-6/GPT-6"
 }
