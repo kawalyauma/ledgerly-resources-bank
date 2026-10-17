@@ -2,12 +2,12 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Friends on the Way | Meaning and importance of friendship — Meaning and importance of friendship | writing |
-| 2 | 1 | teach | Friends on the Way | Qualities of true friends — Qualities of true friends | writing |
-| 3 | 1 | review | Friends on the Way | Week 1 review — Friends on the Way | writing |
-| 4 | 2 | teach | Friends on the Way | Distinguishing good and bad advice — Distinguishing good and bad advice | pending |
-| 5 | 2 | teach | Friends on the Way | Marriage in Christian life — Marriage in Christian life | pending |
-| 6 | 2 | review | Friends on the Way | Week 2 review — Friends on the Way | pending |
+| 1 | 1 | teach | Friends on the Way | Meaning and importance of friendship — Meaning and importance of friendship | written |
+| 2 | 1 | teach | Friends on the Way | Qualities of true friends — Qualities of true friends | written |
+| 3 | 1 | review | Friends on the Way | Week 1 review — Friends on the Way | written |
+| 4 | 2 | teach | Friends on the Way | Distinguishing good and bad advice — Distinguishing good and bad advice | writing |
+| 5 | 2 | teach | Friends on the Way | Marriage in Christian life — Marriage in Christian life | writing |
+| 6 | 2 | review | Friends on the Way | Week 2 review — Friends on the Way | writing |
 | 7 | 3 | teach | Christian Involvement in the World | Importance of working together — Importance of working together | pending |
 | 8 | 3 | teach | Christian Involvement in the World | Ways of cooperation — Ways of cooperation | pending |
 | 9 | 3 | review | Christian Involvement in the World | Week 3 review — Christian Involvement in the World | pending |

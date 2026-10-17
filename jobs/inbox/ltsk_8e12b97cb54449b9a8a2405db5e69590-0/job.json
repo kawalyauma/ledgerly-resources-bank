@@ -1,0 +1,55 @@
+{
+  "job": "ltsk_8e12b97cb54449b9a8a2405db5e69590-0",
+  "task": "ltsk_8e12b97cb54449b9a8a2405db5e69590",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 54,
+  "school": "sch-7207f9",
+  "class": "P6",
+  "classLevel": 6,
+  "subject": "Christian Religious Education",
+  "term": "2026-T3",
+  "week": 2,
+  "weeks": 10,
+  "periodsPerWeek": 3,
+  "lessons": [
+    {
+      "id": "lles_f5811374f87141f28911e1c7a0163c05",
+      "kind": "teach",
+      "week": 2,
+      "title": "Distinguishing good and bad advice",
+      "periods": 1,
+      "subtopic": "Distinguishing good and bad advice"
+    },
+    {
+      "id": "lles_022a2fc9328148c38a2a97dc7fc00511",
+      "kind": "teach",
+      "week": 2,
+      "title": "Marriage in Christian life",
+      "periods": 1,
+      "subtopic": "Marriage in Christian life"
+    },
+    {
+      "id": "lles_b5f6878d98764eb89a26a25d1e3f3808",
+      "kind": "review",
+      "week": 2,
+      "title": "Week 2 review",
+      "periods": 1,
+      "subtopic": "Friends on the Way"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P6/christian-religious-education",
+  "passages": [
+    "lchk_72408bf80d91438bbf3bb3f312247c94",
+    "lchk_352756f3359c4065bddf3735cad81ad3",
+    "lchk_c88531d4f76242c99535794efb92e708",
+    "lchk_1898e987748f4805af88515286c6bdb9",
+    "lchk_a82d91c6b34747f1a0a1b747994dfbef",
+    "lchk_06504faf2f8f433abe8cc6c23eca9acf",
+    "lchk_ce7cf5d8d98940d2a65961808b128398"
+  ],
+  "created": "2026-10-17T13:06:50.806Z"
+}

@@ -1,173 +1,119 @@
 # Passages quoted in this job's prompt
 
-<!-- passage lchk_62622d06b00c4698b1f540bbf5ba9278 part 1 -->
-GENERAL TOPICS GENERAL COMPETENCES
-SUBJECT : RELIGIOUS EDUCATION i) Friends on the way i) ……………………………………...
-CLASS: PRIMARY SIX ii) Christian involvement in the world. ii) ………………………………………
-TERM: THREE iii) Happiness on the way and travel iii) ………………………………………
-YEAR: 2016 iv) …………………………………… iv) …………………………………...……
-WK
-PD
-Theme
-Topic
-Sub-topic
-Competence
-Content
-Method
-L/Skills ind.
-Activities
-T/L AID
-REF
-REM
-Subject
-Language
-1
-1
-&
-2
-Christians on the way
-Friends on the way
-Qualities of true friends
-States qualities if true friendship learnt from Jesus Christ
-Reads, spells and writes selflessness, humility , servant hood
-The qualities of a true friend
-Selfleness
-Humility
-Servant hood
-Understanding
-Forgiving
-Respect
-True love
+<!-- passage lchk_72408bf80d91438bbf3bb3f312247c94 part 16 -->
+Qualities of a good friend
+Honest
+Respectful
+Trustworthy
+Peaceful
+Generous
+Humble
+Loving
+Kind
+Faithfulness
+How Jesus expressed His love to mankind?
+He revealed to His disciples the secrets of the kingdom of heaven
+He was merciful to sinners
+He was considerate
+He had compassion and fed the hungry
+He consoled the sorrowful Mary and Martha
+He called children and showed them love
+He taught His disciples the skills of love
+Lesson 2 Wk 1
+Advice
+This is an opinion or suggestion about what somebody should do in a particular situation
+Importance of advice (Sam 2:12)
+May save someone from danger
+Promotes peace and harmony
+It promotes unity
+It promotes friendship
+Encourages development (2 Sam 1:12) difficult mission of prophet Nathan)
+Characteristics of bad advice
+It encourages evil
+It encourages biasness
+It is dishonest
+It is not corrective
+Crisis and how friends offer support in times of crisis
+Meaning of crisis
+Crisis is a time of trouble in which a quick solution should be given (Proverb 17:17-18)
+A friend is always a friend at all times in happiness or in sorrow.
+Lesson 3: wk 1
+Marriage
+Meaning of marriage
+Marriage is a legal love union between man and a woman as a husband and wife
+Qualities of a good marriage partner according to the Christian teaching
+Age
+Character
+Dignity
+Education
+Family background
+Godliness
+HIV/AIDS free
+Status
+Reasons why people marry
+To have children
+For companionship
+To express love
+For sexual desires
+For security
+For prestige
+Signs of marriage
+Mutual love
 Patience
-Loyalty
-Guided discovery
-Role play
-Discussion
-Sharing
-Love
-Friendship
-Stating qualities of a true friendship
-Reading
-Board
-New prim six curri pg 226 – 233
-Mk standard R.E pg 103 - 105
-2
-1
-How to distinguish between good and bad advice
-States qualities of a good advice
-Spells promote , respect , true
-Qualities of good pieces of advice.
-Should be Godly
-Should promote respect for others.
-Should promote peace.
-Guided discovery
-Role play
-Discussion
-Brain storming
-Effective communication
-Sharing
-Critical thinking
-Spelling, reading and writing.
-Sharing
-Board
-Mk standard R.E 106 – 110
-New prim six curr pg 226 - 233
-2
-Importance of true friends
-The value of true friends.
-Encourages
-Doesn’t give up
-Shows true love
-Stands in hard times with you.
-3
-1
-&
-2
-Christians on the way
-Friends on the way
-The need to co-operate in order to make the world a better place.
-States importance of working together.
-Mentions ways of co-operation.
-Spells, reads and writes
-Co-operation , leadership, obedience, voluntary
-Importance of working together.
-Possible ways of co-operation
+Trust
+Openness
+Faith fullness
+Bearing children
+Fulfillment of marital duties
+Showing sympathy to each other
+Marriage as a social institution
+It is the society concern because it involves all members of the community such as wedding preparations, witnessing the marriage ceremonies.
+It unites different families, clans, tribes and races
+Marriage vows
+In bad and good times, poverty and riches, sickness and healthy, only death that will separate us
+What the couple does in the church
+Vows
+Signing marriage certificates
+Exchange of rings
+Types of marriages
+Religious marriage
+Customary marriage
+Civil marriage
+Religious marriage
+This is a type of marriage officiated by a religious leader
+Customary marriage
+This is a type of marriage officiated by both the parents of the bride and the bride groom
+Civil marriage
+This is a type of marriage officiated by government official like CAO
+Bride price /dowry
+This is the money and property in some societies that the bride groom must pay to the bride’s family.
+It recognizes marriage
+It creates a bond between the family of the bride groom and the bride.
+It is a way of thanking the parents of the bride for having kept their daughter.
+Biblical teaching on marriage (1 Cori 7:1-16)
+It encourages monogamy
+A man should fulfill his duty as a husband and a woman should fulfill her duties as wife.
+A husband is a master to his wife’s body
+Common marriage problems
+Quarrels
+Fights
+Lack of respect
+Neglect of children
+Lack of trust etc
+Lesson 1: wk 2
+Subtheme: Christian organization in development
+Cooperation
+Cooperation means working together to achieve a desired goal
+Possible ways of cooperation
 Through good leadership
-Through concern for the welfare of our people.
-Being open
-Through obedience to God
+Through democratic laws and rules
+Through concern of welfare of other people
 Through working hard
-Guided discovery
-Brain storming
-Discussion
-Effective communication
-Sharing
-Love
-Stating importance of working together
-Mentioning ways of working together
-Board
-New prim.six curr.pg 226 – 223
-Mk stand.R.E bk 6 pg 118 - 119
-4
-1
-&
-2
-Christian organization in developing the world
-Mentions voluntary organization
-Describes the roles of the voluntary organization
-Spells , reads and writes , relief , fund , compassion , agency , development
-Christian voluntary organizations.
-Christian children’s fund (CCF)
-World Vision International
-Adventists Development Relief Agency (ADRA)
-Compassion international
-Mothers Union
-YWCA
-Catholic Women’s Guild
-Scripture Union
-Roles of Christian Voluntary Organization
-Brain storming
-Guided discovery
-Discussion
-Sharing
-Appreciation
-Critical thinking
-Mentioning voluntary organizations.
-Spelling , reading and writing
-Board
-New Pri. Six curr, pg 226 – 233
-Mk stand. R.E bk 6 pg 121
-5
-1
-Christians on the way
-Contributions of science technology and education
-States the meaning of technology.
-States the effects of technology.
-Spells and reads words e.g. Technology , communication
-Technology
-Application of technology
-In transport and communication
-In building
-In farming
-In food preservation
-In entertainment
-In power production.
-Bad effects of technology.
-Pollution of air and water
-Increased employment
-Destruction of culture
-Increased death rate
-Inquiry
-Question and answer
-Guided discovery
-Sharing
-Love
-Reading
-Stating the contributions of technology towards x-tian development
-Board
-Primary six curriculum.
-2
-National laws and rules
+Through provision of freedom and security
+Voluntary organization
+These are organizations that offer free services to people
+Importance of voluntary organization
+It promotes the welfare of vulnerable people
 <!-- /passage -->
 
 <!-- passage lchk_352756f3359c4065bddf3735cad81ad3 part 1 -->
@@ -649,6 +595,120 @@ pronounces ,
 spells and uses
 <!-- /passage -->
 
+<!-- passage lchk_a82d91c6b34747f1a0a1b747994dfbef part 12 -->
+the topic gives them guidance. The qualities and importance of good
+friends are clearly discussed in this topic. The topic leads us to an even
+stronger and lifetime relationship that is, marriage.
+
+Learning Outcome
+The learner develops skills of forming and keeping true friendships and
+acknowledges that friendship is a gift that should be cherished.
+
+Resources
+• The Bible
+• A copy of the Christian marriage vows
+
+Methods | Life Skills
+• | Group work | • | Self-awareness
+• | Discussion | • | Friendship formation
+• | Role play | • | Decision-making
+• | Brainstorming | • | Interpersonal
+relationships
+Values
+• | Caring
+• | Love
+• | Respect
+• | Sharing
+
+Primary 6 Curriculum
+
+Subject | Language | Suggested
+Content
+Competences | Competences | Activities
+
+The learner; | The learner
+• explains the | • Friendship | • Group work
+reads, | discussion
+meaning of | – Meaning and
+pronounces | about the
+friendship. | importance of
+writes, spells | friendship. | meaning of
+• describes the | and uses the | friendship.
+importance of | – Jesus’ example
+following | of friendship | • Bible
+friendship.
+words | John 15:12 – 15. | readings and
+• describes | correctly: | • Qualities of a | discussions
+from the | good friend: | about
+gospel how | – friend
+– Importance | friendship.
+Jesus showed | – friendship
+of advice, | • Role playing
+friendship to | – relate
+2Samuel 12, | about how
+his Apostles | – relationship | Mathew 19:16-
+and other | Jesus showed
+– advice | 22
+people. | friendship to
+– crisis | – Good and bad | people.
+• mentions the | – marriage | advice.
+qualities of a | – Crisis and how | • Creative
+good friend. | friends offer | writing about
+support in | qualities
+• describes | of good
+times of crises
+Jesus’ | - Proverbs 17: | friendship.
+qualities as a | 17- 18
+good friend. | • Brainstorming
+– Building a good
+about good
+• distinguishes | friendship.
+friendship.
+between | • Qualities
+good and | people look
+bad advice in | for in marriage
+friendship. | partners.
+• lists qualities | – Marriage is
+of a marriage | a bond of
+partner. | friendship
+for life - 1
+• describes | Corinthians 13:
+how a friend | 4 – 7.
+should
+– Marriage vows.
+behave.
+
+National Curriculum Development Center
+
+Guidance to the Teacher
+• This topic is expected to cover 8 periods.
+• Guide learners to come up with an acceptable definition of
+friendship.
+• In groups, tell the learners to suggest ways in which the word
+friendship is used.
+• In groups, guide the learners to describe relationships they have
+with their best friends. They should record their discussion and
+a report should be made and presented to the whole class.
+• Help the learners to read the Bible texts which show Jesus as a
+good friend.
+• Help the learners identify the qualities of a good friend.
+• You need to emphasise to the learners that not all people are
+good friends because some of them are misleading and thus they
+should distinguish between good and bad advice.
+• Guide the learners to role play a crisis situation where friends
+offer each other support.
+• Lead the learners into discovering how strong friendship
+between a man and a woman can lead into marriage.
+• Help the learners discuss in groups the qualities one would look
+for in a marriage partner. The learners should write them down
+and share with the class.
+• Role play a wedding ceremony.
+• Brainstorm with the learners about the importance of marriage
+and marriage vows.
+• Be mindful of the learners with special needs.
+Suggested Competences for Assessment
+<!-- /passage -->
+
 <!-- passage lchk_06504faf2f8f433abe8cc6c23eca9acf part 20 -->
 Holly living
 Purity of the heart
@@ -785,383 +845,81 @@ Crisis
 Emergency
 <!-- /passage -->
 
-<!-- passage lchk_d550af44cf5a46598f6688a3f04c4c49 part 29 -->
-words correctly
-- Morals
-- Healthy
-- Wealth
-- Jealousy
-- Companionship
-- - - - - Fountain
-- CRE
-- 138-143
--
-2 1 Roles of Christian
-organization in the
-development.
-- Definition of
-organization
-- Examples of
-Christian
-organizations
-- Contributions of
-Christian
-organizations.
-The learner:-
-- Defines
-“organization”
-- Identifies
-examples of
-Christian
-organizations
-- Explains the
-contributions of
-Christian
-organizations
-The learner:-
-- Pronounces,
-spells and uses
-words correctly
-- Organization
-- - - - - -
-2and
-3
-Friends on
-the way
-- Roles of science
-and technology in
-development
-- The learner
-- Defines terms
-- Technology
-- Science
-- The learner
-pronounces ,
-spells and uses
-words correctly
-- Guided
-discussion
-- Demonstration
-- Role play
-- Bible reading
-- Story telling
-- Role playing
-- Discussing
-- Self esteem
-- Creative
-thinking
-- The Holy
-Bible
-- Text
-books
-- Fountain CRE
-Bk 6
--
-www.freshteacheruganda.com For more lesson notes, please visit
-- Definitions of
-technology and
-science
-- Roles of education
-- Roles of science,
-technology and
-education
-- Importance of law
-in society
-- The ten
-commandments
-- Education
-- Points out roles
-of technology,
-science and
-education in
-development
-- Explains the
-importance of
-law
-- Technology
-science
-- Development
-- Education
-- Law
-- Guided
-discovery
-- Story telling
-- Friendship
-formation
-- Appreciation
-- Awareness
-- Love
-3 1
-and
-2
-Good citizenship
-- Meaning of
-citizenship
-- Roles qualities of
-citizenship
-- Requirements for
-participating in
-general elections
-- Rights freedoms
-of votes
-- Election
-malpractices
-The learner
-- Explains the
-meaning of
-citizenship
-- Identifies roles of
-citizens
-- Identifies
-requirements for
-participating in
-national election
-The learner
-- Pronounces,
-spells and uses
-words correctly
-- Mal-practice
-- Citizen
-- Elections
-- Voting
-- Rights
-- Requirements
-- witness
-- - - - Fountain CRE
-pg 154 to 162
--
-3 Happiness
-on the
-way to
-arrival
-Happiness
-- Meaning
-- Signs of happiness
-of a person.
-- God as a source of
-happiness
-- Giving and
-receiving
-- Values of giving
-and receiving
-John 13:14
-The learner
-- Explains the
-meaning of
-happiness
-- Identify signs of
-a happy person
-- Explains how
-God is a source
-of happiness
-- Explains the
-values of giving
-and receiving
-- The learner
-- Pronounces,
-spells and uses
-words correctly
-- Happiness
-- Giving
-- Receiving
-- - - - MkStandard CRE
-Pg 136-139
--
-4 1 Happiness
-on the
-way to
-arrival
-- Life and death
-- Meaning of life
-and death
-- Causes of death
-- Biblical teaching
-about life and
-Death
-The learner
-- Explains the
-meaning of life
-and death
-- Mentions causes
-of death
-- Explains the
-Biblical teaching
-about life and
-death
-The learner
-- Pronounces,
-spells and uses
-words correctly
-- Death
-- Life
-- Heaven
-- Destination
-- Judgment
-- Bible reading
-- Demonstration
-- Guided discussion
-- Guided discovery
-- Story telling
-Skills
-- Self esteem
-- Creative
-thinking
-Value
-- Awareness
-- Application
-- The holy
-Bible
-- Text
-books
-- Fountain CRE
-- Pg 169-170
--
-2 Suffering and
-perseverance
-- Meaning
-- Causes of
-suffering
-- Values/benefits
-of suffering
-The learner
-- Explains
-suffering and
-endurance
-- Identifies causes
-of suffering
-The learner
-- Pronounces,
-spells and uses
-words correctly
-- Faith
-- Perseverance
-- Selfishness
-- - - - - Fountain CRE
-- Pg 171-174
--
-www.freshteacheruganda.com For more lesson notes, please visit
-- Ways of enduring
-- Suffering of
-people who
-endured suffering
-in the Bible
-- Points out values
-of suffering
-- Mentions ways of
-persevering
-- Identifies people
-<!-- /passage -->
-
-<!-- passage lchk_a82d91c6b34747f1a0a1b747994dfbef part 12 -->
-the topic gives them guidance. The qualities and importance of good
-friends are clearly discussed in this topic. The topic leads us to an even
-stronger and lifetime relationship that is, marriage.
-
-Learning Outcome
-The learner develops skills of forming and keeping true friendships and
-acknowledges that friendship is a gift that should be cherished.
-
-Resources
-• The Bible
-• A copy of the Christian marriage vows
-
-Methods | Life Skills
-• | Group work | • | Self-awareness
-• | Discussion | • | Friendship formation
-• | Role play | • | Decision-making
-• | Brainstorming | • | Interpersonal
-relationships
-Values
-• | Caring
-• | Love
-• | Respect
-• | Sharing
-
-Primary 6 Curriculum
-
-Subject | Language | Suggested
-Content
-Competences | Competences | Activities
-
-The learner; | The learner
-• explains the | • Friendship | • Group work
-reads, | discussion
-meaning of | – Meaning and
-pronounces | about the
-friendship. | importance of
-writes, spells | friendship. | meaning of
-• describes the | and uses the | friendship.
-importance of | – Jesus’ example
-following | of friendship | • Bible
-friendship.
-words | John 15:12 – 15. | readings and
-• describes | correctly: | • Qualities of a | discussions
-from the | good friend: | about
-gospel how | – friend
-– Importance | friendship.
-Jesus showed | – friendship
-of advice, | • Role playing
-friendship to | – relate
-2Samuel 12, | about how
-his Apostles | – relationship | Mathew 19:16-
-and other | Jesus showed
-– advice | 22
-people. | friendship to
-– crisis | – Good and bad | people.
-• mentions the | – marriage | advice.
-qualities of a | – Crisis and how | • Creative
-good friend. | friends offer | writing about
-support in | qualities
-• describes | of good
-times of crises
-Jesus’ | - Proverbs 17: | friendship.
-qualities as a | 17- 18
-good friend. | • Brainstorming
-– Building a good
-about good
-• distinguishes | friendship.
-friendship.
-between | • Qualities
-good and | people look
-bad advice in | for in marriage
-friendship. | partners.
-• lists qualities | – Marriage is
-of a marriage | a bond of
-partner. | friendship
-for life - 1
-• describes | Corinthians 13:
-how a friend | 4 – 7.
-should
-– Marriage vows.
-behave.
-
-National Curriculum Development Center
-
-Guidance to the Teacher
-• This topic is expected to cover 8 periods.
-• Guide learners to come up with an acceptable definition of
-friendship.
-• In groups, tell the learners to suggest ways in which the word
-friendship is used.
-• In groups, guide the learners to describe relationships they have
-with their best friends. They should record their discussion and
-a report should be made and presented to the whole class.
-• Help the learners to read the Bible texts which show Jesus as a
-good friend.
-• Help the learners identify the qualities of a good friend.
-• You need to emphasise to the learners that not all people are
-good friends because some of them are misleading and thus they
-should distinguish between good and bad advice.
-• Guide the learners to role play a crisis situation where friends
-offer each other support.
-• Lead the learners into discovering how strong friendship
-between a man and a woman can lead into marriage.
-• Help the learners discuss in groups the qualities one would look
-for in a marriage partner. The learners should write them down
-and share with the class.
-• Role play a wedding ceremony.
-• Brainstorm with the learners about the importance of marriage
-and marriage vows.
-• Be mindful of the learners with special needs.
-Suggested Competences for Assessment
+<!-- passage lchk_ce7cf5d8d98940d2a65961808b128398 part 4 -->
+Love never gives up on people, it never stops trusting, it never loses hope or quit – marriage is meant to last forever.
+Marriage vows
+People who have committed themselves to get married make promises to each other, these promises are called vows.
+A promise to love each other till death separates them.
+These vows are made before a priest, pastor or reverend as witnesses before God.
+Exercise
+What is marriage
+List down any four characteristics of a happy marriage
+Identify one example of situations in marriage with which people need to be patient
+How may the failure to produce children create an unhappy marriage
+Give one example of marital duties
+What is a marriage vow?
+Write down any two vows made by the marriage partners.
+End of Topic test
+Who is a true friend?
+Why does one need a friend?
+Write down any two ways to show how Jesus showed true friendship to people.
+What lessons do we learn from Jesus about true friends
+Write down two qualities of a good friend.
+How can one distinguish between good and bad advice?
+Write down any two examples of bad advices
+Define the following terms
+Crisis
+Advice
+How does good advice promote peace?
+What does the bible teach us about love in 1Cor. 13.
+How can you support a friend who has failed a major examination?
+What is marriage?
+Write down 2 major qualities of a good marriage partner.
+Why do you think marriage are breaking down today?
+As a Christian how can you help in solving the above problem?
+Write any two qualities of a good marriage partner.
+Write down any two biblical readings on marriage from St. Paul in 1 Cor. 7.
+DATE
+CLASS
+SUBJECT
+NO OF PUPILS
+TIME
+THEME: CHRISTIANS ON THE WAY
+SUB THEME: CHRISTIAN INVOLVEMENT IN THE WORLD
+CONTENT: USING OUR TALENTS TO IMPROVE THE WORLD
+Spellings
+talents
+Abilities
+Co-operation
+Science
+Technology
+Humility
+Marital
+Partners
+Patience
+Christians should not leave world affairs to non- Christians alone. They have a duty to participate in the affairs of the world at all times. This include; religious, social, economic and political affairs in order to make a contribution in the world we live in.
+Talents are natural gifts that God gives us that can also be referred to as Special abilities
+Special natural abilities / gifts given to us by God
+Examples of talents include:
+Singing
+Playing musical instruments
+Jumping (high)
+Playing football
+Running fast
+Art – making artistic objects (through painting and drawing)
+Jesus encouraged us not to neglect our talents trough the different parables he taught e.g as the parable of the talents (mt 25;14 – 27)
+Read the story and learn lessons
+All Christians should use their talents to benefit themselves and others
+Every Christian will give an account of how he used his / her talents
+Those who will have used their talents properly will get rewards and those who will have failed will be punished.
+Even the little they have will be taken away.
+HOW THE ABOVE TALENTS CAN BENEFIT THE WORLD IF USED WELL
+They are source of income for both live hood individuals and the government through taxes paid
+They are a source of entertainment for people to kill boredom
+They promote unity when people come together to be entertained e.g football which binds nations and the whole world.
+The educate people through sending teaching and advisory messages to people on topics like Aids, social well being.
+Exercise
+Why do we have different abilities?
+Why did the 2 servants get profits
+Why didn’t the third servant get any profit?
 <!-- /passage -->
