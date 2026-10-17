@@ -1,0 +1,190 @@
+{
+  "title": "Primary Seven Integrated Science Scheme — Term 3, 2026 (partial sourced outline)",
+  "summary": "NCDC Topic 8 Population and Health: ten one-period lessons based on the supplied learning outcomes and community survey guidance. The included school science schemes cover different terms, so additional Term III source material is required.",
+  "units": [
+    {
+      "title": "Population and Health",
+      "theme": "Health and the community",
+      "weekFrom": 1,
+      "weekTo": 5,
+      "competences": "Identify sicknesses and health concerns, conduct community population and health surveys, plan health activities and prepare reports.",
+      "sources": [
+        {
+          "source": "lchk_60cf526c26874d9a832da5e945a9b04b",
+          "quote": "Topic 13: Population and Health"
+        },
+        {
+          "source": "lchk_367b42becba24b9f82fd4cafbb002690",
+          "quote": "human population and health in homes and the community"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Sicknesses in the community",
+          "subtopic": "Sicknesses in the community",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Name types of sicknesses in a home and community."
+          ],
+          "sources": [
+            {
+              "source": "lchk_367b42becba24b9f82fd4cafbb002690",
+              "quote": "names types of sicknesses in a home and community."
+            }
+          ]
+        },
+        {
+          "title": "Anti-social behaviour and health",
+          "subtopic": "Anti-social behaviour and health",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "List forms of anti-social behaviour."
+          ],
+          "sources": [
+            {
+              "source": "lchk_367b42becba24b9f82fd4cafbb002690",
+              "quote": "lists forms of anti-social behaviour"
+            }
+          ]
+        },
+        {
+          "title": "Population and health information",
+          "subtopic": "Population and health information",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe collecting population and health data."
+          ],
+          "sources": [
+            {
+              "source": "lchk_367b42becba24b9f82fd4cafbb002690",
+              "quote": "collects information and data on human population and health"
+            }
+          ]
+        },
+        {
+          "title": "Population surveys",
+          "subtopic": "Population surveys",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe how population surveys are carried out."
+          ],
+          "sources": [
+            {
+              "source": "lchk_367b42becba24b9f82fd4cafbb002690",
+              "quote": "carries out population surveys"
+            }
+          ]
+        },
+        {
+          "title": "Community health problems",
+          "subtopic": "Community health problems",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify community health problems."
+          ],
+          "sources": [
+            {
+              "source": "lchk_367b42becba24b9f82fd4cafbb002690",
+              "quote": "identifies community health problems."
+            }
+          ]
+        },
+        {
+          "title": "Population-related health activities",
+          "subtopic": "Population-related health activities",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain planning and conducting community health activities."
+          ],
+          "sources": [
+            {
+              "source": "lchk_367b42becba24b9f82fd4cafbb002690",
+              "quote": "plans and carries out population-related health activities."
+            }
+          ]
+        },
+        {
+          "title": "Reports on health surveys",
+          "subtopic": "Reports on health surveys",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Prepare a simple report on a health survey."
+          ],
+          "sources": [
+            {
+              "source": "lchk_367b42becba24b9f82fd4cafbb002690",
+              "quote": "prepares a simple report on a survey on health activities."
+            }
+          ]
+        },
+        {
+          "title": "Evaluating school health clubs",
+          "subtopic": "Evaluating school health clubs",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain how school health club activities may be evaluated."
+          ],
+          "sources": [
+            {
+              "source": "lchk_367b42becba24b9f82fd4cafbb002690",
+              "quote": "evaluate activities of health clubs"
+            }
+          ]
+        },
+        {
+          "title": "Sharing health survey findings",
+          "subtopic": "Sharing health survey findings",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Describe sharing data about population and community health."
+          ],
+          "sources": [
+            {
+              "source": "lchk_367b42becba24b9f82fd4cafbb002690",
+              "quote": "organising, interpreting and sharing data"
+            }
+          ]
+        },
+        {
+          "title": "Project review: population and health",
+          "subtopic": "Project review: population and health",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Review how to identify problems and plan actions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_367b42becba24b9f82fd4cafbb002690",
+              "quote": "population problem identification and planning course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "The provided P7 school science scheme passages begin with earlier-term skeletal-system and electricity topics rather than the Term III sequence. Fetch the matching Term III scheme pages before finalising all ten weeks.",
+    "Detailed Term III teaching notes and exercises for population health are insufficient for a full 60-period term. Remaining weeks require more source material.",
+    "Resources in the Environment appears in a textbook table of contents as a Term III topic but lacks teaching-depth passages in the current job; verify the correct term and allocate only after re-sourcing."
+  ]
+}

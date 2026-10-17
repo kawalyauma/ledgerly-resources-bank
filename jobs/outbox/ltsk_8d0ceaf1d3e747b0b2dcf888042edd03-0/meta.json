@@ -1,0 +1,14 @@
+{
+  "job": "ltsk_8d0ceaf1d3e747b0b2dcf888042edd03-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "scheme": [
+      "The provided P7 school science scheme passages begin with earlier-term skeletal-system and electricity topics rather than the Term III sequence. Fetch the matching Term III scheme pages before finalising all ten weeks.",
+      "Detailed Term III teaching notes and exercises for population health are insufficient for a full 60-period term. Remaining weeks require more source material.",
+      "Resources in the Environment appears in a textbook table of contents as a Term III topic but lacks teaching-depth passages in the current job; verify the correct term and allocate only after re-sourcing."
+    ]
+  },
+  "reviewerNotes": "Partial NCDC-grounded Term III outline with explicit missing-source gaps; NOT a fabricated full-term scheme."
+}
