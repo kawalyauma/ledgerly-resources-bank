@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What are natural disasters?",
+    "answer": "These are events that cause massive destruction of property and death",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Natural and man-made hazards",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7da97b3059f54d8d946bd48f60b14ba7",
+      "quote": "What are natural disasters?"
+    }
+  },
+  {
+    "question": "What are artificial disasters?",
+    "answer": "These are events that cause massive destruction of a property and",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Natural and man-made hazards",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7da97b3059f54d8d946bd48f60b14ba7",
+      "quote": "What are artificial disasters?"
+    }
+  },
+  {
+    "question": "What is a disaster?",
+    "answer": "It is anything that causes massive destruction and death of people",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Natural and man-made hazards",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7da97b3059f54d8d946bd48f60b14ba7",
+      "quote": "What is a disaster?"
+    }
+  },
+  {
+    "question": "Mention any three natural disasters that may lead to the reduction in the number of",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Natural and man-made hazards",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_92d8ba79ca2b4c63b4ccd273d6a95ebd",
+      "quote": "Mention any three natural disasters that may lead to the reduction in the number of"
+    }
+  },
+  {
+    "question": "When did Uganda get her independence?",
+    "answer": "Uganda got her independence on Monday 9 th October 1962.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Natural and man-made hazards",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8d263adf25145d9b9a94e0acaa20555",
+      "quote": "When did Uganda get her independence?"
+    }
+  },
+  {
+    "question": "What conference was the climax of all Uganda’s struggle for independence?",
+    "answer": "It was the London constitutional conference.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Natural and man-made hazards",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8d263adf25145d9b9a94e0acaa20555",
+      "quote": "What conference was the climax of all Uganda’s struggle for independence?"
+    }
+  }
+]

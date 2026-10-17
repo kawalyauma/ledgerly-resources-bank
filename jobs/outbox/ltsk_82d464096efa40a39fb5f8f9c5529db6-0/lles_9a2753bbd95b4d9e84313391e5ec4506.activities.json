@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Who composed the Uganda national anthem?",
+    "answer": "George William Kakoma",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Mixed revision of the term",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_2bfe52e7aed340ba847552f55d4c9469",
+      "quote": "Who composed the Uganda national anthem?"
+    }
+  },
+  {
+    "question": "Who assisted George William Kakoma to compose the national anthem?",
+    "answer": "Peter G. Wingard",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Mixed revision of the term",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_2bfe52e7aed340ba847552f55d4c9469",
+      "quote": "Who assisted George William Kakoma to compose the national anthem?"
+    }
+  },
+  {
+    "question": "When and how the stanzas of the national anthem are sung?",
+    "answer": "At the opening of any function of national importance.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Mixed revision of the term",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b297e6921590437280a1192ded841240",
+      "quote": "When and how the stanzas of the national anthem are sung?"
+    }
+  },
+  {
+    "question": "Give two reasons why Ugandans sing the national anthem",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Mixed revision of the term",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b297e6921590437280a1192ded841240",
+      "quote": "Give two reasons why Ugandans sing the national anthem"
+    }
+  },
+  {
+    "question": "When was the national anthem played for the first time in Uganda?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Mixed revision of the term",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b297e6921590437280a1192ded841240",
+      "quote": "When was the national anthem played for the first time in Uganda?"
+    }
+  },
+  {
+    "question": "Give one way school children express the spirit of nationalism when on assemblies.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Mixed revision of the term",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b297e6921590437280a1192ded841240",
+      "quote": "Give one way school children express the spirit of nationalism when on assemblies."
+    }
+  }
+]

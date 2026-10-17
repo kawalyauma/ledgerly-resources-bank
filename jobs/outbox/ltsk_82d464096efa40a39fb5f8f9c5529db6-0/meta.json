@@ -1,0 +1,24 @@
+{
+  "job": "ltsk_82d464096efa40a39fb5f8f9c5529db6-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "lles_9a2753bbd95b4d9e84313391e5ec4506": [
+      "Some source questions lack explicit adjacent answers; their answer fields remain empty for marking-guide review."
+    ],
+    "lles_3a53301040464ad29d62b25c2651c542": [
+      "Some source questions lack explicit adjacent answers; their answer fields remain empty for marking-guide review."
+    ],
+    "lles_922160d51b92469a8ec82d95a6fb54c8": [
+      "Some source questions lack explicit adjacent answers; their answer fields remain empty for marking-guide review."
+    ],
+    "lles_310fae2b123445f093a410f2e64e3b27": [
+      "Some source questions lack explicit adjacent answers; their answer fields remain empty for marking-guide review."
+    ],
+    "lles_381da0be0dc64895b0bade512779b38f": [
+      "Some source questions lack explicit adjacent answers; their answer fields remain empty for marking-guide review."
+    ]
+  },
+  "reviewerNotes": "Term revision and end-of-term assessment questions are taken from the source texts without creating new questions. Review marking guide before use."
+}
