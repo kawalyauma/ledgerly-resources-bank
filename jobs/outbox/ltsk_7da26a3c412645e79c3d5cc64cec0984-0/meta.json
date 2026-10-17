@@ -1,0 +1,13 @@
+{
+  "job": "ltsk_7da26a3c412645e79c3d5cc64cec0984-0",
+  "attempt": 1,
+  "agent": "chatgpt-gpt6",
+  "model": "GPT-6",
+  "gaps": {
+    "lles_dcff9f2158bc41cab581ab57c4cdad40": [
+      "The source question 'Give any one of world vision international' is incomplete; answer left null.",
+      "The source question 'What does C.F stand for?' is ambiguous; answer left null."
+    ]
+  },
+  "reviewerNotes": "Assembled from supplied P6 CRE curriculum, schemes and notes. Questions are reproduced verbatim; no new questions created."
+}
