@@ -1,0 +1,21 @@
+{
+  "job": "ltsk_0211415259674fd882ad963de90d5d50-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "lles_4191d46431ae41b3a5c5e23ed7906f92": [
+      "The source includes a multipart district-officials question: its subparts must be explained using the teacher's source text."
+    ],
+    "lles_f614bfb6a48c4e40ae818b7106195c53": [
+      "Original Part B questions come from the wider leadership unit because sources repeat the same types-of-leaders exercises."
+    ],
+    "lles_11f9e9638ca7446a9596405d8ce61239": [
+      "There are few direct district-council member questions; sourced questions about local council committees support the lesson."
+    ],
+    "lles_d31a61a6df1d444cb8b2d6d53bb86ec8": [
+      "Part B relies on source questions about local-council officials because new district-council membership questions are scarce."
+    ]
+  },
+  "reviewerNotes": "P4 SST Term III Week 2: source-backed facts about types of district leaders and district councils, complete 40-minute plans, genuine source exercises. Teacher to review alignment of wider local council practice questions."
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Mention any four types of leaders.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Types of leaders in the district",
+    "skill": "explain",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b5e07aa2f0d74d81ba74c9e3b4d442ff",
+      "quote": "Mention any four types of leaders."
+    }
+  },
+  {
+    "question": "Mention any three examples of political leaders.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Types of leaders in the district",
+    "skill": "explain",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b5e07aa2f0d74d81ba74c9e3b4d442ff",
+      "quote": "Mention any three examples of political leaders."
+    }
+  },
+  {
+    "question": "How do political leaders attain leadership powers?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Types of leaders in the district",
+    "skill": "explain",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b5e07aa2f0d74d81ba74c9e3b4d442ff",
+      "quote": "How do political leaders attain leadership powers?"
+    }
+  },
+  {
+    "question": "Apart from civic leaders, mention any three other types of leaders.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Types of leaders in the district",
+    "skill": "explain",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_373ac6ec3b7042c482fab204c740d6db",
+      "quote": "Apart from civic leaders, mention any three other types of leaders."
+    }
+  },
+  {
+    "question": "Apart from the CAO, mention any four other examples of civic leaders in your district.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Types of leaders in the district",
+    "skill": "explain",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_373ac6ec3b7042c482fab204c740d6db",
+      "quote": "Apart from the CAO, mention any four other examples of civic leaders in your district."
+    }
+  }
+]
