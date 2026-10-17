@@ -2,12 +2,12 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Witness: Christ the Light | Christ as the light of the world — Christ as the light of the world | writing |
-| 2 | 1 | teach | Witness: Christ the Light | Christ's light seen in people — Christ's light seen in people | writing |
-| 3 | 1 | review | Witness: Christ the Light | Week 1 review — Witness: Christ the Light | writing |
-| 4 | 2 | teach | Discipleship and its Rewards | The meaning of discipleship — The meaning of discipleship | pending |
-| 5 | 2 | teach | Discipleship and its Rewards | Examples of discipleship — Examples of discipleship | pending |
-| 6 | 2 | review | Discipleship and its Rewards | Week 2 review — Discipleship and its Rewards | pending |
+| 1 | 1 | teach | Witness: Christ the Light | Christ as the light of the world — Christ as the light of the world | written |
+| 2 | 1 | teach | Witness: Christ the Light | Christ's light seen in people — Christ's light seen in people | written |
+| 3 | 1 | review | Witness: Christ the Light | Week 1 review — Witness: Christ the Light | written |
+| 4 | 2 | teach | Discipleship and its Rewards | The meaning of discipleship — The meaning of discipleship | writing |
+| 5 | 2 | teach | Discipleship and its Rewards | Examples of discipleship — Examples of discipleship | writing |
+| 6 | 2 | review | Discipleship and its Rewards | Week 2 review — Discipleship and its Rewards | writing |
 | 7 | 3 | teach | Discipleship and its Rewards | Jesus' teaching on discipleship — Jesus' teaching on discipleship | pending |
 | 8 | 3 | teach | Discipleship and its Rewards | Finding happiness: the Beatitudes — Finding happiness: the Beatitudes | pending |
 | 9 | 3 | review | Discipleship and its Rewards | Week 3 review — Discipleship and its Rewards | pending |

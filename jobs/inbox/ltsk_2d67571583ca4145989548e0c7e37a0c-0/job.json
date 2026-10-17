@@ -1,0 +1,57 @@
+{
+  "job": "ltsk_2d67571583ca4145989548e0c7e37a0c-0",
+  "task": "ltsk_2d67571583ca4145989548e0c7e37a0c",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 54,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Christian Religious Education",
+  "term": "2026-T3",
+  "week": 2,
+  "weeks": 10,
+  "periodsPerWeek": 3,
+  "lessons": [
+    {
+      "id": "lles_c61847e39bb04c88bd619a91316859ee",
+      "kind": "teach",
+      "week": 2,
+      "title": "The meaning of discipleship",
+      "periods": 1,
+      "subtopic": "The meaning of discipleship"
+    },
+    {
+      "id": "lles_cf8730c6017744e9a05d725c23043f0f",
+      "kind": "teach",
+      "week": 2,
+      "title": "Examples of discipleship",
+      "periods": 1,
+      "subtopic": "Examples of discipleship"
+    },
+    {
+      "id": "lles_ea60aea956b24fcba1f9e52258c43617",
+      "kind": "review",
+      "week": 2,
+      "title": "Week 2 review",
+      "periods": 1,
+      "subtopic": "Discipleship and its Rewards"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/christian-religious-education",
+  "passages": [
+    "lchk_1d36d3d5815c47b0bf16226c862c3c98",
+    "lchk_b7a765d26a7d4b2a803fec3f9aa4ef7f",
+    "lchk_33701deccaae42a8a951c8e4f63437bb",
+    "lchk_3f56d32c757948a687e50291e63ce909",
+    "lchk_526fa31e33c048179dbdaa358f860e49",
+    "lchk_acdad3ab2cbf4f87963b3f17b1c6dc37",
+    "lchk_af0983e9dd8d42c9818cd1d9093d8fb2",
+    "lchk_9b0dc27aee494e9f9430c773d5cbb872",
+    "lchk_3b272b3a727148039262a655792e79eb"
+  ],
+  "created": "2026-10-17T13:20:51.330Z"
+}
