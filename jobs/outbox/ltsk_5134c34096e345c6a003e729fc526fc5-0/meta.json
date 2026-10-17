@@ -1,0 +1,14 @@
+{
+  "job": "ltsk_5134c34096e345c6a003e729fc526fc5-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "scheme": [
+      "Only 58 distinct sourced teaching/practice entries are supported. The remaining periods should be reserved for revision or sourced exercises; do not invent new problems.",
+      "The P1 school mathematics scheme covers only the early Term III topics in its available passage; subsequent themed mathematics lessons are grounded in the accompanying P1 Term III lesson notes.",
+      "The DOS should confirm that the expanded Part B periods follow the exact activities in the source notebooks before lessons are generated."
+    ]
+  },
+  "reviewerNotes": "Four required NCDC thematic units. Each subtopic cites a matching heading in the P1 Term III teacher notes; Part B needs exercises verified during detailed lesson generation."
+}

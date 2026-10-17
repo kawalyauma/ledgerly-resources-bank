@@ -1,0 +1,999 @@
+{
+  "title": "Primary One Mathematics Scheme of Work — Term 3, 2026",
+  "summary": "58 one-period lessons across the four NCDC themes: Our Transport, Things We Make, Our Environment, and Peace and Security, following the source's progression from number patterns and multiplication to money, fractions, measurement and graphs.",
+  "units": [
+    {
+      "title": "Our Transport",
+      "theme": "Our Transport",
+      "weekFrom": 1,
+      "weekTo": 3,
+      "competences": "Count, represent or calculate through the mathematical exercises under Our Transport.",
+      "sources": [
+        {
+          "source": "lchk_d45df310ebfb4db5bb10f3304fdce1d8",
+          "quote": "Counting and writing number names"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Counting and writing number names",
+          "subtopic": "Counting and writing number names",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate counting and writing number names."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d45df310ebfb4db5bb10f3304fdce1d8",
+              "quote": "Counting and writing number names"
+            }
+          ]
+        },
+        {
+          "title": "Counting and writing number names — Part B",
+          "subtopic": "Counting and writing number names",
+          "week": 1,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise counting and writing number names with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d45df310ebfb4db5bb10f3304fdce1d8",
+              "quote": "Counting and writing number names"
+            }
+          ]
+        },
+        {
+          "title": "Multiplication by 2",
+          "subtopic": "Multiplication by 2",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate multiplication by 2."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d45df310ebfb4db5bb10f3304fdce1d8",
+              "quote": "Multiplication by 2 and 3"
+            }
+          ]
+        },
+        {
+          "title": "Multiplication by 2 — Part B",
+          "subtopic": "Multiplication by 2",
+          "week": 1,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise multiplication by 2 with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d45df310ebfb4db5bb10f3304fdce1d8",
+              "quote": "Multiplication by 2 and 3"
+            }
+          ]
+        },
+        {
+          "title": "Multiplication by 3",
+          "subtopic": "Multiplication by 3",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate multiplication by 3."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d45df310ebfb4db5bb10f3304fdce1d8",
+              "quote": "Multiplication by 2 and 3"
+            }
+          ]
+        },
+        {
+          "title": "Multiplication by 3 — Part B",
+          "subtopic": "Multiplication by 3",
+          "week": 1,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise multiplication by 3 with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d45df310ebfb4db5bb10f3304fdce1d8",
+              "quote": "Multiplication by 2 and 3"
+            }
+          ]
+        },
+        {
+          "title": "Multiplication by 5",
+          "subtopic": "Multiplication by 5",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate multiplication by 5."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d45df310ebfb4db5bb10f3304fdce1d8",
+              "quote": "Multiplication by 5 and 10"
+            }
+          ]
+        },
+        {
+          "title": "Multiplication by 5 — Part B",
+          "subtopic": "Multiplication by 5",
+          "week": 2,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise multiplication by 5 with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d45df310ebfb4db5bb10f3304fdce1d8",
+              "quote": "Multiplication by 5 and 10"
+            }
+          ]
+        },
+        {
+          "title": "Multiplication by 10",
+          "subtopic": "Multiplication by 10",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate multiplication by 10."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d45df310ebfb4db5bb10f3304fdce1d8",
+              "quote": "Multiplication by 5 and 10"
+            }
+          ]
+        },
+        {
+          "title": "Multiplication by 10 — Part B",
+          "subtopic": "Multiplication by 10",
+          "week": 2,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise multiplication by 10 with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d45df310ebfb4db5bb10f3304fdce1d8",
+              "quote": "Multiplication by 5 and 10"
+            }
+          ]
+        },
+        {
+          "title": "Days of the week",
+          "subtopic": "Days of the week",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate days of the week."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0a01da1455044f62a907120ffef67c9c",
+              "quote": "Days of the week"
+            }
+          ]
+        },
+        {
+          "title": "Days of the week — Part B",
+          "subtopic": "Days of the week",
+          "week": 2,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise days of the week with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0a01da1455044f62a907120ffef67c9c",
+              "quote": "Days of the week"
+            }
+          ]
+        },
+        {
+          "title": "Months of the year",
+          "subtopic": "Months of the year",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate months of the year."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0a01da1455044f62a907120ffef67c9c",
+              "quote": "Months of the year"
+            }
+          ]
+        },
+        {
+          "title": "Months of the year — Part B",
+          "subtopic": "Months of the year",
+          "week": 3,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise months of the year with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0a01da1455044f62a907120ffef67c9c",
+              "quote": "Months of the year"
+            }
+          ]
+        },
+        {
+          "title": "Writing number names",
+          "subtopic": "Writing number names",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate writing number names."
+          ],
+          "sources": [
+            {
+              "source": "lchk_1d4db6ae7f7947e88506922b5da23d6e",
+              "quote": "Writing number names"
+            }
+          ]
+        },
+        {
+          "title": "Writing number names — Part B",
+          "subtopic": "Writing number names",
+          "week": 3,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise writing number names with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_1d4db6ae7f7947e88506922b5da23d6e",
+              "quote": "Writing number names"
+            }
+          ]
+        },
+        {
+          "title": "Missing numbers",
+          "subtopic": "Missing numbers",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate missing numbers."
+          ],
+          "sources": [
+            {
+              "source": "lchk_1d4db6ae7f7947e88506922b5da23d6e",
+              "quote": "Fill in the missing numbers"
+            }
+          ]
+        },
+        {
+          "title": "Missing numbers — Part B",
+          "subtopic": "Missing numbers",
+          "week": 3,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise missing numbers with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_1d4db6ae7f7947e88506922b5da23d6e",
+              "quote": "Fill in the missing numbers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Things We Make",
+      "theme": "Things We Make",
+      "weekFrom": 4,
+      "weekTo": 5,
+      "competences": "Count, represent or calculate through the mathematical exercises under Things We Make.",
+      "sources": [
+        {
+          "source": "lchk_aa54765eb4344facadd31c1f210e4062",
+          "quote": "Types of money"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Types of money",
+          "subtopic": "Types of money",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate types of money."
+          ],
+          "sources": [
+            {
+              "source": "lchk_aa54765eb4344facadd31c1f210e4062",
+              "quote": "Types of money"
+            }
+          ]
+        },
+        {
+          "title": "Types of money — Part B",
+          "subtopic": "Types of money",
+          "week": 4,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise types of money with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_aa54765eb4344facadd31c1f210e4062",
+              "quote": "Types of money"
+            }
+          ]
+        },
+        {
+          "title": "Addition of money",
+          "subtopic": "Addition of money",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate addition of money."
+          ],
+          "sources": [
+            {
+              "source": "lchk_aa54765eb4344facadd31c1f210e4062",
+              "quote": "Addition of money"
+            }
+          ]
+        },
+        {
+          "title": "Addition of money — Part B",
+          "subtopic": "Addition of money",
+          "week": 4,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise addition of money with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_aa54765eb4344facadd31c1f210e4062",
+              "quote": "Addition of money"
+            }
+          ]
+        },
+        {
+          "title": "Subtraction of money",
+          "subtopic": "Subtraction of money",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate subtraction of money."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0982097779794fc8b72680349ca23043",
+              "quote": "Subtraction of money with word application"
+            }
+          ]
+        },
+        {
+          "title": "Subtraction of money — Part B",
+          "subtopic": "Subtraction of money",
+          "week": 4,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise subtraction of money with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0982097779794fc8b72680349ca23043",
+              "quote": "Subtraction of money with word application"
+            }
+          ]
+        },
+        {
+          "title": "Counting in twos, threes, fives and tens",
+          "subtopic": "Counting in twos, threes, fives and tens",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate counting in twos, threes, fives and tens."
+          ],
+          "sources": [
+            {
+              "source": "lchk_470c65e9248a460faacabbce86272b89",
+              "quote": "Counting in twos, threes, fives and tens"
+            }
+          ]
+        },
+        {
+          "title": "Counting in twos, threes, fives and tens — Part B",
+          "subtopic": "Counting in twos, threes, fives and tens",
+          "week": 5,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise counting in twos, threes, fives and tens with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_470c65e9248a460faacabbce86272b89",
+              "quote": "Counting in twos, threes, fives and tens"
+            }
+          ]
+        },
+        {
+          "title": "Comparing liquids using less and more",
+          "subtopic": "Comparing liquids using less and more",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate comparing liquids using less and more."
+          ],
+          "sources": [
+            {
+              "source": "lchk_470c65e9248a460faacabbce86272b89",
+              "quote": "Compare liquids using less or more"
+            }
+          ]
+        },
+        {
+          "title": "Comparing liquids using less and more — Part B",
+          "subtopic": "Comparing liquids using less and more",
+          "week": 5,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise comparing liquids using less and more with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_470c65e9248a460faacabbce86272b89",
+              "quote": "Compare liquids using less or more"
+            }
+          ]
+        },
+        {
+          "title": "Subtraction of liquids",
+          "subtopic": "Subtraction of liquids",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate subtraction of liquids."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d084ab21549a492aa61dd048e2b965b3",
+              "quote": "Subtraction of liquids"
+            }
+          ]
+        },
+        {
+          "title": "Subtraction of liquids — Part B",
+          "subtopic": "Subtraction of liquids",
+          "week": 5,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise subtraction of liquids with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d084ab21549a492aa61dd048e2b965b3",
+              "quote": "Subtraction of liquids"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Our Environment",
+      "theme": "Our Environment",
+      "weekFrom": 6,
+      "weekTo": 6,
+      "competences": "Count, represent or calculate through the mathematical exercises under Our Environment.",
+      "sources": [
+        {
+          "source": "lchk_d084ab21549a492aa61dd048e2b965b3",
+          "quote": "Revision of sets"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Revision of sets",
+          "subtopic": "Revision of sets",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate revision of sets."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d084ab21549a492aa61dd048e2b965b3",
+              "quote": "Revision of sets"
+            }
+          ]
+        },
+        {
+          "title": "Revision of sets — Part B",
+          "subtopic": "Revision of sets",
+          "week": 6,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise revision of sets with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d084ab21549a492aa61dd048e2b965b3",
+              "quote": "Revision of sets"
+            }
+          ]
+        },
+        {
+          "title": "Revision of fractions",
+          "subtopic": "Revision of fractions",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate revision of fractions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d084ab21549a492aa61dd048e2b965b3",
+              "quote": "Revision of Fractions"
+            }
+          ]
+        },
+        {
+          "title": "Revision of fractions — Part B",
+          "subtopic": "Revision of fractions",
+          "week": 6,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise revision of fractions with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d084ab21549a492aa61dd048e2b965b3",
+              "quote": "Revision of Fractions"
+            }
+          ]
+        },
+        {
+          "title": "Subtraction word applications",
+          "subtopic": "Subtraction word applications",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate subtraction word applications."
+          ],
+          "sources": [
+            {
+              "source": "lchk_8769b2003b1d40b9b343a3c0eb341c32",
+              "quote": "Subtraction on word application"
+            }
+          ]
+        },
+        {
+          "title": "Subtraction word applications — Part B",
+          "subtopic": "Subtraction word applications",
+          "week": 6,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise subtraction word applications with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_8769b2003b1d40b9b343a3c0eb341c32",
+              "quote": "Subtraction on word application"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Peace and Security",
+      "theme": "Peace and Security",
+      "weekFrom": 7,
+      "weekTo": 10,
+      "competences": "Count, represent or calculate through the mathematical exercises under Peace and Security.",
+      "sources": [
+        {
+          "source": "lchk_8769b2003b1d40b9b343a3c0eb341c32",
+          "quote": "Picto-graph (Interpretation)"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Interpretation of pictographs",
+          "subtopic": "Interpretation of pictographs",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate interpretation of pictographs."
+          ],
+          "sources": [
+            {
+              "source": "lchk_8769b2003b1d40b9b343a3c0eb341c32",
+              "quote": "Picto-graph (Interpretation)"
+            }
+          ]
+        },
+        {
+          "title": "Interpretation of pictographs — Part B",
+          "subtopic": "Interpretation of pictographs",
+          "week": 7,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise interpretation of pictographs with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_8769b2003b1d40b9b343a3c0eb341c32",
+              "quote": "Picto-graph (Interpretation)"
+            }
+          ]
+        },
+        {
+          "title": "Interpretation of bar graphs",
+          "subtopic": "Interpretation of bar graphs",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate interpretation of bar graphs."
+          ],
+          "sources": [
+            {
+              "source": "lchk_8769b2003b1d40b9b343a3c0eb341c32",
+              "quote": "Interpreting bar - graph"
+            }
+          ]
+        },
+        {
+          "title": "Interpretation of bar graphs — Part B",
+          "subtopic": "Interpretation of bar graphs",
+          "week": 7,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise interpretation of bar graphs with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_8769b2003b1d40b9b343a3c0eb341c32",
+              "quote": "Interpreting bar - graph"
+            }
+          ]
+        },
+        {
+          "title": "Comparing length",
+          "subtopic": "Comparing length",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate comparing length."
+          ],
+          "sources": [
+            {
+              "source": "lchk_99b09645a31f4b7a92f72a9fb83d470c",
+              "quote": "Comparing length"
+            }
+          ]
+        },
+        {
+          "title": "Comparing length — Part B",
+          "subtopic": "Comparing length",
+          "week": 7,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise comparing length with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_99b09645a31f4b7a92f72a9fb83d470c",
+              "quote": "Comparing length"
+            }
+          ]
+        },
+        {
+          "title": "Addition of weight",
+          "subtopic": "Addition of weight",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate addition of weight."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4f5d173d8871483b944664ee184d9642",
+              "quote": "Addition of weight"
+            }
+          ]
+        },
+        {
+          "title": "Addition of weight — Part B",
+          "subtopic": "Addition of weight",
+          "week": 8,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise addition of weight with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4f5d173d8871483b944664ee184d9642",
+              "quote": "Addition of weight"
+            }
+          ]
+        },
+        {
+          "title": "Subtraction of weight",
+          "subtopic": "Subtraction of weight",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate subtraction of weight."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4f5d173d8871483b944664ee184d9642",
+              "quote": "Subtraction of weight"
+            }
+          ]
+        },
+        {
+          "title": "Subtraction of weight — Part B",
+          "subtopic": "Subtraction of weight",
+          "week": 8,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise subtraction of weight with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4f5d173d8871483b944664ee184d9642",
+              "quote": "Subtraction of weight"
+            }
+          ]
+        },
+        {
+          "title": "Addition of tens and ones",
+          "subtopic": "Addition of tens and ones",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate addition of tens and ones."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4f5d173d8871483b944664ee184d9642",
+              "quote": "Addition of tens and ones and with word application"
+            }
+          ]
+        },
+        {
+          "title": "Addition of tens and ones — Part B",
+          "subtopic": "Addition of tens and ones",
+          "week": 8,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise addition of tens and ones with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4f5d173d8871483b944664ee184d9642",
+              "quote": "Addition of tens and ones and with word application"
+            }
+          ]
+        },
+        {
+          "title": "Subtraction of tens and ones",
+          "subtopic": "Subtraction of tens and ones",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate subtraction of tens and ones."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4f5d173d8871483b944664ee184d9642",
+              "quote": "Subtraction of tens and ones and with word application"
+            }
+          ]
+        },
+        {
+          "title": "Subtraction of tens and ones — Part B",
+          "subtopic": "Subtraction of tens and ones",
+          "week": 9,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise subtraction of tens and ones with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_4f5d173d8871483b944664ee184d9642",
+              "quote": "Subtraction of tens and ones and with word application"
+            }
+          ]
+        },
+        {
+          "title": "Geometry and shapes",
+          "subtopic": "Geometry and shapes",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate geometry and shapes."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d613e086966646619ea8136570e5a9a8",
+              "quote": "Geometry"
+            }
+          ]
+        },
+        {
+          "title": "Geometry and shapes — Part B",
+          "subtopic": "Geometry and shapes",
+          "week": 9,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise geometry and shapes with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d613e086966646619ea8136570e5a9a8",
+              "quote": "Geometry"
+            }
+          ]
+        },
+        {
+          "title": "Comparing area",
+          "subtopic": "Comparing area",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate comparing area."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d613e086966646619ea8136570e5a9a8",
+              "quote": "Comparing area using bigger/ smaller"
+            }
+          ]
+        },
+        {
+          "title": "Comparing area — Part B",
+          "subtopic": "Comparing area",
+          "week": 9,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise comparing area with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d613e086966646619ea8136570e5a9a8",
+              "quote": "Comparing area using bigger/ smaller"
+            }
+          ]
+        },
+        {
+          "title": "Addition of three place values",
+          "subtopic": "Addition of three place values",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate addition of three place values."
+          ],
+          "sources": [
+            {
+              "source": "lchk_98d4c80693524f5096e4a2a3874e79cd",
+              "quote": "Addition of three place values"
+            }
+          ]
+        },
+        {
+          "title": "Addition of three place values — Part B",
+          "subtopic": "Addition of three place values",
+          "week": 10,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise addition of three place values with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_98d4c80693524f5096e4a2a3874e79cd",
+              "quote": "Addition of three place values"
+            }
+          ]
+        },
+        {
+          "title": "Magic squares",
+          "subtopic": "Magic squares",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Identify and demonstrate magic squares."
+          ],
+          "sources": [
+            {
+              "source": "lchk_98d4c80693524f5096e4a2a3874e79cd",
+              "quote": "Magic Square"
+            }
+          ]
+        },
+        {
+          "title": "Magic squares — Part B",
+          "subtopic": "Magic squares",
+          "week": 10,
+          "periods": 1,
+          "kind": "practice",
+          "objectives": [
+            "Practise magic squares with the source exercises."
+          ],
+          "sources": [
+            {
+              "source": "lchk_98d4c80693524f5096e4a2a3874e79cd",
+              "quote": "Magic Square"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "Only 58 distinct sourced teaching/practice entries are supported. The remaining periods should be reserved for revision or sourced exercises; do not invent new problems.",
+    "The P1 school mathematics scheme covers only the early Term III topics in its available passage; subsequent themed mathematics lessons are grounded in the accompanying P1 Term III lesson notes.",
+    "The DOS should confirm that the expanded Part B periods follow the exact activities in the source notebooks before lessons are generated."
+  ]
+}
