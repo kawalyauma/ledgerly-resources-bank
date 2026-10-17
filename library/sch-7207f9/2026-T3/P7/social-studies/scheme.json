@@ -1,0 +1,518 @@
+{
+  "units": [
+    {
+      "title": "Economic Developments in Africa",
+      "theme": "Living together in Africa",
+      "weekFrom": 1,
+      "weekTo": 5
+    },
+    {
+      "title": "Major World Organisations",
+      "theme": "Living together in Africa",
+      "weekFrom": 6,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_8c09ac95dd1e4a87b38af9f548f928d4",
+      "seq": 1,
+      "week": 1,
+      "title": "Major economic resources of Africa",
+      "subtopic": "Major economic resources of Africa",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_9c27f9fa4ea047169f971e27e8225c3c",
+      "seq": 2,
+      "week": 1,
+      "title": "Land and soil resources",
+      "subtopic": "Land and soil resources",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_a5189fe111cb4d19bcfc773e34147557",
+      "seq": 3,
+      "week": 1,
+      "title": "Mineral resources",
+      "subtopic": "Mineral resources",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_4c60b10e375147859a0438631099197e",
+      "seq": 4,
+      "week": 1,
+      "title": "Animals as resources",
+      "subtopic": "Animals as resources",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_2f6d4e7be3064d3fb0bff1b3d4827a0a",
+      "seq": 5,
+      "week": 1,
+      "title": "People as resources",
+      "subtopic": "People as resources",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_3745add6250f42289d2007a5435bebc5",
+      "seq": 6,
+      "week": 2,
+      "title": "Vegetation resources",
+      "subtopic": "Vegetation resources",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_a95a8f0385cb4e0b9aa625af14eff200",
+      "seq": 7,
+      "week": 2,
+      "title": "Climate as a resource",
+      "subtopic": "Climate as a resource",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_719cd0fd5429446487a9ecb607133e68",
+      "seq": 8,
+      "week": 2,
+      "title": "Water resources",
+      "subtopic": "Water resources",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_842d6ec1c8864216a846513be7859e56",
+      "seq": 9,
+      "week": 2,
+      "title": "Problems in using resources",
+      "subtopic": "Problems in using resources",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_d2aa3de8bd33401fb404dc2b95f38fce",
+      "seq": 10,
+      "week": 2,
+      "title": "Caring for resources",
+      "subtopic": "Caring for resources",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_b9169743eb3a4e82b5df420e2a31bf71",
+      "seq": 11,
+      "week": 3,
+      "title": "Nigeria: climate and oil",
+      "subtopic": "Nigeria: climate and oil",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_279f1c4fb1c441668b677c0ec9cc3609",
+      "seq": 12,
+      "week": 3,
+      "title": "Nigeria: farming and nomadism",
+      "subtopic": "Nigeria: farming and nomadism",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_16ebb6e50a174a3693883f8f8b1d4255",
+      "seq": 13,
+      "week": 3,
+      "title": "Nigeria: hydropower and transport",
+      "subtopic": "Nigeria: hydropower and transport",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_c96ac59bb43948c4841bfc2619499877",
+      "seq": 14,
+      "week": 3,
+      "title": "Sudan: Gezira irrigation",
+      "subtopic": "Sudan: Gezira irrigation",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_695227ceaee146b1a97982cab19e356f",
+      "seq": 15,
+      "week": 3,
+      "title": "Sudan: the Nile Valley",
+      "subtopic": "Sudan: the Nile Valley",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_78160d47ffc04d75a53ad2ba774c73f9",
+      "seq": 16,
+      "week": 4,
+      "title": "Libya: climate and oil",
+      "subtopic": "Libya: climate and oil",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_7457c889aa0d48ed811c2fab1ea319cb",
+      "seq": 17,
+      "week": 4,
+      "title": "Libya: irrigation and tourism",
+      "subtopic": "Libya: irrigation and tourism",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_cebfcb660eee448fb8798bae7d70a839",
+      "seq": 18,
+      "week": 4,
+      "title": "South Africa: mining and farming",
+      "subtopic": "South Africa: mining and farming",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_bb8f538d8e6046b7832b5cf8d9836996",
+      "seq": 19,
+      "week": 4,
+      "title": "South Africa: industry and trade",
+      "subtopic": "South Africa: industry and trade",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_31c8c911cc90439582b76371dc8246f8",
+      "seq": 20,
+      "week": 4,
+      "title": "DR Congo: mining",
+      "subtopic": "DR Congo: mining",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_b19c4e592834473cbc3b991805e15df1",
+      "seq": 21,
+      "week": 5,
+      "title": "DR Congo: farming and lumbering",
+      "subtopic": "DR Congo: farming and lumbering",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_e212fb87356a4f5490ac45044d7a03c8",
+      "seq": 22,
+      "week": 5,
+      "title": "Uganda: farming and mining",
+      "subtopic": "Uganda: farming and mining",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_f348b789de4849e1b03c1b5da446c1f4",
+      "seq": 23,
+      "week": 5,
+      "title": "Uganda: irrigation and pastoralism",
+      "subtopic": "Uganda: irrigation and pastoralism",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_ea24d68cb05e4b70979f17a919d17312",
+      "seq": 24,
+      "week": 5,
+      "title": "Comparing development in Africa",
+      "subtopic": "Comparing development in Africa",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_edaecf124b5c47bea78451b89628ab5c",
+      "seq": 25,
+      "week": 5,
+      "title": "Challenges to development",
+      "subtopic": "Challenges to development",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Economic Developments in Africa"
+    },
+    {
+      "id": "lles_bd3ea30c906043e0939ce0f694492800",
+      "seq": 26,
+      "week": 6,
+      "title": "Formation of the United Nations",
+      "subtopic": "Formation of the United Nations",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_e2b248d105f0468d9fd057ebda56f4cd",
+      "seq": 27,
+      "week": 6,
+      "title": "Formation of the United Nations — Part B",
+      "subtopic": "Formation of the United Nations",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_4930ecc08df14d8f933b3d03a1121aeb",
+      "seq": 28,
+      "week": 6,
+      "title": "Importance of the United Nations",
+      "subtopic": "Importance of the United Nations",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_dc011645b3f747328ff96af8ad392171",
+      "seq": 29,
+      "week": 6,
+      "title": "Importance of the United Nations — Part B",
+      "subtopic": "Importance of the United Nations",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_83912390ca2b4ae484150788a24cbcdd",
+      "seq": 30,
+      "week": 6,
+      "title": "Membership of the UN",
+      "subtopic": "Membership of the UN",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_89c1e194e4414c6bb305b598adb85a55",
+      "seq": 31,
+      "week": 7,
+      "title": "Membership of the UN — Part B",
+      "subtopic": "Membership of the UN",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_36df1186f0c94183afa1849e75664ddf",
+      "seq": 32,
+      "week": 7,
+      "title": "Organs of the UN",
+      "subtopic": "Organs of the UN",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_766b6b30295f42da8f7314beea9a2645",
+      "seq": 33,
+      "week": 7,
+      "title": "Organs of the UN — Part B",
+      "subtopic": "Organs of the UN",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_0b9a322ade664a878a3facc78e779748",
+      "seq": 34,
+      "week": 7,
+      "title": "Functions of the UN",
+      "subtopic": "Functions of the UN",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_385447689b804421baee858a4ca8a731",
+      "seq": 35,
+      "week": 7,
+      "title": "Functions of the UN — Part B",
+      "subtopic": "Functions of the UN",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_6e03a194804e4ea38416b09bfca4262e",
+      "seq": 36,
+      "week": 8,
+      "title": "UN agencies",
+      "subtopic": "UN agencies",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_e4437208fdb5453db669a680a3d2cf83",
+      "seq": 37,
+      "week": 8,
+      "title": "UN agencies — Part B",
+      "subtopic": "UN agencies",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_2606e52c11a14e60a234a921bfa5a5ab",
+      "seq": 38,
+      "week": 8,
+      "title": "UNESCO, UNICEF and WHO",
+      "subtopic": "UNESCO, UNICEF and WHO",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_638a2da5ac244c9287d7c480501451e2",
+      "seq": 39,
+      "week": 8,
+      "title": "UNESCO, UNICEF and WHO — Part B",
+      "subtopic": "UNESCO, UNICEF and WHO",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_a4b1bf41a890468bac8070e65525df1c",
+      "seq": 40,
+      "week": 8,
+      "title": "ILO, UNDP and UNHCR",
+      "subtopic": "ILO, UNDP and UNHCR",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_8d4d4d866c5d4b8aa42fae4e8cbc6a73",
+      "seq": 41,
+      "week": 9,
+      "title": "ILO, UNDP and UNHCR — Part B",
+      "subtopic": "ILO, UNDP and UNHCR",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_b1059aecfefb4e52bdfa0a82620c39fd",
+      "seq": 42,
+      "week": 9,
+      "title": "Human rights in the UN Charter",
+      "subtopic": "Human rights in the UN Charter",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_37038d30752348a3b20666f4ab3d9cf3",
+      "seq": 43,
+      "week": 9,
+      "title": "Human rights in the UN Charter — Part B",
+      "subtopic": "Human rights in the UN Charter",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_d01181b9313d40b497dbb734e0759fe2",
+      "seq": 44,
+      "week": 9,
+      "title": "Respect and violation of human rights",
+      "subtopic": "Respect and violation of human rights",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_55c8772bc468483ea54806d69d9d3394",
+      "seq": 45,
+      "week": 9,
+      "title": "Respect and violation of human rights — Part B",
+      "subtopic": "Respect and violation of human rights",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_41d5b3b852c74ed58aa5ac6f552dafbb",
+      "seq": 46,
+      "week": 10,
+      "title": "Commonwealth of Nations",
+      "subtopic": "Commonwealth of Nations",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_f7dfdd7592cf4f15b9f25d5f538db167",
+      "seq": 47,
+      "week": 10,
+      "title": "Commonwealth of Nations — Part B",
+      "subtopic": "Commonwealth of Nations",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_cfb18e50ead84a569dbf643886b15c03",
+      "seq": 48,
+      "week": 10,
+      "title": "Challenges of world organisations",
+      "subtopic": "Challenges of world organisations",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_abbb4d4558864b02a6aa92a19028cf6a",
+      "seq": 49,
+      "week": 10,
+      "title": "Challenges of world organisations — Part B",
+      "subtopic": "Challenges of world organisations",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    },
+    {
+      "id": "lles_baf70b70482a4d8fab71ab872fb3e1a8",
+      "seq": 50,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Economic Developments in Africa, Major World Organisations",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Major World Organisations"
+    }
+  ]
+}

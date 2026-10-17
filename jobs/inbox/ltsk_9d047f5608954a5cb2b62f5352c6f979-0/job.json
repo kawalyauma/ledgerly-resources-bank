@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_9d047f5608954a5cb2b62f5352c6f979-0",
+  "task": "ltsk_9d047f5608954a5cb2b62f5352c6f979",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 51,
+  "school": "sch-7207f9",
+  "class": "P7",
+  "classLevel": 7,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 1,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_8c09ac95dd1e4a87b38af9f548f928d4",
+      "kind": "teach",
+      "week": 1,
+      "title": "Major economic resources of Africa",
+      "periods": 1,
+      "subtopic": "Major economic resources of Africa"
+    },
+    {
+      "id": "lles_9c27f9fa4ea047169f971e27e8225c3c",
+      "kind": "teach",
+      "week": 1,
+      "title": "Land and soil resources",
+      "periods": 1,
+      "subtopic": "Land and soil resources"
+    },
+    {
+      "id": "lles_a5189fe111cb4d19bcfc773e34147557",
+      "kind": "teach",
+      "week": 1,
+      "title": "Mineral resources",
+      "periods": 1,
+      "subtopic": "Mineral resources"
+    },
+    {
+      "id": "lles_4c60b10e375147859a0438631099197e",
+      "kind": "teach",
+      "week": 1,
+      "title": "Animals as resources",
+      "periods": 1,
+      "subtopic": "Animals as resources"
+    },
+    {
+      "id": "lles_2f6d4e7be3064d3fb0bff1b3d4827a0a",
+      "kind": "teach",
+      "week": 1,
+      "title": "People as resources",
+      "periods": 1,
+      "subtopic": "People as resources"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P7/social-studies",
+  "passages": [
+    "lchk_ff110c6b16684b4bbf56de29c7e48fff",
+    "lchk_08b4203996574de4b3f2914bd9384c2c",
+    "lchk_d2861670341541fc82e4b0a679a47bf0",
+    "lchk_c8e10e5097074644ad353ff3556c7e2b",
+    "lchk_728e36b0120442d489e34403b0fba003",
+    "lchk_ea90bd16daed4f3a8d0daef89b79ef61",
+    "lchk_4de06718fff148298d102ca2becf0839",
+    "lchk_1f13711ef701441893006b0bf53f0666"
+  ],
+  "created": "2026-10-17T12:18:49.106Z"
+}
