@@ -1,0 +1,817 @@
+{
+  "title": "P7 Science Scheme of Work — Term 3, 2026",
+  "summary": "Both required NCDC Term III topics are covered in sequence: Interdependence of Things in the Environment and Population and Health, 24 periods each.",
+  "units": [
+    {
+      "title": "Interdependence of Things in the Environment",
+      "theme": "The Environment",
+      "weekFrom": 1,
+      "weekTo": 5,
+      "competences": "Explain interdependence, agro-forestry, proper tree care and woodlot record keeping.",
+      "sources": [
+        {
+          "source": "lchk_b432ce5954ca458e9a1e3beca129a2f9",
+          "quote": "Topic 7: Interdependence of things in the"
+        },
+        {
+          "source": "lchk_ab55d596eab640b3ad94ebb8e8b156c9",
+          "quote": "Interdependence of things in the environment"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Components of the environment",
+          "subtopic": "Components of the environment",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate components of the environment."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b432ce5954ca458e9a1e3beca129a2f9",
+              "quote": "Components of"
+            }
+          ]
+        },
+        {
+          "title": "Plants, animals, air, water and soil",
+          "subtopic": "Plants, animals, air, water and soil",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate plants, animals, air, water and soil."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b432ce5954ca458e9a1e3beca129a2f9",
+              "quote": "water bodies,"
+            }
+          ]
+        },
+        {
+          "title": "Meaning of interdependence",
+          "subtopic": "Meaning of interdependence",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate meaning of interdependence."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ab55d596eab640b3ad94ebb8e8b156c9",
+              "quote": "Interdependence"
+            }
+          ]
+        },
+        {
+          "title": "How animals depend on plants",
+          "subtopic": "How animals depend on plants",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate how animals depend on plants."
+          ],
+          "sources": [
+            {
+              "source": "lchk_316c83a1ac914803a6699d8992f9180a",
+              "quote": "Animals depend"
+            }
+          ]
+        },
+        {
+          "title": "How plants depend on animals",
+          "subtopic": "How plants depend on animals",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate how plants depend on animals."
+          ],
+          "sources": [
+            {
+              "source": "lchk_316c83a1ac914803a6699d8992f9180a",
+              "quote": "Plants depend"
+            }
+          ]
+        },
+        {
+          "title": "How animals depend on other animals",
+          "subtopic": "How animals depend on other animals",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate how animals depend on other animals."
+          ],
+          "sources": [
+            {
+              "source": "lchk_316c83a1ac914803a6699d8992f9180a",
+              "quote": "other animals"
+            }
+          ]
+        },
+        {
+          "title": "How plants depend on other plants",
+          "subtopic": "How plants depend on other plants",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate how plants depend on other plants."
+          ],
+          "sources": [
+            {
+              "source": "lchk_316c83a1ac914803a6699d8992f9180a",
+              "quote": "other plants"
+            }
+          ]
+        },
+        {
+          "title": "Interdependence in local surroundings",
+          "subtopic": "Interdependence in local surroundings",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate interdependence in local surroundings."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b432ce5954ca458e9a1e3beca129a2f9",
+              "quote": "interdependence of things"
+            }
+          ]
+        },
+        {
+          "title": "Air and living things",
+          "subtopic": "Air and living things",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate air and living things."
+          ],
+          "sources": [
+            {
+              "source": "lchk_316c83a1ac914803a6699d8992f9180a",
+              "quote": "non-living"
+            }
+          ]
+        },
+        {
+          "title": "Water and living things",
+          "subtopic": "Water and living things",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate water and living things."
+          ],
+          "sources": [
+            {
+              "source": "lchk_316c83a1ac914803a6699d8992f9180a",
+              "quote": "water, soil"
+            }
+          ]
+        },
+        {
+          "title": "Soil and living things",
+          "subtopic": "Soil and living things",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate soil and living things."
+          ],
+          "sources": [
+            {
+              "source": "lchk_316c83a1ac914803a6699d8992f9180a",
+              "quote": "water, soil"
+            }
+          ]
+        },
+        {
+          "title": "Benefits of living things to non-living things",
+          "subtopic": "Benefits of living things to non-living things",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate benefits of living things to non-living things."
+          ],
+          "sources": [
+            {
+              "source": "lchk_316c83a1ac914803a6699d8992f9180a",
+              "quote": "Non-living"
+            }
+          ]
+        },
+        {
+          "title": "Agro-forestry: meaning",
+          "subtopic": "Agro-forestry: meaning",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate agro-forestry: meaning."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ab55d596eab640b3ad94ebb8e8b156c9",
+              "quote": "Agro forestry"
+            }
+          ]
+        },
+        {
+          "title": "Crops and trees together",
+          "subtopic": "Crops and trees together",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate crops and trees together."
+          ],
+          "sources": [
+            {
+              "source": "lchk_316c83a1ac914803a6699d8992f9180a",
+              "quote": "Growing crops"
+            }
+          ]
+        },
+        {
+          "title": "Animals and crops on the same farm",
+          "subtopic": "Animals and crops on the same farm",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate animals and crops on the same farm."
+          ],
+          "sources": [
+            {
+              "source": "lchk_316c83a1ac914803a6699d8992f9180a",
+              "quote": "Rearing animals"
+            }
+          ]
+        },
+        {
+          "title": "Animals, crops and trees together",
+          "subtopic": "Animals, crops and trees together",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate animals, crops and trees together."
+          ],
+          "sources": [
+            {
+              "source": "lchk_316c83a1ac914803a6699d8992f9180a",
+              "quote": "same farm"
+            }
+          ]
+        },
+        {
+          "title": "Importance of agro-forestry",
+          "subtopic": "Importance of agro-forestry",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate importance of agro-forestry."
+          ],
+          "sources": [
+            {
+              "source": "lchk_316c83a1ac914803a6699d8992f9180a",
+              "quote": "Importance of"
+            }
+          ]
+        },
+        {
+          "title": "Indigenous and exotic trees",
+          "subtopic": "Indigenous and exotic trees",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate indigenous and exotic trees."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ab55d596eab640b3ad94ebb8e8b156c9",
+              "quote": "Indigenous trees"
+            }
+          ]
+        },
+        {
+          "title": "Starting a nursery bed",
+          "subtopic": "Starting a nursery bed",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate starting a nursery bed."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ab55d596eab640b3ad94ebb8e8b156c9",
+              "quote": "nursery bed"
+            }
+          ]
+        },
+        {
+          "title": "Caring for young trees",
+          "subtopic": "Caring for young trees",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate caring for young trees."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ab55d596eab640b3ad94ebb8e8b156c9",
+              "quote": "Care for seedlings"
+            }
+          ]
+        },
+        {
+          "title": "Care for trees in agro-forestry",
+          "subtopic": "Care for trees in agro-forestry",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate care for trees in agro-forestry."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f7990a2326a1490da6731d9cb0751c79",
+              "quote": "Care for trees"
+            }
+          ]
+        },
+        {
+          "title": "Pollarding, coppicing and lopping",
+          "subtopic": "Pollarding, coppicing and lopping",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate pollarding, coppicing and lopping."
+          ],
+          "sources": [
+            {
+              "source": "lchk_316c83a1ac914803a6699d8992f9180a",
+              "quote": "pollarding,"
+            }
+          ]
+        },
+        {
+          "title": "Managing a school or home woodlot",
+          "subtopic": "Managing a school or home woodlot",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate managing a school or home woodlot."
+          ],
+          "sources": [
+            {
+              "source": "lchk_316c83a1ac914803a6699d8992f9180a",
+              "quote": "woodlot project"
+            }
+          ]
+        },
+        {
+          "title": "Record keeping in woodlot projects",
+          "subtopic": "Record keeping in woodlot projects",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate record keeping in woodlot projects."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f7990a2326a1490da6731d9cb0751c79",
+              "quote": "Record keeping"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Population and Health",
+      "theme": "The Community, Population and Family Life",
+      "weekFrom": 6,
+      "weekTo": 10,
+      "competences": "Identify health problems, explain disease prevention and collect, interpret and present population and health data.",
+      "sources": [
+        {
+          "source": "lchk_316c83a1ac914803a6699d8992f9180a",
+          "quote": "Topic 8: Population and Health"
+        },
+        {
+          "source": "lchk_f7990a2326a1490da6731d9cb0751c79",
+          "quote": "Population and health."
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning of community health",
+          "subtopic": "Meaning of community health",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate meaning of community health."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f7990a2326a1490da6731d9cb0751c79",
+              "quote": "Community"
+            }
+          ]
+        },
+        {
+          "title": "Common sicknesses at home",
+          "subtopic": "Common sicknesses at home",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate common sicknesses at home."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9a74439477e4eeb8aac43c7c0e67a8b",
+              "quote": "common sicknesses"
+            }
+          ]
+        },
+        {
+          "title": "Causes of sicknesses",
+          "subtopic": "Causes of sicknesses",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate causes of sicknesses."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9a74439477e4eeb8aac43c7c0e67a8b",
+              "quote": "their causes"
+            }
+          ]
+        },
+        {
+          "title": "Preventing common sicknesses",
+          "subtopic": "Preventing common sicknesses",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate preventing common sicknesses."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9a74439477e4eeb8aac43c7c0e67a8b",
+              "quote": "Controlling"
+            }
+          ]
+        },
+        {
+          "title": "Health problems in the community",
+          "subtopic": "Health problems in the community",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate health problems in the community."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2d89dd80804b4850b29d639d478128d9",
+              "quote": "health and social problems"
+            }
+          ]
+        },
+        {
+          "title": "Water-associated diseases",
+          "subtopic": "Water-associated diseases",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate water-associated diseases."
+          ],
+          "sources": [
+            {
+              "source": "lchk_203d953ac88c41e992c354ad5b64c8cc",
+              "quote": "Water associated diseases"
+            }
+          ]
+        },
+        {
+          "title": "Poor sanitation",
+          "subtopic": "Poor sanitation",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate poor sanitation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2d89dd80804b4850b29d639d478128d9",
+              "quote": "Poor sanitation"
+            }
+          ]
+        },
+        {
+          "title": "Health and social challenges among young people",
+          "subtopic": "Health and social challenges among young people",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate health and social challenges among young people."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9a74439477e4eeb8aac43c7c0e67a8b",
+              "quote": "social problems"
+            }
+          ]
+        },
+        {
+          "title": "Anti-social behaviour",
+          "subtopic": "Anti-social behaviour",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate anti-social behaviour."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9a74439477e4eeb8aac43c7c0e67a8b",
+              "quote": "Anti-social"
+            }
+          ]
+        },
+        {
+          "title": "Preventing harmful behaviour",
+          "subtopic": "Preventing harmful behaviour",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate preventing harmful behaviour."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9a74439477e4eeb8aac43c7c0e67a8b",
+              "quote": "Ways of"
+            }
+          ]
+        },
+        {
+          "title": "Personal safety and healthy decisions",
+          "subtopic": "Personal safety and healthy decisions",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate personal safety and healthy decisions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9a74439477e4eeb8aac43c7c0e67a8b",
+              "quote": "health concerns"
+            }
+          ]
+        },
+        {
+          "title": "Actions to address health concerns",
+          "subtopic": "Actions to address health concerns",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate actions to address health concerns."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9a74439477e4eeb8aac43c7c0e67a8b",
+              "quote": "Activities to"
+            }
+          ]
+        },
+        {
+          "title": "Community health activities",
+          "subtopic": "Community health activities",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate community health activities."
+          ],
+          "sources": [
+            {
+              "source": "lchk_367b42becba24b9f82fd4cafbb002690",
+              "quote": "health activities"
+            }
+          ]
+        },
+        {
+          "title": "Health education",
+          "subtopic": "Health education",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate health education."
+          ],
+          "sources": [
+            {
+              "source": "lchk_203d953ac88c41e992c354ad5b64c8cc",
+              "quote": "Health education"
+            }
+          ]
+        },
+        {
+          "title": "Food security",
+          "subtopic": "Food security",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate food security."
+          ],
+          "sources": [
+            {
+              "source": "lchk_203d953ac88c41e992c354ad5b64c8cc",
+              "quote": "Food security"
+            }
+          ]
+        },
+        {
+          "title": "Health clubs at school",
+          "subtopic": "Health clubs at school",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate health clubs at school."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9a74439477e4eeb8aac43c7c0e67a8b",
+              "quote": "Activities of"
+            }
+          ]
+        },
+        {
+          "title": "Population and health data",
+          "subtopic": "Population and health data",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate population and health data."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9a74439477e4eeb8aac43c7c0e67a8b",
+              "quote": "data on human"
+            }
+          ]
+        },
+        {
+          "title": "Meaning of demography",
+          "subtopic": "Meaning of demography",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate meaning of demography."
+          ],
+          "sources": [
+            {
+              "source": "lchk_203d953ac88c41e992c354ad5b64c8cc",
+              "quote": "Demography."
+            }
+          ]
+        },
+        {
+          "title": "Housing information surveys",
+          "subtopic": "Housing information surveys",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate housing information surveys."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9a74439477e4eeb8aac43c7c0e67a8b",
+              "quote": "housing"
+            }
+          ]
+        },
+        {
+          "title": "Health services survey",
+          "subtopic": "Health services survey",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate health services survey."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9a74439477e4eeb8aac43c7c0e67a8b",
+              "quote": "available"
+            }
+          ]
+        },
+        {
+          "title": "Recording survey data",
+          "subtopic": "Recording survey data",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate recording survey data."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9a74439477e4eeb8aac43c7c0e67a8b",
+              "quote": "Collecting"
+            }
+          ]
+        },
+        {
+          "title": "Interpreting survey findings",
+          "subtopic": "Interpreting survey findings",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate interpreting survey findings."
+          ],
+          "sources": [
+            {
+              "source": "lchk_367b42becba24b9f82fd4cafbb002690",
+              "quote": "interpreting"
+            }
+          ]
+        },
+        {
+          "title": "Planning solutions to health concerns",
+          "subtopic": "Planning solutions to health concerns",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate planning solutions to health concerns."
+          ],
+          "sources": [
+            {
+              "source": "lchk_367b42becba24b9f82fd4cafbb002690",
+              "quote": "plans and carries out"
+            }
+          ]
+        },
+        {
+          "title": "Writing a survey report",
+          "subtopic": "Writing a survey report",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "Explain or demonstrate writing a survey report."
+          ],
+          "sources": [
+            {
+              "source": "lchk_367b42becba24b9f82fd4cafbb002690",
+              "quote": "prepares a simple report"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "NCDC schedules 24 periods for each Term III topic; the remaining 12 of the school's 60 periods require sourced consolidation and assessment.",
+    "The agent must find original practice exercises and actual local survey data before detailed lessons are generated.",
+    "The DOS should reconcile the school's timetable with the NCDC topic-period allocation."
+  ]
+}

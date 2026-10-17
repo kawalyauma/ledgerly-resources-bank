@@ -1,0 +1,14 @@
+{
+  "job": "ltsk_8d0ceaf1d3e747b0b2dcf888042edd03-1",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "scheme": [
+      "NCDC schedules 24 periods for each Term III topic; the remaining 12 of the school's 60 periods require sourced consolidation and assessment.",
+      "The agent must find original practice exercises and actual local survey data before detailed lessons are generated.",
+      "The DOS should reconcile the school's timetable with the NCDC topic-period allocation."
+    ]
+  },
+  "reviewerNotes": "Repairs earlier missing NCDC Topic 7 with 48 sourced teaching lessons across the two required Term III units."
+}
