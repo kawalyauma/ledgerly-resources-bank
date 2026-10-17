@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Who was the first non executive president of Uganda?",
+    "answer": "Sir Edward Muteesa II",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "The President, ministers and civil servants",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8d263adf25145d9b9a94e0acaa20555",
+      "quote": "Who was the first non executive president of Uganda?"
+    }
+  },
+  {
+    "question": "Name the first vice president of the non executive Uganda?",
+    "answer": "He was Wilberforce Nadiope",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "The President, ministers and civil servants",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8d263adf25145d9b9a94e0acaa20555",
+      "quote": "Name the first vice president of the non executive Uganda?"
+    }
+  },
+  {
+    "question": "Name the first executive president of Uganda.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "The President, ministers and civil servants",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_1c3a8987ca454f62be031ad326455512",
+      "quote": "Name the first executive president of Uganda."
+    }
+  },
+  {
+    "question": "Who was the first president of Uganda in 1963?",
+    "answer": "Sir Edward Muteesa II",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "The President, ministers and civil servants",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8d263adf25145d9b9a94e0acaa20555",
+      "quote": "Who was the first president of Uganda in 1963?"
+    }
+  },
+  {
+    "question": "Name the president who abolished kingdoms in Uganda in 1967?",
+    "answer": "Apollo Milton Obote",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "The President, ministers and civil servants",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8d263adf25145d9b9a94e0acaa20555",
+      "quote": "Name the president who abolished kingdoms in Uganda in 1967?"
+    }
+  },
+  {
+    "question": "What enabled Obote to become the first Executive Prime Minister of Uganda?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "The President, ministers and civil servants",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8d263adf25145d9b9a94e0acaa20555",
+      "quote": "What enabled Obote to become the first Executive Prime Minister of Uganda?"
+    }
+  }
+]

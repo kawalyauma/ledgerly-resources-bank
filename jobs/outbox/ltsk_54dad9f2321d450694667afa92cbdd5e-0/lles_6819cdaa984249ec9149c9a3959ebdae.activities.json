@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Why is 8 th October 1995 remembered in the political history of Uganda?",
+    "answer": "It was the day when the 1995 constitution was made known to the",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "The 1962, 1967 and 1995 constitutions",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_89c044d3c4f84b318aeb406e2e551d37",
+      "quote": "Why is 8 th October 1995 remembered in the political history of Uganda?"
+    }
+  },
+  {
+    "question": "What was the weakness of 1962 constitution?",
+    "answer": "It never gave the president executive powers",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "The 1962, 1967 and 1995 constitutions",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_89c044d3c4f84b318aeb406e2e551d37",
+      "quote": "What was the weakness of 1962 constitution?"
+    }
+  },
+  {
+    "question": "What contribution was made by Godfrey Lukongwa Binaisa and Kofi Crable in 1967?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "The 1962, 1967 and 1995 constitutions",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_8565a70475344911b9db098cef933069",
+      "quote": "What contribution was made by Godfrey Lukongwa Binaisa and Kofi Crable in 1967?"
+    }
+  },
+  {
+    "question": "Why is 8 th October 1995 politically important?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "The 1962, 1967 and 1995 constitutions",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_8565a70475344911b9db098cef933069",
+      "quote": "Why is 8 th October 1995 politically important?"
+    }
+  },
+  {
+    "question": "Why was the 1967 constitutioncalled a republic constitution?",
+    "answer": "It declared Uganda a republic",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "The 1962, 1967 and 1995 constitutions",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_89c044d3c4f84b318aeb406e2e551d37",
+      "quote": "Why was the 1967 constitutioncalled a republic constitution?"
+    }
+  },
+  {
+    "question": "Who were the constituent assemblies delegated?",
+    "answer": "These were elected representatives with power to make or change",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "The 1962, 1967 and 1995 constitutions",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_89c044d3c4f84b318aeb406e2e551d37",
+      "quote": "Who were the constituent assemblies delegated?"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Mention any three examples of election malpractices.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Bad practices before, during and after voting",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c1b6f50180394ae6a613975f44344cea",
+      "quote": "Mention any three examples of election malpractices."
+    }
+  },
+  {
+    "question": "Give one example of a universal suf-frage election",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Bad practices before, during and after voting",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_18c7f38f15a34cac818d9f873981b6a6",
+      "quote": "Give one example of a universal suf-frage election"
+    }
+  },
+  {
+    "question": "What is an open election?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Bad practices before, during and after voting",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_f99c684c29f64207a407b1bd185ea3cd",
+      "quote": "What is an open election?"
+    }
+  },
+  {
+    "question": "What is an re run as used during election ?",
+    "answer": "This is a repeated election after the winning presidential candidate",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Bad practices before, during and after voting",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_82a3878551f441799f00a79a33ea9bbf",
+      "quote": "What is an re run as used during election ?"
+    }
+  },
+  {
+    "question": "Who was the chairperson of the constituent assembly?",
+    "answer": "James Wakakhabula",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Bad practices before, during and after voting",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_89c044d3c4f84b318aeb406e2e551d37",
+      "quote": "Who was the chairperson of the constituent assembly?"
+    }
+  },
+  {
+    "question": "Which constitution restored Kingdoms in Uganda?",
+    "answer": "The 1995 constitution",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Bad practices before, during and after voting",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_89c044d3c4f84b318aeb406e2e551d37",
+      "quote": "Which constitution restored Kingdoms in Uganda?"
+    }
+  }
+]

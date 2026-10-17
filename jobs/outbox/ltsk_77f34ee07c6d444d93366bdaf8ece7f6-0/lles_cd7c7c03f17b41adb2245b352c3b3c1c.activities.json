@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Why are children not allowed to vote in an election?",
+    "answer": "They cannot make their own decision",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Meaning and types of elections",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_1d0a00b334ac4c53bc15fad9593b34fd",
+      "quote": "Why are children not allowed to vote in an election?"
+    }
+  },
+  {
+    "question": "What is secret ballot election?",
+    "answer": "This is a system of election where voters use ballot papers to choose",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Meaning and types of elections",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_f99c684c29f64207a407b1bd185ea3cd",
+      "quote": "What is secret ballot election?"
+    }
+  },
+  {
+    "question": "Who was the leader of NRA?",
+    "answer": "HE. Yoweri Kaguta Museveni",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Meaning and types of elections",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_e8e8102287d84e4197846a7582a4040e",
+      "quote": "Who was the leader of NRA?"
+    }
+  },
+  {
+    "question": "Which political party won the 1961 general elections ?",
+    "answer": "D.p (Democratic Party)",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Meaning and types of elections",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b6ebfff8d01745efa6141743d019e6df",
+      "quote": "Which political party won the 1961 general elections ?"
+    }
+  },
+  {
+    "question": "Who won the 1961 general elections ?",
+    "answer": "Benedicto Kiwanuka",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Meaning and types of elections",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b6ebfff8d01745efa6141743d019e6df",
+      "quote": "Who won the 1961 general elections ?"
+    }
+  },
+  {
+    "question": "What is referendum ?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Meaning and types of elections",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_1d0a00b334ac4c53bc15fad9593b34fd",
+      "quote": "What is referendum ?"
+    }
+  }
+]

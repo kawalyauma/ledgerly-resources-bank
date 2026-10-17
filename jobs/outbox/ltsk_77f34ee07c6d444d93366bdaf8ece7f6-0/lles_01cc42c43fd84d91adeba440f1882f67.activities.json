@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Who is the current chairperson electoral commission?",
+    "answer": "Justice Simon Byabakama.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Roles and challenges of the Electoral Commission",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_f99c684c29f64207a407b1bd185ea3cd",
+      "quote": "Who is the current chairperson electoral commission?"
+    }
+  },
+  {
+    "question": "What is a constituency?",
+    "answer": "This is an area represented by amember of parliament.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Roles and challenges of the Electoral Commission",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_f99c684c29f64207a407b1bd185ea3cd",
+      "quote": "What is a constituency?"
+    }
+  },
+  {
+    "question": "State any three challenges the Uganda Electoral commission faces when carrying out its",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Roles and challenges of the Electoral Commission",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c1b6f50180394ae6a613975f44344cea",
+      "quote": "State any three challenges the Uganda Electoral commission faces when carrying out its"
+    }
+  },
+  {
+    "question": "Mention one electoral system that is used in Uganda.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Roles and challenges of the Electoral Commission",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_18c7f38f15a34cac818d9f873981b6a6",
+      "quote": "Mention one electoral system that is used in Uganda."
+    }
+  },
+  {
+    "question": "State one advantage of the above electoral system.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Roles and challenges of the Electoral Commission",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_18c7f38f15a34cac818d9f873981b6a6",
+      "quote": "State one advantage of the above electoral system."
+    }
+  },
+  {
+    "question": "Which electoral system is commonly used in villages?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Roles and challenges of the Electoral Commission",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_18c7f38f15a34cac818d9f873981b6a6",
+      "quote": "Which electoral system is commonly used in villages?"
+    }
+  }
+]

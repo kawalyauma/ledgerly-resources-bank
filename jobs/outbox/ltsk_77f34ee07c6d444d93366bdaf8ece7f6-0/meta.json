@@ -1,0 +1,15 @@
+{
+  "job": "ltsk_77f34ee07c6d444d93366bdaf8ece7f6-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "lles_d65048524b0941b99e21c41ea99910bc": [
+      "This lesson uses original questions from the broader source unit for practice because few questions name this exact subtopic."
+    ],
+    "lles_c93a1de7ede84717927d7171c796140f": [
+      "This lesson uses original questions from the broader source unit for practice because few questions name this exact subtopic."
+    ]
+  },
+  "reviewerNotes": "Sourced Primary Five SST term III notes and plans. Questions are drawn from the reference pack; school review required."
+}

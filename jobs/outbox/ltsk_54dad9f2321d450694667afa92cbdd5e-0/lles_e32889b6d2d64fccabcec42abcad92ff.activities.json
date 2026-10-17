@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which group of people paid the following taxes?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Taxation and types of taxes",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_8964f2b327ad4d90b6795de0d33acfba",
+      "quote": "Which group of people paid the following taxes?"
+    }
+  },
+  {
+    "question": "How did the 1900 Buganda agreement affect the following?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Taxation and types of taxes",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_8964f2b327ad4d90b6795de0d33acfba",
+      "quote": "How did the 1900 Buganda agreement affect the following?"
+    }
+  },
+  {
+    "question": "How were local people able to pay taxes?",
+    "answer": "By growing cash crops",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Taxation and types of taxes",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_ac244cc730004603be6884e612ef2398",
+      "quote": "How were local people able to pay taxes?"
+    }
+  },
+  {
+    "question": "Why did the British make local people to pay taxes?",
+    "answer": "To pay salaries for administrators",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Taxation and types of taxes",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_ac244cc730004603be6884e612ef2398",
+      "quote": "Why did the British make local people to pay taxes?"
+    }
+  },
+  {
+    "question": "Mention the two types of taxes.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Taxation and types of taxes",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Mention the two types of taxes."
+    }
+  },
+  {
+    "question": "Name the body that is responsible for collecting taxes in Uganda.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Taxation and types of taxes",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_853d95d8ec1549f28a6ca4fadcc6f022",
+      "quote": "Name the body that is responsible for collecting taxes in Uganda."
+    }
+  }
+]
