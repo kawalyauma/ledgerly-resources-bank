@@ -1,0 +1,81 @@
+{
+  "competences": [
+    "The learner names key offices related to departments in the district.",
+    "The learner identifies how district officers provide services."
+  ],
+  "languageCompetence": "Read, write and pronounce department, civic, district, veterinary, forestry, agriculture and administration.",
+  "objectives": [
+    "By the end of the period learners should identify four district departments and their purposes.",
+    "By the end of the period learners should answer the original questions about district officers."
+  ],
+  "priorKnowledge": "Learners already know the difference between civic and political leaders and can name local government offices.",
+  "methods": [
+    "Explanation",
+    "Question and answer",
+    "Guided discussion"
+  ],
+  "materials": [
+    "District public-service departmental chart",
+    "P4 Social Studies district leadership notes"
+  ],
+  "references": [
+    "Excel P 4 SST Term III",
+    "Primary 4 Social Studies Notes for Terms 1–3"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "The teacher recalls previous lessons about district leadership and asks \"3. Apart from the CAO, mention any four other examples of civic leaders in your district.\". They introduce departments in the district and relate the question to duties in the district.",
+      "learnerActivity": "Learners recall district officials they have studied, respond to the opening question and name the public services they know."
+    },
+    {
+      "stage": "Development: District administration and civil service",
+      "minutes": 6,
+      "content": "The Chief Administrative Officer heads district civil servants. District civil servants are appointed to provide public services. The CAO ensures payment of district civil servants' salaries. District officers implement government programmes. The district chairperson coordinates local-government activities.",
+      "teacherActivity": "The teacher writes sourced facts about district administration and civil service, beginning with \"The Chief Administrative Officer heads district civil servants. District civil servants are appointed to provide public services.\" They use the original question \"4. How is a Veterinary officer different from an Agricultural officer?\" to check knowledge and correct unclear answers.",
+      "learnerActivity": "Learners name district departments, explain the listed duties, answer the teacher's question and copy accurate notes into their books."
+    },
+    {
+      "stage": "Development: District health and education departments",
+      "minutes": 6,
+      "content": "The DDHS is responsible for district medical programmes. The DDHS supervises medical workers and health centres. The DDHS helps plan responses to disease outbreaks. The DEO heads district education departments and institutions. The DEO ensures education programmes are carried out. The DEO works to improve education standards.",
+      "teacherActivity": "The teacher writes sourced facts about district health and education departments, beginning with \"The DDHS is responsible for district medical programmes. The DDHS supervises medical workers and health centres.\" They use the original question \"13. Who is the president’s representative in the district?\" to check knowledge and correct unclear answers.",
+      "learnerActivity": "Learners name district departments, explain the listed duties, answer the teacher's question and copy accurate notes into their books."
+    },
+    {
+      "stage": "Development: District agricultural and livestock departments",
+      "minutes": 6,
+      "content": "The District Agricultural Officer advises crop farmers. The Agricultural Officer teaches better farming methods. The Agricultural Officer encourages food crop growing. The District Veterinary Officer advises livestock farmers. The Veterinary Officer supervises veterinary workers. The Veterinary Officer teaches better animal care.",
+      "teacherActivity": "The teacher writes sourced facts about district agricultural and livestock departments, beginning with \"The District Agricultural Officer advises crop farmers. The Agricultural Officer teaches better farming methods.\" They use the original question \"1. Apart from civic leaders, mention any three other types of leaders.\" to check knowledge and correct unclear answers.",
+      "learnerActivity": "Learners name district departments, explain the listed duties, answer the teacher's question and copy accurate notes into their books."
+    },
+    {
+      "stage": "Development: Other important district departments",
+      "minutes": 6,
+      "content": "The District Forestry Officer promotes forest conservation. The District Fisheries Officer controls illegal fishing. The District Water Officer manages clean-water distribution. The District Police Commander maintains law and order. The District Engineer helps build roads and bridges. The District Sports Officer manages district sports activities.",
+      "teacherActivity": "The teacher writes sourced facts about other important district departments, beginning with \"The District Forestry Officer promotes forest conservation. The District Fisheries Officer controls illegal fishing.\" They use the original question \"2. How does CAO attain leadership powers?\" to check knowledge and correct unclear answers.",
+      "learnerActivity": "Learners name district departments, explain the listed duties, answer the teacher's question and copy accurate notes into their books."
+    },
+    {
+      "stage": "Practice / Exercise",
+      "minutes": 7,
+      "content": "3. Apart from the CAO, mention any four other examples of civic leaders in your district. | 4. How is a Veterinary officer different from an Agricultural officer? | 13. Who is the president’s representative in the district? | 1. Apart from civic leaders, mention any three other types of leaders. | 2. How does CAO attain leadership powers?",
+      "teacherActivity": "The teacher sets the original questions \"3. Apart from the CAO, mention any four other examples of civic leaders in your district.\" and \"4. How is a Veterinary officer different from an Agricultural officer?\" for independent work. They check written responses with the available reference material and provide corrections.",
+      "learnerActivity": "Learners answer the sourced questions independently, compare answers with their written notes and correct inaccurate responses."
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 4,
+      "teacherActivity": "The teacher reviews the important departments and roles, asking \"13. Who is the president’s representative in the district?\" and \"1. Apart from civic leaders, mention any three other types of leaders.\". They mark any unfinished answers and assign the last question as homework.",
+      "learnerActivity": "Learners identify the relevant officers, answer oral review questions and write the final question for homework."
+    }
+  ],
+  "assessment": "Check answers to \"3. Apart from the CAO, mention any four other examples of civic leaders in your district.\", \"4. How is a Veterinary officer different from an Agricultural officer?\", and \"13. Who is the president’s representative in the district?\". Mark work and correct using the district source notes.",
+  "homework": "Answer the original sourced question \"2. How does CAO attain leadership powers?\"",
+  "lifeSkills": [
+    "Communication",
+    "Critical thinking",
+    "Responsibility"
+  ]
+}

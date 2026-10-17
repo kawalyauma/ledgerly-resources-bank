@@ -1,0 +1,18 @@
+{
+  "job": "ltsk_8734155ec15b494baecd70d512810975-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "lles_d8a43f363bfd4e69bc02162ba0a7eaeb": [
+      "Limited direct departmental exercise questions; original local-government questions supplement Part B practice."
+    ],
+    "lles_e209f6618247435c8629884d2b485bda": [
+      "Supplemental civic and cultural-leadership questions are used because the source contains few new duties-only questions."
+    ],
+    "lles_e018802f174f4bbe9ce275932f84e022": [
+      "Only one original exercise directly asks about qualities of good leaders; related leadership questions are supplied as unit revision."
+    ]
+  },
+  "reviewerNotes": "P4 SST Week 3: five sourced lessons and original exercises. Review alignment of supplemental leadership questions prior to classroom publication."
+}
