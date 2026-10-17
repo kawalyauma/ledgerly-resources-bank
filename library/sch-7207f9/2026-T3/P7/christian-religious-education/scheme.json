@@ -1,0 +1,324 @@
+{
+  "units": [
+    {
+      "title": "Strengthened by the Spirit we Accept the Events of Life",
+      "theme": "Christians and the Holy Spirit",
+      "weekFrom": 1,
+      "weekTo": 3
+    },
+    {
+      "title": "Praying in the Spirit",
+      "theme": "Christians and the Holy Spirit",
+      "weekFrom": 4,
+      "weekTo": 6
+    },
+    {
+      "title": "Growing in the Spirit",
+      "theme": "Christians and the Holy Spirit",
+      "weekFrom": 7,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_259c6eaa609c42e7adb05d9b6615eee7",
+      "seq": 1,
+      "week": 1,
+      "title": "Meaning of success and failure",
+      "subtopic": "Meaning of success and failure",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Strengthened by the Spirit we Accept the Events of Life"
+    },
+    {
+      "id": "lles_e052915ff3bf4deeabfecef81d861df2",
+      "seq": 2,
+      "week": 1,
+      "title": "Causes of success and failure",
+      "subtopic": "Causes of success and failure",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Strengthened by the Spirit we Accept the Events of Life"
+    },
+    {
+      "id": "lles_e3699e0d40874d4585392cd1b4b42e89",
+      "seq": 3,
+      "week": 1,
+      "title": "Week 1 review",
+      "subtopic": "Strengthened by the Spirit we Accept the Events of Life",
+      "kind": "review",
+      "status": "writing",
+      "unit": "Strengthened by the Spirit we Accept the Events of Life"
+    },
+    {
+      "id": "lles_5f132a4512874dbb8fcf59b46e6281a1",
+      "seq": 4,
+      "week": 2,
+      "title": "Coping with life experiences",
+      "subtopic": "Coping with life experiences",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Strengthened by the Spirit we Accept the Events of Life"
+    },
+    {
+      "id": "lles_e8a5f3127e8747b995afccdb41797de0",
+      "seq": 5,
+      "week": 2,
+      "title": "Fear in people and animals",
+      "subtopic": "Fear in people and animals",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Strengthened by the Spirit we Accept the Events of Life"
+    },
+    {
+      "id": "lles_427cbc4fa7e64e4cafc0e35a4a7fd9a9",
+      "seq": 6,
+      "week": 2,
+      "title": "Week 2 review",
+      "subtopic": "Strengthened by the Spirit we Accept the Events of Life",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Strengthened by the Spirit we Accept the Events of Life"
+    },
+    {
+      "id": "lles_949a03f4b9914966a39c657a9ef7043d",
+      "seq": 7,
+      "week": 3,
+      "title": "Bible teachings about fear and courage",
+      "subtopic": "Bible teachings about fear and courage",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Strengthened by the Spirit we Accept the Events of Life"
+    },
+    {
+      "id": "lles_e2f158432b1049318ba9fc2a42b592e8",
+      "seq": 8,
+      "week": 3,
+      "title": "Recognising and managing emotions",
+      "subtopic": "Recognising and managing emotions",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Strengthened by the Spirit we Accept the Events of Life"
+    },
+    {
+      "id": "lles_3185520ad47540ffa218ee56fe0b0748",
+      "seq": 9,
+      "week": 3,
+      "title": "Week 3 review",
+      "subtopic": "Strengthened by the Spirit we Accept the Events of Life",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Strengthened by the Spirit we Accept the Events of Life"
+    },
+    {
+      "id": "lles_1950c1bb339e4d2fbb2c95e14dbf80ed",
+      "seq": 10,
+      "week": 4,
+      "title": "God's communication with people",
+      "subtopic": "God's communication with people",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Praying in the Spirit"
+    },
+    {
+      "id": "lles_015201a19cba4b6cbfa7319da5f23f11",
+      "seq": 11,
+      "week": 4,
+      "title": "Types of prayer",
+      "subtopic": "Types of prayer",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Praying in the Spirit"
+    },
+    {
+      "id": "lles_f642ee8cd94348878396544e0306c0e1",
+      "seq": 12,
+      "week": 4,
+      "title": "Week 4 review",
+      "subtopic": "Praying in the Spirit",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Praying in the Spirit"
+    },
+    {
+      "id": "lles_f3635e05872a446faa28124e94aca855",
+      "seq": 13,
+      "week": 5,
+      "title": "Importance and reasons for prayer",
+      "subtopic": "Importance and reasons for prayer",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Praying in the Spirit"
+    },
+    {
+      "id": "lles_59afe36f986345c3b11073dffa6784ab",
+      "seq": 14,
+      "week": 5,
+      "title": "Ways and principles of prayer",
+      "subtopic": "Ways and principles of prayer",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Praying in the Spirit"
+    },
+    {
+      "id": "lles_cbba25afa26f4eccacd9d9d727ad404a",
+      "seq": 15,
+      "week": 5,
+      "title": "Week 5 review",
+      "subtopic": "Praying in the Spirit",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Praying in the Spirit"
+    },
+    {
+      "id": "lles_c1151f7a12d043f6a047333acd827c6f",
+      "seq": 16,
+      "week": 6,
+      "title": "The Lord's Prayer",
+      "subtopic": "The Lord's Prayer",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Praying in the Spirit"
+    },
+    {
+      "id": "lles_17d010f02c5549558ace4ceecc7d7b12",
+      "seq": 17,
+      "week": 6,
+      "title": "Why and where Jesus prayed",
+      "subtopic": "Why and where Jesus prayed",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Praying in the Spirit"
+    },
+    {
+      "id": "lles_279682d9a5ae4f23a176420956526736",
+      "seq": 18,
+      "week": 6,
+      "title": "Week 6 review",
+      "subtopic": "Praying in the Spirit",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Praying in the Spirit"
+    },
+    {
+      "id": "lles_dd4f92095c8d475ab12dd6b98056da31",
+      "seq": 19,
+      "week": 7,
+      "title": "Prayer in the early church",
+      "subtopic": "Prayer in the early church",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Growing in the Spirit"
+    },
+    {
+      "id": "lles_1a595ad432124ed4a02fc4a8c44c99d4",
+      "seq": 20,
+      "week": 7,
+      "title": "Arrest of Peter and John",
+      "subtopic": "Arrest of Peter and John",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Growing in the Spirit"
+    },
+    {
+      "id": "lles_ef65986c87f7483696dfa72f77b3043e",
+      "seq": 21,
+      "week": 7,
+      "title": "Week 7 review",
+      "subtopic": "Growing in the Spirit",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Growing in the Spirit"
+    },
+    {
+      "id": "lles_a441201914c14436a050ba7e2014b7a1",
+      "seq": 22,
+      "week": 8,
+      "title": "Peter's release from prison",
+      "subtopic": "Peter's release from prison",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Growing in the Spirit"
+    },
+    {
+      "id": "lles_49ec83938b0b4589acf2e7e2e13f7968",
+      "seq": 23,
+      "week": 8,
+      "title": "Peter and Tabitha",
+      "subtopic": "Peter and Tabitha",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Growing in the Spirit"
+    },
+    {
+      "id": "lles_e2c9cccf632b49bda2142f0155527682",
+      "seq": 24,
+      "week": 8,
+      "title": "Week 8 review",
+      "subtopic": "Growing in the Spirit",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Growing in the Spirit"
+    },
+    {
+      "id": "lles_be963a43020940a68b947f9472b311d2",
+      "seq": 25,
+      "week": 9,
+      "title": "Paul and Barnabas",
+      "subtopic": "Paul and Barnabas",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Growing in the Spirit"
+    },
+    {
+      "id": "lles_07f9b05dc8f849bea4b4e89fdf9c5eaf",
+      "seq": 26,
+      "week": 9,
+      "title": "Meaning and types of creeds",
+      "subtopic": "Meaning and types of creeds",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Growing in the Spirit"
+    },
+    {
+      "id": "lles_b8ad874cb4b7477fab673aa7b57fb51f",
+      "seq": 27,
+      "week": 9,
+      "title": "Week 9 review",
+      "subtopic": "Growing in the Spirit",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Growing in the Spirit"
+    },
+    {
+      "id": "lles_c1094ebc3d9e4a20a11dc8250542cbc4",
+      "seq": 28,
+      "week": 10,
+      "title": "The sections of a creed",
+      "subtopic": "The sections of a creed",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Growing in the Spirit"
+    },
+    {
+      "id": "lles_d398e3535fe44c9e85a522b5a44a0523",
+      "seq": 29,
+      "week": 10,
+      "title": "Sacraments and their characteristics",
+      "subtopic": "Sacraments and their characteristics",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Growing in the Spirit"
+    },
+    {
+      "id": "lles_1d411a1673fc4ebda499ca55be32913f",
+      "seq": 30,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Strengthened by the Spirit we Accept the Events of Life, Praying in the Spirit, Growing in the Spirit",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Growing in the Spirit"
+    }
+  ]
+}
