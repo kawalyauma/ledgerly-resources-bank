@@ -1,0 +1,389 @@
+{
+  "title": "Primary Five Christian Religious Education Scheme of Work — Term 3, 2026",
+  "summary": "Includes the school's Christ the Light lessons and the curriculum's Discipleship, Relationship with God and Hope themes. Twenty 40-minute lessons in ten weeks; additional periods for review.",
+  "units": [
+    {
+      "title": "Witness: Christ the Light",
+      "weekFrom": 1,
+      "weekTo": 1,
+      "theme": "Christian witness, discipleship and hope",
+      "competences": "Explain Christ as the light of the world and examples of Christian witness.",
+      "sources": [
+        {
+          "source": "lchk_0a3e241529644f8281bf332325d73f12",
+          "quote": "Christ the Light"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Christ as the light of the world",
+          "subtopic": "Christ as the light of the world",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Explain how Christ is seen as the light of the world."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0a3e241529644f8281bf332325d73f12",
+              "quote": "Christ the Light"
+            }
+          ]
+        },
+        {
+          "title": "Christ's light seen in people",
+          "subtopic": "Christ's light seen in people",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "Identify ways Christians witness Christ's light."
+          ],
+          "sources": [
+            {
+              "source": "lchk_af0983e9dd8d42c9818cd1d9093d8fb2",
+              "quote": "Ways Jesus was the light of the world"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Discipleship and its Rewards",
+      "weekFrom": 2,
+      "weekTo": 3,
+      "theme": "Christian witness, discipleship and hope",
+      "competences": "Explain discipleship, Christian virtues and the Beatitudes.",
+      "sources": [
+        {
+          "source": "lchk_3f56d32c757948a687e50291e63ce909",
+          "quote": "Discipleship and its Rewards"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "The meaning of discipleship",
+          "subtopic": "The meaning of discipleship",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Define disciple and discipleship."
+          ],
+          "sources": [
+            {
+              "source": "lchk_1d36d3d5815c47b0bf16226c862c3c98",
+              "quote": "A disciple is a closest follower of"
+            }
+          ]
+        },
+        {
+          "title": "Examples of discipleship",
+          "subtopic": "Examples of discipleship",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "Identify the virtues of discipleship."
+          ],
+          "sources": [
+            {
+              "source": "lchk_1d36d3d5815c47b0bf16226c862c3c98",
+              "quote": "Spiritual uprightness"
+            }
+          ]
+        },
+        {
+          "title": "Jesus' teaching on discipleship",
+          "subtopic": "Jesus' teaching on discipleship",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Describe Jesus' teaching on discipleship."
+          ],
+          "sources": [
+            {
+              "source": "lchk_1d36d3d5815c47b0bf16226c862c3c98",
+              "quote": "Jesus’ teaching about"
+            }
+          ]
+        },
+        {
+          "title": "Finding happiness: the Beatitudes",
+          "subtopic": "Finding happiness: the Beatitudes",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "Identify Jesus' teaching on happiness in the Beatitudes."
+          ],
+          "sources": [
+            {
+              "source": "lchk_1d36d3d5815c47b0bf16226c862c3c98",
+              "quote": "Finding happiness / Beatitude"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Relationship with God",
+      "weekFrom": 4,
+      "weekTo": 6,
+      "theme": "Christian witness, discipleship and hope",
+      "competences": "Discuss the relationship of believers with God the Father, the Son and the Holy Spirit, baptism, confirmation and prayer.",
+      "sources": [
+        {
+          "source": "lchk_ca727a4838654f60bf1fdd1287c7b8a8",
+          "quote": "God the Father"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "God the Father",
+          "subtopic": "God the Father",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Explain the Christian teaching concerning God the Father."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ca727a4838654f60bf1fdd1287c7b8a8",
+              "quote": "God the Father"
+            }
+          ]
+        },
+        {
+          "title": "God the Son",
+          "subtopic": "God the Son",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "Explain the Christian teaching concerning God the Son."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ca727a4838654f60bf1fdd1287c7b8a8",
+              "quote": "God the Son"
+            }
+          ]
+        },
+        {
+          "title": "The Holy Spirit and the believer",
+          "subtopic": "The Holy Spirit and the believer",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Identify the Holy Spirit in the Christian relationship with God."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ca727a4838654f60bf1fdd1287c7b8a8",
+              "quote": "God The Holy Spirit"
+            }
+          ]
+        },
+        {
+          "title": "Baptism and the Christian",
+          "subtopic": "Baptism and the Christian",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "Explain the role of baptism in Christian life."
+          ],
+          "sources": [
+            {
+              "source": "lchk_af0983e9dd8d42c9818cd1d9093d8fb2",
+              "quote": "What is baptism?"
+            }
+          ]
+        },
+        {
+          "title": "Confirmation",
+          "subtopic": "Confirmation",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Describe the purpose of the sacrament of confirmation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_af0983e9dd8d42c9818cd1d9093d8fb2",
+              "quote": "What is confirmation?"
+            }
+          ]
+        },
+        {
+          "title": "Christian prayer",
+          "subtopic": "Christian prayer",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "Explain reasons for Christian prayer."
+          ],
+          "sources": [
+            {
+              "source": "lchk_af0983e9dd8d42c9818cd1d9093d8fb2",
+              "quote": "Why should a Christian pray?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hope",
+      "weekFrom": 7,
+      "weekTo": 10,
+      "theme": "Christian witness, discipleship and hope",
+      "competences": "Explain sources of Christian hope through Psalms, prophets, the Messiah, and resurrection.",
+      "sources": [
+        {
+          "source": "lchk_ca727a4838654f60bf1fdd1287c7b8a8",
+          "quote": "Hope in Trouble"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning and importance of hope",
+          "subtopic": "Meaning and importance of hope",
+          "kind": "teach",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "Explain the meaning and importance of hope."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ca727a4838654f60bf1fdd1287c7b8a8",
+              "quote": "States the meaning of Hope"
+            }
+          ]
+        },
+        {
+          "title": "Psalms of hope",
+          "subtopic": "Psalms of hope",
+          "kind": "teach",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "Identify passages in the Psalms about hope."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ca727a4838654f60bf1fdd1287c7b8a8",
+              "quote": "Psalms of hope"
+            }
+          ]
+        },
+        {
+          "title": "Hope in trouble",
+          "subtopic": "Hope in trouble",
+          "kind": "teach",
+          "week": 8,
+          "periods": 1,
+          "objectives": [
+            "Explain hope during trouble."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ca727a4838654f60bf1fdd1287c7b8a8",
+              "quote": "Hope in Trouble"
+            }
+          ]
+        },
+        {
+          "title": "Hope for the Messiah",
+          "subtopic": "Hope for the Messiah",
+          "kind": "teach",
+          "week": 8,
+          "periods": 1,
+          "objectives": [
+            "Explain the promise of the Messiah."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ca727a4838654f60bf1fdd1287c7b8a8",
+              "quote": "Hope for the Messiah"
+            }
+          ]
+        },
+        {
+          "title": "Zechariah's vision",
+          "subtopic": "Zechariah's vision",
+          "kind": "teach",
+          "week": 9,
+          "periods": 1,
+          "objectives": [
+            "Describe Zechariah's vision."
+          ],
+          "sources": [
+            {
+              "source": "lchk_731056c0a2864ef1a58ec3e02a237586",
+              "quote": "Zac hariah vision"
+            }
+          ]
+        },
+        {
+          "title": "The birth of Jesus",
+          "subtopic": "The birth of Jesus",
+          "kind": "teach",
+          "week": 9,
+          "periods": 1,
+          "objectives": [
+            "Recall the birth of Jesus in the hope of the Messiah."
+          ],
+          "sources": [
+            {
+              "source": "lchk_731056c0a2864ef1a58ec3e02a237586",
+              "quote": "The Birth of Jesus"
+            }
+          ]
+        },
+        {
+          "title": "The wise men and the Messiah",
+          "subtopic": "The wise men and the Messiah",
+          "kind": "teach",
+          "week": 10,
+          "periods": 1,
+          "objectives": [
+            "Describe the wise men's visit to Jesus."
+          ],
+          "sources": [
+            {
+              "source": "lchk_731056c0a2864ef1a58ec3e02a237586",
+              "quote": "Wise men welcome"
+            }
+          ]
+        },
+        {
+          "title": "Hope of eternal life",
+          "subtopic": "Hope of eternal life",
+          "kind": "teach",
+          "week": 10,
+          "periods": 1,
+          "objectives": [
+            "Explain Christian hope of life after death."
+          ],
+          "sources": [
+            {
+              "source": "lchk_731056c0a2864ef1a58ec3e02a237586",
+              "quote": "Hope of eternal life"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "More source-backed practice exercises are needed to prepare separate practice lessons and a final assessment."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "job": "ltsk_6003836bdc5b4157ac2aaf10b3e72da7-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "scheme": [
+      "More source-backed practice exercises are needed to prepare separate practice lessons and a final assessment."
+    ]
+  },
+  "reviewerNotes": "Reference-led outline from P5 CRE scheme and NCDC Term III topics; scripture details to be checked at teacher review."
+}
