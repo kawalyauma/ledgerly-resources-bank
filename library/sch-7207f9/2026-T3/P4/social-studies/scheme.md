@@ -2,21 +2,21 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | OUR LEADERS IN THE DISTRICT | Decentralisation — Decentralisation | writing |
-| 2 | 1 | Part B | OUR LEADERS IN THE DISTRICT | Decentralisation — Part B — Decentralisation | writing |
-| 3 | 1 | teach | OUR LEADERS IN THE DISTRICT | By-laws — By-laws | writing |
-| 4 | 1 | Part B | OUR LEADERS IN THE DISTRICT | By-laws — Part B — By-laws | writing |
-| 5 | 1 | teach | OUR LEADERS IN THE DISTRICT | District political and civic heads — District political and civic heads | writing |
+| 1 | 1 | teach | OUR LEADERS IN THE DISTRICT | Decentralisation — Decentralisation | written |
+| 2 | 1 | Part B | OUR LEADERS IN THE DISTRICT | Decentralisation — Part B — Decentralisation | written |
+| 3 | 1 | teach | OUR LEADERS IN THE DISTRICT | By-laws — By-laws | written |
+| 4 | 1 | Part B | OUR LEADERS IN THE DISTRICT | By-laws — Part B — By-laws | written |
+| 5 | 1 | teach | OUR LEADERS IN THE DISTRICT | District political and civic heads — District political and civic heads | written |
 | 6 | 2 | Part B | OUR LEADERS IN THE DISTRICT | District political and civic heads — Part B — District political and civic heads | writing |
 | 7 | 2 | teach | OUR LEADERS IN THE DISTRICT | Types of district leaders — Types of district leaders | writing |
 | 8 | 2 | Part B | OUR LEADERS IN THE DISTRICT | Types of district leaders — Part B — Types of district leaders | writing |
 | 9 | 2 | teach | OUR LEADERS IN THE DISTRICT | Members of the district council — Members of the district council | writing |
 | 10 | 2 | Part B | OUR LEADERS IN THE DISTRICT | Members of the district council — Part B — Members of the district council | writing |
-| 11 | 3 | teach | OUR LEADERS IN THE DISTRICT | Departments in the district — Departments in the district | pending |
-| 12 | 3 | Part B | OUR LEADERS IN THE DISTRICT | Departments in the district — Part B — Departments in the district | pending |
-| 13 | 3 | teach | OUR LEADERS IN THE DISTRICT | Roles of district officials — Roles of district officials | pending |
-| 14 | 3 | Part B | OUR LEADERS IN THE DISTRICT | Roles of district officials — Part B — Roles of district officials | pending |
-| 15 | 3 | teach | OUR LEADERS IN THE DISTRICT | Qualities of a good leader — Qualities of a good leader | pending |
+| 11 | 3 | teach | OUR LEADERS IN THE DISTRICT | Departments in the district — Departments in the district | writing |
+| 12 | 3 | Part B | OUR LEADERS IN THE DISTRICT | Departments in the district — Part B — Departments in the district | writing |
+| 13 | 3 | teach | OUR LEADERS IN THE DISTRICT | Roles of district officials — Roles of district officials | writing |
+| 14 | 3 | Part B | OUR LEADERS IN THE DISTRICT | Roles of district officials — Part B — Roles of district officials | writing |
+| 15 | 3 | teach | OUR LEADERS IN THE DISTRICT | Qualities of a good leader — Qualities of a good leader | writing |
 | 16 | 4 | Part B | OUR LEADERS IN THE DISTRICT | Qualities of a good leader — Part B — Qualities of a good leader | pending |
 | 17 | 4 | teach | OUR LEADERS IN THE DISTRICT | Ways of acquiring leadership — Ways of acquiring leadership | pending |
 | 18 | 4 | Part B | OUR LEADERS IN THE DISTRICT | Ways of acquiring leadership — Part B — Ways of acquiring leadership | pending |

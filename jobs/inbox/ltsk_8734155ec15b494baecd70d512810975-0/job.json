@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_8734155ec15b494baecd70d512810975-0",
+  "task": "ltsk_8734155ec15b494baecd70d512810975",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 61,
+  "school": "sch-7207f9",
+  "class": "P4",
+  "classLevel": 4,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 3,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_49c61db30d4b4e0fb80e5372815c2afb",
+      "kind": "teach",
+      "week": 3,
+      "title": "Departments in the district",
+      "periods": 1,
+      "subtopic": "Departments in the district"
+    },
+    {
+      "id": "lles_d8a43f363bfd4e69bc02162ba0a7eaeb",
+      "kind": "practice",
+      "week": 3,
+      "title": "Departments in the district — Part B",
+      "periods": 1,
+      "subtopic": "Departments in the district"
+    },
+    {
+      "id": "lles_1f8a92e3846b47c5ad18aef9b98596d2",
+      "kind": "teach",
+      "week": 3,
+      "title": "Roles of district officials",
+      "periods": 1,
+      "subtopic": "Roles of district officials"
+    },
+    {
+      "id": "lles_e209f6618247435c8629884d2b485bda",
+      "kind": "practice",
+      "week": 3,
+      "title": "Roles of district officials — Part B",
+      "periods": 1,
+      "subtopic": "Roles of district officials"
+    },
+    {
+      "id": "lles_e018802f174f4bbe9ce275932f84e022",
+      "kind": "teach",
+      "week": 3,
+      "title": "Qualities of a good leader",
+      "periods": 1,
+      "subtopic": "Qualities of a good leader"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P4/social-studies",
+  "passages": [
+    "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+    "lchk_a6c1d3301a7743d3a21b117783ccf339",
+    "lchk_0c5ec1b888e3496a801febd087ddb64b",
+    "lchk_48ff9f7f41ca41cb89b9c5849eeeeee9",
+    "lchk_f9b0059407fa480588c49763ca813b43",
+    "lchk_c099f6a889f34c5a90fb6e076c54947d",
+    "lchk_dcd8cd6cfffa46a0b1e9565735b52296",
+    "lchk_0b5f3048fe934b8c8fc3e9b936a54917"
+  ],
+  "created": "2026-10-17T18:12:51.344Z"
+}
