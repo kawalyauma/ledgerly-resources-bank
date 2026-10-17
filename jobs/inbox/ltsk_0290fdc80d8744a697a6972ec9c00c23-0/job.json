@@ -1,0 +1,54 @@
+{
+  "job": "ltsk_0290fdc80d8744a697a6972ec9c00c23-0",
+  "task": "ltsk_0290fdc80d8744a697a6972ec9c00c23",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 63,
+  "school": "sch-7207f9",
+  "class": "P6",
+  "classLevel": 6,
+  "subject": "Christian Religious Education",
+  "term": "2026-T3",
+  "week": 5,
+  "weeks": 10,
+  "periodsPerWeek": 3,
+  "lessons": [
+    {
+      "id": "lles_e89ced60b1f645d4a9f2be31115d0a91",
+      "kind": "teach",
+      "week": 5,
+      "title": "Technology in Christian development",
+      "periods": 1,
+      "subtopic": "Technology in Christian development"
+    },
+    {
+      "id": "lles_d3eaeede415c44f3a03ee968f7c00ce6",
+      "kind": "teach",
+      "week": 5,
+      "title": "Applications of technology",
+      "periods": 1,
+      "subtopic": "Applications of technology"
+    },
+    {
+      "id": "lles_1a9618b9013a466b8e922f8392dfd8a5",
+      "kind": "review",
+      "week": 5,
+      "title": "Week 5 review",
+      "periods": 1,
+      "subtopic": "Christian Involvement in the World"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P6/christian-religious-education",
+  "passages": [
+    "lchk_62622d06b00c4698b1f540bbf5ba9278",
+    "lchk_2256b09f74a442eca1dd4d536a3baa98",
+    "lchk_3c9035cd159b4d149db8993f7019f1e8",
+    "lchk_6af4f52db25643a8b54c687e3cd2a4fe",
+    "lchk_127f56d74e9f4b1099783d9ef777672d",
+    "lchk_1898e987748f4805af88515286c6bdb9"
+  ],
+  "created": "2026-10-17T18:32:56.987Z"
+}

@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_04d0948c35c54667b173bc5457faa879-0",
+  "task": "ltsk_04d0948c35c54667b173bc5457faa879",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 66,
+  "school": "sch-7207f9",
+  "class": "P4",
+  "classLevel": 4,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 4,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_e319625990824d2daa77e8df2f3298ef",
+      "kind": "practice",
+      "week": 4,
+      "title": "Qualities of a good leader — Part B",
+      "periods": 1,
+      "subtopic": "Qualities of a good leader"
+    },
+    {
+      "id": "lles_4cd19953f9dd4c3fb427f15e5d3311e6",
+      "kind": "teach",
+      "week": 4,
+      "title": "Ways of acquiring leadership",
+      "periods": 1,
+      "subtopic": "Ways of acquiring leadership"
+    },
+    {
+      "id": "lles_721f7d5adba040c19effd09791a618ca",
+      "kind": "practice",
+      "week": 4,
+      "title": "Ways of acquiring leadership — Part B",
+      "periods": 1,
+      "subtopic": "Ways of acquiring leadership"
+    },
+    {
+      "id": "lles_248ba9afadc34150b5928ff9ca52a843",
+      "kind": "teach",
+      "week": 4,
+      "title": "Rights of district residents",
+      "periods": 1,
+      "subtopic": "Rights of district residents"
+    },
+    {
+      "id": "lles_2eb9a0b8f8d2462f952c6c5e1f230957",
+      "kind": "practice",
+      "week": 4,
+      "title": "Rights of district residents — Part B",
+      "periods": 1,
+      "subtopic": "Rights of district residents"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P4/social-studies",
+  "passages": [
+    "lchk_806c25b3901545fc9f5f7aa6e76b5e29",
+    "lchk_a6c1d3301a7743d3a21b117783ccf339",
+    "lchk_48ff9f7f41ca41cb89b9c5849eeeeee9",
+    "lchk_0c5ec1b888e3496a801febd087ddb64b",
+    "lchk_f9b0059407fa480588c49763ca813b43",
+    "lchk_8a261f4a2c1c412884f5450559e2474b",
+    "lchk_dcd8cd6cfffa46a0b1e9565735b52296",
+    "lchk_0b5f3048fe934b8c8fc3e9b936a54917"
+  ],
+  "created": "2026-10-17T18:33:02.014Z"
+}

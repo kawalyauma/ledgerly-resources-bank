@@ -1,4 +1,4 @@
-# Job ltsk_e060fdfce508402eaed4da760d9c140f-0
+# Job ltsk_0290fdc80d8744a697a6972ec9c00c23-0
 
 You are the curriculum engine of Ledgerly AI for a Ugandan school.
 Work from the passages, page images and records given in this prompt. Do not invent facts, topics, notes, examples, activities, questions, answers or names: every one of them is taken from the passages. You choose, order, tidy and format the material; you never make it up.
@@ -6,21 +6,21 @@ If the material does not cover something, leave it out or set the field to null 
 Do not run commands, open files or browse. Everything you need is in this prompt.
 Reply with ONE JSON object only, exactly matching the requested shape. No prose before or after it.
 
-Task: write ALL 3 lesson(s) below of week 3 of the Christian Religious Education scheme for Primary Six 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
+Task: write ALL 3 lesson(s) below of week 5 of the Christian Religious Education scheme for Primary Six 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
 Return exactly one entry per lessonId, keeping each lessonId exactly. Write the lessons in order so they build on each other; a practice or review lesson works from the lessons before it in this week.
 Class-depth rule: P6: one 40-minute lesson: 3–6 sections; about 16–32 points; worked examples and exam-style points; 6–8 activities.
 
-lessonId=lles_57098df4ab9c415792163a76db374e02: lesson 7, Tuesday, 1 period(s), 40 minutes.
-  Unit: Christian Involvement in the World (theme: Christians on the way). Lesson: Importance of working together — Importance of working together.
-  Objectives: Explain the importance of cooperation.
+lessonId=lles_e89ced60b1f645d4a9f2be31115d0a91: lesson 13, Tuesday, 1 period(s), 40 minutes.
+  Unit: Christian Involvement in the World (theme: Christians on the way). Lesson: Technology in Christian development — Technology in Christian development.
+  Objectives: State contributions of science and technology.
 
-lessonId=lles_c1a7e553104f493db056ef00f73f924e: lesson 8, Thursday, 1 period(s), 40 minutes.
-  Unit: Christian Involvement in the World (theme: Christians on the way). Lesson: Ways of cooperation — Ways of cooperation.
-  Objectives: Describe possible ways of cooperation.
+lessonId=lles_d3eaeede415c44f3a03ee968f7c00ce6: lesson 14, Thursday, 1 period(s), 40 minutes.
+  Unit: Christian Involvement in the World (theme: Christians on the way). Lesson: Applications of technology — Applications of technology.
+  Objectives: Describe applications of technology.
 
-lessonId=lles_6a378a58b6be49bd903c7fc90ec01b11: lesson 9, Friday, 1 period(s), 40 minutes.
-  Unit: Christian Involvement in the World (theme: Christians on the way). Lesson: Week 3 review — Christian Involvement in the World.
-  Objectives: Review this week's lessons: Importance of working together; Ways of cooperation
+lessonId=lles_1a9618b9013a466b8e922f8392dfd8a5: lesson 15, Friday, 1 period(s), 40 minutes.
+  Unit: Christian Involvement in the World (theme: Christians on the way). Lesson: Week 5 review — Christian Involvement in the World.
+  Objectives: Review this week's lessons: Technology in Christian development; Applications of technology
   This is the FRIDAY REVIEW of this week's lessons (listed in the objectives). notes = a '### Summary' heading per lesson with its key points ('- ' points), then '### Exercise' with review questions taken from the passages. activities = those questions.
 
 Write, using ONLY the passages below. Passages from "NCDC" documents are the official base for what to teach; NCDC lower-primary thematic curricula put every learning area in columns separated by " | ": use only the Christian Religious Education column.
@@ -256,108 +256,6 @@ Primary six curriculum.
 National laws and rules
 </passage>
 
-<passage id="lchk_48579250e06e49c3945066f2fdf59bf0" source="P.6 CRE NOTES TERM 3" part="2">
-i) It recognizes marriage
-ii) It creates a bond between the family of the bride groom and the bride.
-iii) It is a way of thanking the parents of the bride for having kept their daughter.
-Biblical teaching on marriage (1 Cori 7:1-16)
-i) It encourages monogamy
-ii) A man should fulfill his duty as a husband and a woman should fulfill her duties as
-wife.
-iii) A husband is a master to his wife’s body
-Common marriage problems
-i) Quarrels
-ii) Fights
-iii) Lack of respect
-iv) Neglect of children
-v) Lack of trust etc
-Lesson 1: wk 2
-Subtheme: Christian organization in development
-Cooperation
-Cooperation means working together to achieve a desired goal
-Possible ways of cooperation
-i) Through good leadership
-ii) Through democratic laws and rules
-iii) Through concern of welfare of other people
-iv) Through working hard
-v) Through provision of freedom and security
-Voluntary organization
-www.freshteacheruganda.com For more lesson notes, please visit
-These are organizations that offer free services to people
-Importance of voluntary organization
-i) It promotes the welfare of vulnerable people
-ii) They help to fight poverty
-iii) They help to drill bore holes and provides water sources
-iv) They offer guidance and counseling services
-Examples of Christian organizations
-Organization Function /role
-- Christian children’s’
-fund (CCF)
-- Sponsors needy children in education
-- Provides health care for needy children
-- World vision
-international
-- Supports orphans
-- Promotes welfare of the peasants
-- Builds schools, clinic and safe water sources
-- Adventist development
-relief agency (ADRA)
-- Builds and facilitates schools
-- Helps people affected y diseases e.g. earth quakes
-- Builds schools, clinics and provides water sources
-- Compassion
-international
-- Caters for orphans gives clothes and other necessities to
-the needy children
-- YMC /YWCA - Provides education, counseling and sponsorships to
-students
-- Mothers union - Promotes women’s projects
-- Offers counseling to married women and those seeking for
-marriage
-- Catholic women’s guild - Promotes women’s projects
-- Scripture and Christian
-union
-- Promotes the teaching of the word of God in schools and
-institutions
-Lesson 2 and 3 wk 2
-Roles of science teaching lody and education in development
-Science
-This is the study of physical or world of material things and natural environment
-Technology
-This is the making and uses of tools and machines to do work
-Education
-Roles of science in development
-- Discovery of medicine to cure diseases
-www.freshteacheruganda.com For more lesson notes, please visit
-- Knowledge of how the body function
-- Control and prevention of killer epidemics
-- Better nutrition
-- Improvement of agriculture
-- Control and better care of the natural environment
-Roles of technology
-- Improve on transport
-- Improve communication
-- Discover the sources of power to run industries
-- Improve on medical services
-- Build complicated infrastructure
-- Invent recreation facilities
-- Promotes peace and security
-Disadvantage of technology
-- It causes air and water pollution
-- It increases the rate of unemployment
-- Interferes with our culture
-- Increases high rate of deaths
-Roles of education
-- Acquisition of knowledge
-- Promotes literacy
-- Learning of knew language
-- Learning of knew faith e.g. Christianity , Islam and etc
-Importance of laws in society
-- Guide people how to treat others
-- It makes people fear crime
-- Guides leaders on how to govern their people
-</passage>
-
 <passage id="lchk_2256b09f74a442eca1dd4d536a3baa98" source="p.6 R.E Scheme term III 2019" part="3">
 These promises are called vows.
 They promise to love one another till death separates them.
@@ -446,222 +344,6 @@ The learners reads, pronounces, writes, spells, and uses the following words cor
 Examples of Christians voluntary organizations in Uganda and the roles they play
 </passage>
 
-<passage id="lchk_b9d0ddbf1787408da1f2d108c6cdca35" source="All P 4 To P 7 Religious Education Notes All Terms Copy" part="24">
-In bad and good times, poverty and riches, sickness and healthy, only death that will
-separate us
-What the couple does in the church
-i) Vows
-ii) Signing marriage certificates
-iii) Exchange of rings
-Types of marriages
-i) Religious marriage
-ii) Customary marriage
-iii) Civil marriage
-Religious marriage
-This is a type of marriage officiated by a religious leader
-www.freshteacheruganda.com For more lesson notes, please visit
-Customary marriage
-This is a type of marriage officiated by both the parents of the bride and the bride groom
-Civil marriage
-This is a type of marriage officiated by government official like CAO
-Bride price /dowry
-This is the money and property in some societies that the bride groom must pay to the
-bride’s family.
-i) It recognizes marriage
-ii) It creates a bond between the family of the bride groom and the bride.
-iii) It is a way of thanking the parents of the bride for having kept their daughter.
-Biblical teaching on marriage (1 Cori 7:1-16)
-i) It encourages monogamy
-ii) A man should fulfill his duty as a husband and a woman should fulfill her duties as
-wife.
-iii) A husband is a master to his wife’s body
-Common marriage problems
-i) Quarrels
-ii) Fights
-iii) Lack of respect
-iv) Neglect of children
-v) Lack of trust etc
-Lesson 1: wk 2
-Subtheme: Christian organization in development
-Cooperation
-Cooperation means working together to achieve a desired goal
-Possible ways of cooperation
-i) Through good leadership
-ii) Through democratic laws and rules
-iii) Through concern of welfare of other people
-iv) Through working hard
-v) Through provision of freedom and security
-Voluntary organization
-www.freshteacheruganda.com For more lesson notes, please visit
-These are organizations that offer free services to people
-Importance of voluntary organization
-i) It promotes the welfare of vulnerable people
-ii) They help to fight poverty
-iii) They help to drill bore holes and provides water sources
-iv) They offer guidance and counseling services
-Examples of Christian organizations
-Organization Function /role
-- Christian children’s’
-fund (CCF)
-- Sponsors needy children in education
-- Provides health care for needy children
-- World vision
-international
-- Supports orphans
-- Promotes welfare of the peasants
-- Builds schools, clinic and safe water sources
-- Adventist development
-relief agency (ADRA)
-- Builds and facilitates schools
-- Helps people affected y diseases e.g. earth quakes
-- Builds schools, clinics and provides water sources
-- Compassion
-international
-- Caters for orphans gives clothes and other necessities to
-the needy children
-- YMC /YWCA - Provides education, counseling and sponsorships to
-students
-- Mothers union - Promotes women’s projects
-- Offers counseling to married women and those seeking for
-marriage
-- Catholic women’s guild - Promotes women’s projects
-- Scripture and Christian
-union
-- Promotes the teaching of the word of God in schools and
-institutions
-Lesson 2 and 3 wk 2
-Roles of science teaching lody and education in development
-Science
-This is the study of physical or world of material things and natural environment
-Technology
-This is the making and uses of tools and machines to do work
-Education
-Roles of science in development
-- Discovery of medicine to cure diseases
-www.freshteacheruganda.com For more lesson notes, please visit
-- Knowledge of how the body function
-- Control and prevention of killer epidemics
-- Better nutrition
-- Improvement of agriculture
-- Control and better care of the natural environment
-</passage>
-
-<passage id="lchk_72408bf80d91438bbf3bb3f312247c94" source="CRE NOTES & SCHEMES P.6" part="16">
-Qualities of a good friend
-Honest
-Respectful
-Trustworthy
-Peaceful
-Generous
-Humble
-Loving
-Kind
-Faithfulness
-How Jesus expressed His love to mankind?
-He revealed to His disciples the secrets of the kingdom of heaven
-He was merciful to sinners
-He was considerate
-He had compassion and fed the hungry
-He consoled the sorrowful Mary and Martha
-He called children and showed them love
-He taught His disciples the skills of love
-Lesson 2 Wk 1
-Advice
-This is an opinion or suggestion about what somebody should do in a particular situation
-Importance of advice (Sam 2:12)
-May save someone from danger
-Promotes peace and harmony
-It promotes unity
-It promotes friendship
-Encourages development (2 Sam 1:12) difficult mission of prophet Nathan)
-Characteristics of bad advice
-It encourages evil
-It encourages biasness
-It is dishonest
-It is not corrective
-Crisis and how friends offer support in times of crisis
-Meaning of crisis
-Crisis is a time of trouble in which a quick solution should be given (Proverb 17:17-18)
-A friend is always a friend at all times in happiness or in sorrow.
-Lesson 3: wk 1
-Marriage
-Meaning of marriage
-Marriage is a legal love union between man and a woman as a husband and wife
-Qualities of a good marriage partner according to the Christian teaching
-Age
-Character
-Dignity
-Education
-Family background
-Godliness
-HIV/AIDS free
-Status
-Reasons why people marry
-To have children
-For companionship
-To express love
-For sexual desires
-For security
-For prestige
-Signs of marriage
-Mutual love
-Patience
-Trust
-Openness
-Faith fullness
-Bearing children
-Fulfillment of marital duties
-Showing sympathy to each other
-Marriage as a social institution
-It is the society concern because it involves all members of the community such as wedding preparations, witnessing the marriage ceremonies.
-It unites different families, clans, tribes and races
-Marriage vows
-In bad and good times, poverty and riches, sickness and healthy, only death that will separate us
-What the couple does in the church
-Vows
-Signing marriage certificates
-Exchange of rings
-Types of marriages
-Religious marriage
-Customary marriage
-Civil marriage
-Religious marriage
-This is a type of marriage officiated by a religious leader
-Customary marriage
-This is a type of marriage officiated by both the parents of the bride and the bride groom
-Civil marriage
-This is a type of marriage officiated by government official like CAO
-Bride price /dowry
-This is the money and property in some societies that the bride groom must pay to the bride’s family.
-It recognizes marriage
-It creates a bond between the family of the bride groom and the bride.
-It is a way of thanking the parents of the bride for having kept their daughter.
-Biblical teaching on marriage (1 Cori 7:1-16)
-It encourages monogamy
-A man should fulfill his duty as a husband and a woman should fulfill her duties as wife.
-A husband is a master to his wife’s body
-Common marriage problems
-Quarrels
-Fights
-Lack of respect
-Neglect of children
-Lack of trust etc
-Lesson 1: wk 2
-Subtheme: Christian organization in development
-Cooperation
-Cooperation means working together to achieve a desired goal
-Possible ways of cooperation
-Through good leadership
-Through democratic laws and rules
-Through concern of welfare of other people
-Through working hard
-Through provision of freedom and security
-Voluntary organization
-These are organizations that offer free services to people
-Importance of voluntary organization
-It promotes the welfare of vulnerable people
-</passage>
-
 <passage id="lchk_3c9035cd159b4d149db8993f7019f1e8" source="p.6 R.E Scheme term III 2019" part="4">
 -Children’s fund (CF)– sponsors needy children in their education and provides health care for such children
 -World vision international – supports orphans, promotes the welfare of the peasants, builds schools, clinics and provides safe water sources.
@@ -740,6 +422,413 @@ LANGUAGE
 -Citizen
 -Electoral
 -Election
+</passage>
+
+<passage id="lchk_6af4f52db25643a8b54c687e3cd2a4fe" source="p.6 r.e lesson notes term III" part="5">
+With which servant did the master get annoyed?
+What lesson do we learn from the parable of the three servants?
+DATE
+CLASS
+SUBJECT
+NO OF PUPILS
+TIME
+THEME: CHRISTIANS ON THE WAY
+SUB THEME: CHRISTIAN INVOLVEMENT IN THE WORLD
+CONTENT: THE ROLE OF CHRISTIAN ORGANISATION IN DEVELOPING THE WORLD
+Spelling practice
+Services
+Political affairs
+Livelihood
+Advisory
+Religious
+Fund
+Relief
+Voluntary
+organization
+New words to define
+A company formed for a particular purpose
+The act of causing something to grow / become larger / more advanced.
+T
+There are many Christian organization that offer free services to people / communities
+Some promote the welfare of orphans .some help the government to fight poverty among people
+Some promote good health others still drill boredom for communities
+EXAMPLES OF CHRISTIAN’ VOLUNTARY ORGANSISATIONS IN UGANDA / THE ROLES THEY PLAY
+CHRISTIAN CHILDREN’S FUND ; sponsors needy children in their education and provide health care to such children
+WORLD VISION INTERNATIONAL: provide / support orphans promote the welfare of peasants, build schools and clinics and provide safe water sources.
+ADVENTIST DEVELOPMENT RELEIF AGENCY (ADRA)
+Builds and facilitates schools
+Caters for people hit by disasters e.g earth quake e.t.c
+COMPASSION INTERNATIONAL
+Caters for orphans
+Gives clothes and other necessities to the needy children
+Pays school fees for ready children
+YOUNG WOMEN’S CHRISTIAN ASSOCIATION (YWCA)
+Provides education and sponsors students
+Provides counseling services
+MOTHER’S UNION
+Promotes women’s projects for development
+Offers counseling to the married women and those seeking marriage
+CATHOLIC WOMEN’S GUILD – promotes women’s project
+SCRIPTURE AND CHRISTIAN UNION OF UGANDA
+Promotes the teaching of the word of God in schools and institutions
+The above institutions promote
+Health among communities
+Care for the disadvantaged people
+They provide services and items like food,clothers,medicine,shelter,opharnage centers e.t.c
+Exercise
+What does C.F stand for?
+Give any one of world vision international
+What is ADRA in full?
+What is the role of Y.W.C.A
+Why do we need Christian voluntary organization?
+Mention any two Christian organization which help women only
+DATE
+CLASS
+SUBJECT
+NO OF PUPILS
+TIME
+THEME: Christians on the way
+SUB THEME: Christian involvement in the world
+CONTENT: THE ROLE OF SCIENCE AND TECHNOLOGY AND DUCATION TO THE DEVELOPMENT OF THE WORLD
+Spelling practice
+Involvement
+Standards
+Yields
+Interferences
+Invention
+Skills
+Words to define
+Science – the study of the natural world based on facts learned through experiments and observation
+Technology
+Education – knowledge, skill, understanding you get from attending school.
+Development
+Invention - This refers to productive imagination
+Technology is the practical way of using science to solve some of the day to day problems.
+Technology and education have improved greatly on people’s standards of living
+There are a number of scientific discoveries which have contributed to the development of the world.
+Ways through which science and technology has led to development
+Technology has improved the transport and communication through construction of better roads, speedy motor boats, aero planes to cover longer distances faster, electronic means of communication i.e emails, telephone, radios, television.
+Technology has improved building today better buildings or houses are constructed due to modern technology
+</passage>
+
+<passage id="lchk_127f56d74e9f4b1099783d9ef777672d" source="NCDC P6 Set One Sept book – Religious Education" part="13">
+The learner;
+• describes the importance of friendship.
+• explains how Jesus showed friendship to his apostles and other
+people.
+• outlines the qualities of a good friend.
+• Lists the qualities of a marriage partner.
+• explains how a friend should behave.
+
+Topic 9: Christian Involvement
+in the World | 11 Periods
+
+Background
+Christians should not leave world affairs to non-Christians alone. They
+have a duty to participate in the affairs of the world at all times. This
+includes religious, social, economic and political affairs. They thus have
+to make a contribution to the world they live in. This in the end makes the
+world a better place for people to live in. The role of science and technology
+is discussed and how it has developed and affected the world. The topic
+further brings out the role of Christian organisations in developing the
+world.
+
+It brings out the fact that the Christians should also fulfil their duties and
+responsibilities in the community and country at large. The Christians
+are also urged to be law abiding citizens.
+
+Learning Outcome
+The learner discovers events and circumstances where Christians have
+contributed towards the development of the world and develops skills to
+enable him/her become a better citizen.
+Resources | Methods
+• The Bible | • Dramatisation
+• Pictures | • Pole play
+• Textbooks | • Discussion
+• Voter Education Manual | • Debate
+Life Skills | Values
+• Self-awareness | • Responsibility
+• Effective communication | • Support
+• Decision-making | • Love
+
+National Curriculum Development Center
+
+Subject | Language | Suggested
+Content
+Competences | Competences | Activities
+
+The learner; | The learner
+• describes the  reads, |  Our talents | • Discussing
+talents he/she pronounces, | – Meaning of | about
+writes, spells | talents. | talents.
+possesses. | and uses the
+following | – Using God- | • Bible
+• uses God- | given talents
+given talents  words correctly: | reading of
+to improve the
+to improve the – talents | world we live
+texts which
+world. | – co-operation | reflect
+in - Mathew | talents.
+– science
+• explains | 25: 14-30.
+– technology | • Debating.
+the role of | – Using talents
+Christian | – contribution
+in cooperation | • Role playing
+organisations | – duties | about God
+with others - 1
+in | – responsibility | Corinthians | given talents
+development. | 3:5 – 10, | • Bible
+• explains how | Genesis. 2:15 | reading and
+science and | • The role of | discussions.
+technology | Christians in
+• Discussing
+contributes to | development.
+about
+development | • The role | participating
+of education. | of science, | in an
+• describes a | technology, | electoral
+good citizen. | and | process.
+• relates | education in
+• Role playing
+Christianity | development
+about good
+to good | and Christian
+citizenship.
+citizenship | and the law.
+like | Deuteronomy.
+participating | 5: 16-21, Mark
+in an election | 12: 13-17
+process.
+• mentions
+qualities of a
+good citizen.
+
+Primary 6 Curriculum
+
+Subject | Language | Suggested
+Content
+Competences | Competences | Activities
+
+• Participating
+in an electoral
+process:
+– voting
+– rights and
+freedoms of
+voters
+– duties of the
+Electoral
+Commission
+• Demonstrating
+good
+citizenship
+
+Guidance to the Teacher
+• This topic is expected to cover 11 periods.
+• Help the learners to identify their God-given talents by
+mentioning them and demonstrating where it is applicable.
+• Discuss with them the importance of talents and how they are
+useful in developing the community.
+</passage>
+
+<passage id="lchk_1898e987748f4805af88515286c6bdb9" source="P.6 CRE NOTES TERM 3" part="6">
+4 State any two qualities of a good marriage partner according to Christian teaching
+5 Which type of marriage is practiced in the church?
+6 Identify any two problems facing families today
+7 How useful is a stable peaceful family to children?
+8 Identify any two causes of street children today.
+9 name any two Christian organizations that cater for the needs of people in our
+community.
+1o why do Christians give offertories
+www.freshteacheruganda.com For more lesson notes, please visit
+CHRISTIAN RELIGIOUS EDUCATION
+TOPICAL QUESTION SET 2 TERM III
+1. (a) What does the word happiness mean?
+(b) In which two ways can man achieve happiness?
+2. (a) Give any two benefits of sharing and giving
+(b)Why are some people in our community selfish?
+3. What is the biblical teaching on life and death?
+4. What are the values of suffering (Give two)
+5. What does the Bible teach about heaven?
+6. Which religion was in Africa before the coming of Europeans?
+7. Name any three religions in Uganda.
+8. What is the meaning of death in African tradition?
+9. Name three causes of death in traditional Africa beliefs
+1o. State any three causes of death today
+www.freshteacheruganda.com For more lesson notes, please visit
+WK PD S/THEME CONTENT SUBJECT
+COMPETENCES
+LANGUAGE
+COMPETENCES
+METHODS ACTIVITIES SKILLS AND
+VALUES
+LEARNING
+AIDS
+REF REM
+1 1 Friends on
+the way
+Friendship
+- Meaning
+- Importance
+- Jesus example of
+friendship
+- John 15:12-15
+- Qualities of a good
+friend
+- Jesus’ friendship
+from the gospel to
+the apostles and
+other people
+The learner:-
+- Explains the
+meaning of
+friendship
+- Identifies the
+importance of
+friendship
+- Explains Jesus’’
+example of
+friendship
+- Points our qualities
+of a good friend.
+- Describes Jesus’
+friendship
+according to the
+gospel
+The learner:-
+- Pronounces, spells
+and uses words
+correctly
+- Generous
+- Friendship
+- relate
+- guided
+- discovery
+- brainstorming
+- demonstration
+- role play
+- guided discussion
+- Bible reading
+- Discussion
+- Role playing
+Skills
+- Self esteem
+- Self awareness
+- Creative thinking
+Values
+- Awareness
+- Appreciation
+- Love
+- The holy
+Bible
+- Text books
+The holy Bible
+John 15:12-15
+Fountain
+CRE
+128-133.
+2 Importance of advice
+- Characteristics of
+bad advise
+- Crisis and how
+friends offer help
+in time of crisis
+Proverbs 17:17-18
+The learner:
+- Explains the
+value of good
+advise
+- Explains the
+meaning of crisis
+- Explains how
+friends offer help
+in times of a
+crisis
+The learners:-
+- Pronounces,
+spells and uses
+words
+- Crisis
+- Emergency
+- Will dishonesty
+- Biases
+- - - - - Fountain
+- CRE
+- 133-138
+-
+3 Marriage
+- Meaning
+- Types
+- Reasons why
+people marry
+- Qualities of a
+marriage partner
+The learner:-
+- Explains the
+meaning of
+marriage
+- Identifies types
+of marriage
+- Explains qualities
+of a marriage
+partner
+- The learner:-
+- Pronounces,
+spells and uses
+words correctly
+- Morals
+- Healthy
+- Wealth
+- Jealousy
+- Companionship
+- - - - - Fountain
+- CRE
+- 138-143
+-
+2 1 Roles of Christian
+organization in the
+development.
+- Definition of
+organization
+- Examples of
+Christian
+organizations
+- Contributions of
+Christian
+organizations.
+The learner:-
+- Defines
+“organization”
+- Identifies
+examples of
+Christian
+organizations
+- Explains the
+contributions of
+Christian
+organizations
+The learner:-
+- Pronounces,
+spells and uses
+words correctly
+- Organization
+- - - - - -
+2and
+3
+Friends on
+the way
+- Roles of science
+and technology in
+development
+- The learner
+- Defines terms
+- Technology
+- Science
+- The learner
+pronounces ,
+spells and uses
 </passage>
 </passages>
 

@@ -8,15 +8,15 @@
 | 4 | 2 | teach | Friends on the Way | Distinguishing good and bad advice — Distinguishing good and bad advice | written |
 | 5 | 2 | teach | Friends on the Way | Marriage in Christian life — Marriage in Christian life | written |
 | 6 | 2 | review | Friends on the Way | Week 2 review — Friends on the Way | written |
-| 7 | 3 | teach | Christian Involvement in the World | Importance of working together — Importance of working together | writing |
-| 8 | 3 | teach | Christian Involvement in the World | Ways of cooperation — Ways of cooperation | writing |
-| 9 | 3 | review | Christian Involvement in the World | Week 3 review — Christian Involvement in the World | writing |
+| 7 | 3 | teach | Christian Involvement in the World | Importance of working together — Importance of working together | written |
+| 8 | 3 | teach | Christian Involvement in the World | Ways of cooperation — Ways of cooperation | written |
+| 9 | 3 | review | Christian Involvement in the World | Week 3 review — Christian Involvement in the World | written |
 | 10 | 4 | teach | Christian Involvement in the World | Christian voluntary organisations — Christian voluntary organisations | writing |
 | 11 | 4 | teach | Christian Involvement in the World | Role of Christian organisations — Role of Christian organisations | writing |
 | 12 | 4 | review | Christian Involvement in the World | Week 4 review — Christian Involvement in the World | writing |
-| 13 | 5 | teach | Christian Involvement in the World | Technology in Christian development — Technology in Christian development | pending |
-| 14 | 5 | teach | Christian Involvement in the World | Applications of technology — Applications of technology | pending |
-| 15 | 5 | review | Christian Involvement in the World | Week 5 review — Christian Involvement in the World | pending |
+| 13 | 5 | teach | Christian Involvement in the World | Technology in Christian development — Technology in Christian development | writing |
+| 14 | 5 | teach | Christian Involvement in the World | Applications of technology — Applications of technology | writing |
+| 15 | 5 | review | Christian Involvement in the World | Week 5 review — Christian Involvement in the World | writing |
 | 16 | 6 | teach | Christian Involvement in the World | Bad effects of technology — Bad effects of technology | pending |
 | 17 | 6 | teach | Christian Involvement in the World | National laws and rules — National laws and rules | pending |
 | 18 | 6 | review | Christian Involvement in the World | Week 6 review — Christian Involvement in the World | pending |
