@@ -3,7 +3,7 @@
   "task": "ltsk_79e306acf8ed4a14908e3bd41a95bfc5",
   "call": 0,
   "kind": "scheme.outline",
-  "status": "open",
+  "status": "answered",
   "attempt": 1,
   "priority": 20,
   "school": "sch-7207f9",
@@ -28,5 +28,6 @@
     "lchk_ebfb1923fb914c4aa2f1688893c45bb6",
     "lchk_357c492f802446749556de59fd6778a6"
   ],
-  "created": "2026-10-17T11:41:07.838Z"
+  "created": "2026-10-17T11:41:07.838Z",
+  "answeredBy": "gpt-6/GPT-6"
 }
