@@ -1,0 +1,55 @@
+{
+  "job": "ltsk_07bcd9aa48984ea9af124397c195ab56-0",
+  "task": "ltsk_07bcd9aa48984ea9af124397c195ab56",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 51,
+  "school": "sch-7207f9",
+  "class": "P6",
+  "classLevel": 6,
+  "subject": "Christian Religious Education",
+  "term": "2026-T3",
+  "week": 1,
+  "weeks": 10,
+  "periodsPerWeek": 3,
+  "lessons": [
+    {
+      "id": "lles_295d0ae4699b4d04bfbdb212b91bad90",
+      "kind": "teach",
+      "week": 1,
+      "title": "Meaning and importance of friendship",
+      "periods": 1,
+      "subtopic": "Meaning and importance of friendship"
+    },
+    {
+      "id": "lles_e724a765760b4e309f617c1fc029f218",
+      "kind": "teach",
+      "week": 1,
+      "title": "Qualities of true friends",
+      "periods": 1,
+      "subtopic": "Qualities of true friends"
+    },
+    {
+      "id": "lles_511ff109100642efb2d175ad244085b3",
+      "kind": "review",
+      "week": 1,
+      "title": "Week 1 review",
+      "periods": 1,
+      "subtopic": "Friends on the Way"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P6/christian-religious-education",
+  "passages": [
+    "lchk_62622d06b00c4698b1f540bbf5ba9278",
+    "lchk_352756f3359c4065bddf3735cad81ad3",
+    "lchk_c88531d4f76242c99535794efb92e708",
+    "lchk_1898e987748f4805af88515286c6bdb9",
+    "lchk_06504faf2f8f433abe8cc6c23eca9acf",
+    "lchk_d550af44cf5a46598f6688a3f04c4c49",
+    "lchk_a82d91c6b34747f1a0a1b747994dfbef"
+  ],
+  "created": "2026-10-17T12:00:48.487Z"
+}
