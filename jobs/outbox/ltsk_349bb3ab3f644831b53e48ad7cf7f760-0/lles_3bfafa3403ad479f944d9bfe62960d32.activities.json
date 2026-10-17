@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What causes Cholera?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Communicable intestinal diseases",
+    "skill": "recall",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_dc2c047d903447cab4c39d91ced92868",
+      "quote": "What causes Cholera?"
+    }
+  },
+  {
+    "question": "How is cholera spread?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Communicable intestinal diseases",
+    "skill": "recall",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_dc2c047d903447cab4c39d91ced92868",
+      "quote": "How is cholera spread?"
+    }
+  },
+  {
+    "question": "Suggest any three places where we can find germs.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Communicable intestinal diseases",
+    "skill": "recall",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7b59c749a90e4145826cce4fe4823bcb",
+      "quote": "Suggest any three places where we can find germs."
+    }
+  }
+]

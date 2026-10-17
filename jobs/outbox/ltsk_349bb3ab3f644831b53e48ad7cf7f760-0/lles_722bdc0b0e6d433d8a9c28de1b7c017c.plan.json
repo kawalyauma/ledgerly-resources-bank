@@ -1,0 +1,76 @@
+{
+  "competences": [
+    "The learner identifies and describes the key scientific facts about the four fs of disease spread.",
+    "The learner explains safe hygiene practices that reduce the spread of communicable diseases."
+  ],
+  "languageCompetence": "Learners pronounce, spell and use disease, infection, diarrhoea, bacteria, sanitation and dehydration.",
+  "objectives": [
+    "By the end of the lesson learners should be able to describe the four fs of disease spread accurately.",
+    "By the end of the lesson learners should be able to answer at least three of the original sourced exercise questions."
+  ],
+  "priorKnowledge": "Learners have encountered hygiene, clean food and clean water at home and in earlier Primary Science lessons.",
+  "methods": [
+    "Explanation",
+    "Observation",
+    "Question and answer",
+    "Guided discussion"
+  ],
+  "materials": [
+    "Chart showing common sources of germs",
+    "Primary Four Science notes on intestinal diseases and hygiene"
+  ],
+  "references": [
+    "P 4 Primary Four SCI Notes Teacher AC",
+    "P 4 Sci Notes",
+    "Primary Four Science Lesson Notes FOR ALL Terms"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "The teacher introduces the four fs of disease spread by revising the previous work on hygiene and disease. They ask the original question \"What is the difference between a germ and a vector?\" and listen to the learners' responses before developing the scientific explanation.",
+      "learnerActivity": "Learners recall common health practices, answer the opening question and relate the disease topic to what they have previously studied."
+    },
+    {
+      "stage": "Development: The four Fs",
+      "minutes": 8,
+      "content": "The four Fs explain a common way diarrhoeal germs spread. The first F stands for faeces. The second F stands for flies. The third F stands for food. The fourth F stands for fingers. These pathways can transfer germs into human bodies.",
+      "teacherActivity": "The teacher explains and writes the four fs, including \"The four Fs explain a common way diarrhoeal germs spread. The first F stands for faeces.\" They use the exact sourced question \"Mention any two ways of controlling the spread of germs in our environment.\" to check understanding and correct unsafe assumptions.",
+      "learnerActivity": "Learners read the notes, explain the facts using their own words, respond to questions and copy the content into their Science books."
+    },
+    {
+      "stage": "Development: Germs from faeces to food",
+      "minutes": 8,
+      "content": "Faeces from infected people can contain germs. Houseflies may land on infected faeces. Flies then move from dirty places to food. Germs can be left on uncovered food. Eating that food may cause diarrhoeal disease.",
+      "teacherActivity": "The teacher explains and writes germs from faeces to food, including \"Faeces from infected people can contain germs. Houseflies may land on infected faeces.\" They use the exact sourced question \"Suggest any three places where we can find germs.\" to check understanding and correct unsafe assumptions.",
+      "learnerActivity": "Learners read the notes, explain the facts using their own words, respond to questions and copy the content into their Science books."
+    },
+    {
+      "stage": "Development: Preventing the four Fs pathway",
+      "minutes": 8,
+      "content": "Dispose of faeces in latrines. Wash hands after using a latrine. Cover cooked food against houseflies. Keep household surroundings clean. Keep water sources free from human waste. Remove places where houseflies breed.",
+      "teacherActivity": "The teacher explains and writes preventing the four fs pathway, including \"Dispose of faeces in latrines. Wash hands after using a latrine.\" They use the exact sourced question \"Mention any five activities involved under sanitation.\" to check understanding and correct unsafe assumptions.",
+      "learnerActivity": "Learners read the notes, explain the facts using their own words, respond to questions and copy the content into their Science books."
+    },
+    {
+      "stage": "Exercise and practice",
+      "minutes": 7,
+      "content": "What is the difference between a germ and a vector? | Mention any two ways of controlling the spread of germs in our environment. | Suggest any three places where we can find germs. | Mention any five activities involved under sanitation.",
+      "teacherActivity": "The teacher writes the original questions, including \"What is the difference between a germ and a vector?\" and \"Mention any two ways of controlling the spread of germs in our environment.\", then supervises individual responses and marks the answers against the source material. They correct important misconceptions about preventing disease.",
+      "learnerActivity": "Learners answer the source questions individually, review the corresponding facts in their notes and correct any mistaken answers."
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 4,
+      "teacherActivity": "The teacher reviews the facts about the four fs of disease spread and checks understanding with \"Suggest any three places where we can find germs.\" and \"Mention any five activities involved under sanitation.\". They explain safe health practices and set the remaining original exercise for revision.",
+      "learnerActivity": "Learners state one important way to avoid infection, answer the final oral questions and copy the homework into their books."
+    }
+  ],
+  "assessment": "Mark sourced questions \"What is the difference between a germ and a vector?\", \"Mention any two ways of controlling the spread of germs in our environment.\", and \"Suggest any three places where we can find germs.\" and correct answers using the documented disease and hygiene facts.",
+  "homework": "Finish the original exercise question \"Mention any five activities involved under sanitation.\" in the Science book.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Personal hygiene",
+    "Communication"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "competences": [
+    "The learner identifies and describes the key scientific facts about communicable diseases.",
+    "The learner explains safe hygiene practices that reduce the spread of communicable diseases."
+  ],
+  "languageCompetence": "Learners pronounce, spell and use disease, infection, diarrhoea, bacteria, sanitation and dehydration.",
+  "objectives": [
+    "By the end of the lesson learners should be able to describe communicable diseases accurately.",
+    "By the end of the lesson learners should be able to answer at least three of the original sourced exercise questions."
+  ],
+  "priorKnowledge": "Learners have encountered hygiene, clean food and clean water at home and in earlier Primary Science lessons.",
+  "methods": [
+    "Explanation",
+    "Observation",
+    "Question and answer",
+    "Guided discussion"
+  ],
+  "materials": [
+    "Chart showing common sources of germs",
+    "Primary Four Science notes on intestinal diseases and hygiene"
+  ],
+  "references": [
+    "P 4 Primary Four SCI Notes Teacher AC",
+    "P 4 Sci Notes",
+    "Primary Four Science Lesson Notes FOR ALL Terms"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "The teacher introduces communicable diseases by revising the previous work on hygiene and disease. They ask the original question \"What are communicable diseases?\" and listen to the learners' responses before developing the scientific explanation.",
+      "learnerActivity": "Learners recall common health practices, answer the opening question and relate the disease topic to what they have previously studied."
+    },
+    {
+      "stage": "Development: Meaning of communicable diseases",
+      "minutes": 6,
+      "content": "Communicable diseases can pass from infected to healthy people. Communicable diseases are also called infectious diseases. They are spread by disease-causing germs. Some germs are transmitted through contaminated food.",
+      "teacherActivity": "The teacher explains and writes meaning of communicable diseases, including \"Communicable diseases can pass from infected to healthy people. Communicable diseases are also called infectious diseases.\" They use the exact sourced question \"What is a germ?\" to check understanding and correct unsafe assumptions.",
+      "learnerActivity": "Learners read the notes, explain the facts using their own words, respond to questions and copy the content into their Science books."
+    },
+    {
+      "stage": "Development: Examples of communicable diseases",
+      "minutes": 6,
+      "content": "Diarrhoea is a communicable intestinal disease. Dysentery is another communicable intestinal disease. Cholera spreads through infected food and water. Typhoid can spread through contaminated food and water. Some communicable diseases are caused by bacteria. Other infections can be caused by viruses.",
+      "teacherActivity": "The teacher explains and writes examples of communicable diseases, including \"Diarrhoea is a communicable intestinal disease. Dysentery is another communicable intestinal disease.\" They use the exact sourced question \"How is a housefly able to spread germs?\" to check understanding and correct unsafe assumptions.",
+      "learnerActivity": "Learners read the notes, explain the facts using their own words, respond to questions and copy the content into their Science books."
+    },
+    {
+      "stage": "Development: Ways germs spread",
+      "minutes": 6,
+      "content": "Infected faeces may carry germs. Flies can carry germs to uncovered food. Dirty fingers can contaminate food. Drinking unsafe water can introduce germs. Eating contaminated food can cause disease.",
+      "teacherActivity": "The teacher explains and writes ways germs spread, including \"Infected faeces may carry germs. Flies can carry germs to uncovered food.\" They use the exact sourced question \"How can germs spread from one person to another? (Give three)\" to check understanding and correct unsafe assumptions.",
+      "learnerActivity": "Learners read the notes, explain the facts using their own words, respond to questions and copy the content into their Science books."
+    },
+    {
+      "stage": "Development: Preventing spread of germs",
+      "minutes": 6,
+      "content": "Use latrines to dispose of faeces. Wash hands using clean water and soap. Cover food to prevent flies reaching it. Keep the surroundings and water sources clean. Destroy housefly breeding places where possible.",
+      "teacherActivity": "The teacher explains and writes preventing spread of germs, including \"Use latrines to dispose of faeces. Wash hands using clean water and soap.\" They use the exact sourced question \"How can germs spread from one person to another? (Give three)\" to check understanding and correct unsafe assumptions.",
+      "learnerActivity": "Learners read the notes, explain the facts using their own words, respond to questions and copy the content into their Science books."
+    },
+    {
+      "stage": "Exercise and practice",
+      "minutes": 7,
+      "content": "What are communicable diseases? | What is a germ? | How is a housefly able to spread germs? | How can germs spread from one person to another? (Give three)",
+      "teacherActivity": "The teacher writes the original questions, including \"What are communicable diseases?\" and \"What is a germ?\", then supervises individual responses and marks the answers against the source material. They correct important misconceptions about preventing disease.",
+      "learnerActivity": "Learners answer the source questions individually, review the corresponding facts in their notes and correct any mistaken answers."
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 4,
+      "teacherActivity": "The teacher reviews the facts about communicable diseases and checks understanding with \"How is a housefly able to spread germs?\" and \"How can germs spread from one person to another? (Give three)\". They explain safe health practices and set the remaining original exercise for revision.",
+      "learnerActivity": "Learners state one important way to avoid infection, answer the final oral questions and copy the homework into their books."
+    }
+  ],
+  "assessment": "Mark sourced questions \"What are communicable diseases?\", \"What is a germ?\", and \"How is a housefly able to spread germs?\" and correct answers using the documented disease and hygiene facts.",
+  "homework": "Finish the original exercise question \"How can germs spread from one person to another? (Give three)\" in the Science book.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Personal hygiene",
+    "Communication"
+  ]
+}

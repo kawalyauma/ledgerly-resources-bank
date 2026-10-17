@@ -1,0 +1,83 @@
+{
+  "competences": [
+    "The learner describes the cause, spread and signs of cholera and its spread.",
+    "The learner explains how good sanitation prevents infectious intestinal diseases."
+  ],
+  "languageCompetence": "Learners correctly pronounce, read and spell bacteria, infection, hygiene, sanitation and dehydration.",
+  "objectives": [
+    "By the end of the lesson learners should be able to explain the important facts about cholera and its spread.",
+    "By the end of the period learners should be able to state three source-backed ways to reduce intestinal disease."
+  ],
+  "priorKnowledge": "Learners already know about sanitation, germs and common communicable diseases from earlier science lessons.",
+  "methods": [
+    "Explanation",
+    "Observation",
+    "Question and answer",
+    "Guided discussion"
+  ],
+  "materials": [
+    "Chart of communicable intestinal diseases",
+    "P4 Science class reference notes on infection and sanitation"
+  ],
+  "references": [
+    "P 4 Primary Four SCI Notes Teacher AC",
+    "P 4 Sci Notes",
+    "Primary Four Science Lesson Notes FOR ALL Terms"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "The teacher recalls the earlier science work on intestinal diseases and introduces cholera and its spread. They begin with the original question \"What causes Cholera?\" to assess learners' previous knowledge.",
+      "learnerActivity": "Learners recall earlier work on germs and hygiene, answer the opening question and describe practices that reduce intestinal disease."
+    },
+    {
+      "stage": "Development: Meaning and cause",
+      "minutes": 6,
+      "content": "Cholera is a communicable diarrhoeal disease. Cholera is caused by bacteria. The bacterium is called Vibrio cholerae. Cholera germs can be found in contaminated water. Cholera is one of the intestinal diseases.",
+      "teacherActivity": "The teacher writes the sourced notes for meaning and cause, including \"Cholera is a communicable diarrhoeal disease. Cholera is caused by bacteria.\" They clarify the meanings and check understanding by asking the original question \"What causes Cholera?\".",
+      "learnerActivity": "Learners explain the displayed points, answer the teacher's questions and copy the factual information into their Science exercise books."
+    },
+    {
+      "stage": "Development: How cholera spreads",
+      "minutes": 6,
+      "content": "Cholera germs may contaminate drinking water. Infected faeces can contain cholera germs. Houseflies can carry germs from faeces to food. Dirty hands can put germs on food. Eating contaminated food can cause illness.",
+      "teacherActivity": "The teacher writes the sourced notes for how cholera spreads, including \"Cholera germs may contaminate drinking water. Infected faeces can contain cholera germs.\" They clarify the meanings and check understanding by asking the original question \"How is cholera spread?\".",
+      "learnerActivity": "Learners explain the displayed points, answer the teacher's questions and copy the factual information into their Science exercise books."
+    },
+    {
+      "stage": "Development: Signs and effects",
+      "minutes": 6,
+      "content": "Cholera may cause severe watery diarrhoea. Vomiting can occur in cholera patients. Diarrhoea and vomiting cause serious water loss. Patients may become dehydrated. Loss of body water is dangerous.",
+      "teacherActivity": "The teacher writes the sourced notes for signs and effects, including \"Cholera may cause severe watery diarrhoea. Vomiting can occur in cholera patients.\" They clarify the meanings and check understanding by asking the original question \"Suggest any three places where we can find germs.\".",
+      "learnerActivity": "Learners explain the displayed points, answer the teacher's questions and copy the factual information into their Science exercise books."
+    },
+    {
+      "stage": "Development: Preventing cholera",
+      "minutes": 6,
+      "content": "Use clean and safe drinking water. Wash hands before handling food. Dispose of faeces in toilets or pit latrines. Cover food against houseflies. Keep water sources and surroundings clean.",
+      "teacherActivity": "The teacher writes the sourced notes for preventing cholera, including \"Use clean and safe drinking water. Wash hands before handling food.\" They clarify the meanings and check understanding by asking the original question \"What causes Cholera?\".",
+      "learnerActivity": "Learners explain the displayed points, answer the teacher's questions and copy the factual information into their Science exercise books."
+    },
+    {
+      "stage": "Written exercise",
+      "minutes": 7,
+      "content": "What causes Cholera? | How is cholera spread? | Suggest any three places where we can find germs.",
+      "teacherActivity": "The teacher assigns the original sourced questions, including \"What causes Cholera?\" and \"How is cholera spread?\". They supervise individual responses, mark answers and correct factual errors using the note content.",
+      "learnerActivity": "Learners answer the original questions individually, check the corresponding notes and correct their work after the teacher's feedback."
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 4,
+      "teacherActivity": "The teacher summarises the cause, symptoms and prevention of cholera and its spread. They ask \"How is cholera spread?\" and \"Suggest any three places where we can find germs.\" to check understanding and assign the remaining exercise.",
+      "learnerActivity": "Learners state one method of avoiding communicable diseases, answer the final oral questions and record the home task."
+    }
+  ],
+  "assessment": "Mark answers to the sourced questions \"What causes Cholera?\", \"How is cholera spread?\", and \"Suggest any three places where we can find germs.\" and correct work from the teaching points.",
+  "homework": "Complete the original source question \"Suggest any three places where we can find germs.\" in the Science book.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Health awareness",
+    "Communication"
+  ]
+}

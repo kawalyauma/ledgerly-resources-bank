@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What do you understand by term Sanitation?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Communicable intestinal diseases",
+    "skill": "recall",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7b59c749a90e4145826cce4fe4823bcb",
+      "quote": "What do you understand by term Sanitation?"
+    }
+  },
+  {
+    "question": "Give any four items used in keeping proper sanitation.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Communicable intestinal diseases",
+    "skill": "recall",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7b59c749a90e4145826cce4fe4823bcb",
+      "quote": "Give any four items used in keeping proper sanitation."
+    }
+  },
+  {
+    "question": "Suggest any two importances of sanitation to a community.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Communicable intestinal diseases",
+    "skill": "recall",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7b59c749a90e4145826cce4fe4823bcb",
+      "quote": "Suggest any two importances of sanitation to a community."
+    }
+  }
+]

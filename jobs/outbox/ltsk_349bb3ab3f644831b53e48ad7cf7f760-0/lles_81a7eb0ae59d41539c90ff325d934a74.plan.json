@@ -1,0 +1,83 @@
+{
+  "competences": [
+    "The learner describes the cause, spread and signs of dysentery and its causes.",
+    "The learner explains how good sanitation prevents infectious intestinal diseases."
+  ],
+  "languageCompetence": "Learners correctly pronounce, read and spell bacteria, infection, hygiene, sanitation and dehydration.",
+  "objectives": [
+    "By the end of the lesson learners should be able to explain the important facts about dysentery and its causes.",
+    "By the end of the period learners should be able to state three source-backed ways to reduce intestinal disease."
+  ],
+  "priorKnowledge": "Learners already know about sanitation, germs and common communicable diseases from earlier science lessons.",
+  "methods": [
+    "Explanation",
+    "Observation",
+    "Question and answer",
+    "Guided discussion"
+  ],
+  "materials": [
+    "Chart of communicable intestinal diseases",
+    "P4 Science class reference notes on infection and sanitation"
+  ],
+  "references": [
+    "P 4 Primary Four SCI Notes Teacher AC",
+    "P 4 Sci Notes",
+    "Primary Four Science Lesson Notes FOR ALL Terms"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "The teacher recalls the earlier science work on intestinal diseases and introduces dysentery and its causes. They begin with the original question \"Mention any four examples of diarrhoeal diseases.\" to assess learners' previous knowledge.",
+      "learnerActivity": "Learners recall earlier work on germs and hygiene, answer the opening question and describe practices that reduce intestinal disease."
+    },
+    {
+      "stage": "Development: Meaning and causes",
+      "minutes": 6,
+      "content": "Dysentery is the passing of watery stool containing blood. Bacillary dysentery is caused by shigella bacteria. Amoebic dysentery is caused by amoeba. Dysentery is a communicable intestinal disease. Infected faeces may carry dysentery germs.",
+      "teacherActivity": "The teacher writes the sourced notes for meaning and causes, including \"Dysentery is the passing of watery stool containing blood. Bacillary dysentery is caused by shigella bacteria.\" They clarify the meanings and check understanding by asking the original question \"Mention any four examples of diarrhoeal diseases.\".",
+      "learnerActivity": "Learners explain the displayed points, answer the teacher's questions and copy the factual information into their Science exercise books."
+    },
+    {
+      "stage": "Development: How dysentery spreads",
+      "minutes": 6,
+      "content": "Houseflies may carry dysentery germs. Flies can carry germs onto uncovered food. Eating contaminated food spreads intestinal infections. Infected faeces can pollute water sources. Dirty hands may transfer germs to food.",
+      "teacherActivity": "The teacher writes the sourced notes for how dysentery spreads, including \"Houseflies may carry dysentery germs. Flies can carry germs onto uncovered food.\" They clarify the meanings and check understanding by asking the original question \"Give two ways of preventing diarrhoeal diseases.\".",
+      "learnerActivity": "Learners explain the displayed points, answer the teacher's questions and copy the factual information into their Science exercise books."
+    },
+    {
+      "stage": "Development: Signs and symptoms",
+      "minutes": 6,
+      "content": "Bloody diarrhoea is a sign of dysentery. A sick person can develop severe diarrhoea. Dysentery may cause dehydration. An infected person loses body water. A sick person may suffer abdominal discomfort.",
+      "teacherActivity": "The teacher writes the sourced notes for signs and symptoms, including \"Bloody diarrhoea is a sign of dysentery. A sick person can develop severe diarrhoea.\" They clarify the meanings and check understanding by asking the original question \"Mention two signs and symptoms of a dehydrated person.\".",
+      "learnerActivity": "Learners explain the displayed points, answer the teacher's questions and copy the factual information into their Science exercise books."
+    },
+    {
+      "stage": "Development: Ways of preventing dysentery",
+      "minutes": 6,
+      "content": "Dispose of human faeces in latrines. Wash hands with soap and water. Keep food and drinking water safe. Cover food against houseflies. Destroy housefly breeding places.",
+      "teacherActivity": "The teacher writes the sourced notes for ways of preventing dysentery, including \"Dispose of human faeces in latrines. Wash hands with soap and water.\" They clarify the meanings and check understanding by asking the original question \"Mention any four examples of diarrhoeal diseases.\".",
+      "learnerActivity": "Learners explain the displayed points, answer the teacher's questions and copy the factual information into their Science exercise books."
+    },
+    {
+      "stage": "Written exercise",
+      "minutes": 7,
+      "content": "Mention any four examples of diarrhoeal diseases. | Give two ways of preventing diarrhoeal diseases. | Mention two signs and symptoms of a dehydrated person.",
+      "teacherActivity": "The teacher assigns the original sourced questions, including \"Mention any four examples of diarrhoeal diseases.\" and \"Give two ways of preventing diarrhoeal diseases.\". They supervise individual responses, mark answers and correct factual errors using the note content.",
+      "learnerActivity": "Learners answer the original questions individually, check the corresponding notes and correct their work after the teacher's feedback."
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 4,
+      "teacherActivity": "The teacher summarises the cause, symptoms and prevention of dysentery and its causes. They ask \"Give two ways of preventing diarrhoeal diseases.\" and \"Mention two signs and symptoms of a dehydrated person.\" to check understanding and assign the remaining exercise.",
+      "learnerActivity": "Learners state one method of avoiding communicable diseases, answer the final oral questions and record the home task."
+    }
+  ],
+  "assessment": "Mark answers to the sourced questions \"Mention any four examples of diarrhoeal diseases.\", \"Give two ways of preventing diarrhoeal diseases.\", and \"Mention two signs and symptoms of a dehydrated person.\" and correct work from the teaching points.",
+  "homework": "Complete the original source question \"Mention two signs and symptoms of a dehydrated person.\" in the Science book.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Health awareness",
+    "Communication"
+  ]
+}

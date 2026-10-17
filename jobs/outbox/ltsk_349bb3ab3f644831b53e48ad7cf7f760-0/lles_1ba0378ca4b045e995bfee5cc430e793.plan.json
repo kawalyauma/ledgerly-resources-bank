@@ -1,0 +1,83 @@
+{
+  "competences": [
+    "The learner identifies and describes the key scientific facts about causes of diarrhoea.",
+    "The learner explains safe hygiene practices that reduce the spread of communicable diseases."
+  ],
+  "languageCompetence": "Learners pronounce, spell and use disease, infection, diarrhoea, bacteria, sanitation and dehydration.",
+  "objectives": [
+    "By the end of the lesson learners should be able to describe causes of diarrhoea accurately.",
+    "By the end of the lesson learners should be able to answer at least three of the original sourced exercise questions."
+  ],
+  "priorKnowledge": "Learners have encountered hygiene, clean food and clean water at home and in earlier Primary Science lessons.",
+  "methods": [
+    "Explanation",
+    "Observation",
+    "Question and answer",
+    "Guided discussion"
+  ],
+  "materials": [
+    "Chart showing common sources of germs",
+    "Primary Four Science notes on intestinal diseases and hygiene"
+  ],
+  "references": [
+    "P 4 Primary Four SCI Notes Teacher AC",
+    "P 4 Sci Notes",
+    "Primary Four Science Lesson Notes FOR ALL Terms"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "The teacher introduces causes of diarrhoea by revising the previous work on hygiene and disease. They ask the original question \"Briefly explain the meaning of diarrhea.\" and listen to the learners' responses before developing the scientific explanation.",
+      "learnerActivity": "Learners recall common health practices, answer the opening question and relate the disease topic to what they have previously studied."
+    },
+    {
+      "stage": "Development: Meaning of diarrhoea",
+      "minutes": 6,
+      "content": "Diarrhoea means frequent passing of watery stool. Diarrhoea is a communicable intestinal disease. Bacteria and viruses can cause diarrhoea. Diarrhoea can result from contaminated food or water.",
+      "teacherActivity": "The teacher explains and writes meaning of diarrhoea, including \"Diarrhoea means frequent passing of watery stool. Diarrhoea is a communicable intestinal disease.\" They use the exact sourced question \"What is dehydration.\" to check understanding and correct unsafe assumptions.",
+      "learnerActivity": "Learners read the notes, explain the facts using their own words, respond to questions and copy the content into their Science books."
+    },
+    {
+      "stage": "Development: How diarrhoea spreads",
+      "minutes": 6,
+      "content": "Infected faeces contain disease-causing germs. Houseflies may transfer germs from faeces to food. Germs can enter the body through contaminated food. Dirty hands may carry germs onto food. Unsafe drinking water may contain harmful germs.",
+      "teacherActivity": "The teacher explains and writes how diarrhoea spreads, including \"Infected faeces contain disease-causing germs. Houseflies may transfer germs from faeces to food.\" They use the exact sourced question \"Suggest any two causes of dehydration.\" to check understanding and correct unsafe assumptions.",
+      "learnerActivity": "Learners read the notes, explain the facts using their own words, respond to questions and copy the content into their Science books."
+    },
+    {
+      "stage": "Development: Dehydration",
+      "minutes": 6,
+      "content": "Severe diarrhoea can cause dehydration. Dehydration occurs when the body loses too much water. Dehydrated patients need water and mineral salts. Severe dehydration can weaken a sick person. Diarrhoea can cause a person to lose body fluids.",
+      "teacherActivity": "The teacher explains and writes dehydration, including \"Severe diarrhoea can cause dehydration. Dehydration occurs when the body loses too much water.\" They use the exact sourced question \"Mention two signs and symptoms of a dehydrated person.\" to check understanding and correct unsafe assumptions.",
+      "learnerActivity": "Learners read the notes, explain the facts using their own words, respond to questions and copy the content into their Science books."
+    },
+    {
+      "stage": "Development: Preventing diarrhoeal diseases",
+      "minutes": 6,
+      "content": "Drink safe and clean water. Wash hands before handling food. Use a pit latrine for faeces. Keep food covered against houseflies. Maintain sanitation around home and school.",
+      "teacherActivity": "The teacher explains and writes preventing diarrhoeal diseases, including \"Drink safe and clean water. Wash hands before handling food.\" They use the exact sourced question \"Mention two signs and symptoms of a dehydrated person.\" to check understanding and correct unsafe assumptions.",
+      "learnerActivity": "Learners read the notes, explain the facts using their own words, respond to questions and copy the content into their Science books."
+    },
+    {
+      "stage": "Exercise and practice",
+      "minutes": 7,
+      "content": "Briefly explain the meaning of diarrhea. | What is dehydration. | Suggest any two causes of dehydration. | Mention two signs and symptoms of a dehydrated person.",
+      "teacherActivity": "The teacher writes the original questions, including \"Briefly explain the meaning of diarrhea.\" and \"What is dehydration.\", then supervises individual responses and marks the answers against the source material. They correct important misconceptions about preventing disease.",
+      "learnerActivity": "Learners answer the source questions individually, review the corresponding facts in their notes and correct any mistaken answers."
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 4,
+      "teacherActivity": "The teacher reviews the facts about causes of diarrhoea and checks understanding with \"Suggest any two causes of dehydration.\" and \"Mention two signs and symptoms of a dehydrated person.\". They explain safe health practices and set the remaining original exercise for revision.",
+      "learnerActivity": "Learners state one important way to avoid infection, answer the final oral questions and copy the homework into their books."
+    }
+  ],
+  "assessment": "Mark sourced questions \"Briefly explain the meaning of diarrhea.\", \"What is dehydration.\", and \"Suggest any two causes of dehydration.\" and correct answers using the documented disease and hygiene facts.",
+  "homework": "Finish the original exercise question \"Mention two signs and symptoms of a dehydrated person.\" in the Science book.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Personal hygiene",
+    "Communication"
+  ]
+}

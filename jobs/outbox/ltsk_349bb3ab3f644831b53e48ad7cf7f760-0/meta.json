@@ -1,0 +1,18 @@
+{
+  "job": "ltsk_349bb3ab3f644831b53e48ad7cf7f760-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "lles_81a7eb0ae59d41539c90ff325d934a74": [
+      "Few original dysentery-only exercises: the lesson uses sourced wider diarrhoeal-disease questions."
+    ],
+    "lles_3bfafa3403ad479f944d9bfe62960d32": [
+      "The third original question concerns germs in general and is used as supporting revision."
+    ],
+    "lles_667a55b4691d4ef2935a5d41af88c47a": [
+      "The supplied resources have limited typhoid-specific questions; original sanitation exercises are used and a teacher should supplement after sourcing."
+    ]
+  },
+  "reviewerNotes": "P4 Science term III Week 1: six source-grounded sets of notes, lesson plans and exercises. Some written exercises address general hygiene instead of the exact named disease. Teacher review required."
+}

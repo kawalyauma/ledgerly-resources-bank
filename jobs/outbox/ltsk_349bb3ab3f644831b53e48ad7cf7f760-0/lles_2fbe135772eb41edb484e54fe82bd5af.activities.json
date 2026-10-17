@@ -1,0 +1,58 @@
+[
+  {
+    "question": "What are communicable diseases?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Communicable intestinal diseases",
+    "skill": "recall and explain",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_e118ed6745f94187be640551c4d9bad0",
+      "quote": "What are communicable diseases?"
+    }
+  },
+  {
+    "question": "What is a germ?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Communicable intestinal diseases",
+    "skill": "recall and explain",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7b59c749a90e4145826cce4fe4823bcb",
+      "quote": "What is a germ?"
+    }
+  },
+  {
+    "question": "How is a housefly able to spread germs?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Communicable intestinal diseases",
+    "skill": "recall and explain",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_e118ed6745f94187be640551c4d9bad0",
+      "quote": "How is a housefly able to spread germs?"
+    }
+  },
+  {
+    "question": "How can germs spread from one person to another? (Give three)",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Communicable intestinal diseases",
+    "skill": "recall and explain",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7b59c749a90e4145826cce4fe4823bcb",
+      "quote": "How can germs spread from one person to another? (Give three)"
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Briefly explain the meaning of diarrhea.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Communicable intestinal diseases",
+    "skill": "recall and explain",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_db841b6a430842ae9b679c3042e3dc58",
+      "quote": "Briefly explain the meaning of diarrhea."
+    }
+  },
+  {
+    "question": "What is dehydration.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Communicable intestinal diseases",
+    "skill": "recall and explain",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_db841b6a430842ae9b679c3042e3dc58",
+      "quote": "What is dehydration."
+    }
+  },
+  {
+    "question": "Suggest any two causes of dehydration.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Communicable intestinal diseases",
+    "skill": "recall and explain",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_db841b6a430842ae9b679c3042e3dc58",
+      "quote": "Suggest any two causes of dehydration."
+    }
+  },
+  {
+    "question": "Mention two signs and symptoms of a dehydrated person.",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Communicable intestinal diseases",
+    "skill": "recall and explain",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_db841b6a430842ae9b679c3042e3dc58",
+      "quote": "Mention two signs and symptoms of a dehydrated person."
+    }
+  }
+]

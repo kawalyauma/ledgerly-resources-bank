@@ -1,0 +1,83 @@
+{
+  "competences": [
+    "The learner describes the cause, spread and signs of typhoid and its prevention.",
+    "The learner explains how good sanitation prevents infectious intestinal diseases."
+  ],
+  "languageCompetence": "Learners correctly pronounce, read and spell bacteria, infection, hygiene, sanitation and dehydration.",
+  "objectives": [
+    "By the end of the lesson learners should be able to explain the important facts about typhoid and its prevention.",
+    "By the end of the period learners should be able to state three source-backed ways to reduce intestinal disease."
+  ],
+  "priorKnowledge": "Learners already know about sanitation, germs and common communicable diseases from earlier science lessons.",
+  "methods": [
+    "Explanation",
+    "Observation",
+    "Question and answer",
+    "Guided discussion"
+  ],
+  "materials": [
+    "Chart of communicable intestinal diseases",
+    "P4 Science class reference notes on infection and sanitation"
+  ],
+  "references": [
+    "P 4 Primary Four SCI Notes Teacher AC",
+    "P 4 Sci Notes",
+    "Primary Four Science Lesson Notes FOR ALL Terms"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "The teacher recalls the earlier science work on intestinal diseases and introduces typhoid and its prevention. They begin with the original question \"What do you understand by term Sanitation?\" to assess learners' previous knowledge.",
+      "learnerActivity": "Learners recall earlier work on germs and hygiene, answer the opening question and describe practices that reduce intestinal disease."
+    },
+    {
+      "stage": "Development: Meaning and cause",
+      "minutes": 6,
+      "content": "Typhoid is a communicable intestinal disease. Typhoid fever is caused by bacteria. The bacterium is called Salmonella typhi. Typhoid germs can contaminate food. Typhoid germs can contaminate drinking water.",
+      "teacherActivity": "The teacher writes the sourced notes for meaning and cause, including \"Typhoid is a communicable intestinal disease. Typhoid fever is caused by bacteria.\" They clarify the meanings and check understanding by asking the original question \"What do you understand by term Sanitation?\".",
+      "learnerActivity": "Learners explain the displayed points, answer the teacher's questions and copy the factual information into their Science exercise books."
+    },
+    {
+      "stage": "Development: How typhoid spreads",
+      "minutes": 6,
+      "content": "Typhoid can spread through contaminated food. Typhoid can spread through contaminated water. Houseflies may carry germs onto exposed food. Eating food with germs may cause infection. Poor sanitation allows intestinal germs to spread.",
+      "teacherActivity": "The teacher writes the sourced notes for how typhoid spreads, including \"Typhoid can spread through contaminated food. Typhoid can spread through contaminated water.\" They clarify the meanings and check understanding by asking the original question \"Give any four items used in keeping proper sanitation.\".",
+      "learnerActivity": "Learners explain the displayed points, answer the teacher's questions and copy the factual information into their Science exercise books."
+    },
+    {
+      "stage": "Development: Signs and symptoms of typhoid",
+      "minutes": 6,
+      "content": "A person with typhoid may suffer diarrhoea. Fever is one symptom of typhoid. Headache can also occur in typhoid illness. Typhoid affects infected people's health. Typhoid can cause weakness and sickness.",
+      "teacherActivity": "The teacher writes the sourced notes for signs and symptoms of typhoid, including \"A person with typhoid may suffer diarrhoea. Fever is one symptom of typhoid.\" They clarify the meanings and check understanding by asking the original question \"Suggest any two importances of sanitation to a community.\".",
+      "learnerActivity": "Learners explain the displayed points, answer the teacher's questions and copy the factual information into their Science exercise books."
+    },
+    {
+      "stage": "Development: Preventing typhoid",
+      "minutes": 6,
+      "content": "Use clean and safe water for drinking. Wash hands after using the latrine. Dispose of faeces safely in toilets. Keep food covered against flies. Maintain proper household sanitation.",
+      "teacherActivity": "The teacher writes the sourced notes for preventing typhoid, including \"Use clean and safe water for drinking. Wash hands after using the latrine.\" They clarify the meanings and check understanding by asking the original question \"What do you understand by term Sanitation?\".",
+      "learnerActivity": "Learners explain the displayed points, answer the teacher's questions and copy the factual information into their Science exercise books."
+    },
+    {
+      "stage": "Written exercise",
+      "minutes": 7,
+      "content": "What do you understand by term Sanitation? | Give any four items used in keeping proper sanitation. | Suggest any two importances of sanitation to a community.",
+      "teacherActivity": "The teacher assigns the original sourced questions, including \"What do you understand by term Sanitation?\" and \"Give any four items used in keeping proper sanitation.\". They supervise individual responses, mark answers and correct factual errors using the note content.",
+      "learnerActivity": "Learners answer the original questions individually, check the corresponding notes and correct their work after the teacher's feedback."
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 4,
+      "teacherActivity": "The teacher summarises the cause, symptoms and prevention of typhoid and its prevention. They ask \"Give any four items used in keeping proper sanitation.\" and \"Suggest any two importances of sanitation to a community.\" to check understanding and assign the remaining exercise.",
+      "learnerActivity": "Learners state one method of avoiding communicable diseases, answer the final oral questions and record the home task."
+    }
+  ],
+  "assessment": "Mark answers to the sourced questions \"What do you understand by term Sanitation?\", \"Give any four items used in keeping proper sanitation.\", and \"Suggest any two importances of sanitation to a community.\" and correct work from the teaching points.",
+  "homework": "Complete the original source question \"Suggest any two importances of sanitation to a community.\" in the Science book.",
+  "lifeSkills": [
+    "Critical thinking",
+    "Health awareness",
+    "Communication"
+  ]
+}
