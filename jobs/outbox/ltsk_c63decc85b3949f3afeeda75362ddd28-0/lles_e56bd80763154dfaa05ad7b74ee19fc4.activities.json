@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Why has Uganda failed to get her national language?",
+    "answer": "It has got many traditional languages",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "National and official language",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_6816a0521efb434a8d222966ed00fd03",
+      "quote": "Why has Uganda failed to get her national language?"
+    }
+  },
+  {
+    "question": "What is a national language?",
+    "answer": "This is a local language spoken and under stood by most citizens in a",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "National and official language",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_868bb787b248475a9303e07ee616b3c3",
+      "quote": "What is a national language?"
+    }
+  },
+  {
+    "question": "Give two reasons why Uganda does not have a national language.",
+    "answer": "It has many tribes.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "National and official language",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_868bb787b248475a9303e07ee616b3c3",
+      "quote": "Give two reasons why Uganda does not have a national language."
+    }
+  },
+  {
+    "question": "What is Uganda’s official language?",
+    "answer": "English.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "National and official language",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_868bb787b248475a9303e07ee616b3c3",
+      "quote": "What is Uganda’s official language?"
+    }
+  },
+  {
+    "question": "What is an official language?",
+    "answer": "This is a language used in government offices.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "National and official language",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_868bb787b248475a9303e07ee616b3c3",
+      "quote": "What is an official language?"
+    }
+  },
+  {
+    "question": "Why does Uganda use English as the official language?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "National and official language",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_048ba2ce490e4899bc75b49b2fa571ad",
+      "quote": "Why does Uganda use English as the official language?"
+    }
+  }
+]

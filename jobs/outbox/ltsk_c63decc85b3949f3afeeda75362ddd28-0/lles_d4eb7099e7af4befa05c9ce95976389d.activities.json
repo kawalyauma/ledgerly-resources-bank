@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which was the capital city of the colonial government?",
+    "answer": "It was Entebbe",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Symbols of a nation: the capital city",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_048ba2ce490e4899bc75b49b2fa571ad",
+      "quote": "Which was the capital city of the colonial government?"
+    }
+  },
+  {
+    "question": "Why should a nation have a national capital city?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Symbols of a nation: the capital city",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_048ba2ce490e4899bc75b49b2fa571ad",
+      "quote": "Why should a nation have a national capital city?"
+    }
+  },
+  {
+    "question": "Why is Kabale cooler than Kampala?",
+    "answer": null,
+    "answerOrigin": "none",
+    "kind": "short_answer",
+    "concept": "Symbols of a nation: the capital city",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_8cb1048e974045de95d55a141fb1079c",
+      "quote": "Why is Kabale cooler than Kampala?"
+    }
+  },
+  {
+    "question": "What title is given to the political head of capital city authority ?",
+    "answer": "Lord Mayor.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Symbols of a nation: the capital city",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_1d0a00b334ac4c53bc15fad9593b34fd",
+      "quote": "What title is given to the political head of capital city authority ?"
+    }
+  },
+  {
+    "question": "When did Uganda get her independence?",
+    "answer": "Uganda got her independence on Monday 9 th October 1962.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Symbols of a nation: the capital city",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8d263adf25145d9b9a94e0acaa20555",
+      "quote": "When did Uganda get her independence?"
+    }
+  },
+  {
+    "question": "What conference was the climax of all Uganda’s struggle for independence?",
+    "answer": "It was the London constitutional conference.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Symbols of a nation: the capital city",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8d263adf25145d9b9a94e0acaa20555",
+      "quote": "What conference was the climax of all Uganda’s struggle for independence?"
+    }
+  }
+]
