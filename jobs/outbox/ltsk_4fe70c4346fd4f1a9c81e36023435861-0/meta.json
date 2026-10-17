@@ -1,0 +1,12 @@
+{
+  "job": "ltsk_4fe70c4346fd4f1a9c81e36023435861-0",
+  "attempt": 1,
+  "agent": "gpt-6",
+  "model": "GPT-6",
+  "gaps": {
+    "lles_1aeffb255afa48318fd1193c5d52c747": [
+      "Only a few unique Beatitudes exercise questions were available; one source-backed question about discipleship is reused for consolidation."
+    ]
+  },
+  "reviewerNotes": "P5 CRE Week 3: three complete lessons with source-quoted sections, original exercise questions and timed 40-minute plans. Teacher review recommended."
+}
