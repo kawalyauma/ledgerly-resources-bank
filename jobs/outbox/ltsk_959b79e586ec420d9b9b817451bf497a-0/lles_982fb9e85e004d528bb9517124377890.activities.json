@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Who composed the Uganda National Anthem?",
+    "answer": "George Wilberforce Kakoma.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Uganda as an independent nation",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_64a12a82317a4f3683448875119c31e2",
+      "quote": "Who composed the Uganda National Anthem?"
+    }
+  },
+  {
+    "question": "Why is Late. George William Kakoma remembered in the history of Uganda.",
+    "answer": "He composed Uganda's national anthem.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Uganda as an independent nation",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b297e6921590437280a1192ded841240",
+      "quote": "Why is Late. George William Kakoma remembered in the history of Uganda."
+    }
+  },
+  {
+    "question": "Give two reasons why Ugandans sing the national anthem",
+    "answer": "To promote unity and show national identity.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Uganda as an independent nation",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b297e6921590437280a1192ded841240",
+      "quote": "Give two reasons why Ugandans sing the national anthem"
+    }
+  },
+  {
+    "question": "When was the national anthem played for the first time in Uganda?",
+    "answer": "9 October 1962.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Uganda as an independent nation",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b297e6921590437280a1192ded841240",
+      "quote": "When was the national anthem played for the first time in Uganda?"
+    }
+  },
+  {
+    "question": "How is the National Anthem respected when its being sung?",
+    "answer": "People stand at attention and remain still.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Uganda as an independent nation",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b297e6921590437280a1192ded841240",
+      "quote": "How is the National Anthem respected when its being sung?"
+    }
+  },
+  {
+    "question": "How many stanzas has the Uganda national anthem?",
+    "answer": "Three stanzas.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Uganda as an independent nation",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b297e6921590437280a1192ded841240",
+      "quote": "How many stanzas has the Uganda national anthem?"
+    }
+  }
+]

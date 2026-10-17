@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What is political independence?",
+    "answer": "Freedom from foreign political control.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Uganda as an independent nation",
+    "skill": "define",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8d263adf25145d9b9a94e0acaa20555",
+      "quote": "What is political independence?"
+    }
+  },
+  {
+    "question": "When did Uganda get her independence?",
+    "answer": "9 October 1962.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Uganda as an independent nation",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8d263adf25145d9b9a94e0acaa20555",
+      "quote": "When did Uganda get her independence?"
+    }
+  },
+  {
+    "question": "What is an independent nation?",
+    "answer": "A country free from colonial rule.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Uganda as an independent nation",
+    "skill": "define",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b6ebfff8d01745efa6141743d019e6df",
+      "quote": "What is an independent nation ?"
+    }
+  },
+  {
+    "question": "Which political party led Uganda to her independence?",
+    "answer": "Uganda People's Congress.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Uganda as an independent nation",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b6ebfff8d01745efa6141743d019e6df",
+      "quote": "Which political party led Uganda to her independence ?"
+    }
+  },
+  {
+    "question": "Who led Uganda to independence?",
+    "answer": "Dr Apollo Milton Obote.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Uganda as an independent nation",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b6ebfff8d01745efa6141743d019e6df",
+      "quote": "Who led Uganda to independence ?"
+    }
+  },
+  {
+    "question": "Which constitution granted Uganda independence?",
+    "answer": "The 1962 Constitution.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Uganda as an independent nation",
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b6ebfff8d01745efa6141743d019e6df",
+      "quote": "Which constitution granted Uganda independence ?"
+    }
+  }
+]
