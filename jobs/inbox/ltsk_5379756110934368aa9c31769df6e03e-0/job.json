@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_5379756110934368aa9c31769df6e03e-0",
+  "task": "ltsk_5379756110934368aa9c31769df6e03e",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 76,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 6,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_0e3d74135c0f4f6f80b4d30ff78ae628",
+      "kind": "teach",
+      "week": 6,
+      "title": "Sources of government revenue",
+      "periods": 1,
+      "subtopic": "The URA and other sources of government revenue"
+    },
+    {
+      "id": "lles_15330e8405cb4dee8ac9ab3d4833090b",
+      "kind": "teach",
+      "week": 6,
+      "title": "Government expenditure",
+      "periods": 1,
+      "subtopic": "How the government spends its revenue"
+    },
+    {
+      "id": "lles_a16157293c3a451cae534b029ef86937",
+      "kind": "teach",
+      "week": 6,
+      "title": "The national budget",
+      "periods": 1,
+      "subtopic": "Meaning and types of budgets"
+    },
+    {
+      "id": "lles_802e6f2f3cde4c4c8750e1423d4f2f27",
+      "kind": "practice",
+      "week": 6,
+      "title": "Importance of the budget",
+      "periods": 1,
+      "subtopic": "Surplus, balanced and deficit budgets"
+    },
+    {
+      "id": "lles_1ad6e9d8b9cf42f0a2107524966a7bdd",
+      "kind": "teach",
+      "week": 6,
+      "title": "Human rights",
+      "periods": 1,
+      "subtopic": "Rights of a citizen and the Uganda Human Rights Commission"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_c87f35f3e8f2469c85eaf42fab2293e6",
+    "lchk_75679631316b42868d58f327c564a4ad",
+    "lchk_34a5d4a3b16d47f5967a8c7c879ba1ab",
+    "lchk_0e9d4c93cd8f4cc4a7ae4e92a9bb8b7c",
+    "lchk_361554dd9b104fc5b63f30a6d1205302",
+    "lchk_6dd64f60202a49f7807c72cd6775b286",
+    "lchk_308194d2a0674ce7b8a2824efae4d3b8",
+    "lchk_982495b08d4d48d2a5231b80808ea485"
+  ],
+  "created": "2026-10-17T10:55:51.612Z"
+}

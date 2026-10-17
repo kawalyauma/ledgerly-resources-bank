@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_77f34ee07c6d444d93366bdaf8ece7f6-0",
+  "task": "ltsk_77f34ee07c6d444d93366bdaf8ece7f6",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 61,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 3,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_283f96e109404be3aad963bee9808d7a",
+      "kind": "teach",
+      "week": 3,
+      "title": "Citizenship",
+      "periods": 1,
+      "subtopic": "Ways of becoming a citizen of Uganda"
+    },
+    {
+      "id": "lles_cd7c7c03f17b41adb2245b352c3b3c1c",
+      "kind": "teach",
+      "week": 3,
+      "title": "Elections",
+      "periods": 1,
+      "subtopic": "Meaning and types of elections"
+    },
+    {
+      "id": "lles_d65048524b0941b99e21c41ea99910bc",
+      "kind": "teach",
+      "week": 3,
+      "title": "Terms used in elections",
+      "periods": 1,
+      "subtopic": "Election terms and the importance of elections"
+    },
+    {
+      "id": "lles_c93a1de7ede84717927d7171c796140f",
+      "kind": "teach",
+      "week": 3,
+      "title": "Bad practices during elections",
+      "periods": 1,
+      "subtopic": "Bad practices before, during and after voting"
+    },
+    {
+      "id": "lles_01cc42c43fd84d91adeba440f1882f67",
+      "kind": "teach",
+      "week": 3,
+      "title": "The Electoral Commission",
+      "periods": 1,
+      "subtopic": "Roles and challenges of the Electoral Commission"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_c4cae182343748ec9eda6c629cf41c35",
+    "lchk_db3ff097ff99464aba2332c9d68a600d",
+    "lchk_a51d4f1ab8634588a6770df9da1b613d",
+    "lchk_f3cec8ceab1a4b79933fc5a2d872dad2",
+    "lchk_77346614385440e7b018b227acc0e2f9",
+    "lchk_f99c684c29f64207a407b1bd185ea3cd",
+    "lchk_308194d2a0674ce7b8a2824efae4d3b8",
+    "lchk_aa85ec987f1e41cf99a1ba716ad51f70"
+  ],
+  "created": "2026-10-17T10:55:21.620Z"
+}

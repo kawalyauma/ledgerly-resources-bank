@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_f7056364fa1f4da2b9308681019344f4-0",
+  "task": "ltsk_f7056364fa1f4da2b9308681019344f4",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 66,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 4,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_2174eb576b9642eaa0c1519cbe035323",
+      "kind": "teach",
+      "week": 4,
+      "title": "The government of Uganda",
+      "periods": 1,
+      "subtopic": "Meaning of government and its organs"
+    },
+    {
+      "id": "lles_f9c24cda432a4823884b2ed2f9ed6c39",
+      "kind": "teach",
+      "week": 4,
+      "title": "The legislature",
+      "periods": 1,
+      "subtopic": "Parliament: duties, officers and qualifications of a Member of Parliament"
+    },
+    {
+      "id": "lles_e5c32cc9fdbf457987e60b21c1dcbb43",
+      "kind": "teach",
+      "week": 4,
+      "title": "The executive",
+      "periods": 1,
+      "subtopic": "The President, ministers and civil servants"
+    },
+    {
+      "id": "lles_c7da3fb37ec14fd1958700d3693863f6",
+      "kind": "teach",
+      "week": 4,
+      "title": "The judiciary",
+      "periods": 1,
+      "subtopic": "Composition and roles of the judiciary"
+    },
+    {
+      "id": "lles_30e71760d56a46fb99ee7edbd41c0d81",
+      "kind": "practice",
+      "week": 4,
+      "title": "Organs of government Part B",
+      "periods": 1,
+      "subtopic": "The legislature, executive and judiciary"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_a068c36f55a64155a9a2517aace9832f",
+    "lchk_613d1868da5840e4844b343f10260aa2",
+    "lchk_b1f295b60e564889b04f04231149793d",
+    "lchk_db3ff097ff99464aba2332c9d68a600d",
+    "lchk_daea287472e2407897fac9dadc140318",
+    "lchk_f3a20646343545bf90e63ce171b6cf0e",
+    "lchk_d3d9ba3578dc423c98bad9300623680e",
+    "lchk_4fda346b6242448383e30fe61e55cb53"
+  ],
+  "created": "2026-10-17T10:55:31.624Z"
+}

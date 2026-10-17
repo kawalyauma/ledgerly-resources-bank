@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_54dad9f2321d450694667afa92cbdd5e-0",
+  "task": "ltsk_54dad9f2321d450694667afa92cbdd5e",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 71,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 5,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_bfb889a5c7084f838955d6830261a6fa",
+      "kind": "teach",
+      "week": 5,
+      "title": "Roles of the central government",
+      "periods": 1,
+      "subtopic": "Types of government and roles of the central government"
+    },
+    {
+      "id": "lles_4478e731b97b4a509b4ce440d62da8a3",
+      "kind": "teach",
+      "week": 5,
+      "title": "Local government",
+      "periods": 1,
+      "subtopic": "Roles of the local government"
+    },
+    {
+      "id": "lles_bb0541b30955403097a3b68cc491e7dc",
+      "kind": "teach",
+      "week": 5,
+      "title": "The constitution",
+      "periods": 1,
+      "subtopic": "Meaning, functions and importance of a constitution"
+    },
+    {
+      "id": "lles_6819cdaa984249ec9149c9a3959ebdae",
+      "kind": "teach",
+      "week": 5,
+      "title": "The constitutions of Uganda",
+      "periods": 1,
+      "subtopic": "The 1962, 1967 and 1995 constitutions"
+    },
+    {
+      "id": "lles_e32889b6d2d64fccabcec42abcad92ff",
+      "kind": "teach",
+      "week": 5,
+      "title": "Government revenue",
+      "periods": 1,
+      "subtopic": "Taxation and types of taxes"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_3b379eae4956473980abd2ec5698fb8d",
+    "lchk_048ba2ce490e4899bc75b49b2fa571ad",
+    "lchk_44d568163db743daabe5c2b6e2d57260",
+    "lchk_ec51f6da58054c529255c6d9c888ac5d",
+    "lchk_db3ff097ff99464aba2332c9d68a600d",
+    "lchk_c87f35f3e8f2469c85eaf42fab2293e6",
+    "lchk_b53ebe99eedd4fb09ea7049c2d76de29",
+    "lchk_82a3878551f441799f00a79a33ea9bbf"
+  ],
+  "created": "2026-10-17T10:55:46.652Z"
+}

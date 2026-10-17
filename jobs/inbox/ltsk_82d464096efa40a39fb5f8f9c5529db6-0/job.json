@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_82d464096efa40a39fb5f8f9c5529db6-0",
+  "task": "ltsk_82d464096efa40a39fb5f8f9c5529db6",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 96,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 10,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_9a2753bbd95b4d9e84313391e5ec4506",
+      "kind": "revision",
+      "week": 10,
+      "title": "Term revision 1: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution",
+      "periods": 1,
+      "subtopic": "Mixed revision of the term"
+    },
+    {
+      "id": "lles_3a53301040464ad29d62b25c2651c542",
+      "kind": "revision",
+      "week": 10,
+      "title": "Term revision 2: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution",
+      "periods": 1,
+      "subtopic": "Mixed revision of the term"
+    },
+    {
+      "id": "lles_922160d51b92469a8ec82d95a6fb54c8",
+      "kind": "revision",
+      "week": 10,
+      "title": "Term revision 3: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution",
+      "periods": 1,
+      "subtopic": "Mixed revision of the term"
+    },
+    {
+      "id": "lles_310fae2b123445f093a410f2e64e3b27",
+      "kind": "revision",
+      "week": 10,
+      "title": "Term revision 4: Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution",
+      "periods": 1,
+      "subtopic": "Mixed revision of the term"
+    },
+    {
+      "id": "lles_381da0be0dc64895b0bade512779b38f",
+      "kind": "assessment",
+      "week": 10,
+      "title": "End of term assessment",
+      "periods": 1,
+      "subtopic": "Uganda as an independent nation, The Government of Uganda, Population, Size and Distribution"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_a8d263adf25145d9b9a94e0acaa20555",
+    "lchk_b297e6921590437280a1192ded841240",
+    "lchk_3dedebb31c1e4c9783852eb0a4fc6cfb",
+    "lchk_6816a0521efb434a8d222966ed00fd03",
+    "lchk_048ba2ce490e4899bc75b49b2fa571ad",
+    "lchk_a068c36f55a64155a9a2517aace9832f",
+    "lchk_613d1868da5840e4844b343f10260aa2",
+    "lchk_8565a70475344911b9db098cef933069"
+  ],
+  "created": "2026-10-17T10:56:11.627Z"
+}

@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_b715a74c47a84ff68f8afefcadec3b3d-0",
+  "task": "ltsk_b715a74c47a84ff68f8afefcadec3b3d",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 81,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 7,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_cf576b542124477bbe8959a6c665509e",
+      "kind": "teach",
+      "week": 7,
+      "title": "Responsibilities of a citizen",
+      "periods": 1,
+      "subtopic": "Responsibilities of a citizen in developing Uganda"
+    },
+    {
+      "id": "lles_ebb648ef2b1149e4b4581f733d12e7bf",
+      "kind": "teach",
+      "week": 7,
+      "title": "Child labour",
+      "periods": 1,
+      "subtopic": "Children's rights and child labour"
+    },
+    {
+      "id": "lles_78aea8dfc8d9478cbcaf5d9e756e8531",
+      "kind": "teach",
+      "week": 7,
+      "title": "Population and the population census",
+      "periods": 1,
+      "subtopic": "Meaning of population and census"
+    },
+    {
+      "id": "lles_dba4204db0164ee6b065363b9025c4fe",
+      "kind": "teach",
+      "week": 7,
+      "title": "Population growth",
+      "periods": 1,
+      "subtopic": "Factors that influence population growth"
+    },
+    {
+      "id": "lles_3a76846a2551482ebeb77fe8fc86caca",
+      "kind": "teach",
+      "week": 7,
+      "title": "Population distribution",
+      "periods": 1,
+      "subtopic": "Factors affecting population distribution"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_5d9fca1a0c194c47a0d551561d1abf1b",
+    "lchk_f4e043f39e034c8eaac37e82506c59dc",
+    "lchk_de8fddce4e9d4f858bcd933118db47b3",
+    "lchk_c87f35f3e8f2469c85eaf42fab2293e6",
+    "lchk_7e914abcd1f34c67935e12ca2588d5ec",
+    "lchk_77346614385440e7b018b227acc0e2f9",
+    "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+    "lchk_c39ba86482504f359b37660b3e5a1d42"
+  ],
+  "created": "2026-10-17T10:55:56.627Z"
+}

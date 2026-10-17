@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_b0c2d3e974ac430ebec67ee46f09116f-0",
+  "task": "ltsk_b0c2d3e974ac430ebec67ee46f09116f",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 86,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 8,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_f8c623f058e54bbaa04f1db803f67ea6",
+      "kind": "teach",
+      "week": 8,
+      "title": "Population density",
+      "periods": 1,
+      "subtopic": "Meaning and calculation of population density"
+    },
+    {
+      "id": "lles_55f057a6abef4719a7ed9cad01f796d0",
+      "kind": "practice",
+      "week": 8,
+      "title": "High and low population density",
+      "periods": 1,
+      "subtopic": "Areas of high and low population density"
+    },
+    {
+      "id": "lles_89e8887aa4724150bfeb5a8f37aba865",
+      "kind": "teach",
+      "week": 8,
+      "title": "Problems of high and low population",
+      "periods": 1,
+      "subtopic": "Advantages and disadvantages of high and low population"
+    },
+    {
+      "id": "lles_ac706889f7aa4a2088c04950beaf23d9",
+      "kind": "teach",
+      "week": 8,
+      "title": "Controlling population growth",
+      "periods": 1,
+      "subtopic": "Solutions to high population density"
+    },
+    {
+      "id": "lles_caa6477290e54a61a33b2386f0d08879",
+      "kind": "teach",
+      "week": 8,
+      "title": "HIV/AIDS and population",
+      "periods": 1,
+      "subtopic": "Effects of HIV/AIDS on population and economic development"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_e9bf3ccc4d0740c9b05e37f9727a64cd",
+    "lchk_7682272c0fdb4b93a290837e483bcf34",
+    "lchk_7e914abcd1f34c67935e12ca2588d5ec",
+    "lchk_f3180c29719f4e6ba4d80288742b14d2",
+    "lchk_f2bbe26a485b4f19a8d163a63cee3aef",
+    "lchk_f4e043f39e034c8eaac37e82506c59dc",
+    "lchk_a89f8a96f35c42f7a1dee9e9583a10c8",
+    "lchk_14b623f1a3ce45c2ba8e608ccdc49bdb"
+  ],
+  "created": "2026-10-17T10:56:01.687Z"
+}

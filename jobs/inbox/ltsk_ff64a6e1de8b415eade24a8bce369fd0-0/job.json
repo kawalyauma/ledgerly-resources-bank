@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_ff64a6e1de8b415eade24a8bce369fd0-0",
+  "task": "ltsk_ff64a6e1de8b415eade24a8bce369fd0",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 91,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": 9,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_18f4bea3ecac4c18aad6b5bd4737a766",
+      "kind": "teach",
+      "week": 9,
+      "title": "Hazards that check population growth",
+      "periods": 1,
+      "subtopic": "Natural and man-made hazards"
+    },
+    {
+      "id": "lles_f5c63946b6f14a26804d4d3021a38cc6",
+      "kind": "teach",
+      "week": 9,
+      "title": "Population terms",
+      "periods": 1,
+      "subtopic": "Summary of population terms"
+    },
+    {
+      "id": "lles_d4a41884dbc6431fa7db7963bca08462",
+      "kind": "revision",
+      "week": 9,
+      "title": "Revision: Uganda as an independent nation",
+      "periods": 1,
+      "subtopic": "Revision and practice"
+    },
+    {
+      "id": "lles_29608edb52284b84815abca6d9204b78",
+      "kind": "revision",
+      "week": 9,
+      "title": "Revision: The Government of Uganda",
+      "periods": 1,
+      "subtopic": "Revision and practice"
+    },
+    {
+      "id": "lles_14aa97868f904a259dfd0b60a9577f64",
+      "kind": "revision",
+      "week": 9,
+      "title": "Revision: Population, Size and Distribution",
+      "periods": 1,
+      "subtopic": "Revision and practice"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/social-studies",
+  "passages": [
+    "lchk_361554dd9b104fc5b63f30a6d1205302",
+    "lchk_5d9fca1a0c194c47a0d551561d1abf1b",
+    "lchk_3b379eae4956473980abd2ec5698fb8d",
+    "lchk_982495b08d4d48d2a5231b80808ea485",
+    "lchk_a8d263adf25145d9b9a94e0acaa20555",
+    "lchk_b297e6921590437280a1192ded841240",
+    "lchk_3dedebb31c1e4c9783852eb0a4fc6cfb",
+    "lchk_6816a0521efb434a8d222966ed00fd03"
+  ],
+  "created": "2026-10-17T10:56:06.636Z"
+}
