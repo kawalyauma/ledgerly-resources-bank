@@ -17,21 +17,21 @@
 | 13 | 3 | teach | OUR LEADERS IN THE DISTRICT | Roles of district officials — Roles of district officials | written |
 | 14 | 3 | Part B | OUR LEADERS IN THE DISTRICT | Roles of district officials — Part B — Roles of district officials | written |
 | 15 | 3 | teach | OUR LEADERS IN THE DISTRICT | Qualities of a good leader — Qualities of a good leader | written |
-| 16 | 4 | Part B | OUR LEADERS IN THE DISTRICT | Qualities of a good leader — Part B — Qualities of a good leader | writing |
-| 17 | 4 | teach | OUR LEADERS IN THE DISTRICT | Ways of acquiring leadership — Ways of acquiring leadership | writing |
-| 18 | 4 | Part B | OUR LEADERS IN THE DISTRICT | Ways of acquiring leadership — Part B — Ways of acquiring leadership | writing |
-| 19 | 4 | teach | OUR LEADERS IN THE DISTRICT | Rights of district residents — Rights of district residents | writing |
-| 20 | 4 | Part B | OUR LEADERS IN THE DISTRICT | Rights of district residents — Part B — Rights of district residents | writing |
+| 16 | 4 | Part B | OUR LEADERS IN THE DISTRICT | Qualities of a good leader — Part B — Qualities of a good leader | written |
+| 17 | 4 | teach | OUR LEADERS IN THE DISTRICT | Ways of acquiring leadership — Ways of acquiring leadership | written |
+| 18 | 4 | Part B | OUR LEADERS IN THE DISTRICT | Ways of acquiring leadership — Part B — Ways of acquiring leadership | written |
+| 19 | 4 | teach | OUR LEADERS IN THE DISTRICT | Rights of district residents — Rights of district residents | written |
+| 20 | 4 | Part B | OUR LEADERS IN THE DISTRICT | Rights of district residents — Part B — Rights of district residents | written |
 | 21 | 5 | teach | OUR LEADERS IN THE DISTRICT | Responsibilities of district residents — Responsibilities of district residents | writing |
 | 22 | 5 | Part B | OUR LEADERS IN THE DISTRICT | Responsibilities of district residents — Part B — Responsibilities of district residents | writing |
 | 23 | 5 | teach | OUR LEADERS IN THE DISTRICT | Community leadership elections — Community leadership elections | writing |
 | 24 | 5 | Part B | OUR LEADERS IN THE DISTRICT | Community leadership elections — Part B — Community leadership elections | writing |
 | 25 | 5 | teach | OUR LEADERS IN THE DISTRICT | District administrative structures — District administrative structures | writing |
-| 26 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Basic needs and luxuries — Basic needs and luxuries | pending |
-| 27 | 6 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Basic needs and luxuries — Part B — Basic needs and luxuries | pending |
-| 28 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social services in our district — Social services in our district | pending |
-| 29 | 6 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social services in our district — Part B — Social services in our district | pending |
-| 30 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social service centres — Social service centres | pending |
+| 26 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Basic needs and luxuries — Basic needs and luxuries | writing |
+| 27 | 6 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Basic needs and luxuries — Part B — Basic needs and luxuries | writing |
+| 28 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social services in our district — Social services in our district | writing |
+| 29 | 6 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social services in our district — Part B — Social services in our district | writing |
+| 30 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social service centres — Social service centres | writing |
 | 31 | 7 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social service centres — Part B — Social service centres | pending |
 | 32 | 7 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Service providers — Service providers | pending |
 | 33 | 7 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Service providers — Part B — Service providers | pending |
