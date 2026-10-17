@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Who is a true friend?",
+    "answer": "A person with whom one can relate freely.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "concept": "Week 1 review",
+    "source": {
+      "source": "lchk_e507bcd5960b4bb8a251d420cdd59a57",
+      "quote": "Who is a true friend?"
+    }
+  },
+  {
+    "question": "Why should a true friend be forgiving?",
+    "answer": "Friends sometimes disappoint one another and should restore their relationship by forgiving.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "concept": "Week 1 review",
+    "source": {
+      "source": "lchk_78d372dc30cb4cb89f47069270c69285",
+      "quote": "Why should a true friend be forgiving?"
+    }
+  },
+  {
+    "question": "How did Jesus show love to His disciples?",
+    "answer": "He served them, washed their feet and taught them to love one another.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "concept": "Week 1 review",
+    "source": {
+      "source": "lchk_d48c200e56db46249636488659495593",
+      "quote": "How did Jesus show love to His disciples?"
+    }
+  }
+]

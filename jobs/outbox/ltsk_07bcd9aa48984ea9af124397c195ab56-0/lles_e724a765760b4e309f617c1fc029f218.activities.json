@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Who is an understanding friend?",
+    "answer": "A friend who listens to others and considers their feelings and weaknesses.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "concept": "Qualities of true friends",
+    "source": {
+      "source": "lchk_78d372dc30cb4cb89f47069270c69285",
+      "quote": "Who is an understanding friend?"
+    }
+  },
+  {
+    "question": "Why should a true friend be forgiving?",
+    "answer": "Friends sometimes disappoint one another and should restore their relationship by forgiving.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "concept": "Qualities of true friends",
+    "source": {
+      "source": "lchk_78d372dc30cb4cb89f47069270c69285",
+      "quote": "Why should a true friend be forgiving?"
+    }
+  },
+  {
+    "question": "How can you show love to your friends?",
+    "answer": "By caring, serving, forgiving, respecting and supporting them.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "concept": "Qualities of true friends",
+    "source": {
+      "source": "lchk_d48c200e56db46249636488659495593",
+      "quote": "How can you show love to your friends?"
+    }
+  },
+  {
+    "question": "How can a friend be of help to you during crisis?",
+    "answer": "By giving encouragement, prayer, advice, food, company or other needed support.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "concept": "Qualities of true friends",
+    "source": {
+      "source": "lchk_fa89bed652a649de9a040097f2078e4b",
+      "quote": "How can a friend be of help to you during crisis?"
+    }
+  },
+  {
+    "question": "How can one distinguish between good and bad advice?",
+    "answer": "Good advice encourages responsible and respectful choices; bad advice encourages harmful conduct.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "concept": "Qualities of true friends",
+    "source": {
+      "source": "lchk_ce7cf5d8d98940d2a65961808b128398",
+      "quote": "How can one distinguish between good and bad advice?"
+    }
+  }
+]

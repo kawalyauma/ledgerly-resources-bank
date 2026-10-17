@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Who is a true friend?",
+    "answer": "A person with whom one can relate freely.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "concept": "Meaning and importance of friendship",
+    "source": {
+      "source": "lchk_e507bcd5960b4bb8a251d420cdd59a57",
+      "quote": "Who is a true friend?"
+    }
+  },
+  {
+    "question": "Why is it important for us to have friends?",
+    "answer": "Friends offer support, confidence, love, advice and encouragement.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "concept": "Meaning and importance of friendship",
+    "source": {
+      "source": "lchk_e507bcd5960b4bb8a251d420cdd59a57",
+      "quote": "Why is it important for us to have friends?"
+    }
+  },
+  {
+    "question": "How was Jesus an example of a true friend?",
+    "answer": "He served people, showed love and sacrificed his life for others.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "concept": "Meaning and importance of friendship",
+    "source": {
+      "source": "lchk_e507bcd5960b4bb8a251d420cdd59a57",
+      "quote": "How was Jesus an example of a true friend?"
+    }
+  },
+  {
+    "question": "How did Jesus show love to His disciples?",
+    "answer": "He served them, washed their feet and taught them to love one another.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "concept": "Meaning and importance of friendship",
+    "source": {
+      "source": "lchk_d48c200e56db46249636488659495593",
+      "quote": "How did Jesus show love to His disciples?"
+    }
+  },
+  {
+    "question": "According to Jesus, what is the greatest love a person can give a friend?",
+    "answer": "Laying down one's life for one's friends.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "concept": "Meaning and importance of friendship",
+    "source": {
+      "source": "lchk_78d372dc30cb4cb89f47069270c69285",
+      "quote": "According to Jesus, what is the greatest love a person can give a friend?"
+    }
+  }
+]

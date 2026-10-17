@@ -1,0 +1,79 @@
+{
+  "competences": [
+    "The learner explains week 1 review.",
+    "The learner identifies sourced Christian values and practices concerning friendship."
+  ],
+  "languageCompetence": "Reads, spells and uses friendship, friend, advice, kindness, trust, tolerance and forgiveness.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to explain week 1 review.",
+    "By the end of the lesson, learners should be able to answer the sourced written exercise questions correctly."
+  ],
+  "priorKnowledge": "Learners have everyday experiences of friendship, cooperation and receiving advice from family members, friends and teachers.",
+  "methods": [
+    "Discussion",
+    "Question and answer",
+    "Guided Bible reading",
+    "Brainstorming"
+  ],
+  "materials": [
+    "Holy Bible: John 15:12–15",
+    "P6 friendship notes and source-based qualities chart",
+    "Chalkboard and exercise books"
+  ],
+  "references": [
+    "P.6 R.E Lesson Notes Term III",
+    "P.6 Religious Education Lesson Notes, 2022",
+    "P.6 CRE Notes Term 3"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Introduce the week-one review by asking learners to recall what friendship means and why friends are important. Invite learners to name one quality they remember.",
+      "learnerActivity": "Learners recall definitions of friendship and speak about qualities of supportive friends.",
+      "source": {
+        "source": "lchk_78d372dc30cb4cb89f47069270c69285",
+        "quote": "Friendship is the relationship between friends"
+      }
+    },
+    {
+      "stage": "Summary of lessons",
+      "minutes": 14,
+      "content": "Summary: Meaning and importance of friendship; Summary: Qualities of true friends. Friendship is a relationship between people who care for each other. A true friend is someone with whom we relate freely. Friends share feelings and provide advice, encouragement and companionship.",
+      "teacherActivity": "Revise the meaning and importance of friendship and then guide the class through the qualities of true friends and Jesus' example. Correct wrong answers from earlier learning.",
+      "learnerActivity": "Learners explain friendship, identify reasons for having friends and describe qualities taught earlier in the week.",
+      "source": {
+        "source": "lchk_78d372dc30cb4cb89f47069270c69285",
+        "quote": "Friendship is the relationship between friends"
+      }
+    },
+    {
+      "stage": "Review exercise",
+      "minutes": 16,
+      "content": "Exercise: Who is a true friend? | Why should a true friend be forgiving? | How did Jesus show love to His disciples?",
+      "teacherActivity": "Give the three sourced review questions one by one and allow learners to answer independently. Discuss the answers and guide improvements using the original notes on friendship.",
+      "learnerActivity": "Learners answer the three review questions in books, compare responses and correct mistakes after discussion.",
+      "source": {
+        "source": "lchk_d48c200e56db46249636488659495593",
+        "quote": "True friends have the following characteristics"
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 5,
+      "teacherActivity": "Summarise how trust, friendship, kindness and forgiveness connect the week's two lessons. Ask learners to state one lesson from Jesus' example that should guide behaviour.",
+      "learnerActivity": "Learners give one summary point each and identify how to show care for friends.",
+      "source": {
+        "source": "lchk_d48c200e56db46249636488659495593",
+        "quote": "True friends have the following characteristics"
+      }
+    }
+  ],
+  "assessment": "Check learning using these sourced questions: Who is a true friend? Why should a true friend be forgiving? How did Jesus show love to His disciples? Review pupils' written responses against cited lesson notes.",
+  "homework": "Revise the sourced questions on friendship and forgiveness in preparation for the next lesson.",
+  "lifeSkills": [
+    "Self-awareness",
+    "Effective communication",
+    "Critical thinking"
+  ]
+}

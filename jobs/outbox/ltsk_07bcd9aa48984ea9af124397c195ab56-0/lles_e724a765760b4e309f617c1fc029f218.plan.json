@@ -1,0 +1,90 @@
+{
+  "competences": [
+    "The learner explains qualities of true friends.",
+    "The learner identifies sourced Christian values and practices concerning friendship."
+  ],
+  "languageCompetence": "Reads, spells and uses friendship, friend, advice, kindness, trust, tolerance and forgiveness.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to explain qualities of true friends.",
+    "By the end of the lesson, learners should be able to answer the sourced written exercise questions correctly."
+  ],
+  "priorKnowledge": "Learners have everyday experiences of friendship, cooperation and receiving advice from family members, friends and teachers.",
+  "methods": [
+    "Discussion",
+    "Question and answer",
+    "Guided Bible reading",
+    "Brainstorming"
+  ],
+  "materials": [
+    "Holy Bible: John 15:12–15",
+    "P6 friendship notes and source-based qualities chart",
+    "Chalkboard and exercise books"
+  ],
+  "references": [
+    "P.6 R.E Lesson Notes Term III",
+    "P.6 Religious Education Lesson Notes, 2022",
+    "P.6 CRE Notes Term 3"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "teacherActivity": "Introduce qualities of true friends by asking how people support their friends at school and at home. Recall prior experiences without introducing new factual material.",
+      "learnerActivity": "Learners describe friendship experiences and identify the role of advice and support.",
+      "source": {
+        "source": "lchk_d48c200e56db46249636488659495593",
+        "quote": "True friends have the following characteristics"
+      }
+    },
+    {
+      "stage": "Development 1",
+      "minutes": 11,
+      "content": "Qualities of true friends; Advice given by friends. **Forgiveness** allows friends to restore their relationship after a disagreement. True friends are able to forgive when somebody disappoints them. **Patience** helps friends allow time for each other to improve.",
+      "teacherActivity": "Teach qualities of true friends and advice given by friends with concise board points. Guide pupils to state the definitions and identify the examples appearing in the supplied CRE notes.",
+      "learnerActivity": "Learners take down source-based points, explain key terms and give examples from the same material.",
+      "source": {
+        "source": "lchk_d48c200e56db46249636488659495593",
+        "quote": "True friends have the following characteristics"
+      }
+    },
+    {
+      "stage": "Development 2",
+      "minutes": 11,
+      "content": "Helping friends during a crisis; Jesus' example of friendship. **Crisis** means a dangerous or difficult situation needing serious attention. True friends encourage one another when difficulties cause fear or confusion. Friends may offer food, money, prayer, medicine, company or shelter.",
+      "teacherActivity": "Explain helping friends during a crisis and jesus' example of friendship using the source-based facts and Jesus' example. Ask learners to compare responsible and unhelpful conduct in friendship.",
+      "learnerActivity": "Learners explain how friendship is shown through care, forgiveness, honest advice and support.",
+      "source": {
+        "source": "lchk_d48c200e56db46249636488659495593",
+        "quote": "Jesus as a friend"
+      }
+    },
+    {
+      "stage": "Practice",
+      "minutes": 9,
+      "content": "Exercise: Who is an understanding friend? | Why should a true friend be forgiving? | How can you show love to your friends? | How can a friend be of help to you during crisis? | How can one distinguish between good and bad advice?",
+      "teacherActivity": "Give the five sourced exercise questions in writing. Guide learners to answer from the notes rather than guessing and discuss the responses after individual work.",
+      "learnerActivity": "Learners write answers independently and then use the cited content to correct their responses.",
+      "source": {
+        "source": "lchk_d48c200e56db46249636488659495593",
+        "quote": "Jesus as a friend"
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 4,
+      "teacherActivity": "Summarise the key definitions and main reasons or qualities covered during the lesson. Ask one final sourced question and assign the existing question set for home revision.",
+      "learnerActivity": "Learners give brief closing answers and identify the most important point for review.",
+      "source": {
+        "source": "lchk_d48c200e56db46249636488659495593",
+        "quote": "Jesus as a friend"
+      }
+    }
+  ],
+  "assessment": "Check learning using these sourced questions: Who is an understanding friend? Why should a true friend be forgiving? How can you show love to your friends? How can a friend be of help to you during crisis? How can one distinguish between good and bad advice? Review pupils' written responses against cited lesson notes.",
+  "homework": "Answer the two remaining source exercise questions on friendship, then revise the board notes.",
+  "lifeSkills": [
+    "Self-awareness",
+    "Effective communication",
+    "Critical thinking"
+  ]
+}
