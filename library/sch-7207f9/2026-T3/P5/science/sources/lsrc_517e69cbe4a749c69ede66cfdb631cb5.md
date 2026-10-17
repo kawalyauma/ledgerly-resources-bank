@@ -1,0 +1,3805 @@
+# P 5 Term I, II, III Scie
+
+
+
+Role: notes · Provider: ulibtech · Source id: lsrc_517e69cbe4a749c69ede66cfdb631cb5
+
+
+
+<!-- passage lchk_7739912b16e1416cb0672ad395175755 part 1 -->
+1
+P.5 SCIENCE LESSON NOTES
+TERM I
+POULTRY KEEPING
+1. Poultry keeping is the rearing and management of domestic birds.
+2. Poultry are the domestic birds.
+3. Examples domestic birds; chicken, turkey, duck, guinea fowl, pigeon, geese. etc
+Reasons for keeping (poultry) domestic birds
+1. Some birds are kept as pets.
+2. Some birds are kept for egg production.
+3. Some birds are kept for meat production.
+4. Birds are also kept for generating income.
+5. Droppings from poultry are used as manure.
+6. Feathers from birds are used for decoration.
+7. Some birds are kept for cultural purposes. eg. marriage, sacrifices.
+8. The bones of some birds can be used in the making of buttons, glue and fertilizers.
+The external parts (features) of a cock
+FEATHERS
+There are four types of feathers:
+a. Quill feathers.
+2
+b. Covert feathers.
+c. Down feathers.
+d. Hair (filoplume) feathers.
+The quill feather.
+a. They are primary feathers.
+b. They are found on the tail and wings.
+c. They are used for flying ( flight)
+Parts of a quill feather
+Covert feathers.
+a. They are secondary feathers.
+b. They cover most of the bird’s body.
+c. They keep the bird warm.
+The down feather.
+a. They are the first feathers to appear on a chick.
+b. They help in insulating the bird’s body.
+The filoplume (hair) feather .
+a. They are tiniest feathers.
+b. They are found near the skin of the bird.
+Uses of feathers to birds
+1. The feathers enable the birds to fly.
+2. Feathers cover the body of the birds.
+3
+3. Feathers protect the birds from bad weather.
+4. Feathers keep the bird warm.
+5. The feathers give the birds colour for identification.
+Uses of feathers to man
+1. Feathers can be used to make pillows, mattresses and cushions.
+2. Feathers are used as writing materials.
+3. Feathers are used for decoration.
+4. Feathers are used to make craft materials.
+TYPES OF CHICKEN REARED
+There are three types of chicken reared:
+a. Layers.
+b. Broilers
+c. Dual-purpose birds.
+LAYERS
+1. Layers are kept purposely for egg production.
+2. Examples of layers:
+a. White leghorn.
+b. Brown egger.
+c. Thornber
+3. Off-layers are birds whose egg production rate has greatly lowered.
+BROILERS
+1. Broilers are kept for meat production.
+2. Broilers are also known as table birds.
+3. Examples of broilers:
+a. Light sussex.
+b. Orpington
+c. Ply mouth rock
+d. Hampshire
+DUAL PURPOSE BIRDS
+1. Dual-purpose birds are kept for both meat and egg production.
+2. Dual-purpose birds are both good layers and give a lot of meat.
+BREEDS OF CHICKEN
+1. Birds with similar characteristics are said to be of the same breed.
+2. The breeds of chicken can be divided into three:
+a. Local breeds (indigenous) breeds.
+b. Exotic (foreign) breeds.
+c. Crossbreeds.
+Characteristics of local breeds
+1. Local breeds take long to mature.
+2. They are more resistant to diseases compared to exotic breeds.
+3. They produce little meat and usually hard.
+4. They produce fewer eggs compared to the exotic ones.
+5. Local breeds have different feather colour.
+6. They produce small eggs.
+4
+7. Local breeds can survive poor management conditions like:
+a. Little food.
+b. No shelter.
+c. High temperature.
+d. Little water.
+EXOTIC BREEDS
+1. These are breeds which were imported from foreign countries.
+2. Exotic breeds are also known as foreign breeds.
+3. Examples of exotic breeds include:
+a. Rhode island Red
+b. Light sussex
+c. White leghorn
+d. The New Hampshire
+e. The orpington
+f. Ancona
+Characteristics of exotic breeds
+1. They have tender meat.
+2. They are good layers.
+<!-- /passage -->
+
+<!-- passage lchk_2b57b481b85e444a8329189eaaeb64d7 part 2 -->
+3. They grow and mature faster.
+4. They can not stand poor management conditions.
+5. They have a lot of flesh on them.
+6. They are of the same colour, size and shape.
+7. They are less resistant to diseases.
+Rhode island Red
+1. It is brown red in colour.
+2. It lays eggs well.
+3. Its skin and legs are yellow.
+4. It produces good meat.
+Light Sussex
+1. It is white in colour.
+2. It lays eggs well.
+3. It is good for cross breeding.
+White leghorn
+1. It is white in colour.
+2. Its legs and beak are yellow.
+5
+The New Hampshire
+1. It is lighter red in colour.
+2. It lays good eggs.
+The orpington
+1. It is black in colour.
+2. It is an egg-laying bird.
+Ancona
+1. It is black in colour.
+2. The tips of some feathers are
+white.
+3. It is mainly used for cross
+breeding.
+CROSS BREEDS
+1. Crossbreeds are as a result of mating of two different breeds.
+2. The quality of local breeds can be improved by cross breeding .
+SYSTEMS USED IN POULTRY KEEPING
+a. Free range system.
+b. Deep litter system.
+c. Fold pen system.
+d. Battery cage system.
+FREE RANGE SYSTEM
+Free-range system is the system where birds are allowed to roam about and look for their
+food.
+Advantages of free range system
+1. Birds get a variety of food which may enable them to get a balanced diet.
+6
+2. Birds get enough physical exercises as they move round looking for their food.
+3. Free-range system cuts down the cost of feeding.
+4. Poultry vices such as cannibalism are reduced.
+5. Manure in form of poultry droppings is distributed all over the area birds feed from.
+Note: Free-range system is the cheapest method in poultry keeping and management. That
+is why it is commonly practiced in rural areas.
+Disadvantages of free range system
+1. The birds can easily get diseases (easy spread of diseases)
+2. The birds can easily be eaten by wild animals.
+3. The birds can get lost.
+4. Eggs can easily get lost.
+5. The birds can easily be stolen.
+DEEP LITTER SYSTEM
+1. This is a system of keeping large number of birds in a house whose floor is covered with
+litter.
+2. This is the most common method of poultry keeping used in Uganda for large scale
+production.
+Materials used as litter.
+a. Sawdust.
+b. Coffee husks.
+c. Wood shavings.
+d. Crashed maize cobs.
+The structure of a deep litter house.
+Inside a deep litter house
+Things found in a deep litter house
+a. Laying nests.
+7
+Laying nests or boxes for the birds to lay eggs.
+b. Perches
+Perches for the birds to play and rest.
+c. Feeding troughs
+Feeding troughs for placing poultry feeds.
+d. Water troughs
+Water troughs for the birds to drink water from.
+e. Litter
+The litter should be put on the floor regularly and replaced after sometime.
+Importance of litter in a deep litter house
+1. To absorb moisture from chicken droppings.
+2. To prevent eggs from breaking.
+3. To keep chicken busy scratching.
+Disadvantage of litter
+Litter habours vectors.
+Advantages of deep litter system
+1. Many birds can be kept in a small house (structure)
+2. Litter can be used as manure.
+3. Eggs don’t get lost.
+4. The birds are protected from wild animals. (predators).
+5. Eggs are easily collected from the laying boxes.
+6. It controls the spread of parasites and diseases.
+Disadvantages of deep litter system
+1. In case of an outbreak of a disease, it can easily spread.
+2. The system encourages poultry vices.
+3. It is difficult to keep individual hen’s production record.
+4. The litter can be a fire hazard (it can catch fire and burn the whole house)
+<!-- /passage -->
+
+<!-- passage lchk_9902c0313c294516844544a640e09f77 part 3 -->
+5. In case of a wet (rainy) season, the air is too humid thus making it difficult to keep the litter
+dry.
+BATTERY CAGE SYSTEM
+This is a system where one to four birds are kept in each cage.
+Advantages of Battery cage system
+1. The record of individual birds can be easily kept.
+2. Eggs don’t get lost.
+3. Easy identification of unproductive birds.
+4. Food and water cannot easily be contaminated by droppings.
+5. Control of parasites and diseases is easy.
+6. Poultry vices are greatly controlled.
+7. Culling birds is easy.
+Disadvantages of Battery cage system
+1. There is limited space for physical exercises.
+2. It is expensive to construct cages.
+3. It is tiresome to feed the birds.
+8
+FOLD PEN SYSTEM
+This is a system where a small number of birds are kept in a small movable house called
+cages, pens, arks, or folds.
+A movable fold
+Area for resting and laying
+Advantages of Fold pen system
+1. Birds are restricted from movements (kept under close observation).
+2. Manure is easily distributed on the farm.
+3. It is cheaper compared to the battery cage and deep litter systems.
+4. Parasites and diseases are easy to control.
+5. The folds are easy to make.
+Disadvantages of Fold pen system
+1. Only a small number of birds can be kept in a fold or an ark.
+2. It is tiresome to move the pen.
+3. The folds get old easily due to frequent movement.
+POULTRY DISEASES AND PARASITES
+1. Diseases in poultry are caused by:
+a. Viruses
+b. Bacteria
+c. Protozoa
+2. Factors that promote the spread of diseases in a poultry farm are:
+a. Over crowding.
+b. Poor feeding.
+c. Poor housing.
+d. Contaminated water and feeds.
+Examples of poultry diseases
+a. Coccidiosis.
+b. Fowl pox.
+c. Fowl typhoid.
+d. New castle disease.
+e. Black head.
+f. Pneumonia.
+g. Gumboro.
+9
+COCCIDIOSIS
+1. It is caused by protozoa.
+2. It attacks the lining of the small intestines and the liver.
+3. It is common to poultry, rabbits, kids, lambs and calves.
+Signs and symptoms of Coccidiosis
+1. Bloody diarrhoea.
+2. Rough feathers.
+3. Loss of weight (emaciation)
+Prevention and control of Coccidiosis
+1. Add coccidiostats in the feeds or water.
+2. Cull the infected birds.
+BLACK HEAD
+It is caused by Protozoa .
+Signs and symptoms of black head
+1. Yellowish diarrhoea.
+2. Dark purple head.
+3. Yellow green circular wounds (lesions)
+Prevention and control of Black head
+1. Avoid over crowding.
+2. Separate turkeys from fowls.
+FOWL POX
+1. It is an infectious disease caused by a virus.
+2. The virus enters the body through wounds brought about by biting insects and pecking.
+Signs and symptoms of fowl pox
+1. Tiny wounds on the wattle, comb and wings.
+2. Ulcers in the mouth.
+3. Difficulty in breathing.
+4. Eyes go sleepy and stuck.
+Prevention and control of fowl pox
+1. Routine vaccination.
+2. Ensure proper hygiene in the poultry house.
+3. Cull and slaughter the infected birds.
+4. Disinfect the poultry house.
+NOTE: Fowl pox has no treatment.
+NEW CASTLE DISEASE
+1. It is a highly infectious disease caused by a virus .
+2. It kills unvaccinated poultry birds over a large area.
+10
+Signs and symptoms of New castle
+1. Thick mucus discharged from the mouth.
+2. Difficult breathing.
+3. Staggering with drooping wings and bending of the neck.
+4. Watery yellowish white diarrhoea.
+5. Reduction in egg production.
+Prevention and control of New castle
+1. Vaccinate the birds regularly.
+2. Kill the whole flock and disinfect the house.
+3. Isolate the sick birds.
+NOTE: Newcastle disease has no treatment.
+FOWL TYPHOID
+<!-- /passage -->
+
+<!-- passage lchk_e8896317d1a34547ad9572e1432f8452 part 4 -->
+1. This is a highly infectious disease in poultry caused by bacteria of salmonella group .
+2. The disease is transmitted to chicks by carrier hens through eggs.
+3. Salmonella also affects human beings, so it is dangerous to eat raw eggs.
+Signs and symptoms of fowl typhoid.
+1. White yellowish or green yellowish diarrhoea.
+2. Dullness and sleepy eyes.
+3. Drooping wings.
+4. The comb or the wattle gets shrunken and pale yellow.
+Prevention and control of fowl typhoid
+1. Testing and killing of the affected birds.
+2. Keep the poultry house clean.
+3. Regular vaccination.
+PNEUMONIA
+1. Pneumonia is a contagious disease.
+2. it is caused by bacteria.
+Signs and symptoms of pneumonia.
+a. Watery discharge from the mouth part and nostrils.
+b. High temperature.
+c. Coughing
+d. Difficulty in breathing
+e. Loss of appetite
+Prevention and control of pneumonia
+a. Treat with antibiotics.
+b. Keep the poultry house warm during cold seasons.
+c. The poultry house should be well ventilated.
+d. Isolate the sick ones.
+11
+Summary table of poultry diseases and their cause .
+CAUSE VIRUS BACTERIA PROTOZOA
+DISEASES
+a. Fowl pox.
+b. New castle
+a. Fowl typhoid
+b. Pneumonia
+a. Coccidiosis
+b. Black head
+General methods of controlling poultry diseases
+1. Regular vaccination against diseases like New Castle, fowl pox etc.
+2. Isolate the sick or infected birds.
+3. Culling of the infected birds.
+4. Disinfecting and maintenance of cleanliness of poultry houses.
+PARASITES IN POULTRY
+1. Parasites are living organisms that depend on other living organisms for food and shelter.
+2. A living organism on which the parasites depend on is called a host.
+Types of parasites.
+a. Ecto parasites (external parasites)
+b. Endo parasites (internal parasites)
+Ecto parasites (external parasites) in poultry
+1. These are parasites that attack birds from outside the body.
+2. Examples of ecto parasites in poultry include:
+a. Lice
+b. Mites
+c. Fleas
+Prevention and control of ecto parasites
+1. By dusting using pesticides.
+2. Sodium fluoride is the pesticide commonly used to kill ecto parasites in poultry birds.
+Endo parasites (internal parasites) in poultry
+1. These are parasites that attack the birds from inside the body.
+2. Examples of endo parasites in poultry include:
+a. Tape worms
+b. Round worms.
+Prevention and control of endo parasites
+1. Poultry farmers control endo parasites by deworming .
+2. Deworming is the practice of removing internal parasites.
+VICES IN POULTRY
+Vices are bad habits in poultry.
+Examples of poultry vices
+a. Egg eating.
+b. Cannibalism
+c. Toe pecking.
+d. Feather pecking
+e. Skin pecking.
+12
+Causes of poultry vices
+a. Over crowding of birds.
+b. Poor feeding (little or no food)
+c. Boredom.
+CANNIBALISM
+This is where birds kill and eat their fellow birds.
+Sign of cannibalism
+1. Blood stains on the beaks.
+2. Chicken bleed at the vent.
+3. Fighting among birds.
+Prevention of cannibalism
+1. Hang bundles of fresh vegetables to keep the birds busy.
+2. Debeaking should be done.
+3. Isolate the pecking birds and the pecked birds.
+EGG EATING
+This is where some layers eat their eggs.
+Signs of egg eating
+1. Yellow stains on the beaks.
+2. Eggshells in the poultry room.
+Prevention of egg eating
+1. Debeak the birds.
+2. Provide laying boxes.
+3. Identify the egg eaters and remove them from the house.
+4. Keeping laying boxes in the dark.
+FEEDING CHICKEN
+The feeds given to poultry birds should be of a balanced diet containing:
+a. Proteins
+b. Carbohydrates
+c. Vitamins
+d. Mineral salts
+13
+<!-- /passage -->
+
+<!-- passage lchk_315504efd760484bafc9f495050fc406 part 5 -->
+A structure of a drinking trough A structure of a feeding trough
+POULTRY FEEDS
+There are four types of feeds commonly given to poultry birds:
+a. Chick or starters’ mash. c. Layers’ mash.
+b. Growers’ mash. d. Broilers’ mash.
+Chick or starters’ mash.
+1. This is fed to chicks between the age of one day to eight weeks.
+2. It is rich in protein.
+Growers’ mash.
+1. Chicks from 9 weeks are referred to as growers.
+2. Such chicks are fed on growers’ mash.
+Layers’ mash.
+1. This poultry feed is specially prepared for the birds that lay eggs.
+2. This poultry feed has a high mineral content.
+3. A layer lacking calcium usually produces eggs with soft eggshells.
+Broilers’ mash.
+This is a special feed for broilers.
+THE DIGESTIVE SYSTEM OF A DOMESTIC FOWL
+Functions of different parts
+1. Beak
+Picks the food for the bird.
+2. Gullet
+Passes food to the crop
+14
+3. Crop
+a. Stores food.
+b. Food is moistened and softened.
+4. Gizzard
+a. Food is crashed into smaller particles by the grits.
+b. Grits are small stones found in the gizzard.
+5. Small intestines
+Digestion is completed here and food is absorbed into the body.
+6. Large intestines.
+Absorbs water.
+6. Vent
+Passes out waste products.
+POULTRY MANAGEMENT PRACTICES
+1. These are routine activities that a poultry farmer carries out to maintain good production and avoid
+loses.
+2. These activities include:
+a. Debeaking
+b. Deworming and dusting
+c. Egg collection
+d. Culling
+e. Regular feeding
+f. Record keeping
+1. Debeaking
+a. This is the cutting short of the bird’s beak.
+b. Farmers debeak to avoid or prevent egg eating, pecking and cannibalism.
+Drawing of a debeaked bird
+2. Deworming and dusting
+These are done to control endo and ecto parasites respectively.
+3. Egg collection
+Eggs should be collected at least 2 to 3 times a day to avoid the following:
+a. Egg eating.
+b. Breakage of the eggs.
+c. Eggs getting dirty.
+15
+Culling
+a. Culling is the removal of the unproductive and infected birds from the flock.
+b. This can be done by selling, killing or slaughtering the effected birds.
+4. Regular feeding
+A farmer should provide both commercial feeds and green vegetables to birds at regular
+times.
+FARM RECORD KEEPING
+This is the keeping of information regarding the farm.
+Types of farm records
+a. Production record.
+b. Health record.
+c. Sales and expense record.
+d. Flock record.
+e. Feed record.
+Production record
+This shows the number of eggs collected daily.
+Health records
+These indicate the treatment given to birds e.g vaccination or deworming.
+Sales and expense records
+These show the expenditure and income from feeds, eggs, labour etc.
+Flock records
+These indicate the total number of live, sold, killed or dead birds every day.
+Feed records
+These show the type of feed, quantity of feed eaten and the quantity of spoilt feed.
+Reasons for keeping farm records
+1. Records help the farmer to know whether the farm is making profits or losses.
+2. Records help the farmer to identify areas that need improvement.
+3. Records help the farmer to budget for the farm.
+4. Records help the farmer to know the expenditure on the farm
+5. Records help the farmer to plan for the farm.
+6. Records help the farmer to avoid repeating mistakes.
+7. Records help the farmer to easily get loans from Banks.
+8. Records help the farmer to be taxed fairly.
+REPRODUCTION IN POULTRY
+Birds reproduce by laying eggs.
+The structure of an egg
+16
+Functions (uses) of parts of an egg
+1. Eggshell
+a. It protects the internal parts of an egg.
+<!-- /passage -->
+
+<!-- passage lchk_19a53ef3a96b4fda8d9b12f285369dba part 6 -->
+b. An egg shell allows exchange of gases because it is porous.
+An experiment to prove that an eggshell is porous .
+2. Germinal disc
+It develops into an embryo after fertilization
+3. Embryo
+Develops into a chick.
+4. Air space
+It keeps and provides air to the embryo.
+5. Chalaza
+It holds the yolk in position.
+6. Yolk
+It is the source of proteins and fats for the embryo.
+7. Albumen (egg white)
+It is the source of water and proteins to the embryo.
+ABNORMALITIES IN POULTRY EGGS
+a. Soft eggshells.
+b. Double yolk.
+c. Blood stains in the eggs.
+d. Meat spots in the eggs
+INCUBATION
+1. Incubation is the process by which a fertilized egg is given favourable conditions to hatch.
+2. Incubation period is the time taken for a fertilized egg to hatch.
+Incubation periods of some domestic birds
+a. A hen – 21 days (3 weeks)
+b. A duck – 28 days (4 weeks)
+c. A turkey – 28 days (4 weeks)
+d. A goose – 30 days ( 1 month)
+Types of incubation in chicken
+a. Natural incubation.
+b. Artificial incubation.
+NATURAL INCUBATION IN CHICKEN
+1. This is where by a mother bird sits on eggs to provide necessary conditions for hatching.
+2. Illustration of natural incubation.
+17
+3. Conditions needed for natural incubation.
+a. The eggs must be fertilized.
+b. The nest should be clean, dry and comfortable.
+c. The place should have dim light.
+d. The place should be free from strong wind.
+e. The place should be free from vermins e.g snakes and rats.
+Advantages of natural incubation in chicken
+1. The incubating hen needs little attention.
+2. It is cheap and manageable.
+3. One does not bother with brooding the chicks.
+Disadvantages of natural incubation in chicken
+1. Few eggs are incubated.
+2. Natural incubation can not be used for commercial farming.
+3. The mother hen may not be good at incubating.
+4. The incubating hen can be attacked by vermins.
+ARTIFICIAL INCUBATION IN CHICKEN
+1. This is the method where a machine is used to hatch the eggs.
+2. An incubator is the machine used to hatch eggs.
+An electric incubator Local incubator
+Advantages of artificial incubation in chicken
+1. Many eggs are hatched once.
+2. It is used for commercial purposes.
+3. Eggs are free from vermin.
+18
+Disadvantages of artificial incubation in chicken
+1. It is expensive to buy an incubator.
+2. A lot of attention is needed.
+3. It needs qualified workers.
+BROODING CHICKS
+Brooding is the special care given to chicks from hatching time up to nearly 8 weeks.
+Types of brooding
+a. Natural brooding.
+b. Artificial brooding.
+NATURAL BROODING IN CHICKEN.
+1. This is a method where a mother hen takes care of her chicks.
+2. She provides warmth, security and looks for food for the chicks.
+3. When the chicks have grown, they are left on their own.
+4. An illustration of natural brooding.
+Advantages of natural brooding in chicken.
+1. It is cheap in terms of expense and attention.
+2. The hen looks for food for its chicks.
+3. The chicks get security from the mother hen.
+4. Toe pecking is reduced in chicks because they move with their mother.
+Disadvantages of natural brooding in chicken.
+1. Chicks can be eaten by wild animals.
+2. It cannot be used on large scale.
+3. The mother hen can be killed and leaves the chicks on their own.
+ARTIFICIAL BROODING.
+1. This is a method where chicks are kept in a brooder .
+2. A brooder is a special structure where chicks below 8 weeks of age are cared for.
+3. There are two types of brooders:
+a. Kerosene (paraffin) brooder)
+b. Infrared lamp brooder.
+19
+A local brooder
+<!-- /passage -->
+
+<!-- passage lchk_d01ca58926f6482bb9b15cd4ba973f9c part 7 -->
+Disadvantages of a Kerosene (paraffin) brooder)
+1. It needs a lot of close attention.
+2. Lamp without guards can burn the chicks.
+3. Soot from the lamp can accumulate in the brooder.
+Infrared lamp brooder
+1. Electricity is the source of light and warmth in the brooder.
+2. The infrared lamp is hanged at the ceiling, the height of the lamp is adjusted upwards as the
+chicks grow.
+The structure of an infrared lamp brooder
+The purpose of the lamp in a brooder
+1. To provide chicks with light.
+2. To provide warmth to the chicks.
+Behavior of chicks in a brooder
+1. When it is cold, the chicks crowd together or around heat source.
+2. When it is hot, the chicks roam around.
+NOTE: In both brooding systems, chicks should be vaccinated.
+COMMON TERMS USED IN POULTRY KEEPING
+1. Hen
+A hen is an adult female domestic fowl.
+2. Cock
+A cock is an adult male domestic fowl.
+3. Chick
+A chick is a young one of a hen.
+4. Cockerel
+A cockerel is a young male domestic fowl from 8 weeks onwards.
+20
+5. Capon
+A capon is a castrated male domestic fowl.
+6. Pullet
+A pullet is an immature female domestic fowl.
+7. Incubation
+Incubation is a process by which a fertilized egg is given favourable conditions to hatch.
+8. Brooder
+A brooder is a man made structure where chicks below 8 weeks are cared for.
+9. Moulting
+Moulting is the process by which birds shed their feather to replace them.
+10. Broilers
+Broilers are birds reared mainly for meat production.
+11. Layers
+Layers are birds reared purposely for egg production.
+12. Culling
+Culling is the removal of the sick or unproductive birds from the flock.
+BEE KEEPING
+1. Apiculture is keeping and management of bees.
+2. Honeybees are social insects.
+3. Social insects are insects that live and work together.
+4. Other examples of social insects:
+a. Termites.
+b. Ants
+c. Wasps.
+5. Insects that do not live and work together are called Solitary insects .
+6. Examples of solitary insects:
+a. Butterfly
+b. Housefly
+c. Mosquito
+d. Cricket
+Types of bees
+There are three types of bees:
+a. Queen bee.
+b. Drone bee.
+c. Worker bee
+QUEEN BEE
+21
+1. The main function of a queen bee is to lay eggs.
+2. A queen bee mates only once in its lifetime.
+3. It stores sperms in a sperm sac in the abdomen.
+4. Its wings are shorter compared to its body.
+5. It is larger than the drone and the worker bees.
+6. A queen bee is fed on a special food called Royal jelly .
+DRONE BEE
+1. This is the male bee whose main function is to mate with the queen bee.
+2. A drone bee is more hairy than the worker bee.
+3. It has a blunt abdomen without a sting.
+4. A drone bee makes a buzzing sound when flying.
+5. A drone bee is not often found in the hive because it is killed after mating with the queen
+and its body is removed from the hive.
+WORKER BEE
+1. The worker bees are sterile (barren) female bees.
+2. Worker bees are small in size but very many in numbers.
+Duties of a worker bee
+1. Worker bees build the comb using wax. The comb is divided into small hexagonal
+apartments called cells.
+22
+2. Worker bees feed the queen bee and the young ones in the brood (grub).
+3. Worker bees clean the hive.
+4. Worker bees guard and protect the hive.
+5. They look for nectar, water and propolis. Propolis is a sticky substance collected from
+various trees.
+Uses of propolis
+a. It is used to smoothen the interior of a hive.
+b. It is used to waterproof the brood cells.
+c. It is used to repair the cracks in the hive.
+Note: worker bees feed on pollen.
+SWARMING
+<!-- /passage -->
+
+<!-- passage lchk_9915cab9eba1434796d646353065124d part 8 -->
+1. Swarming is the movement of bees in a group from one place to another looking for a hive.
+2. A swarm is a group of bees.
+Reasons to why bees swarm
+a. Over crowding of bees in the hive.
+b. Dampness in the hive.
+c. Lack of proper ventilation.
+d. Excessive heat in the hive.
+e. When a queen becomes old and less productive.
+f. When a new queen is groomed.
+g. When the brood cells are damaged.
+h. Smoke near the hive.
+i. Too much noise in the area.
+j. Shortage of food and water near the hive in the area.
+k. Leakage in the hive.
+l. Attack by enemies.
+m. Bad smell around or in the hive.
+n.
+1. The queen bee lays the eggs in the cells.
+2. The eggs hatch into the larvae (grub). The larvae are fed by the worker bees and sealed in
+the cells.
+3. The larvae develop into the pupa.
+4. The pupa then develops into a young bee.
+Note: The grub is fed on honey.
+23
+BEEHIVES
+Types of hives :
+a. Traditional hives.
+b. Modern hives.
+Examples of traditional hives:
+a. Kigezi hive . b. The dug out log hive.
+Examples of modern hives.
+a. Top-bar hive
+Advantages of top-bar hive over other hives
+1. Honey collected is often of high quality.
+2. The bars can be removed individually for inspection.
+3. Harvesting of honey is easily done.
+4. It avoids wastage of combs that are not ready.
+The internal structure of a modern hive
+1. A brood chamber contains the following:
+a. Eggs b. Larvae
+b. Pupa c. Young bees.
+f. The queen excluder prevents the queen from laying eggs in the honey chamber.
+24
+g. The queen excluder is made-up of small wire mesh, which does not allow the queen
+to pass through but only the worker bees.
+h. The honey chamber is basically for honey .
+HARVESTING HONEY
+1. Honey harvesting is the removal of honey from a hive.
+2. Care should be taken when harvesting honey because bees can sting if they are disturbed.
+3. When harvesting honey, one should have the following:
+a. Bee veil. e. Gum boots.
+b. Gloves. f. A knife.
+c. Overall
+d. Basket or bucket
+e. A smoker.
+A person ready to harvest honey
+Products from bees
+a. Honey
+b. Bee wax
+c. Pollen
+Uses of honey in homes
+1. Honey is used to sweeten tea.
+2. Honey is used to bake bread.
+3. Honey is used to make alcoholic drinks.
+4. Honey is added to cereals and used to sweeten grape foods and fruit salad.
+5. Honey is used to make local medicine.
+6. Honey is a source of income when sold.
+Uses of honey in industries
+1. Fruit canning.
+2. Making cosmetics.
+3. Making cough syrup.
+4. Honey is used to dress burns in surgical cases.
+Uses of bee wax
+1. Bee wax is used to makes candle wax.
+25
+2. Bee wax is used in the making of cosmetics.
+3. Bee wax is used in the making of floor and shoe polish.
+Pollen:
+Bees collect pollen from flowers to feed the worker bees.
+Note : Pollen can also beaten by man.
+Other uses of bees
+Bees pollinate flowers.
+Enemies of bees
+a. Ants.
+b. Wax moths.
+c. Honey badgers
+d. Hive beetles.
+Ants
+Examples of ants that attack bees:
+a. Wood ants.
+b. Sugar ants.
+c. Safari ants.
+Protection of bees from ants
+a. Hang the hive between poles.
+b. Put grease on the wires or strings used to hang the hive.
+c. Put oil at the base of the poles.
+Honey badgers
+1. Honey badgers are small but strong animals.
+2. They damage the hive, kill the bees and eat the honey.
+Wax moths
+1. These lay eggs in the combs.
+2. The larvae of the wax moths make tunnels and spin grayish web in the combs which
+prevents the bees from getting through.
+3. They also contaminate the hive with their waste.
+26
+MATTER AND ENERGY
+MEASURESMENTS
+<!-- /passage -->
+
+<!-- passage lchk_823796783e314c12acd365b96e714c10 part 9 -->
+The word measure means to find the size, amount, length, area and quantity of an object.
+CAPACITY AND VOLUME.
+CAPACITY .
+1. Capacity is the amount of matter a container can hold.
+2. Capacity of liquids is measured in liters.
+Metric table for capacity of liquids
+VOLUME .
+1. Volume is the space occupied by a given object.
+2. Volume is measured in cubic units e.g.
+i. Cubic centimeters- cm 3 or cc
+ii. Cubic millimeters – mm 3
+iii. Cubic meters – m 3
+FINDING VOLUME OF REGULAR OBJECTS .
+1. Regular objects are objects which have definite shapes.
+e.g. cuboids, cubes.
+Finding the volume of a cube or cuboid using cubes.
+How many cubic blocks make up the above figure?
+Finding the volume of a cube or cuboid using the formula.
+Example I.
+Find the volume of a cube whose side is 3cm.
+Volume of a cube= Area of base x height.
+= side x side x side.
+= 3cm x 3cm x 3cm.
+= 27cm 3 .
+Note : A cube has all sides equal.
+Example II.
+Find the volume of the cuboid shown bellow.
+27
+Volume = area of base x height.
+= L x W x H
+= 4cm x 3cm x 2cm
+= 24cm 3
+Example III.
+Find the volume of the figure shown bellow.
+EXERCISE
+Find the volume of the following objects.
+4. Find the volume of a rectangular block whose length is 6cm, width 4cm and height 3cm.
+FINDING THE VOLUME OF IRREGULAR OBJECTS
+1. Irregular objects are objects that don’t have definite shapes. E.g. stones.
+2. The volume of irregular objects is measured using displacement method.
+3. It is called the displacement method because the irregular object displaces water.
+4. When an irregular object is fully immersed in water, it displaces the amount of water equal
+to its volume.
+Things needed to help you find the volume of irregular objects.
+1. Measuring cylinder.
+2. Water.
+3. An irregular object e.g. a stone.
+4. An over flow can or eureka can.
+5. String.
+Steps taken when finding the volume of an irregular object using a measuring cylinder .
+Step I
+1. Pour water into a measuring cylinder so that it is about half full
+2. Record the first volume of water. Say 30cc.
+V = L x L x L
+= 4m x 4m x 4m
+= 84m 3
+28
+Step II
+1. Get a stone tie it with a string.
+2. Lower the object into the measuring cylinder so that the object is covered by water.
+3. Record the volume of water again say 50 cc.
+Volume of the stone will be equal to:
+V = 2 nd level- 1 st level
+= 50cc- 30cc
+= 20cc.
+The volume of the stone is 20cc because when an object is lowered in water, it displaces an
+amount of water equal to its volume.
+EXERCISE:
+An experiment was carried out by P.4 pupils to find the volume of the stone using a
+measuring cylinder as shown below.
+1. Calculate the volume of the stone.
+2. Why is the volume of the stone equal to that answer you have given?
+Finding the volumes of irregular objects using an over flow can
+Step I
+1. Fill the can with water so that the water pours out through the spout.( i.e. until it over flows).
+2. When no more water pours out, then the water is up to the level of the hole or spout.
+Step II
+1. Lower an object whose volume you want to measure and lower it into the can.
+29
+2. The water will overflow and pour into the measuring cylinder.
+3. Find the volume of the object by reading the level of water in the cylinder.
+Note: When an object is lowered in water, it displaces an amount of water equal to its
+volume.
+EXERCISE
+1. A p.5 class carried out an experiment as shown in the diagram.
+What was the volume of the stone?
+2. Find the volume of the stone in the experiment below.
+Displacement using regular objects .
+<!-- /passage -->
+
+<!-- passage lchk_ead1a1efdcc54e01904574c5d75e6316 part 10 -->
+1. Find the volume of water that will be displaced by the block as shown below.
+2. What volume of water will be displaced if the block below is immersed in the water?
+30
+3. What will be the level of water if the object is removed from the measuring cylinder?
+4. What will be the level of water if the object is put into the measuring cylinder?
+MASS
+1. Mass is the amount of matter in an object.
+2. The basic unit of measuring mass is kilograms(kg)
+WEIGHT
+1. Weight is the force caused by gravity of the earth pulling on a mass.
+2. Weight is measured in Newtons (N).
+3. Gravity is the pull of the earth on objects towards its centre.
+4. Force is a push or pull, which makes objects stop or move.
+5. Force makes moving things speedy, slow down, stop or change direction.
+Machines used to measure weight.
+a. Beam balance.
+b. Spring balance
+c. Set of scales.
+d. Scale balance.
+DIFFERENCES BETWEEN WEIGHT AND MASS
+MASS WEIGHT
+Measured in kilogram Measured in Newton (N)
+Mass does not change Weight changes
+Mass is the amount of matter in a body. Weight is the pull of the earth on an object.
+Density .
+31
+1. Density is the mass of an object per unit volume.
+2. Density is measured in g/cc.
+3. Density is mass over volume. (Density = mass/volume)
+FINDING MASS, VOLUME AND DENSITY OF OBJECTS.
+MASS.
+Examples
+1. Find the mass of an object whose volume is 5cc and density of 10g/ cc.
+Volume = 5cc
+Density = 10g/cc
+Mass = ?g
+Mass = Density x Volume
+M = 10x 5
+M = 50g
+2. Work out the mass of an object whose volume is 3cm and density of 5g/cc
+Volume = 3cc
+Density = 5g/cc
+Mass = ?g
+Mass = Density x Volume
+M = 5x 3
+M =15g.
+Exercise
+1. What is the mass of an object whose density is 10g/cc and volume of 6cc?
+2. Find the mass of a stone whose density is 20 g/cc and volume of 5cc.
+DENSITY
+Examples
+1. What is the density of an object whose mass is 14g and volume 7cc
+Mass = 14g
+Volume = 7cc
+Density = ?g/cc
+Density = mass/ volume
+D = 14 / 7 D = 2g/cc.
+2. Find the density of an object whose mass is 20g and volume 5cc.
+32
+Mass = 20g
+Volume = 5cc.
+Density = ?g/cc
+Density = Mass/ volume
+Density = 20 / 5
+Density = 4g/cc.
+EXERCISE
+1. What is the density of an object whose mass is 30g and volume 5 cc.
+2. Work out the density of an object whose mass is 24g and volume 6cc.
+3. What is the density of an object whose mass is 10g and volume 5cc.
+4. Find the density of the object below whose mass is 48g.
+5. Work out the density of an object whose mass is 50g and volume 5cc.
+VOLUME.
+Examples.
+1. What is the volume of an object whose mass is 14g and density2g/cc
+Mass = 14g
+Density = 2g/cc
+Volume = ?cc
+Volume = mass/density.
+= 14g/2g/cc
+= 7cc.
+2. Work out the volume of an object whose mass is 15g and density of 5g/cc
+Mass = 15g
+Density = 5g/cc
+Volume = ?cc
+Volume = mass/density.
+= 15g/5g/cc.
+Volume = 3cc.
+EXERCISE
+1. What is the volume of an object whose mass is 30g and density 6g/cc.
+2. Work out the volume of an object whose mass is 24g and density 3g/cc.
+3. What is the volume of an object whose density is 2g/cc and mass 10g.
+FLOATING AND SINKING.
+33
+FLOATING
+1. Floating is when an object stays on top (the surface).of the liquid on which it is put.
+2. Objects float because they are less dense than water/liquid in which it put.
+Note: When an object floats on water, it displaces the amount of water equal to its weight.
+SINKING
+1. Sinking is when an object goes down to the bottom of the container of the liquid it is put.
+<!-- /passage -->
+
+<!-- passage lchk_a64782dc5441415fb5119015ce68c086 part 11 -->
+2. Objects sink because they are more dense than water/liquid in which it is put.
+Floating Objects Sinking objects.
+A pencil A nail.
+A leaf A stone
+A piece of paper A coin
+A bottle top. Knife
+A piece of wood A set of rubbers
+A toothbrush. A key
+A plastic mug/plate. A button.
+A piece of cork A padlock
+A rubber band A pin
+Boats Sand
+Ships etc. Soil
+A glass, etc
+1. When objects are dropped in water, there is always a force, which tends to push them upwards.
+2. This force is called up thrust or buoyancy.
+3. Up thrust is the upward force in water, which tends to push objects upwards.
+4. Up thrust force make objects weigh less in water.
+34
+IMMUNITY AND IMMUNISATION
+Immunity is the bodies’ ability to resist diseases.
+Types of Immunity :
+a. Natural
+b. Artificial
+Ways of acquiring natural immunity
+a. After recovering from sickness.
+b. From mother to child during pregnancy.
+c. From mother to child during breast feeding.
+Ways of acquiring artificial immunity
+Artificial immunity can be acquire through immunization (vaccination)
+What is immunization?
+Immunization is the introduction of vaccines into the body to make it produce antibodies against
+certain disease.
+WHAT ARE VACCINES?
+1. Vaccines are medical substances which are introduced in the body to make it produce
+antibodies against certain diseases.
+2. Vaccines are made from killed or weakened germs.
+3. The word immunization means the same as vaccination or inoculation.
+STORAGE OF VACCINES
+Vaccines are stored in cold-chain box (coolers).
+Note . Vaccines are kept in cool containers to keep the germs dormant.
+THE INFANT IMMUNISABLE DISEASES
+They are eight childhood immunisable diseases.
+They attack mostly children below the age of six years because their immunity against those
+diseases is still weak.
+The immunisable diseases include the following:
+a. Measles
+b. Polio
+c. Whooping cough
+d. Tuberculosis
+e. Tetanus
+f. Hepatitis B
+g. Diphtheria
+h. Haemophili influenza B.
+MEASLES
+It is caused by a virus spread from one infected person to another through air.
+Signs and symptoms of measles
+a. High Fever
+b. Red eyes
+c. Sore mouth
+d. Rash all over the body
+35
+e. Dry cough
+f. Runny nose
+Prevention and control of measles:
+1. Immunization with the measles vaccine.
+2. Isolation of the infected one.
+Note: The measles vaccine is given at 9 months and not before. This is because the child is
+born with immunity against measles that lasts up to around 9 months.
+TUBERCULOSIS (TB)
+1. It is caused by bacteria.
+2. Tuberculosis is abbreviated as TB
+How TB spreads
+1. The bacterium which causes tuberculosis of the lungs spread by droplet infection through air.
+2. The infected person coughs and the germs are carried by air to another health person.
+3. The bacterium which causes tuberculosis of the alimentary canal and the skeleton is spread
+through drinking unboiled milk from tubercular cows i.e. cows infected with tuberculosis.
+Signs and symptoms of TB
+a. Persistent cough
+b. Loss of body weight
+c. Coughing and spiting mucus with blood stains
+d. Pain in bones, joints and backache
+e. Persistent fever
+f. Over sweating at night.
+Prevention and control of TB
+1. Immunization with BCG vaccine.
+2. Isolation of the infected ones
+3. Treatment of the infected ones in recognized hospitals
+Note : BCG vaccine is given at birth because a child is born with no immunity against
+tuberculosis.
+POLIOMYELITIS (POLIO)
+36
+1. Polio is caused by a virus passed out by an infected person through faeces.
+<!-- /passage -->
+
+<!-- passage lchk_794893061f10448a90537450dc65b045 part 12 -->
+2. The virus can be spread through drinking contaminated water.
+3. The disease affects the limbs.
+Signs and symptoms of polio
+1. Paralysis or weakness in one or more limbs
+2. Fever
+Prevention and control of polio
+1. Immunization with the polio vaccine.
+2. Boiling drinking water can also control polio.
+3. Putting all faeces in latrines.
+TETANUS
+1. It is usually caused by bacteria found in the soil.
+2. The bacteria enter the body through fresh cuts or wounds.
+3. In newborn babies, it can enter through the umbilical cord if it is cut with a dirty or
+unsterilized instrument like razorblade.
+Signs and symptoms of tetanus
+1. Stiff muscles all over the body
+2. Spasms when touched
+3. The baby stops suckling the mother’s breast.
+Prevention and control of tetanus
+1. Immunization with DPT vaccine.
+2. Use sterilized cutting tool to cut the umbilical cord of babies.
+Note: DPT vaccine is not given at birth because the baby is born with immunity against
+tetanus which lasts up to 6 weeks.
+37
+WHOOPING COUGH
+1. Whooping cough is also called pertussis.
+2. It is caused by bacteria and spread through air by coughing.
+Signs and symptoms of whooping cough
+1. Coughing spells which end in vomiting.
+2. Gasp for breath.
+3. Runny nose.
+Prevention and control of whooping cough
+1. Immunization with DPT vaccine.
+2. Isolation of the infected ones.
+DIPHTHERIA
+1. It is caused by bacteria spread through air.
+2. This disease is not very common.
+Signs and symptoms
+1. Sore throat.
+2. Swollen neck.
+OTHER IMMUNISABLE DISEASES
+Cholera
+Cholera is an acute infectious disease caused by bacteria called vibro cholerae.
+The incubation period of the disease is 3-6 days after infection and cholera kills with in 12 to
+48 hours after the first sign if it is not treated very quickly.
+How does cholera spread
+1. Cholera spreads through drinking water contaminated with cholera germs.
+2. Cholera spreads through eating food contaminated with cholera germs.
+3. Cholera can also spread when a health person touches a sick person.
+Signs and symptoms of cholera
+1. Serious watery diarrhoea
+38
+2. Severe vomiting.
+3. Cramps, shock and dehydration
+4. Weakness collapse and death
+Prevention and control of cholera
+1. Through immunization.
+2. Boiling drinking water.
+3. Cover all food to avoid houseflies.
+4. Take the infected patients to the hospital as soon as possible.
+5. Putting all faeces in a latrine.
+6. Wash hands before eating food and after using the latrine.
+7. Reheat left food.
+8. Give a lot of oral rehydration salts to prevent dehydration
+9. Observe good food hygiene.
+Meningitis
+1. It is caused by bacteria.
+2. The bacteria attacks the membrane which covers the brain called meninges.
+3. The bacteria are spread through air.
+Yellow fever
+1. Yellow fever is caused by a virus.
+2. It is spread by the aedes or tiger mosquito.
+3. Aedes mosquito is black with white spots on its body and wings.
+4. It bites during the day.
+5. Yellow fever causes yellowing of the eyes, palm and soles of our feet.
+Small pox:
+1. This disease has been eradicated from the world through constant immunization.
+2. This disease was caused by a virus and spread through air.
+Typhoid
+1. It is caused by bacteria called Salmonella typhi.
+2. Spread through contaminated water or food by a housefly.
+Influenza
+1. It is caused by a virus.
+2. It spreads through air.
+Rubella (German measles)
+1. It is caused by virus
+2. It is a highly infectious disease which causes a rush and fever.
+3. It usually affects older children and adolescents.
+Typhus
+<!-- /passage -->
+
+<!-- passage lchk_5f9f426421e143c1b3ccb9c01f26b88d part 13 -->
+1. It is caused by bacteria.
+2. It spreads when lice bite an infected person and then it bites a normal person.
+Plague
+1. It is caused by bacteria.
+2. It is spread by rat fleas.
+3. One should be immunized every after 6 months against it.
+39
+Rabies
+1. It is serious disease caused by a virus.
+2. It affects the nervous system.
+3. The disease is spread by the bite of an infected dog or fox.
+IMMUNISATION SITES AND SCHEDULE
+40
+AGE VACCINE DISEASE (S)
+MODE OF
+ADMINISTRATION
+SITE
+At birth a. BCG
+b. Polio O
+a. Tuberculosis
+b. Polio
+a. Injection
+b. Drops.
+a. Right upper arm.
+b. Mouth
+6 weeks
+Polio Polio Drops. a. Mouth.
+DPT I
+a. Diphtheria
+b. Whooping
+cough
+c. Tetanus
+Injection. Left upper thigh.
+Heb 1
+Hepatitis B Injection. Left upper thigh.
+Hib 1 Haemophilius
+Influenza Type B
+Injection. Left upper thigh
+10 weeks
+Polio II Polio Drops. Mouth.
+DPT II a. Diphtheria
+b. Whooping
+cough
+c. Tetanus
+Injection. Left upper thigh.
+Heb 2
+Hepatitis B Injection. Left upper thigh
+Hib 2 Haemophilius
+Influenza Type B
+Injection. Left Upper thigh
+14 weeks
+Polio vaccine Polio Drops. Mouth.
+DPT III a. Diphtheria
+b. Whooping
+cough
+c. Tetanus
+Injection. Left upper thigh.
+Heb 3 Hepatitis B Injection Left upper thigh.
+Hib 3 Haemophilius
+Influenza Type B
+Injection Left upper thigh.
+At 9
+months
+a. Measles vaccine
+b. Vitamin A
+a. Measles
+b. Blindness
+a. Injection.
+b. Drops.
+a. Left upper arm
+b. Mouth.
+Girls and
+Women
+between
+15-49
+years
+Tetanus Toxoid
+Vaccine
+(TT vaccine)
+Tetanus Injection Left upper arm.
+Pregnant
+women
+Tetanus Toxoid
+Vaccine (TT
+vaccine)
+Tetanus Injection Left upper arm.
+41
+IMMUNISATION SITES IMMUNISATION S
+Importance of immunization
+1. Immunization helps to protect children against the immunizable disease.
+2. Immunization helps to boost the immunity of the body.
+4. Immunization reduces the rate at which children die before the age of eight years.
+5. Immunization removes the fear that some children die and other survive so the parents only
+produce the number of children they want.
+Importance of a child health card
+1. It helps the parents to know when the next dose will be given.
+2. It helps the parents to monitor the growth of their children
+3. It provides information on the child’s name, sex, date of birth, birth order, mother’s name, mother’s
+occupation, father’s name, father’s occupation and where the family lives .
+Role of individuals, family and community in immunization service
+1. Individuals inform other members of the group of the day of immunization.
+2. Children who learn about immunization at school should take their young sisters or
+brothers for immunization.
+3. Individuals can gather different members to organize immunization centre.
+4. The family should make sure that all the young children are immunized on schedule.
+5. Parents take their children for immunization.
+6. Community members should organize a health committee that should organize, seminars,
+workshop, plays and drama about immunization.
+7. Local councils mobilize community members to take their children for immunization.
+8. Teachers create awareness about immunization.
+Common abbreviation
+1. UNEPI: Uganda National Expanded Program on Immunization.
+2. NID: National Immunization Days.
+42
+DIGESTIVE SYSTEM OF MAN
+Digestion.
+1. Digestion is the process by which food is broken down into simple soluble substances
+that can be absorbed in the blood stream.
+2. Digestion begins from the mouth and ends in the ileum.
+<!-- /passage -->
+
+<!-- passage lchk_03b4e32f79b9454a92c4b31951dc9b4c part 14 -->
+3. A digestive system is an alimentary canal with other associated organs like the liver and
+the pancreas
+4. The tube running from the mouth to the anus is called an alimentary canal.
+Types of digestion
+a) Mechanical digestion
+b) Chemical digestion
+Mechanical digestion
+1. This is the process where food is broken down into small particles by the teeth.
+2. It takes place in the mouth in human beings.
+Chemical digestion.
+1. This is the process where food is broken down by chemical substances called enzymes .
+2. Chemical digestion starts in the mouth and ends in the ileum.
+Enzymes.
+1. Enzymes are chemical substances that speed up the rate of digestion.
+Characteristics of enzymes.
+a) They are destroyed by heating because they are protein in nature.
+b) A particular group of enzymes always forms the same end product.
+c) They are specific i.e. each enzyme acts upon particular class of food.
+d) They act in particular conditions i.e. some prefer acidic, others alkaline
+conditions.
+The digestive system.
+43
+Functions of different parts .
+The teeth:
+Break food in smaller particles hence increasing the surface area for the action of
+enzymes.
+The salivary glands:
+Produce saliva.
+The tongue:
+a) tastes food.
+b) rolls the food into a bolus.
+c) pushes food into the gullet.
+The epiglottis:
+Prevents foreign particles from entering the trachea.
+The soft palate:
+Prevents food from entering the nasal cavity.
+The stomach:
+a) Temporary store for food.
+b) Produces gastric juice.
+c) Produces hydrochloric acid.
+d) Absorbs alcohol.
+e) Churns food into chyme.
+The liver:
+Produces bile.
+The pyloric sphincter:
+It is a strong muscle which holds food into the stomach and lets it into the
+duodenum at intervals.
+The gull bladder:
+Stores bile.
+Bile duct
+Conducts bile into the duodenum.
+The pancreas:
+Produces pancreatic juice.
+Pancreatic duct
+Conducts pancreatic juice into the duodenum.
+The ileum:
+a) Produces intestinal juice.
+b) Final digestion of food takes place here.
+c) Absorption of digested food takes place here.
+44
+Colon:
+Absorbs water from the undigested food.
+Rectum:
+Temporary store for undigested food.
+Anus:
+Passes out the undigested food as faeces.
+Peristalsis.
+1. Peristalsis is the wave-like movement of food through the alimentary canal.
+Illustration of peristalsis .
+Digestion in the mouth .
+1. In the mouth, food is chewed and mixed with saliva.
+2. Saliva is produced by the salivary glands in the mouth.
+3. Chewing increases the surface area for the action of enzymes and simplifies swallowing.
+Factors that stimulate the production of saliva.
+a) smell of the food.
+b) sight of food.
+c) taste of food.
+d) expectation for the food.
+Functions of saliva.
+a) Softens food.
+b) Lubricate food for easy swallowing.
+c) Contains an enzyme called salivary amylase (ptyalin) that acts upon cooked
+starch.
+Note: The conditions in the mouth is alkaline.
+Digestion in the stomach:
+1. The movement of muscles of the stomach churn the food into a semi-liquid substance
+called chyme.
+2. The stomach walls also secret( produce) gastric juice and hydrochloric acid.
+3. Gastric juice contains two enzymes namely;
+a) pepsin.
+b) rennin.
+4. Pepsin acts upon proteins to peptides.
+45
+5. Rennin acts upon the milk protein.
+Functions of hydrochloric acid .
+a) Stops the action of the salivary amylase.
+b) Activates pepsinogen to pepsin
+c) Provides suitable acidic conditions in which pepsin works best.
+d) Kills the bacteria which may have been taken in with the food.
+<!-- /passage -->
+
+<!-- passage lchk_062cf02899244cf7b96be06886ad5ab3 part 15 -->
+6. When digestion in the stomach is complete, the pyloric sphincter relaxes at intervals to
+let chyme into the first part of the small intestine called duodenum.
+Note: Digestion of carbohydrates does not take place in the stomach because the
+acidic conditions stop the action of salivary amylase.
+Digestion in the duodenum .
+1. An alkaline juice (pancreatic juice) is poured in to the duodenum by the pancreas
+through the pancreatic duct.
+2. Pancreatic juice contains enzymes like;
+a) Trypsin: which breaks down proteins to peptides and peptides to amino acids.
+b) Pancreatic amylase: which breaks down uncooked starch to maltose.
+c) Lipase: which breaks down fats to fatty acids and glycerol.
+3. Pancreatic juice also contains sodium hydrogen carbonate salts that neutralise
+hydrochloric acid.
+4. Bile is a green fluid produced by the liver, stored in the gull bladder and conducted into
+the duodenum by the bile duct.
+5. Bile contains bile salts that emulsify (breakdown) fats.
+Digestion in the ileum.
+1. The ileum secretes an intestinal juice called succus entericus which contains enzymes
+like;
+a) Peptidase: breaks down peptides to amino acids.
+b) Lipase: breaks down fats to fatty acids and glycerol.
+c) Maltase: breaks down maltose to glucose.
+d) Sucrase: breaks down sucrose to glucose and fructose.
+e) Lactase: acts upon lactose to glucose and galactose.
+2. The ileum also produces mucus, which lubricates the food passage and prevents
+enzymes from digesting the walls of the ileum.
+Absorption in the ileum.
+1. Absorption of digested food takes place in the ileum.
+2. This takes place with the help of the finger-like structures called villi.
+Adaptation of the ileum to absorption of digested food .
+1. The ileum is fairly long so, it provides a larger surface area for absorption.
+2. It has villi, which also help to increase the surface area for absorption of digested food.
+An illustration of an ileum.
+46
+Adaptation of the villi to absorption of digested food .
+1. The wall of each villus is one cell thick and this makes it possible for digested food to
+pass through it easily.
+2. Each villus has a dense capillary network, which facilitates absorption of digested food.
+An illustration of a villus.
+Processes that take place in the ileum .
+a) digestion of food.
+b) absorption of digested food.
+The colon and the rectum
+1. Digestion does not take place in the colon and the rectum because they do not secrete
+enzymes.
+2. The major process that takes place in the colon is absorption of water from the
+undigested food.
+3. The undigested material is sent down to the rectum where it is temporarily stored till it
+is ready to be passed out.
+4. It's later passed out as faeces through the anus.
+5. The passing out of the undigested food from the alimentary canal is called egestion.
+Summery of the food class and its end product.
+Food class End product
+Carbohydrates Glucose
+Fats fatty acids and glycerol
+Proteins amino acids
+How digested food is used in the body.
+1. Glucose:
+a) used to generate energy through respiration.
+b) used to generate body heat through respiration.
+2. Amino acids:
+a) are re-assembled to form proteins used to make new body cells for one to grow.
+47
+b) are re-assembled to form proteins used to repair worn out tissues.
+3. Fats:
+a) used to generate energy and heat.
+b) acts as a body insulator.
+Note: Twice as much energy is obtained from fats than glucose.
+4. Vitamins and mineral salts:
+Keep us healthy so, they act as protective foods.
+<!-- /passage -->
+
+<!-- passage lchk_8564798e21974ddd928562a8fe3548e2 part 16 -->
+Some important mineral salts needed by our bodies.
+Iron:
+1. Found in meat, liver, iron tablets, beans, peas egg yolk and green vegetables.
+2. It's necessary for the manufacture of red blood cells.
+3. Shortage of iron in the diet leads to anaemia.
+Other factors that lead to anaemia.
+a) Severe bleeding.
+b) Severe hookworm infestation.
+c) Destruction of the red blood cells by plasmodia parasite that causes malaria.
+d) Failure of the red bone marrow to manufacture red blood cells.
+How the problem of anaemia is solved in patients.
+a) Eating foods rich in iron.
+b) Through blood transfusion.
+c) Taking iron tablets.
+Iodine:
+1. Found in iodised salt and seafood like crabs, sea fish etc.
+2. It's necessary for proper functioning of the thyroid gland.
+3. Its deficiency leads to goitre.
+Calcium and phosphorus.
+1. Present in the milk and hard water.
+2. They are necessary for the formation of strong bones.
+3. Their deficiency leads to the formation of weak bones.
+Some important vitamins for our bodies.
+Vitamin A:
+1. Found in milk, green vegetables, liver, pepper, carrots, pawpaw, tomatoes palm oil etc.
+2. It's necessary for good eyesight.
+3. Its deficiency leads to poor night vision.
+Vitamin B 1 :
+1. Contained in yeast, ground nuts and unpolished rice.
+2. Necessary for the prevention of beriberi.
+3. Its deficiency leads to beriberi.
+48
+Other vitamin B 2 :
+1. Found in yeast, groundnuts, yams, milk, meat and egg yolk.
+2. Their deficiency leads to pellagra.
+Vitamin C:
+1. Found in oranges, lemon, row mangoes, guava, pawpaws and green vegetables.
+2. Necessary for the prevention of scurvy.
+3. Its deficiency leads to scurvy.
+Vitamin D:
+1. Contained in milk, egg yolk, fish liver oil etc.
+2. Necessary for the prevention of rickets.
+3. Its deficiency leads to rickets.
+Vitamin E:
+1. Present in green vegetables, butter, eggs, grains and nuts.
+2. Necessary for reproduction.
+3. Its deficiency leads to the poor formation of reproductive cells.
+Vitamin K:
+1. Present in green vegetable especially cabbage and spinach.
+2. Essential for blood clotting.
+3. Its deficiency leads to poor blood clotting.
+Diseases of the digestive system:
+a) Stomach Ulcers
+b) Appendicitis
+c) Cholera
+d) Dysentery
+e) Diarrhoea
+Disorders of the digestive system:
+Constipation:
+1. This is a condition where one passes out faeces with difficulty or fails to pass out faeces
+at all.
+2. It is prevented by;
+a) including roughage in the diet.
+b) taking enough water after meals.
+3. Sources of roughage .
+a) Pineapple.
+b) Mangoes.
+c) Green vegetables.
+d) Cereals.
+Intestinal obstruction :
+Solved through surgical operation.
+49
+Vomiting:
+1. Vomiting usually occur when there is stomach irritation.
+2. It can also occur as a result of stomach infection (food poisoning).
+Indigestion
+It is a condition where food fails to get digested properly.
+Causes of indigestion .
+a) Over eating where the stomach is full and fails to churn the food.
+b) Taking big lamps of food without proper chewing.
+50
+P.5 SCIENCE LESSON NOTES
+TERM II
+COMPONENTS OF THE ENVIRONMENT
+SOIL
+Soil is a medium in which plant grow.
+Processes by which soil is formed
+a. Weathering
+b. Decomposition.
+Weathering
+This is the breaking down of rocks into soil particles.
+Decomposition
+Decomposition means breaking down of organic matter into humus.
+C CO OM MP PO OS SI IT TI IO ON N O OF F S SO OI IL L ( (C CO OM MP PO ON NE EN NT TS S O OF F S SO OI IL L) )
+a. Water.
+b. Air.
+c. Humus (organic matter)
+d. Rock particles.
+e. Dissolved mineral salts.
+<!-- /passage -->
+
+<!-- passage lchk_518aa3658bc64eb7ad98e98eff6180cc part 17 -->
+f. Living organisms. eg bacteria
+Inorganic matter
+These are rock particles and mineral salts.
+Organic matter
+1. Humus is formed after animals and plant remains have decayed.
+2. The bacteria which help in the decaying/decomposition are called putrefying bacteria.
+3. Humus helps to hold soil particles together and also balance soil temperature.
+4. Humus adds nutrients to the soil.
+5. Humus gives the soil a dark colour which helps it to absorb heat from the sun.
+Water
+1. Water is important in the soil because it dissolves many soluble minerals to form
+solutions which plants take in easily by osmosis.
+2. Water is a very important raw material during photosynthesis.
+3. Soil without water becomes dry, light and unproductive.
+51
+An experiment to show that soil contains water or moisture.
+1. Get a lump of soil and put it in a beaker.
+2. Put the beaker on fire and heat while covering the beaker as above.
+Observation
+Water droplets were seen on the sides of the beaker.
+Conclusion
+Soil contains water.
+AIR
+1. Air is found in spaces between soil particles called pore spaces.
+2. The air in soil is important for root respiration and allowing living organisms in the soil to
+continue living.
+3. Plant roots need fresh air around them otherwise without fresh air , the roots rot and make the
+plant die.
+4. Aeration of soil is the addition of air to the soil by creating more pore spaces.
+5. Earthworms, ants, termites etc help to aerate soil by making small holes in the soil.
+An experiment to show that soil contains air
+1. Get water in a container/beaker.
+2. Get a lump of soil and lower it in a container with water as shown below.
+Observation
+Bubbles of air are seen coming out of the soil.
+Conclusion
+Soil contains air.
+LIVING ORGANISMS
+1. Examples of living organisms in soil.
+a. Bacteria
+b. Fungi
+2. Bacteria and fungi help in decomposition of organic matter.
+52
+DISSOLVED MINERAL SALTS.
+1. These are mineral salts found in the soil but can dissolve in water to form plant food in
+form of solutions.
+2. Plant roots use the process of osmosis to absorb the mineral salt solutions.
+Examples of mineral needed by plants.
+Potassium:
+This helps the plant to build resistance to diseases and drought.
+Calcium:
+This helps to strengthen the plant stem and leaves.
+Phosphorus:
+This is needed for the formation of strong plant cell wall.
+Nitrates and phosphates:
+Plants get nitrogen from nitrates which combines with phosphates to make plant
+proteins.
+Magnesium and iron:
+These are responsible for the formation of chlorophyll.
+TYPES OF SOIL
+a. Loam soil.
+b. Clay soil.
+c. Sand soil.
+Loam soil.
+1. It contains balanced particles of sand and clay.
+2. It contains more humus than clay and sand.
+3. Well drained.
+4. Well aerated.
+Clay soil.
+1. It is poorly drained because it has tiny air spaces.
+2. It has fine particles.
+3. It is difficult to plough because it is sticky when wet.
+53
+4. It has the highest rate of capillarity.
+5. It is poorly aerated because of small air spaces.
+6. .
+Note: Clay soil is suitable for pottery i.e. making cups, plates teapots flower vases etc because
+it is sticky when wet.
+Sand soil.
+1. It allows water to go through it easily because it has wider air spaces.
+2. It has poor rate of capillarity.
+3. It is well aerated because of large air spaces
+4. It dries out quickly.
+5. It has little plant nutrients.
+An experiment to find out the permeability or drainage of water through different types
+of soil.
+a. Place a filter paper in each of the three funnels.
+<!-- /passage -->
+
+<!-- passage lchk_68035c7181b543de880caa1ee4adc6fc part 18 -->
+b. Half fill the funnels with equal volumes of dry clay, sand and loamsoil.
+c. Place them on glass jars as shown below.
+d. Pour an equal amount of water in each funnel.
+Observation
+After sometime, more water was collected in the jar containing sand followed by loam and
+little water in clay.
+Conclusion
+Sand is more permeable than any other type of soil or sand allows water to pass
+through it easily because it has wide air spaces (pores)
+An experiment to find out capillarity of different types of soil.
+1. Fill three glass tubes (with open ends) with tightly packed sand, clay and loam soils.
+2. Put the lower ends of the test tubes with cotton wool.
+3. Place the tubes in about 3cm of water in a trough or basin as shown below.
+54
+Observation
+1. After a few hours, we found that water has risen through soils in each tube.
+2. Water rises to the greatest height in clay soil, medium height in loam soil and to the
+lowest height in sand.
+Conclusion
+Clay soil has the greatest rate of capillarity or capillary action than sand and loam soils.
+Importance of soil to plants
+1. Soil holds water for plants.
+2. Soil contains air which is needed by plants roots.
+3. Soil holds plants firmly in the ground.
+4. Provides nutrients to the plants.
+Importance of soil to man
+1. Crop growing.
+2. Material for building houses.
+3. Source of income. (sand mining).
+4. Making crafts (pottery and models)
+SOIL EROSION
+Soil erosion is the removal of topsoil.
+Agents of soil erosion.
+Agents of soil erosion are things that help in removing topsoil. These are:
+a. Wind.
+b. Running water.
+c. Man.
+d. Animals.
+Causes of soil erosion
+a. Mono cropping
+b. Deforestation
+c. Overgrazing
+d. Bush burning
+e. Over cultivation
+f. Over stocking.
+g. Shifting cultivation.
+T Ty yp pe es s o of f s so oi il l e er ro os si io on n
+a. Splash erosion
+b. Rill erosion
+c. Sheet erosion
+d. Gully erosion
+55
+Splash erosion
+1. Splash erosion occurs when raindrops hit the bare ground and splash the soil particles
+from their original position.
+2. Splash erosion is also known as raindrop erosion.
+Diagrams showing splash erosion
+Rain droplets hit the ground and the soil splashed
+Rill erosion
+1. Rill erosion occurs when running water forms rills on the ground.
+2. As the water continues to flow along its path, it removes the topsoil.
+A diagram showing rill erosion
+Sheet erosion
+1. Sheet erosion occurs when the soil which is bare on the ground is removed uniformly.
+2. Sheet erosion may also be called overland erosion.
+A diagram showing sheet erosion
+Gully erosion
+1. When running water continues removing the soil, the channel deepens and widens.
+2. The channels formed are called gullies.
+3. It is difficult to plough across a gully.
+56
+A diagram showing gully erosion
+Methods of controlling soil erosion
+a. Mulching
+b. Crop rotation.
+c. Planting windbreaks.
+d. Contour ploughing.
+e. Terracing
+f. Inter cropping
+g. Agro-forestry
+h. Cover cropping.
+i. Strip cropping.
+Mulching
+1. Mulching is the covering of soil with dry plant materials.
+2. Plant materials that can be used include:
+a. Dry maize plants.
+b. Dry grass.
+c. Dry leaves.
+d. Coffee husks.
+e. Wood shavings.
+3. Mulching controls soil erosion by reducing the strength of the raindrops.
+Other uses/importance of mulching
+a. To conserve soil moisture.
+b. To control weeds.
+c. To improve on the soil fertility.
+Contour ploughing
+1. This is the ploughing of the land across the slope.
+2. Grass and crops are planted in alternate rows along the slopes, this helps to reduce the
+<!-- /passage -->
+
+<!-- passage lchk_bb0e9ad9f2a2411fbba1cd809c6a8d22 part 19 -->
+speed of running water.
+Note: Ploughing up hill or down hill encourages soil erosion.
+Crop rotation
+1. This is the growing of different crops on the same piece of land seasonally.
+Other importance of crop rotation
+a. Controlling pests. d. Control parasitic weeds.
+b. Controlling crop diseases.
+c. Maintains soil fertility.
+57
+Inter cropping
+1. This is a practice of growing two or more crops in the same plot at the same season. eg
+planting beans between rows of perennial crops like banana, coffee etc.
+2. These plants provide cover for the soil, thus reducing soil erosion.
+3. Inter-cropping provides extra vegetation cover. This helps to reduce the growth of
+weeds.
+4. Legumes are particularly important because they have bacteria that fix nitrogen in the
+soil.
+5. This makes the soil more fertile.
+Agro-forestry
+1. This is a method of planting trees with crops on the same piece of land.
+2. These trees may be fruits bearing trees or trees that improve soil fertility.
+3. In this method of farming, the trees act as windbreaks thus reducing soil erosion.
+SOIL CONSERVATION
+1. It is the maintenance of soil fertility.
+2. When soil is not looked after properly, it can lead to soil exhaustion.
+Soil exhaustion
+Soil exhaustion is the loss of soil fertility.
+Causes of soil exhaustion :
+i. Shifting cultivation.
+ii. Mono cropping.
+iii. Over cultivation.
+iv. Leaching of mineral salts.
+v. Soil erosion.
+Leaching of mineral salts.
+Leaching is the washing of mineral salts from the upper to the lower layers where plant roots
+can not reach.
+Harmful materials in the soil .
+a. Polythene.
+b. Metal scrap material.
+c. Glass.
+d. Chemicals.
+e. Debris.
+f. Oil.
+Effects of the harmful materials in soil.
+a. Leads to soil pollution. eg oil, chemicals.
+b. Polythene prevents water from sinking into the soil.
+SOIL FERTILITY
+Soil fertility is the ability of soil to support plant growth.
+W Wa ay ys s o of f i im mp pr ro ov vi in ng g s so oi il l f fe er rt ti il li it ty y
+a. By mulching.
+b. Practicing crop rotation.
+c. Bush fallowing.
+d. Agro forestry.
+58
+e. Inter cropping legumes with other crops.
+f. Adding fertilizers into the soil.
+FERTILIZERS
+There are two groups of fertilizers:
+a. Natural fertilizers (manure).
+b. Artificial fertilizers.
+NATURAL FERTILIZERS (MANURE)
+1. These are called organic fertilizers because they are made from plants and animals remains.
+2. Examples of Natural fertilizers (manure).
+a Farmyard manure.
+b. Compost manure.
+c. Green manure.
+FARMYARD MANURE.
+1. This is the manure got from animal urine and dung from cattle, sheep goats, rabbits and poultry.
+2. It is first put into a heap to rot or decay before it is put in a garden.
+Note: Human faeces are not commonly used because they instead spread germs and
+worms which cause a number of diseases
+COMPOST MANURE.
+1. This is made from household refuse, weed plant remains and left over food.
+2. These things are first put in a heap to rot before they are taken to the main garden.
+3. Compost pit should have a concrete lining to prevent leaching of nutrients.
+A layout of a compost heap.
+How to make a compost manure. .
+1. Collect home refuse into a pit measuring 1.2m x 1.2m x 1.2m.
+2. When the material is about 15cm thick, spread soil over it.
+3. Water the layer, but do not pour too much water.
+4. Repeat the above steps 1 to 3 until the heap is 1.2m high.
+5. We keep the soil moist to speed up the decaying process.
+6. Do not walk over the heap because this will expel the air needed by the organisms
+<!-- /passage -->
+
+<!-- passage lchk_ed9ce849585b49519675af41213f9726 part 20 -->
+responsible for the decomposition of the plant materials.
+7. Turn over the heap after 14days.
+8. Remove layer by layer and build into a new heap.
+9. After another 14days, turn over again.
+10. After another 2weeks, the manure will be ready.
+59
+GREEN MANURE
+1. Green manure is made from crops such as peas, beans etc.
+2. These crops are planted and later ploughed down into the soil at the early stage of flowering.
+3. The ploughing of crops down into the soil is done using a tractor or ox-plough.
+4. In the soil, crops rot and release the organic matter into the soil.
+5. Organic matter contains things like potassium, phosphorus, sodium and nitrates.
+ADVANTAGES OF NATURAL FERTILIZERS (MANURE)
+1. They improve the soil texture.
+2. They make the soil hold water.
+4. They stay for a longer time in the soil.
+5. They can locally be available.
+6. They have balanced nutrients.
+7. They are not poisonous.
+DISADVANTAGES OF NATURAL FERTILIZERS (MANURE)
+1. They smell badly.
+2. They are tiresome to make.
+3. Plant and animal matter may not be easily got in some areas.
+4. They can be a source of weeds.
+5. They are difficult to handle.
+6. They may be a source of diseases.
+ARTIFICIAL FERTILIZERS
+1. These are fertilizers which are manufactured in factories.
+2. The name of the fertilizers depends on the mineral contained in them as indicated
+below:
+a. Sulphate of ammonia
+b. Single super phosphate(SSP)
+c. Nitrogen phosphorus potassium (NPK)
+d. Calcium Ammonium Nitrate(CAN)
+e. Double Ammonium Phosphate(DAP)
+ADVANTAGES OF ARTIFICIAL FERTILIZERS
+1. They are quick in improving soil fertility.
+2. They provide the needed mineral salts to plants without fail.
+3. They contain the right nutrients in the correct quantity.
+4. They are easy to handle.
+DISADVANTAGES OF ARTIFICIAL FERTILIZERS
+1. They are expensive to buy.
+2. You may not know which type of fertilizers to use.
+3. You may not know the quantity to apply.
+4. Excessive use pollutes the soil. This kills some useful soil living organisms
+5. They are applied at specific times only.
+7. Artificial fertilizers may be washed into rivers and springs causing water pollution.
+60
+MATTER AND ENERGY
+MATTER
+1. Matter is anything that occupies space and has weight.
+Properties of matter.
+a. Matter has weight.
+b. Matter occupies space.
+c. It is neither created nor destroyed.
+States of matter.
+There are three states of matter:
+a. Solids.
+b. Liquids.
+c. Gases.
+2. Matter is made up of small particles called molecules. Molecules are held together by
+either cohesion or adhesion.
+Cohesion:
+Cohesion is the force of attraction between molecules of the same kind.
+Adhesion:
+Adhesion is the force of attraction between molecules of different kind.
+Arrangement of molecules in different states of matter
+1. Molecules in solids
+Characteristics of solids.
+a. Molecules are closely packed together.
+b. Molecules do not move.
+c. They have definite shape.
+d. Heat travels through them by conduction.
+2. Molecules in liquids
+Characteristics of liquids.
+a. The molecules are fairly spaced.
+b. Liquids take the shape of the container where they are put.
+c. Heat travels through liquids by convection.
+61
+3. Molecules in gase
+Characteristics of gases
+a. The molecules are far apart.
+b. Have no shape.
+c. Heat travels through gases by convection.
+Changes in states of matter
+1. Changes in states of matter are as a result of heating and cooling.(change in
+temperature)
+2. These changes include:
+a. Melting
+b. Evaporation
+c. Condensation
+d. Sublimation
+e. Freezing
+<!-- /passage -->
+
+<!-- passage lchk_9a1278c002784ab493cd516d5f47ad66 part 21 -->
+1 Melting
+a. Melting is the process through which solids change to liquids on heating.
+b. When solids are heated, they change into liquids. eg. When ice is heated it melts
+to water.
+2. Evaporation
+a. Evaporation is the process through which liquids turn to gas on heating.
+b. When liquids are heated, they change to gas. e.g. water to water vapour or
+steam.
+62
+3. Freezing
+a. Freezing is the process through which liquids turn to solids on cooling.
+b. When water is frozen below O 0 C, they change to solids.
+4. Condensation
+a. Condensation is the process through which gases turn back to liquids on cooling.
+b. When water vapour is cooled, it turns back to water.
+5. Sublimation
+a. Sublimation is the process through which some substances change directly from
+solids to gas or gas to solids.
+b. Example of a substance that sublime are naphthalene and iodine crystals .
+SUMMARY
+MIXTURES
+1. What is a mixture?
+A mixture is a combination of two or more different substances are combined together.
+Examples of mixtures:
+a. . mixture of sand and cement.
+b. mixture of flour and water.
+c. mixture of gases.
+d. Mixture of water and salt.
+Dissolving substances
+When some substances are put in water or any other liquid and you stir, they disappear
+so we say they have dissolved. Therefore they are soluble in water or the liquid e.g
+a. Salt dissolves in water, so it is soluble in water.
+b. Sugar dissolves in water, so sugar is soluble in water.
+Note ;
+i. Such substances are called soluble substances.
+ii. All soluble substances are solutes.
+A solute
+1. A solute is a substance, which dissolve in solvent.
+SOLIDS
+GASES LIQUIDS
+63
+Examples of solutes :
+a. Salt.
+b. Sugar.
+c. Milk powder.
+A solvent
+1. A solvent is a liquid in which a solute dissolves.
+Examples of solvents.
+a. Water.
+b. Petrol.
+c. Methylated spirit.
+Water as a universal solvent
+1. Water is a universal solvent because it dissolves almost all solutes.
+2. Substances, which do not dissolve in any liquid are called insoluble substances.
+Examples of insoluble substances.
+a. Stones.
+b. Sand.
+c. Maize flour.
+A solution
+A solution is a uniform mixture.
+Examples of solutions
+1. Salt solution
+2. Sugar solution
+3. Salt sugar solution
+4. Oral rehydration solution
+METHODS OF SEPARATING MIXTURES
+a. Decanting
+b. Filtration
+c. Crystallisation (evaporation to dryness )
+d. Distillation
+e. Sieving
+f. Floatation
+g. Using magnets
+h. Using a separating funnel
+i. Sorting ( hand picking)
+SEPARATING MIXTURES OF LIQUIDS AND SOLIDS
+Decanting
+1. Decanting is a process of allowing the solid particles to settle at the bottom of the
+container and then carefully pouring off the clear liquid above.
+2. Decanting is used to separate solid particles from a liquid.
+3. In our daily life, decanting is used to get clear water from muddy water.
+64
+Filtration or filtering
+1. It is the process of separating solid particles from a liquid using a filter.
+2. The solid particles remain on the filter and the clear liquid passes through the filter funnel.
+3. The solid particles are called the residue while the clear liquid is called the filtrate.
+4. Filtration is used at home to separate seeds from juice.
+5. Filtration can also be used to separate tea-leaves from tea solution.
+6. The filter paper is used to hold back solid particles.
+Crystallization ( Evaporation).
+1. Crystallization is the process in which solutes are recovered from their solutions.
+2. This is done by evaporating the solvent to dryness.
+<!-- /passage -->
+
+<!-- passage lchk_bb59515304cf48f68b823ddda4d3ebe5 part 22 -->
+3. This helps to in our homes to regain salt from salt solution.
+4. Recovering salt from a mixture of salt and sand.
+Steps taken
+a. Collect the mixture in a container.
+b. Add water to the mixture and stir till the salt completely dissolves.
+c. Filter the solution to remove the sand particles.
+d. Heat the filtrate to dryness.
+USING A SEPARATING FUNNEL
+This is the method used to separate liquids that do not mix. (immiscible liquids).
+Examples of liquids which do not mix .
+65
+a. Water with cooking oil.
+b. Water with petrol.
+c. Paraffin with water.
+Note ; These are liquids of different densities.
+Distillation
+1. Distillation is the process of separating liquids with different boiling points.
+2. Example of these liquids; water and alcohol.
+3. In daily life, distillation is used in the making of alcohol.
+Flotation
+This is a method used to separate a mixture of solids from where one is less dense
+than water eg
+1. A mixture of sow dust and sand.
+2. A mixture of bad seeds and good seeds.
+Using a magnet .
+This is a method used to separate a mixture where one substance is magnetic and the
+other is non-magnetic.
+picking
+Sorting (Hand picking).
+This is a method used to pick big particles from small particles in a mixture eg pieces of
+stone from rice, beans, soya before cooking.
+Sieving.
+This is a method used to separate large particles from small particles in a mixture using
+a sieve.
+ENERGY
+Energy is the ability to do work.
+Types of energy
+a. Kinetic energy.
+b. Potential energy
+Kinetic energy
+Kinetic energy is energy possessed by moving objects.
+Potential energy.
+Potential energy is energy possessed by stationary objects.
+Forms of energy.
+66
+a. Heat energy.
+b. Electric energy.
+c. Sound energy.
+d. Magnetic energy.
+e. Light energy.
+HEAT ENERGY
+1. Heat is a form of energy that brings about rise in temperature.
+Sources of heat .
+a. The sun
+b. Fire
+c. Friction
+d. Electricity
+e. Compression
+f. Decomposition
+g. Food
+Note:
+The sun is the main source of heat
+Uses of heat
+1. Heat enables us to cook food.
+2. Heat enables us to be warm.
+3. Heat is used to kill germs.
+4. We use heat to iron clothes.
+5. Heat helps in rain formation.
+6. Heat is used to dry harvested crops before they are stored.
+FUELS
+1. Fuels are substances which produce heat or light energy when burnt.
+2. Examples of fuels:
+a. Fire wood
+b. Charcoal
+c. Paraffin
+d. Petrol
+e. Diesel
+f. Wax
+g. Food
+EFFECTS OF HEAT ON MATTER
+1. Heat makes matter expand.
+2. Heat causes rise in temperature of matter.
+3. Heat causes change in states of matter.
+4. Heat makes molecules in gases and liquids mobile.
+EXPANSION IN GASES
+Experiment I
+a. Things needed:
+i. Bottle
+67
+ii. Balloon
+iii. Heat source
+b. Tie a balloon on an empty bottle.
+c. Heat the bottom of the bottle as shown below.
+Observation
+On heating, the balloon started swelling showing that the air inside the bottle is
+expanding.
+Experiment II
+Things needed:
+a. Flask
+b. Glass tube
+c. Beaker
+d. Water
+e. Stopper
+f. Heat source
+Observation
+1. On heating, bubbles are seen escaping through the glass tube.
+2. This shows that the air in the flask expanded on heating, thus escaping through the glass
+tube.
+Experiment III
+Things needed:
+a. Flask
+b. Stopper
+c. Glass tube.
+d. Heat source.
+e. Ink.
+68
+Observation
+On heating, a drop of ink was seen moving away from the flask creating space for the expanding
+air in the flask.
+Conclusion
+Air expands when heated.
+EXPANSION IN LIQUIDS
+Things needed:
+a. Water b. Glass tube c. Stopper d. Test tube e. Heat source
+Observation
+<!-- /passage -->
+
+<!-- passage lchk_3164313b1c444928bd601a5c8a8351cc part 23 -->
+1. On heating, the water level rose from point A to point B.
+2. This shows that water in the test tube expanded on heating.
+NOTE: Water expands when cooled below 0 0 C. That is why space is left in bottled
+liquids and foods.
+Note: the space left in bottled liquids is to give room for expansion.
+EXPANSION IN SOLIDS
+Bimetallic strip
+1. This is a strip consisting of two metals with different expansion rates.
+2. When such metals are heated, the metal with a higher expansion rate will bend over the one with
+low rate of expansion.
+3. Bimetallic strips are used in thermostats.
+4. A thermostat is a device that switches electric appliances on and off automatically.
+69
+5. Examples of things that use thermostats:
+a. Car indicators.
+b. Electric flat irons.
+c. Refrigerators.
+d. Air conditioners.
+EFFECTS OF EXPANSION OF SOLIDS
+RAIL LINE TRACKS
+1. During the construction of a railway line, gaps are left in between rails to give room for
+expansion on a hot day.
+2. Gaps are narrow during a hot weather because the rails have expanded.
+3. Gaps are wide during a cold weather because the rails have contracted.
+Note: if the gaps are not left during construction, the railway may expand and bend.
+EFFECTS OF CONTRACTION OF SOLIDS
+TELEPHONE AND ELECTRICITY WIRES
+During construction of telephone and electric lines, the wires are fixed loose to provide
+room for contraction on a cold day.
+HEAT TRANSFER
+There are three ways how heat moves from one place to another.
+a. Conduction
+b. Convection
+c. Radiation
+70
+CONDUCTION
+1. This is the process through which heat travels through solids.
+2. When one molecule is heated, heat is passed to the next molecule until the whole solid
+becomes hot.
+3. Wax marked number 1 melts first because it is nearest to the heat source.
+4. Heat from the burning candle travels through the metal (nail) by conduction.
+CONVECTION
+This is the process by which heat travels through both liquids and gases.
+Convection in liquids
+Convection in gases
+Application of convection
+1.
+Ventilation
+Ventilation is circulation of air.
+71
+Importance of ventilation in a living house
+1. Prevents suffocation
+2. Prevents the spread of air borne diseases.
+Movement of air inside and out of the Lantern
+Movement of air inside and out of the Charcoal stove
+Movement of air inside and out of the charcoal box
+BREEZE
+A breeze is cool gentle wind blowing from one place to another.
+Types of breezes.
+a. Land breeze.
+b. Sea breeze.
+Land breeze
+a. Land breeze is the movement of cool gentle wind from land to sea.
+b. It occurs in the night.
+c. In the night, the land loses heat faster than the water bodies.
+d . The air over the water body rises and cool air from the land blows towards the
+water body to replace the warm rising air.
+72
+.
+3. Sea breeze
+a. Sea breeze is the movement of cool gentle wind from sea to land.
+b. It occurs during the day time.
+c. During the day time the air over land gets heated faster than that over the water
+body.
+d. Air over land rises and the cool air from the sea moves to replace the warm rising
+air over the land.
+RADIATION
+1. Radiation is the process by which heat travels through space.
+2. Radiation does not require any medium of transmission.
+3. This is why heat can pass through vacuum. A vacuum is space without matter.
+Examples of radiation in nature
+1. Heat from the sun reaches us by radiation.
+2. James is receiving heat from the sun by radiation.
+3. When you stand or sit near a fireplace, you receive heat by radiation.
+<!-- /passage -->
+
+<!-- passage lchk_aaf40f799f0a457791a5f950310533b8 part 24 -->
+4. Martin is receiving heat from the fireplace by radiation.
+SOLAR ENERGY.
+73
+1. The sun is the source of solar energy.
+2. Solar energy can be converted into heat and electricity.
+3. The heat rays from the sun are absorbed by solar panels .
+4. The solar panel is put where the sun can shine. (Usually on top of a roof)
+5. Solar panels are painted black to absorb light rays very easily.
+CONDUCTORS OF HEAT
+1. Conductors are materials that allow heat to pass through them.
+2. Materials that allow heat to pass through by conduction are called good conductors of
+heat.
+3. Examples of good conductors of heat:
+a. Iron
+b. Steel
+c. Silver
+g. Copper
+h. Brass
+i. Aluminium
+Note: Silver is the best solid conductor of heat and mercury is the best liquid conductor of
+heat.
+INSULATORS
+1. Objects or substances that do not allow heat to pass through by conduction are called
+insulators.
+2. Insulators are also referred to as poor or bad conductors of heat.
+3. Examples of bad conductors of heat:
+a. Plastic
+b. Wood
+c. Rubber
+d. Wool
+e. Asbestos
+j. Air
+k. Water
+l. Glass
+An experiment to prove that water is a bad conductor of heat
+Things needed:
+a. Test tube
+b. Water
+c. Wax or Vaseline or ice.
+d. Heat source
+1. The water at the surface of the test tube will boil but the vaseline will not melt showing that water is
+a bad conductor of heat.
+2. Vaseline is wrapped in wire mesh to keep it at the bottom of the test tube.
+Application of conductors and insulators
+74
+a. Handles of electric kettles are made out of wood or plastic because they are both bad
+conductors of heat.
+b. Elements of electric kettles are made from iron because iron is a good conductor of heat.
+Electric flat irons
+a. Handles of electric flat irons are made out of plastic because plastic is a bad conductor of
+heat.
+b. The ironing part of an electric flat iron is made from iron because iron is a good conductor of
+heat. 2
+Charcoal box
+a. Handles of charcoal boxes are made out of wood because wood is a bad conductor of heat.
+b. The ironing part of a charcoal box is made from iron because iron is a good conductor of heat.
+Frying pans
+a. Handles of frying pans are made out of plastic because plastic is a bad conductor of heat.
+b. The frying part of a frying pan is made from aluminium because it is a good conductor of heat.
+REFLECTORS OF HEAT
+1. Reflectors are objects that bounce heat and light.
+2. When heat falls on a shiny surface, it is reflected.
+Application of reflectors
+1. Most refrigerators are painted white to reflect most of the heat and remain cool inside.
+2. People in desert areas or hot areas usually wear white clothes to reflect heat.
+3. Most buildings are painted white so as to reflect heat and remain cool inside.
+4. Most vehicles are painted white to reflect heat.
+5. A Stevenson screen is painted white to reflect heat.
+ABSORBERS OF HEAT
+1. Absorbers are objects that do not bounce heat.
+2. When heat falls on a dull coloured surface, it is absorbed.
+1. Similarly, when heat falls on a rough surface, it is absorbed.
+2. A person wearing a black shirt feels hotter than the one wearing a white shirt on a hot day
+because black absorbs heat while white reflects heat.
+75
+THE THERMOS FLASK
+1. A thermos flask is also known as a vacuum flask.
+2. The function of a vacuum flask is to keep hot things hot or cold things cold.
+Parts of a vacuum flask
+Functions of different parts of a vacuum flask
+1. Cork
+A cork prevents heat loss or gain by conduction because a cork is a bad conductor of heat.
+<!-- /passage -->
+
+<!-- passage lchk_a81df5b0f5ee4f61a44036e1a19ee428 part 25 -->
+2. Double silvered walls
+The double silvered walls prevent heat loss or gain by radiation because they have a shiny
+colour (silver)
+3. Vacuum
+A vacuum prevents heat loss or gain by conduction and convection.
+a. By conduction because there is no molecule of solids.
+b. By convection because there is no molecule of liquid or gas.
+4. Cork base
+A cork base supports the glass in position.
+5. Plastic or metal case
+The plastic or metal case protects the double walled glass.
+6. Vacuum seal
+Closes the vacuum.
+TEMPERATURE
+1. Temperature is the degree of hotness or coldness of a substance or place.
+2. Temperature is measured using a thermometer.
+3. Temperature is measured in degrees.
+4. Thermometers use either mercury or alcohol.
+Differences between temperature and heat
+Temperature Heat
+1 Is the degree of hotness or coldness
+of a substance or place.
+Is a form of energy that brings about rise in
+temperature.
+2 Measured in degrees. Measured in joules
+.
+76
+Advantages of using mercury over alcohol
+1. Mercury is a good conductor of heat and alcohol is a bad conductor of heat.
+2. Mercury does not stick on walls of a bore but alcohol sticks on the walls of a bore.
+3. Mercury is easily seen than alcohol.
+4. Mercury boils at a higher temperature compared to alcohol.
+Advantages of using alcohol over mercury
+1. Alcohol does not solidify easily.
+2. Alcohol is cheaper to buy compared to mercury.
+Why water is not used in thermometers.
+1. Water sticks on the walls of the bore.
+2. Water is a bad conductor of heat.
+3. Water has an irregular expansion.
+4. Water has a low boiling point.
+5. It is not easily seen.
+6. Water boils and freezes readily.
+Types of temperature scales
+There are two types of scales used in thermometers:
+a. Centigrade or Celsius scale.
+b. Fahrenheit scale.
+Centigrade or Celsius scale
+1. The freezing point on this scale is 0 0 C. The freezing point is also known as the lower fixed
+point.
+2. The boiling point on this scale is 100 0 C. The boiling point is also known as the upper fixed
+point.
+3. The freezing point (lower fixed point) is the temperature at which pure water changes to
+ice.
+4. The boiling point (upper fixed point) is the temperature at which pure water boils.
+Fahrenheit scale
+1. The freezing point on this scale is 32 0 F.
+2. The boiling point on this scale is 212 0 F.
+Note: The freezing point of water is 0 0 C or 32 0 F and boiling point is 100 0 C or 212 0 F.
+TYPES OF THERMOMETERS
+a. Clinical thermometer or doctor’s thermometer.
+b. Six’s or maximum and minimum thermometer.
+Clinical thermometer or doctor’s thermometer
+1. It is used to measure human body temperature.
+2. The body temperature of a normal person is 37 0 C or 98.4 0 F.
+3. Places where a clinical thermometer is placed (put) to measure the human body
+temperature:
+a. In the anus. (for babies)
+b. Under the armpit.
+c. Under the tongue to avoid biting it.
+d. Vagina.
+77
+Note:
+a. The above parts are commonly used because they completely cover the bulb to
+give uniform expansion of mercury.
+b. Thermometers should be sterilized with alcohol every after use.
+c. Thermometers should not be stelirised using hot water because they break.
+Features of a clinical thermometer
+1. Kink/constriction/bend
+It controls the back flow of mercury.
+2. A stem/Glass envelope
+A stem acts as a magnifying glass.
+3. Bore
+The bore is very narrow to have an accurate scale.
+4. The scale runs from 34 0 C to 42 0 C because the temperature of a living person is between 34 0 C to
+42 0 C.
+<!-- /passage -->
+
+<!-- passage lchk_27b0edf0f2464aae9b94fadbe0cf1a3f part 26 -->
+Note: A clinical thermometer should be shaken to force mercury back into the bulb before it is
+used again.
+SIX’S OR MAXIMUM AND MINIMUM THERMOMETER
+1. A six’s thermometer is used to measure both minimum and maximum temperatures.
+2. It uses both mercury and alcohol.
+3. The left hand side measures minimum temperatures and the right hand side measures maximum
+temperatures.
+4. A six’s thermometer uses indices.
+5. Readings are taken at the lower part of an index.
+6. Indices are re-set using a magnet.
+Note: Mercury is used to measure maximum temperature because it has a high boiling point.
+Alcohol is used to measure minimum temperature because it has a lower freezing point.
+78
+CONVERSION OF SCALES
+Changing centigrade to Fahrenheit:
+Formula: - 0 F = ( 9 / 5 x C) + 32
+Examples
+a. Change 10 0 C to 0 F. b. Change 100 0 C to 0 F.
+0 F = ( 9 / 5 x 0 C) + 32 0 F = ( 9 / 5 x 0 C) + 32
+= ( 9 / 5 x 0 C) + 32 = ( 9 / 5 x 0 C) + 32
+= ( 9 / 5 x 10) + 32 = ( 9 / 5 x 100) + 32
+2 20
+= ( 9 / 5 x 10) + 32 = ( 9 / 5 x 100) + 32
+1 1
+= (9 x 2) + 32 = (9 x 20) + 32
+= 18 + 32 = 180 + 32
+= 50 = 212
+ 10 0 C = 50 0 F.  100 0 C = 212 0 F.
+c. Change 40 0 C to 0 F. d. Change 15 0 C to 0 F.
+0 F = ( 9 / 5 x 0 C) + 32 0 F = ( 9 / 5 x 0 C) + 32
+= ( 9 / 5 x 0 C) + 32 = ( 9 / 5 x 0 C) + 32
+= ( 9 / 5 x 40) + 32 = ( 9 / 5 x 15) + 32
+3
+= ( 9 / 5 x 40) + 32 = ( 9 / 5 x 15) + 32
+1
+= ( 9 x 40 ) + 32 = (9 x 3) + 32
+5
+= 72 + 32 = 27 + 32
+= 104 = 59
+ 40 0 C = 104 0 F.  15 0 C = 59 0 F.
+Changing Fahrenheit to centigrade:
+Formula: - 0 C = 5 / 9 (F - 32)
+Examples
+a. Change 59 0 F to 0 C b. Change 32 0 F to 0 C
+0 C = 5 / 9 ( 0 F - 32) 0 C = 5 / 9 ( 0 F - 32)
+= 5 / 9 (59 - 32) = 5 / 9 (32 - 32)
+= 5 / 9 x 27 = 5 / 9 x 0
+3
+= 5 / 9 x 27 = 0
+1
+= 5 x 3  32 0 C = 0 0 F.
+= 15
+ 59 0 F = 15 0 C.
+BURNING
+1. Burning is a chemical reaction in which heat and light are produced.
+2. Regions (zones) in flames
+79
+BLUE ZONE
+1. It is the outer most region of the flame.
+2. It receives good supply of air.
+3. It is very difficult to see.
+YELLOW ZONE
+1. It consists of partly the unburnt gas.
+2. It is the brightest part of the flame.
+3. The yellow zone gives a lot of light.
+CENTRAL ZONE (unburnt gas)
+1. It does not burn because air can not reach it since it is deep inside the flame.
+2. This zone does not give light.
+PALE BLUE ZONE
+1. It is at the bottom of the flame.
+2. It receives a very good supply of air.
+3. It is very hot.
+An experiment which shows that oxygen supports burning
+Things needed:
+i. Candle
+ii. Glass cup
+Observation
+The candle flame continues burning for some time and later goes off.
+Conclusion
+The candle flame went off because oxygen in the glass cup got used up. Or the candle flame went
+off because the supply of oxygen was cut off.
+Experiment II (oxygen is used up during burning)
+1. Take a bowl and half fill it with water.
+2. Fix a small piece of candle to a wooden block and float the block on water.
+3. Light the candle and place the jar over it as shown above.
+4. The candle goes out after a short time because the oxygen in the jar is used-up.
+5. You will notice that the water has risen in the jar and occupies the space which was formally
+occupied by oxygen.
+80
+PUTTING OUT FIRE
+1. Putting out fire using a fire extinguisher.
+Carbondioxide is used in a fire extinguisher because it doesn’t support burning.
+Putting out fire using sand.
+Sand cuts off oxygen supply to the fire.
+3. Putting out fire using a blanket.
+When your clothes have caught fire, wrap yourself with a thick blanket.
+<!-- /passage -->
+
+<!-- passage lchk_0862e5ba621c4693a66ee140105faf54 part 27 -->
+The blanket cuts the supply of oxygen.
+Reasons why water is not recommended for putting out electric and petrol fire
+a. Petrol floats on water and continues to burn.
+b. Water is a good conductor of electricity so one can get severe shock.
+Alternative method of putting out petrol fire
+a. Using sand.
+b. Use of foam.
+RUSTING
+1. Rusting is the development of a brown coating on iron materials when they are in contact with
+oxygen and water.
+2. This brown coating is called rust.
+3. Condition needed for rusting to take place:
+a. Oxygen
+b. Moisture (water)
+An experiment to find out that oxygen is used during rusting
+1. Things needed to carry out this experiment:
+a. Iron filings b. Net bag
+c. Jar d. Stick
+e. Container with water
+2. Steps taken.
+a. Moisten the iron filings and put them in a net-bag.
+b. Tie the net-bag on a stick and place it in a jar.
+c. Invert the jar in the container where there is water.
+Observation
+1. After a few days, the iron filings turned brown
+2. The water level rose up in the glass jar.
+Conclusion
+The water level rose up in the glass jar to replace oxygen that was used during rusting.
+81
+Advantage of rusting
+1. Rusting helps to reduce metal scraps in the environment.
+2. Improves soil fertility.
+Disadvantages of rusting
+1. Rusting results into wearing away of iron and steel equipment.
+2. Nuts on bolts become hard to unscrew after rusting.
+3. Water in rusty pipes and containers becomes polluted.
+4. Keys fail to fit in padlocks after rusting.
+5. Rust weakens useful iron materials.
+6. Cutting materials become blunt after rusting.
+Ways of preventing rusting
+1. Oiling/greasing.
+2. Painting.
+3. Galvanising (coating iron with zinc)
+4. Enameling (coating iron with enamel)
+5. Making alloys.
+An alloy
+1. An alloy is a mixture of two or more metals.
+Examples of alloys :
+a. Iron + carbon = steel.
+b. Copper + zinc = brass.
+c. Copper + tin = bronze
+Similarities between rusting and burning
+1. Oxygen is used in both processes.
+2. They are both chemical changes.
+Differences between rusting and burning
+1. Burning produces carbondioxide while rusting does not produce any gas.
+2. Burning requires only oxygen but rusting requires both water and oxygen.
+82
+CROP GROWING
+Common tuber crops .
+a. Root tubers
+b. Stem tubers.
+Root tubers
+Root tubers are crops that store food in their roots
+Examples of root tubers
+a. Cassava crops
+b. Sweet potato crops
+c. Carrot crops.
+d. Turnip crops.
+e. Sugar beet
+Stem tubers
+Stem tubers are crops that store food in their stems.
+Examples of stem tubers
+a. Irish potatoes
+b. Yams.
+Methods of planting tuber crops
+Row planting is recommended.
+Planting materials.
+Crop Material (Part used for propagation)
+a. Cassava Stem cuttings
+b. Sweet potatoes Stem cuttings (vines)
+c. Carrots Seeds
+d. Irish potatoes Stem tuber
+e. Yams Stem tuber
+83
+CARING OF CROPS
+a. Pruning.
+b. Thinning.
+c. Weeding
+d. Watering
+e. Spraying with chemicals:
+1. Pesticides
+2. Herbicids
+f. Mulching
+g. Staking
+h. Training
+84
+PRUNING
+Pruning is the cutting off of some branches or leaves from a plant.
+Advantages of pruning
+1. Pruning reduces the rate of transpiration.
+2. Pruning encourages branches to grow big and yield more.
+3. Pruning gives good space for harvesting.
+4. Pruning prevents over crowding on branches on plants.
+5. Pruned materials are used for mulching.
+6. Reduce hiding places for pests.
+Note: A pruning saw and Scateur is used for pruning.
+MULCHING
+Mulching is the covering of soil with dry plant materials.
+<!-- /passage -->
+
+<!-- passage lchk_7c0c4549a29f4a62bf0ef505ef22cca7 part 28 -->
+Plant materials that can be used for mulching
+a. Dry maize plants.
+b. Grass cuttings.
+c. Dry leaves.
+d. Coffee husks.
+e. Wood shavings.
+Advantages of mulching
+a. Mulching controls soil erosion. - by reducing the strength of rain
+drops.
+b. Mulching improves soil fertility. - when mulches rot, they make rthe
+soil fertile
+c. Mulch maintains soil moisture. - protecting the soil from direct sun
+heat.
+d. Mulch controls the growth of weeds. - Preventing weeds from receiving
+sunlight for
+making food.
+Disadvantages of mulching
+a. It is tiresome.
+b. Some mulch can grow into weeds.
+b. It can easily catch fire and destroy the crops.
+a. Can be a breeding place for pests. ( It hides pests).
+Note : The main reason for mulching is to maintain soil moisture.
+WEEDING
+1. Weeding is the removal of unwanted plants from the garden.
+2. Weeds are the unwanted plants in a garden.
+Common weeds:
+a. Wandering Jew.
+b. Black jack.
+c. Spear grass.
+d. Star grass.
+e. Couch grass.
+f. Wild finger millet.
+g. Macdonald’s eye.
+h. Nut grass
+Importance of weeds
+85
+1. Weeds are source of food for both people and other animals.
+2. Legume weeds improve on the soil fertility by adding nitrogen.
+3. Controlling soil erosion by providing good soil cover.
+4. When weeds rot, they improve on the soil fertility.
+Dangers of weeds
+1. Weeds lead to poor growth of crops.
+2. Weeds encourage the spread of pests and diseases.
+3. Weeds compete with crops for sunlight, air, soil nutrients and water with crops.
+4. Weeds make it difficult for farmers during pruning, spraying of pesticides and
+harvesting.
+5. Farmers spend a lot of money on chemicals and labour to control weeds.
+6. Some are poisonous to animals.
+7. Weeds lower the quality of crops.
+8. weeds are hiding places for pests.
+9.
+Importance of weeding
+1. Weeding reduces pests.
+2. Weeding reduces competition for sunlight, air, soil nutrients and water between crops
+and weeds.
+3. Weeding gives good space for pruning, spraying and harvesting.
+Ways of controlling weeds
+1. Spraying with herbicides.
+2. Mulching.
+3. Uprooting.
+4. Slashing (slashing is normally carried out in crops with wide spacing eg. Coffee and
+banana plantation)
+5. Cultivating ( Farmers use hoe, tractor or oxen)
+6. Rearing natural enemies.
+7. Crop rotation controls parasitic weeds.
+COMMON CROP PESTS FOR ROOT TUBER CROPS
+Crops Pests Affected part
+1 Cassava a Green cassava mite Tips of cassava shoot
+b Mole rats.
+2. Sweet potato a Sweet potato weevil Leaves, stem and roots
+b Squirrel Roots
+c Mole rats
+c Eel worms
+Cut worms
+Roots
+Stems
+3 Carrots Eel worms Roots
+COMMON CROP PESTS FOR STEM TUBERS
+Crops Pests Affected part
+1 Irish potatoes Irish amphid Leaves
+2 Yams Mole rats Stem tuber
+COMMON DISEASES OF ROOT TUBER CROPS
+Crop Diseases Affected part
+1 Cassava A Cassava mosaic Leaves
+b Brown streak Leaves and tubers
+2 Sweet potato Sweet potato blight Leaves and stem
+86
+Note: The white fly spreads cassava mosaic.
+Effects of pest and diseases
+1. The leaves and stems lose chlorophyll, this reduces the rate of photosynthesis.
+2. The root tubers get damaged.
+3. The root crops which develop are of a poor quality and do not have the right taste.
+4. Leads to poor yields.
+5. They lead to stunted growth. (plants fail to increase in size).
+Methods of controlling pests & diseases of tuber crops.
+1. Uprooting infected crops
+2. Proper spacing
+3. Early planting
+4. Spraying with chemicals
+5. Using scare crows
+6. Setting traps
+7. Fencing
+8. Crop rotation
+8. Use of noise
+9. Chasing
+<!-- /passage -->
+
+<!-- passage lchk_b4d1f60ecd8b4263bc299f3835efe94d part 29 -->
+10. Use of natural enemies.
+11. Plant healthy planting materials.
+12. Planting resistant varieties.
+HARVESTING OF TUBER CROPS
+1. Harvesting is the picking or removal of ready crops from a garden.
+2. Harvesting should be done when the crops are ready.
+Methods of harvesting tuber crops
+a. By uprooting.
+b. By digging out with a hoe.
+NOTE: Harvesting is done during the dry season because there is enough sunshine
+to dry the harvested crops.
+87
+Disadvantages of early harvesting
+a. Some tubers are poisonous at an early stage.
+b. The quality of tuber is poor.
+Processing of tuber crops .
+1. Cassava can be processed into cassava chips and dried.
+2. Sweet potatoes can be processed into potato chips and dried.
+3. Irish potatoes can be sliced and deep fried into crisps.
+Storage of tuber crops
+1. There are different methods of storage for crop produce namely:
+a. In granaries.
+b. In silos.
+c. In stores
+Granaries
+Conditions for proper storage
+1. The roofs of stores should not leak.
+2. Stores should have good ventilation.
+3. Rat guards should be fixed on the granary.
+4. Tuber crops should be dried first before storing them.
+Note: The above conditions prevent the stored crops from rotting and being attacked
+by pests.
+FARM RECORDS
+1. Farm records are written information showing the different inputs and outputs on a
+farm.
+2. Records kept by crop farmers include the following:
+a. The type of planting materials used.
+b. When crops were planted and harvested.
+c. Pests and diseases attacked the crops.
+d. The type of control which was used on the pests and diseases.
+e. The quantity harvested per acre.
+f. Amount of money spent on the inputs on the farm.
+g. Money generated from the produce on the farm.
+Uses of farm records
+9. Records help the farmer to know whether the farm is making profits or losses.
+10. Records help the farmer to identify areas that need improvement.
+11. Records help the farmer to budget for the farm.
+12. Records help the farmer to avoid repeating mistakes.
+13. Records help the farmers to secure loans.
+Young farmers’ club
+1. In young farmers’ club, members learn practical skills about the following:
+a. How to keep animals.
+b. How to keep birds.
+88
+c. How to grow crops.
+2. In some schools, the members have their own gardens where they practise farming.
+3. Some schools make trips or visits to agriculture research stations.
+4. On such study trips members learn through observation and practice how crops and
+animals are raised and cared for.
+5. Through such trips, members will learn about:
+a. Crossbreeding of species.
+b. Artificial insemination.
+c. Biological control of pests and diseases.
+d. Vegetative propagation.
+FUNGI
+Characteristics of fungi
+1. Some exist either as one cell (unicellular) and as many cells (multicellular organisms).
+2. They do not have chlorophyll. This means they cannot make their own food.
+3. They reproduce by means of spores and by budding.
+4. They have nuclei in the cells.
+5. They feed saprophytically or parasitically.
+Note: a. Saprophytes feed by absorbing nutrients from decaying matter .
+b. Parasites are living organisms that depend on other organisms for
+both food and shelter.
+Examples of fungi
+a. Mushrooms f. Puffballs
+b. Moulds g. Death caps.
+d. Toadstool h. Yeast
+e. Oysters
+MUSHROOM
+The structure of a mushroom
+Functions of some parts of a mushroom
+Cap
+The cap protects the gills
+The gills
+They produce and store the spores.
+The Hyphae
+The hyphae absorb nutrients from decaying matter.
+89
+How a mushroom reproduce
+<!-- /passage -->
+
+<!-- passage lchk_75e935f782854b7388c44e20d185196c part 30 -->
+A mushroom reproduces by means of spores.
+Mode of feeding in a mushroom
+A mushroom feeds by absorbing nutrients from decaying matter.
+MOULDS
+a. Moulds are thread-like fungi that grow on rotting plant and animals materials
+such as bread, cassava etc.
+b. Moulds reproduce by means of spores .
+c. Moulds feed by absorbing nutrients from decaying matter. .
+TOADSTOOLS
+a. They grow on decaying plant and decaying animal materials.
+b. Toadstools are poisonous.
+c. Toadstools are brightly coloured unlike the mushrooms.
+d. They feed by absorbing nutrients from decaying matter.
+e. They reproduce by means of spores .
+YEAST
+a. Yeast is a group of fungi that exist as single cells.
+b. Yeast is found on the surface of ripe fruits, mainly sweet-tasting fruits such as
+mangoes.
+c. Yeast reproduces by budding .
+d. They feed by absorbing nutrients from decaying matter.
+Importance of fungi
+a. Yeast is a source of Vitamin B 1 .
+b. Yeast is used in the making or brewing of alcohol.
+c. Fungi help in the decomposition of organic matter.
+d. Penicillium moulds are used to produce medicine, e.g. penicillin antibiotics.
+e. Yeast is used to increase the volume of dough when making bread.
+f. Fungi are a source of local medicine.
+g. Mushrooms are eaten as food.
+Harmful fungi
+1. Some fungi cause food to go bad and at some time cause food poisoning.
+2. Some fungi cause a number of diseases in plants and animals.
+Fungal diseases in plants :
+a. Rust fungus affects the leaves and stems of cereals.
+b. Root rot in tea plants.
+c. Coffee berry disease in coffee beans.
+d. Potato and tomatoes blight.
+e. Smuts
+Fungal diseases in people :
+a. Ringworm.
+b. Athlete’s foot.
+c. Oral thrush(candidiasis).
+90
+d. Fingernail deformation.
+Prevention and control of fungal diseases
+a. Boil milk, drinking water and reheating cold food
+b. Salting food.
+c. Pickling. (This is the putting of vegetables and other foods in an edible acid like
+vinegar to preserve it)
+d. Fungal diseases on plants should be sprayed with fungicides.
+e. Avoid warm temperatures and moisture conditions in food materials, these support
+the growth of fungi.
+f. Avoiding sharing clothes and combs with affected people.
+BACTERIA
+1. Bacteria are tiny living organisms made up of one cell.
+2. They are so small to be seen using naked eyes.
+3. They are only seen using a powerful microscope. This is why they are called micro-
+organism.
+Places where bacteria are found
+Bacteria are found almost everywhere, but more especially in the following places:
+a. Water
+b. In the soil.
+c. In decaying matter.
+d. On the bodies of animals including man.
+e. On plants.
+f. Some bacteria float in air.
+Types of bacteria
+1. Bacteria are grouped according to their shapes.
+2. There are three types of bacteria commonly found in our surroundings:
+a. The spherical called cocci (plural) or coccus (singular).
+b. Rod shaped called bacilli.
+c. Spiral e.g. spirilla and the spirochaete.
+The spherical shaped called cocci or coccus
+These cause boil These cause sore throat These cause pneumonia
+Rod shaped called bacilli
+Rod or cylindrical called bacilli among these cause anthrax, typhoid and food
+poisoning.
+These cause anthrax These cause typhoid fever
+The spiral bacteria
+These cause syphilis. These cause cholera.
+91
+Useful/harmless bacteria to man
+1. Some useful bacteria help in the making of vitamin B 12 , and vitamin K.
+2. Useful bacteria help in making cheese butter and yoghurt by fermenting milk.
+3. Useful bacteria help in digestion of food in ruminants.
+<!-- /passage -->
+
+<!-- passage lchk_4ac23d2d8fee45b0b53310d9464dafaa part 31 -->
+4. They are used to break down volumes of garbage and faeces in latrines, septic tanks
+and sewage systems.
+Useful/harmless bacteria to soil
+1. Bacteria help in the decaying and rotting of organic matter
+2. Nitrogen fixing bacteria found in root nodules of legumes trap nitrogen from the air and
+change it to nitrates.
+Note: That is why it is not good to pour dangerous chemicals like paraffin
+and insecticides in latrines.
+Similarities between bacteria and fungi
+a. They both cause diseases.
+b. They both have two ways of feeding that is parasitically or saprophytically.
+c. They are both living organisms.
+Differences between bacteria and fungi
+1. Most fungi reproduce by means of spores while bacteria reproduce by means of
+binary fission. (cell division)
+2. Bacteria are single celled while most fungi are multicellular
+92
+P.5 SCIENCE LESSON NOTES
+TERM III
+CHANGES IN OUR ENVIRONMENT
+There are three changes in our environment:
+a. Chemical changes.
+b. Biological changes.
+c. Physical changes.
+CHEMICAL CHANGES
+Chemical changes are changes in which new substances are formed from.
+Characteristics of chemical changes
+a) The changes are irreversible.
+b) A new substance is always formed.
+c) There is a change in weight.
+d) Heat or light or both are produced.
+Examples of chemical changes
+1. Burning of wood to ash.
+2. Rusting of metals.
+3. Burning of candle wick to ash
+4. Burning of paper to ash
+5. Burning of wood to charcoal..
+PHYSICAL CHANGES
+Physical changes are changes in which no new substances are formed.
+Characteristics of physical changes
+i. The changes are reversible.
+ii. No heat or light is given out.
+iii. There is no change in weight.
+iv. There is no new substance formed.
+Examples of physical changes
+1. Melting of ice to water.
+2. Melting of plastic.
+3. Melting of butter.
+4. Melting of candle wax.
+5. Freezing of water to ice.
+6. Evaporation of water to steam.
+7. Water turning into water.
+8. Vapour turning into water.
+BIOLOGICAL CHANGES
+Biological changes are changes which take place in the life of living things.
+Characteristics of Biological changes
+a) Young ones grow mature and become old.
+b) Small ones change size and become big.
+93
+Examples of biological changes
+1. Body growth.
+3. Development of breasts in females.
+4. Growth of nails in animals.
+5. Growth of hair.
+6. Growing of a seed to seedlings/Germination.
+OTHER CHANGES IN THE ENVIRONMENT
+1. Formation of clouds.
+2. Temperature change.
+3. Occurrence of day and night .
+Man made changes
+1. Man has built roads t.
+2. Draining swamps.
+3. Man has improved on animals, plants and birds by crossbreeding.
+4. Man has built bridges across rivers, lakes and valleys.
+5. Forests have been cut to create land for Agriculture.
+6. Man has planted trees.
+Natural changes
+1. Earthquake
+2. Drought
+3. Floods
+4. Change in season
+5. Land slides
+6. Rain formation
+7. Days and night
+Effects of various types of changes to people, animals and plants
+1. People change from young one to old ones and later die.
+2. Animals grow old and become useless.
+3. Plants grow and later die.
+4. Some animals are improved by crossbreeding.
+5. New varieties of seeds are produced after research work.
+6. Through research, plants and animals grow and mature quickly.
+7. Cutting trees cause drought.
+8. Earthquakes destroy life and property.
+9. Droughts cause plants to die.
+10. Floods destroy property and lives.
+94
+GOATS
+Reasons for keeping goats
+1. Meat production.
+2. Milk production.
+3. Skin.
+4. Some provide us with mohair.
+<!-- /passage -->
+
+<!-- passage lchk_8c73637f74224804a01f0024f18bc9cd part 32 -->
+5. Source of income.
+6. Cultural purposes.
+7. Hooves and horn are used in the making of buttons and glue.
+8. Animal droppings are used as manure (farmyard manure)
+External parts of a goat
+Breeds of goats reared in Uganda
+1. Mubende goats.
+2. The East African small goats.
+3. Boar goats.
+4. Saanen
+5. The Somali goats.(Galla)
+6. Toggenburg
+7. Anglo Nubian
+Mubende goats
+1. A mubende male goat is widely kept in Uganda.
+2. It weighs between 40kg to 50 kg when mature.
+95
+The East African small goats
+1. The East African small goats are widely kept in Uganda, Kenya and Tanzania.
+2. A mature goat can weigh between 25kg to 30kg.
+3. The East African small goats are of mixed colours.
+The Somali goats (Galla)
+1. Galla goats are kept in most parts of East Africa.
+2. They were imported from Somalia.
+Saanen goats
+Saanen goats are white in colour.
+1. They produce a lot of milk.
+2. They were imported from Switzerland.
+Toggenburg
+1. It can weigh up to 40kg when mature.
+2. It holds (keeps) its ears (erect) upright.
+NOTE: a. Saanen, Anglo nubian and Toggenburg are special breed mainly for dairy
+(milk production).
+b. Angora goats are kept for its mohair.
+Reasons for housing goats
+1. To protect them from bad weather.
+96
+2. To prevent them from destroying crops.
+3. To control spread of diseases and parasites.
+4. To protect them from wild animals.
+GRAZING
+1. Grazing is the act of eating grass by livestock.
+Examples of livestock :
+a. Cattle
+b. Goats
+c. Sheep
+d. Pigs
+e. Poultry.
+Types (methods) of grazing livestock
+a. Free grazing
+b. Tethering method
+c. Paddock grazing
+d. Zero grazing
+FREE GRAZING.
+Free grazing is when goats are left to roam about to graze on their own.
+Advantages of free grazing
+1. Animals get a variety of food which may enable them to get a balanced diet.
+2. Animals get enough physical exercises as they move round looking for their food.
+3. Free grazing cuts down the cost of feeding.
+4. Manure in form of droppings is distributed all over the area the animals feed from.
+Disadvantages of free grazing
+1. The animals can easily get diseases and parasites.
+2. The animals can get lost.
+3. Thieves can easily steal the animals.
+4. The animals can destroy crops.
+5. The animals can be eaten by wild animals.
+TETHERING METHOD OF GRAZING.
+1. This is a method of grazing where animals are tied on a peg as they graze.
+2. This method of grazing allows the animals to eat pasture around it.
+3. Other feeds may be given to the animals at the position where they are tied.
+Advantages of tethering method.
+1. It is very easy to collect manure.
+2. Farmers with small land can also keep animals using this method.
+97
+3. It is easy to control parasites and diseases.
+Disadvantages of tethering method.
+1. The rope may injure the animal.
+2. This method is only suitable for a few animals.
+3. Replacement of worn out ropes tends to be costly.
+4. The animals feeding is limited to the radius of the rope.
+5. The animals can easily be attacked by wild animals.
+PADDOCK GRAZING
+1. This is the method of grazing where land is divided into small plots called paddocks .
+2. Animals are grazed on one paddock for a few days before they are taken to another
+paddock.
+3. When animals are grazed in one paddock, pasture in the already grazed paddocks is
+growing
+again.
+Advantages of Paddock grazing
+1. It controls soil erosion.
+2. It controls overgrazing.
+3. Grass is given time to grow.
+4. Manure is distributed evenly in the pastureland.
+5. It is easy to control parasites (worms and ticks).
+<!-- /passage -->
+
+<!-- passage lchk_c3ae4948af8a4fa7addd33d2f1b66702 part 33 -->
+6. Pasture is properly used.
+7. Farmer gets time to do other activities.
+Disadvantages of paddock grazing.
+1. This method of grazing requires a big piece of land.
+2. It is expensive to construct the paddocks.
+ZERO GRAZING.
+1. Is the method of grazing where animals are kept in a sheltered place all the time and are
+fed from there.
+2. Farmers who have small pieces of land mainly practice zero grazing.
+Advantages of zero grazing.
+1. It is easy to control parasites and diseases.
+2. Farmers with small piece of land can also keep animals.
+3. It is very easy to collect manure.
+4. Animals are more protected against bad weather.
+5. Animals yield more.
+Disadvantages of zero grazing.
+1. It is expensive to maintain.
+2. Animals lack enough physical exercises since they are indoors all the time.
+98
+3. It is tiresome to collecr pasture for the animal.
+4. It requires a lot of labour to clean the animal shelter everyday.
+DISEASES THAT ATTACK GOATS
+Parasites that attack goats
+1. Internal parasites that attack goats include:
+a. Tape worms
+b. Liver fluke
+2. Internal parasites can be controlled by Deworming
+3. External parasites that attack goats include:
+a. Ticks
+b. Mites
+c. Lice
+4. External parasites can be controlled by:
+a. Spraying using acaricides.
+b. By dipping.
+c. Hand picking.
+d. Paddock grazing.
+Spraying using acaricides to kill external parasites
+Terms used in goats keeping.
+i. Kidding - Is the act of giving birth to a young goat.
+ii. Kid - A young one of a goat.
+iii. Billy - A mature male goat.
+DISEASE CAUSE
+1 Anthrax bacteria
+2 Pneumonia bacteria
+3 Foot root bacteria
+4 Heart water protozoa
+5 Nagana protozoa
+6 Red water protozoa
+7 Coccidiosis protozoa
+8 Nairobi disease virus
+9 Foot and mouth disease virus
+10 Rinder pest virus
+99
+iv. Nanny - A mature female goat.
+v. Mohair - Hair got from goats.
+vi. Gestation period - The time a nanny goat gets pregnant to giving birth.
+Note . The gestation period of goats is five months.
+SHEEP
+Types of breeds of sheep
+a. Local breeds
+b. Exotic breeds
+Local breeds
+1. Local breeds of sheep are widely kept in most parts of Uganda.
+2. Examples of local sheep kept in Uganda:
+a. Black head Persian
+b. The Masai
+c. The Somali sheep
+Black head Persian
+The Masai
+Exotic (foreign) breeds
+1. These breeds were imported from out side countries.
+2. Examples of exotic sheep kept in Uganda:
+a. The merino sheep
+b. Hampshire Down
+c. Romney marsh
+d. Corriedella
+The merino sheep
+100
+Hampshire Down
+3. Special breeds of sheep kept for wool production include:
+a. The merino sheep
+b. Romney marsh
+DOCKING
+1. Docking is a practice of cutting short the sheep’s tail.
+2. Female sheep are commonly docked.
+An illustration of a docked sheep
+Reasons for docking
+1. For easy mating.
+2. To remove hiding places for parasites.
+3. For hygienic purposes.
+Ways of docking animals
+Sheep are docked using a sharp knife.
+Gestation period of a sheep
+The gestation period of a sheep is 150 days (5 months).
+TERMS USED IN SHEEP KEEPING
+1. RAM
+A ram is a mature male sheep.
+2. A EWE
+A ewe is a mature female sheep.
+101
+3. LAMB
+A lamb is a young one of a sheep.
+3. LAMBING
+Lambing is the giving birth to a lamb by a ewe.
+4. DOCKING
+Docking is the practice of cutting short of sheep’s tail.
+PIGGERY
+Piggery is the rearing and management of pigs.
+BREEDS OF PIGS
+a. Exotic breed of pigs.
+b. Local breeds of pigs.
+c. Crossbreeds.
+d. Wild pigs.
+LOCAL BREED OF PIGS
+1. These are the pigs whose origin is within the country.
+<!-- /passage -->
+
+<!-- passage lchk_15b52bac1a314a49ac18e090727b0f9d part 34 -->
+2. These local breeds of pigs can be improved by cross breeding.
+3. Local breeds of pigs are also referred to as indigenous breeds of pigs.
+WILD PIGS
+1. These are the pigs commonly found in bushes
+2. Examples of the wild pigs are the warthogs.
+3. Wild pigs are sometimes known as untamed pigs.
+CROSS BREEDS
+Crossbreeds are got as a result of mating of two different breeds.
+EXOTIC BREEDS OF PIGS
+Exotic breeds are sometimes called foreign breeds.
+Characteristics of exotic breeds of pigs.
+a. They have the same colour, shape and size when mature.
+b. They produce a lot of pork; bacon or skin.
+c. They have the same ability to produce the same number of piglets.
+d. They grow and mature fast.
+Examples of exotic breeds.
+a. Land race.
+b. Large white
+c. Middle white.
+d. Hampshire.
+e. Poland China.
+f. Wessex saddle back.
+g. Large black.
+102
+LARGE WHITE .
+1. It’s the most common breed in East Africa.
+2. It’s white in colour.
+3. Large white is also known as Yorkshire.
+LANDRACE .
+1. It is white in colour.
+2. It is good for bacon.
+3. Bacon is the meat got from the back and sides of a pig.
+MIDDLE WHITE
+1. Middle white is white in colour.
+2. It is smaller than the large white.
+WESSESX SADDLE BACK
+It is black with a white strip (saddle) at the shoulder.
+SYSTEMS OF KEEPING PIGS
+There are two systems commonly used to keep pigs:
+103
+a. Extensive system
+b. Intensive system
+EXTENSIVE SYSTEM
+1. This is the system in which pigs are allowed to roam about and housed at night.
+2. Extensive system is also known as outdoor system.
+Advantages of extensive system
+1. It is cheap to maintain.
+2. Cuts costs of feeding because pigs look for their food.
+3. Pigs get enough physical exercises.
+4. Pigs get a balanced diet.
+Disadvantages of extensive system
+1. Pigs can easily destroy crops.
+2. Can easily be stolen.
+3. Easy spread of diseases and parasites.
+4. It is hard to keep health records.
+INTENSIVE SYSTEM
+1. It is a system in which pigs are kept and fed indoor.
+2. This system is also known as indoor system.
+3. Pigs are kept in small structures called sties.
+Advantages of intensive system
+1. Pigs are usually free from infections.
+2. Pigs grow and mature quickly.
+3. Farm records are easy to keep.
+4. Diseases and parasites are easy to control.
+5. Low death rates due to close attention.
+6. Animals yield more.
+Disadvantages of intensive system
+1. It is expensive to maintain.
+2. It needs close attention.
+3. It is tiresome to clean the sty everyday.
+The internal structure of a modern sty
+HOUSING OF PIGS
+1. A house for pigs is called a sty.
+2. Things or factors considered when constructing a sty:
+a. A sty should be well ventilated.
+b. A sty should be constructed in a well-drained area.
+104
+c. The area should be warm and dry.
+d. The sty should be large enough for easy cleaning.
+e. The floor should be made slanting for easy cleaning.
+GESTATION PERIOD OF A PIG
+1. Gestation is the period from fertilization to birth.
+2. The gestation period of a pig is three months, three weeks and three days.
+3. During the last 45 days of the gestation the sow should be steamed up.
+STEAMING UP
+Steaming up is a special feeding a pregnant animal on foods rich in proteins.
+Advantages of steaming up
+1. The animal builds up its body in preparation to give birth.
+2. Steaming encourages the foetus or embryo to grow well.
+3. Steaming up leads to increased milk production by the sow.
+4. Steaming up prevents low birth weight.
+5. Steaming up lengthens the lactation period .
+<!-- /passage -->
+
+<!-- passage lchk_f2ca73db02d44c7e9481f787e095a8fb part 35 -->
+Note . Lactation is the period through which a sow is able to produce milk.
+CASTRATION
+Castration is the removal of testes from the male animals.
+Method of castration
+a. Open operation.
+b. Closed operation.
+c. Use of the loop.
+Open operation.
+1. This is when a knife is used to cut a slit to open the scrotum vertically.
+2. The testes are removed.
+3. A hot iron is used to burn and seal off the sperm duct.
+4. The wound is then disinfected using dettol or any other disinfectant.
+Closed operation.
+1. This is where an instrument called a burdizzo is used to destroy or crash the sperm
+duct.
+A diagram of a burdizzo.
+Use of the loop.
+1. In this method, an elastic rubber band is used to squeeze the sperm duct.
+2. When the sperm duct and the blood vessel are broken, the testes shrink.
+Reasons for castration
+1. Castration makes animals docile.
+2. Castrated animals tend to grow faster than uncastrated animals.
+3. Castration prevents in breeding.
+4. Castrated animals can be grazed or kept with females without trouble.
+5. Castrated animals tend to fatten.
+105
+6. Prevent bad smell.
+RUMINANTS
+1. Ruminants are animals that chew cud.
+2. Ruminants have four stomachs.
+3. Examples of ruminants:
+a. Cattle
+b. Sheep
+c. Goats
+NON-RUMINANTS
+1. Non-ruminants do not chew cud.
+2. Non-ruminants have one stomach.
+3. Examples of non-ruminants:
+a. Pigs
+b. Man
+c. Rabbits
+The digestive system of a pig.
+DISEASES THAT ATTACK PIGS
+Disease Cause Signs And Symptoms Prevention And Control
+1 African swine
+fever
+virus
+1. Fever.
+2. Staggering.
+3. Weakness
+4. Difficult in breathing.
+5. Diarrhoea
+6 Constipation
+7. Sudden death
+1. Has no treatment.
+2. Keep pigs in door.
+3. Cull the pigs.
+4. Disinfect the pig house.
+5. Apply quarantine.
+2 Foot rot bacteria
+1. Lameness due to
+blisters.
+2. Fever.
+3. Dullness
+4. Loss of appetite.
+1. Treat with antibiotics.
+2. Isolate sick animals.
+3. Vaccinate the pigs.
+4. Cull sick animals.
+5. Apply quarantine.
+3 Anthrax bacteria
+1. Fever
+2. bleeding through the nose
+and anus.
+1. Treat with antibiotics.
+2. Burry or burn carcass.
+3. Vaccinate the pigs.
+4. Report suspected anthrax as
+soon as possible.
+5. Don’t eat meat from suddenly
+dead animals.
+4 Pneumonia bacteria
+1. Watery discharge from the
+mouth and nose.
+2. High temperature.
+3. Coughing
+4. Difficulty in breathing
+5. Loss of appetite
+1. Treat with antibiotics.
+2. Provide the pigs with enough
+space.
+3. Proper ventilation in the sty.
+4. Keep the pigsty warm and
+dry.
+5 Nagana
+(trypanosomiasis)
+Protozoa
+1. Fever.
+2. Dullness
+3. Loss of appetite.
+1. vaccinate the pigs.
+2. clear all the bushes to keep
+away tsetse flies.
+106
+4. Runny eyes that lead to
+blindness.
+5. Loss of weight.
+6. death may occur after
+several weeks.
+7. Anaemia
+6 Piglet anaemia Lack of
+iron
+Administering iron injection
+Terms used in piggery
+1. Boar - mature male pig.
+2. Sow - mature female pig.
+3. Piglet - young ones of pigs.
+4. Hog - castrated male pig.
+5. Gilt - immature female pig.
+6. Pork - meat from pigs.
+7. Farrowing - the act of producing piglets.
+8. Lard - fats got from pigs.
+FOOD AND NUTRITION
+1. Feeding
+Feeding is the taking in of food.
+2. Food
+Food is something that is good to eat.
+BREAST FEEDING
+1. Is a natural way of feeding in which a baby sucks milk from the mother’s breasts.
+2. It is recommended that a mother should breast feed her baby up to 2-3 years.
+Advantages of breast feeding to a baby
+1. Breast milk provides the baby with all the nutrients.
+2. Breast milk is easily digested.
+<!-- /passage -->
+
+<!-- passage lchk_32d8113eb38c439ea4d8301f9f446c86 part 36 -->
+3. Breast m ilk provides the baby with anti-bodies.
+4. Breast milk is always at the right body temperature.
+Note: colostrum is the milk produced by an animal in the first four days after delivery.
+Advantages of breast feeding to a mother
+1. Breast feeding can delay the next pregnancy.
+2. Breast feeding is cheap to the family in terms of expenditure.
+3. Breast feeding is time saving.
+4. Breast feeding improves the health of the mother, as she has to eat in order to maintain
+breast milk.
+BOTTLE FEEDING
+1. This is an artificial way of feeding in which a baby sucks milk from the bottle.
+2. If bottle-feeding is done properly, it can substitute breast feeding in case the mother is not
+around most of the time.
+Factors that make a baby be bottle fed
+1. In case the mother is dead or not around.
+2. When the mother has AIDS.
+3. When the mother has severe breast cancer.
+4. When a baby refuses breast milk.
+107
+5. When the mother’s breast cannot produce enough breast.
+Disadvantages of bottle feeding
+a. Bottles can easily be contaminated by houseflies.
+b. Bottles are difficult to clean properly causing germs to grow and spread.
+c. Bottle milk can get contaminated causing sickness to the child.
+d. Cow’s or tinned milk or powdered milk is expensive to buy.
+e. Some babies are allergic to cows milk.
+WEANING CHILDREN
+Weaning is the gradual introduction of solid foods to a baby’sdietin addition to breast
+milk.
+Reasons for weaning at six months
+1. The baby needs more nutrients because the body is growing.
+2. To prevent deficiency diseases.
+3. The baby needs to get iron from other foods because breast milk does not contain it.
+4. To supplement on breast milk.
+Common foods used during weaning
+a. Mashed Irish potatoes.
+b. Porridge.
+c. Sweet banana.
+d. Mashed egg yolk.
+e. Mashed beans.
+Note: Weaning is done at the age of six months to supplement breast milk.
+FOOD TABOOS AND BELIEFS
+A taboo is a cultural or religious custom that forbids people from eating certain types
+of food.
+Examples of religious food taboos
+1. Moslems are not allowed to eat pork.
+2. Moslems are not allowed to eat meat of an animal slaughtered by a non-moslem.
+3. Catholics do not eat meat on Fridays during lent.
+Examples of cultural food taboos
+1. In Buganda , girls and women were not allowed to eat chicken and eggs because they make
+them barren.
+2. Men were not allowed to eat oil nuts because they can make them impotent.
+3. Children suffering from measles are not allowed to eat meat because it makes them
+more sick.
+5. Babies were not allowed to eat liver and eggs because they make them take long
+without talking and also make them urinate and defecate on their beds.
+Advantages of food taboos and beliefs
+1. Certain people and tribes have plenty of foodstuffs to eat.
+2. Certain animals and plants are conserved in areas where they are not eaten.
+Disadvantages of food taboos and beliefs
+1. Food beliefs and taboos can result into malnutritional diseases.
+2. Pregnant women may become malnourished and produce underweight babies.
+108
+VULNERABLE GROUPS OF PEOPLE
+These are groups of people whose health can easily be harmed if they are not given
+enough of the correct food to eat.
+Examples of vulnerable groups of people:
+a. Pregnant women.
+b. Sick people.
+c. Elderly people.
+d. Weaning children.
+e. Breast feeding mothers.
+f. Breast fed babies.
+PREGNANT WOMEN
+6. Pregnant women need to eat food that will be enough for themselves and for the
+foetus growing in their wombs.
+<!-- /passage -->
+
+<!-- passage lchk_b22f7567544a4994bcf933baf861aeee part 37 -->
+7. A pregnant woman needs a balanced diet containing the following:
+Proteins
+To build the body tissues of the foetus growing inside her womb and also repair the
+worn out cells on her body.
+Carbohydrates
+To give enough energy to carry the in their womb.
+Iron
+To enable formation of more blood enough for the mother and the foetus.
+Calcium
+To build strong bones of the foetus inside the womb
+Vitamins
+To protect her and the foetus from certain diseases
+SICK PEOPLE
+1. Sick people need food and extra fluids in order to help the body to fight sickness.
+2. Most of the foods include the following:
+Proteins
+Proteins to repair worn out cells during sickness.
+Vitamins and mineral salts
+The most important are vitamin C, calcium and iron to build the body defence and also
+help in the manufacture of blood.
+Fluids
+Fluids to prevent dehydration. Such foods include clean boiled water, fruit juice, soup
+from meat, chicken or fish.
+Frequent feeding
+Sick people may not be able to eat very much at one time so they should be fed with easily
+digestible foods .
+109
+ELDERLY PEOPLE
+1. When people grow old, they often lose their teeth which cause health problems such
+that they do not crush their food for easy digestion which can cause indigestion or
+constipation.
+2. Elderly people need the following:
+a) Foods that are easy to eat such as minced meat, mashed fruits etc.
+b) Frequent feeding because they may not be able to eat very much at one time.
+c) Stomach walls are weak to churn the food.
+STAPLE FOODS FOR DIFFERENT COMMUNITIES
+A staple food is the food commonly eaten by a particular community.
+Common staple foods.
+a) Matooke
+b) Millet
+c) Maize
+d) Cassava.
+e) Sweet potatoes
+f) Irish potatoes.
+g) Yams
+h) Sorghum.
+Examples of staple foods for different communities
+The Iteso
+a) Millet
+b) Cassava for mixing the millet.
+c) Sorghum
+The Baganda
+a) Matooke.
+b) Cassava
+c) Sweet potatoes.
+The Basoga
+a) Sweet potatoes.
+b) Cassava.
+c) Millet.
+d) Yams
+The Banyankole
+a) Matooke.
+b) Millet
+c) Cassava
+d) Irish potatoes.
+The Acholi and langi .
+a) Cassava
+b) Millet.
+c) Sorghum
+Reasons why different communities prefer the above foods.
+a) Climate in the regions favour their growth.
+110
+b) The type of soils in their areas.
+PRIMARY HEALTH CARE
+1. Primary Health Care is the essential health care where individuals, families or
+communities work together to solve their own health problems.
+2. Primary Health Care is commonly abbreviated as PHC.
+Note: Health is the state of physical, social and mental welfare.
+Elements of Primary Health Care
+a. Sanitation
+b. Family planning
+c. Nutrition
+d. Immunisation
+e. Hygiene
+f. First aid
+g. Antenatal and postnatal care.
+h. Provision of safe water.
+Principlals of PHC
+a. Equal care for every for everybody.
+b. It should be affordable for all.
+c. It should be accessible to all.
+d. It should be available to all.
+Some of the ways how to inform and educate people
+1. Through songs, plays, story telling which interest and excite people to increase their
+activities in health.
+2. Through radio, news papers, talks and discussions with health staff and community
+health workers.
+3. School pupils can pass health information to their relatives and community in general.
+AN INDIVIDUAL AND PRIMARY HEALTH CARE
+1. Bathing regularly.
+2. Brushing teeth every after a meal.
+3. Cutting finger nails short.
+4. Washing hands after visiting the toilets.
+5. Washing hands before and after eating.
+FAMILY AND PRIMARY HEALTH CARE
+The family can participate in Primary health Care by:
+<!-- /passage -->
+
+<!-- passage lchk_526230f19ede43438ded4c772c39a030 part 38 -->
+a. Collecting and burrying rubbish.
+b. Boiling drinking water.
+c. Fetching water.
+d. Washing utensils.
+e. Scrubbing the toilet.
+f. Sweeping the compound.
+g. Elders educating the young ones how to keep health.
+h. Preparing a balanced diet.
+THE COMMUNITY AND PRIMARY HEALTH CARE
+1. A community is a group of people living and working together in the same locality.
+2. A community can participate in Primary Health Care by:
+111
+a. Organising regular community clean up campaigns to do the following:
+i) To pick up broken glass.
+ii) To pick up plastic bags and papers.
+iii) Sweeping and removing rubbish.
+b. Reporting any unusual occurrence of a disease in a community.
+c. Assist in community education i.e. talking to groups about health, discussing a
+radio or Television programme on health.
+d. Ensuring that all children in a community are immunised.
+e. Protecting wells and other water sources, construction of communal, rubbish pits,
+latrines.
+Suitable lifestyles and good health practices.
+1. Observe proper hygiene of the body and food.
+2. Observe proper sanitation.
+3. Eat foods containing a balanced diet.
+4. Smoke and keep pit latrines clean and always flash toilets after use.
+5. Dump household garbage in dustbins or waste pits and burry them.
+6. Cover left over foods or reheat food before eating.
+7. Utensils and cutlery should be kept clean all the time.
+h. Avoiding alcoholism, drug abuse and smoking.
+PEOPLE WITH SPECIAL NEEDS.
+These are groups of people who need special help to enable them survive.
+Examples of people with special needs
+a. The sick.
+b. The Elderly.
+c. The disabled.
+d. The young.
+THE SICK, INVALID AND CONVALESCENT
+A sick person
+This is a person suffering from a disease or an illness and has shown signs and symptoms of a
+disease.
+An invalid
+An invalid is a person who is totally down with sickness and can not help him or
+herself.
+Convalescent
+A convalescent is a person getting treatment and is recovering after an illness or sickness.
+How to care for the sick, invalid and convalescent
+The following must be observed:
+a. Washing for them their clothes
+b. Preparing their beds.
+c. Preparing their food.
+d. Reminding them to take medicine.
+e. Bathing them.
+f. Taking them to health centers.
+112
+How to care for the elderly
+a) Washing for them their clothes
+b) Preparing their beds.
+c) Preparing for them a balanced diet.
+d) Giving them easily digestible food.
+e) Giving them company
+f) Helping them to bathe.
+g) Taking them to health centers for routine check ups.
+h) Helping them to do some physical exercises.
+How to care for the disabled
+a) Helping them get water.
+b) Helping them reach where they can’t.
+c) Helping them get a balanced diet.
+d) Help them understand messages through sign language.
+e) Helping them maintain their hygiene.
+f) They need devices to help them hear, see or walk.
+How to care for the young
+a) They need a balanced diet to prevent deficiency diseases.
+b) The young need protection.
+c) The young need medication.
+d) They need to maintain their hygiene.
+SCHOOL HEALTH CLUB
+1. A school health club is composed of teachers, pupils, community health workers and
+interested parents.
+2. It is advisable for every school to have a School Health Club.
+Activities of a School Health Club
+1. It prepares health campaigns against pupils who smoke and drink alcohol.
+2. It prepares health campaigns for immunisation.
+3. It invites health workers to talk to pupils about health matter.
+4. A health club raises money for the first aid kit.
+<!-- /passage -->
+
+<!-- passage lchk_59a1f8ab7a7a4022ab0f32ebc5750eb7 part 39 -->
+5. It organises members at school to clean the school by picking litter.
+HEALTH PARADES
+These are assemblies intended to check children’s health and hygiene.
+Activities carried out on health parade.
+1. Teachers check r children whose heads and bodies are not well cleaned.
+2. Teachers check children whose nails are not well groomed.
+3. Teachers check children who do not brush their teeth.
+4. Teachers check children who do not comb their hair.
+5. Teachers check children who do not clean their clothes and bags.
+Note: While checking is going on, records are made on each individual child.
+<!-- /passage -->
+

@@ -1,0 +1,32 @@
+{
+  "job": "ltsk_9e8f8f73b860400fb45a3b163422108f-0",
+  "task": "ltsk_9e8f8f73b860400fb45a3b163422108f",
+  "call": 0,
+  "kind": "scheme.outline",
+  "status": "open",
+  "attempt": 1,
+  "priority": 20,
+  "school": "sch-7207f9",
+  "class": "P7",
+  "classLevel": 7,
+  "subject": "Social Studies",
+  "term": "2026-T3",
+  "week": null,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P7/social-studies",
+  "passages": [
+    "lchk_c8e10e5097074644ad353ff3556c7e2b",
+    "lchk_411e092405944d91882777f9ec80cdd7",
+    "lchk_527b2d4028b540489573908c47f7a593",
+    "lchk_d2861670341541fc82e4b0a679a47bf0",
+    "lchk_7b75c9e4203840aea59fb098eb0e285f",
+    "lchk_43fbd13f2d104b4eafa4f0fd7699e826",
+    "lchk_37a4c60f0274410483d4443cbc745314",
+    "lchk_0c56539c89484eec86f795bd3b158bd7",
+    "lchk_a6654d7ed3fb4ebfa3aa6f04a2666943"
+  ],
+  "created": "2026-10-17T11:40:32.803Z"
+}

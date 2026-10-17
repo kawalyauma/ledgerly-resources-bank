@@ -1,0 +1,33 @@
+{
+  "job": "ltsk_238926dcc1a2479c9b7083e4b5e035e0-0",
+  "task": "ltsk_238926dcc1a2479c9b7083e4b5e035e0",
+  "call": 0,
+  "kind": "scheme.outline",
+  "status": "open",
+  "attempt": 1,
+  "priority": 20,
+  "school": "sch-7207f9",
+  "class": "P7",
+  "classLevel": 7,
+  "subject": "English",
+  "term": "2026-T3",
+  "week": null,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P7/english",
+  "passages": [
+    "lchk_87feb9a3e55c4e4ab77a22d78fd18f5a",
+    "lchk_c75f88c119284459a6512dc42b32dd09",
+    "lchk_2ff04ebf9fce49efb38bb4ef37557a47",
+    "lchk_353598fed04540bbab983d077b366ef2",
+    "lchk_7f8e8e4dbd91416989e53cf597d7aebb",
+    "lchk_c20b71a8f6274d2e87ee6f0b3a4e1576",
+    "lchk_0f6e8885fc4342baaf74e8407c22f91d",
+    "lchk_6e862e0d7a4940e9aa4a479e3fb1c142",
+    "lchk_08c7d063908b400f88e9bb1a61f7b320",
+    "lchk_bfb3c62f2b4b4ef5b19bb3c4b517b0a9"
+  ],
+  "created": "2026-10-17T11:40:12.851Z"
+}

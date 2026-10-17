@@ -15,10 +15,6 @@
 | lsrc_8cb94b7613e54253a6df4b6f9f0bc600 | Primary 5 Mathematics Lesson Notes, Terms 1–3 | notes | ulibtech | 22 |
 | lsrc_c0fc4130ae6142f2ac0d54915d4f6254 | Primary 5 Mathematics Lesson Notes: Terms I, II and III | notes | ulibtech | 40 |
 | lsrc_a65030e3bb554044833888e5bacf01ad | Primary 5 Mathematics Notes: Terms I, II and III | notes | ulibtech | 40 |
-| lsrc_2c851e719ac94d14bf9053388686e9ee | Kolfram MTC P 5 | reference | ulibtech | 40 |
-| lsrc_c9c39082105343d081b3d594f07f0477 | P 5 Lesson Notes Mathematics 2021 | reference | ulibtech | 22 |
-| lsrc_f6831f5675a94c64acc95d0fecc510df | P 5 Primary Five MTC Notes Teacher AC | reference | ulibtech | 21 |
-| lsrc_eb70a41600d146c18ded000fbe001d8e | P5 Mathematics | reference | ulibtech | 46 |
 | lsrc_11ba5a5bb88149adac7d8f26da6269b8 | P5 Mathematics Revision Work – Set One (2020) | past_papers | ulibtech | 2 |
 | lsrc_3a5476348c464cffa9932bf83cc47f1d | P5 Mathematics Revision Work – Set Two (2020) | past_papers | ulibtech | 2 |
 | lsrc_e69ce00b235a4a1b9e1435784c0f9b91 | Primary Five End-of-Year Mathematics Examination | past_papers | ulibtech | 1 |

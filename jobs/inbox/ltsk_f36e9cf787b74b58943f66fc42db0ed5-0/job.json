@@ -1,0 +1,31 @@
+{
+  "job": "ltsk_f36e9cf787b74b58943f66fc42db0ed5-0",
+  "task": "ltsk_f36e9cf787b74b58943f66fc42db0ed5",
+  "call": 0,
+  "kind": "scheme.outline",
+  "status": "open",
+  "attempt": 1,
+  "priority": 20,
+  "school": "sch-7207f9",
+  "class": "P7",
+  "classLevel": 7,
+  "subject": "Islamic Religious Education",
+  "term": "2026-T3",
+  "week": null,
+  "weeks": 10,
+  "periodsPerWeek": 3,
+  "lessons": [],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P7/islamic-religious-education",
+  "passages": [
+    "lchk_0d7438cad8924bbe9a8d510e64c4f5c7",
+    "lchk_b76cec0204e74a49aa88162e63a31fb0",
+    "lchk_86310d98cff1405a854548de477e0a10",
+    "lchk_6fbb76e4226043a4b69e2930bcaf1e7f",
+    "lchk_b0147db8650c4ac78a3b68a71ebb998e",
+    "lchk_1b06da28b592406a82ed54b1d8a98585",
+    "lchk_407576c7d86e431fb64bcb8c8a691e27",
+    "lchk_edb07a1f565d4058b8056094bebd7dd5"
+  ],
+  "created": "2026-10-17T11:40:17.780Z"
+}
