@@ -1,0 +1,630 @@
+{
+  "units": [
+    {
+      "title": "Science at Home and in Our Community",
+      "theme": "Science in Human Activities and Occupations",
+      "weekFrom": 1,
+      "weekTo": 2
+    },
+    {
+      "title": "Accidents and First Aid",
+      "theme": "Human Health",
+      "weekFrom": 2,
+      "weekTo": 4
+    },
+    {
+      "title": "Sanitation",
+      "theme": "Human Health",
+      "weekFrom": 5,
+      "weekTo": 7
+    },
+    {
+      "title": "The Reproductive System",
+      "theme": "Human Body",
+      "weekFrom": 7,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_d05728906d2b44f1a6821687fbb85097",
+      "seq": 1,
+      "week": 1,
+      "title": "Safe drinking water",
+      "subtopic": "Safe drinking water",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Science at Home and in Our Community"
+    },
+    {
+      "id": "lles_487f493cee954c7c968c6958b83f6469",
+      "seq": 2,
+      "week": 1,
+      "title": "Water impurities",
+      "subtopic": "Water impurities",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Science at Home and in Our Community"
+    },
+    {
+      "id": "lles_b65189aea11848329da9daf3871c0a06",
+      "seq": 3,
+      "week": 1,
+      "title": "Boiling water",
+      "subtopic": "Boiling water",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Science at Home and in Our Community"
+    },
+    {
+      "id": "lles_e52ce5f2126b425fa858c3df16286e98",
+      "seq": 4,
+      "week": 1,
+      "title": "Filtering water",
+      "subtopic": "Filtering water",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Science at Home and in Our Community"
+    },
+    {
+      "id": "lles_7fe1d23bcb78465fa793028bdf830a67",
+      "seq": 5,
+      "week": 1,
+      "title": "Treating water",
+      "subtopic": "Treating water",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Science at Home and in Our Community"
+    },
+    {
+      "id": "lles_bd74e013218c4843b3003456e5b101d9",
+      "seq": 6,
+      "week": 1,
+      "title": "Distilling water",
+      "subtopic": "Distilling water",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Science at Home and in Our Community"
+    },
+    {
+      "id": "lles_b9b0d17f5a564685a597818bc49a5dfe",
+      "seq": 7,
+      "week": 2,
+      "title": "Decanting water",
+      "subtopic": "Decanting water",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Science at Home and in Our Community"
+    },
+    {
+      "id": "lles_dcb19853f6794ca0a36df0ffc52d4c2a",
+      "seq": 8,
+      "week": 2,
+      "title": "Sorting and soaking clothes",
+      "subtopic": "Sorting and soaking clothes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Science at Home and in Our Community"
+    },
+    {
+      "id": "lles_c813876e026e42cb87042c460b39c742",
+      "seq": 9,
+      "week": 2,
+      "title": "Washing and rinsing clothes",
+      "subtopic": "Washing and rinsing clothes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Science at Home and in Our Community"
+    },
+    {
+      "id": "lles_b157a20810f745258dafc0bbb128453f",
+      "seq": 10,
+      "week": 2,
+      "title": "Accidents and first aid",
+      "subtopic": "Accidents and first aid",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_cd29e28062e2488ea00c91695522017a",
+      "seq": 11,
+      "week": 2,
+      "title": "Burns and scalds",
+      "subtopic": "Burns and scalds",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_716e46e8601a436983fca63419294cc5",
+      "seq": 12,
+      "week": 2,
+      "title": "Preventing burns",
+      "subtopic": "Preventing burns",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_80e57e204f724e928c9958d6d03cb11d",
+      "seq": 13,
+      "week": 3,
+      "title": "First aid for burns",
+      "subtopic": "First aid for burns",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_d63e261f107e4043bc4914755961fe30",
+      "seq": 14,
+      "week": 3,
+      "title": "Fever and convulsions",
+      "subtopic": "Fever and convulsions",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_de89385225d14487af0153ba9c894e7a",
+      "seq": 15,
+      "week": 3,
+      "title": "Causes of fever",
+      "subtopic": "Causes of fever",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_42446ce24b364adf8ffa5b8aa2f75333",
+      "seq": 16,
+      "week": 3,
+      "title": "First aid for fever",
+      "subtopic": "First aid for fever",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_43e47cb05c67473da0dc9ee29cc8b9c5",
+      "seq": 17,
+      "week": 3,
+      "title": "Near drowning",
+      "subtopic": "Near drowning",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_5a30bef06f864e4091441d10fea09e91",
+      "seq": 18,
+      "week": 3,
+      "title": "First aid for near drowning",
+      "subtopic": "First aid for near drowning",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_5c06de1d9a4a403a8a397d909cb7f3cb",
+      "seq": 19,
+      "week": 4,
+      "title": "Fainting",
+      "subtopic": "Fainting",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_7628bee787e94a36ba1c12b4319bfaf0",
+      "seq": 20,
+      "week": 4,
+      "title": "Causes of fainting",
+      "subtopic": "Causes of fainting",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_1201aa5ff6b443b880ce109213cc41dc",
+      "seq": 21,
+      "week": 4,
+      "title": "First aid for fainting",
+      "subtopic": "First aid for fainting",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_ff036d84a9cb49bc8ca781b70629ff2f",
+      "seq": 22,
+      "week": 4,
+      "title": "Foreign bodies in passages",
+      "subtopic": "Foreign bodies in passages",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_4d23c227825f4863bbf45b71a94a9fab",
+      "seq": 23,
+      "week": 4,
+      "title": "Safety precautions",
+      "subtopic": "Safety precautions",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_331c9addf778416baa91a4ef1865b00e",
+      "seq": 24,
+      "week": 4,
+      "title": "Practical first aid",
+      "subtopic": "Practical first aid",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Accidents and First Aid"
+    },
+    {
+      "id": "lles_d6849f7bf2624265a8b3a991991cd67d",
+      "seq": 25,
+      "week": 5,
+      "title": "Meaning of sanitation",
+      "subtopic": "Meaning of sanitation",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Sanitation"
+    },
+    {
+      "id": "lles_7016f759e9314e239f7b3769e78fed1f",
+      "seq": 26,
+      "week": 5,
+      "title": "Toilets and latrines",
+      "subtopic": "Toilets and latrines",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Sanitation"
+    },
+    {
+      "id": "lles_c7380c003b1142b1bdd43e5284b81c5f",
+      "seq": 27,
+      "week": 5,
+      "title": "Conventional latrines",
+      "subtopic": "Conventional latrines",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Sanitation"
+    },
+    {
+      "id": "lles_4d128d7f7b244507b21f90b9a22139e4",
+      "seq": 28,
+      "week": 5,
+      "title": "VIP latrines",
+      "subtopic": "VIP latrines",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Sanitation"
+    },
+    {
+      "id": "lles_74ba8f41d65643d6be96f364fe04fcf4",
+      "seq": 29,
+      "week": 5,
+      "title": "Ecosan sanitation",
+      "subtopic": "Ecosan sanitation",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Sanitation"
+    },
+    {
+      "id": "lles_2097d8653fa3493298a5b450a5b569d9",
+      "seq": 30,
+      "week": 5,
+      "title": "Water closet toilets",
+      "subtopic": "Water closet toilets",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Sanitation"
+    },
+    {
+      "id": "lles_c38314bce4844a48abb7b816dc2837f4",
+      "seq": 31,
+      "week": 6,
+      "title": "Proper use of a potty",
+      "subtopic": "Proper use of a potty",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Sanitation"
+    },
+    {
+      "id": "lles_77b635a62ae246e898ab5d466a43ac75",
+      "seq": 32,
+      "week": 6,
+      "title": "Comparing toilets and latrines",
+      "subtopic": "Comparing toilets and latrines",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Sanitation"
+    },
+    {
+      "id": "lles_29f0a1bb52ae4f2cb3c3aee3776ab467",
+      "seq": 33,
+      "week": 6,
+      "title": "Importance of toilets and latrines",
+      "subtopic": "Importance of toilets and latrines",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Sanitation"
+    },
+    {
+      "id": "lles_f65f6ce4f3a840a789425ab1dff58d1b",
+      "seq": 34,
+      "week": 6,
+      "title": "Sanitation and disease prevention",
+      "subtopic": "Sanitation and disease prevention",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Sanitation"
+    },
+    {
+      "id": "lles_4e0aff2fd8b144e69d06c52395bdfc85",
+      "seq": 35,
+      "week": 6,
+      "title": "Proper use of latrines",
+      "subtopic": "Proper use of latrines",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Sanitation"
+    },
+    {
+      "id": "lles_5464b2742be84a20a318f124d9f36cd4",
+      "seq": 36,
+      "week": 6,
+      "title": "Cleaning toilets",
+      "subtopic": "Cleaning toilets",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Sanitation"
+    },
+    {
+      "id": "lles_abe0f1273a24496f826196aa5de0010b",
+      "seq": 37,
+      "week": 7,
+      "title": "Maintaining latrines",
+      "subtopic": "Maintaining latrines",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Sanitation"
+    },
+    {
+      "id": "lles_615ffaabd2d4487ea5315102300b5ffb",
+      "seq": 38,
+      "week": 7,
+      "title": "Sanitation cleaning tools",
+      "subtopic": "Sanitation cleaning tools",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Sanitation"
+    },
+    {
+      "id": "lles_c0f6f355e77b4a0dab6be90da3b52030",
+      "seq": 39,
+      "week": 7,
+      "title": "School sanitation activities",
+      "subtopic": "School sanitation activities",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Sanitation"
+    },
+    {
+      "id": "lles_86cded9d9847490383a902c69107e6e9",
+      "seq": 40,
+      "week": 7,
+      "title": "Human growth and development",
+      "subtopic": "Human growth and development",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_2b410bba54d74326bae7a859467af4d1",
+      "seq": 41,
+      "week": 7,
+      "title": "Puberty and adolescence",
+      "subtopic": "Puberty and adolescence",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_89f8af58c6ff4d01846d44eeee969533",
+      "seq": 42,
+      "week": 7,
+      "title": "Primary sex characteristics",
+      "subtopic": "Primary sex characteristics",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_6f8a9a418b99443b851c105968f26a93",
+      "seq": 43,
+      "week": 8,
+      "title": "Secondary sex characteristics",
+      "subtopic": "Secondary sex characteristics",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_26a8efa5388848fe9815b2287cd56209",
+      "seq": 44,
+      "week": 8,
+      "title": "Social changes in adolescence",
+      "subtopic": "Social changes in adolescence",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_18f175c8b5a34573a8798353e910f1ec",
+      "seq": 45,
+      "week": 8,
+      "title": "Emotional changes in adolescence",
+      "subtopic": "Emotional changes in adolescence",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_e16bebda4fef4ce2aca9e2aed88013c5",
+      "seq": 46,
+      "week": 8,
+      "title": "Male reproductive organs",
+      "subtopic": "Male reproductive organs",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_dde1c5a412d340be9760fc2b22a1931b",
+      "seq": 47,
+      "week": 8,
+      "title": "Female reproductive organs",
+      "subtopic": "Female reproductive organs",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_365e823e25e74893b2736478e6af6630",
+      "seq": 48,
+      "week": 8,
+      "title": "Reproductive cells",
+      "subtopic": "Reproductive cells",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_76b69ea364a64f61bff55c8c8311f77b",
+      "seq": 49,
+      "week": 9,
+      "title": "Fertilisation",
+      "subtopic": "Fertilisation",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_eb65f3aa8f024209a0ce65903923304e",
+      "seq": 50,
+      "week": 9,
+      "title": "Conception",
+      "subtopic": "Conception",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_9b16334ed5fa43ac92bf225a9fdf10bd",
+      "seq": 51,
+      "week": 9,
+      "title": "Pregnancy",
+      "subtopic": "Pregnancy",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_9724eb9351b64d68999822f6a1e090b7",
+      "seq": 52,
+      "week": 9,
+      "title": "Reproductive health",
+      "subtopic": "Reproductive health",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_1dbb3a28aa02460a952c738c7a285d7b",
+      "seq": 53,
+      "week": 9,
+      "title": "Teenage pregnancy",
+      "subtopic": "Teenage pregnancy",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_5021738feae54bbcaa65a55c81e7a3b1",
+      "seq": 54,
+      "week": 9,
+      "title": "Problems in pregnancy",
+      "subtopic": "Problems in pregnancy",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_fcfe7284e5704b3993e7a089b7fa5264",
+      "seq": 55,
+      "week": 10,
+      "title": "Care of reproductive organs",
+      "subtopic": "Care of reproductive organs",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_f8db6db98b564b67bf0849b33bad4f12",
+      "seq": 56,
+      "week": 10,
+      "title": "Diseases and disorders",
+      "subtopic": "Diseases and disorders",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_809e60363e5d4642939f4f1872aa0b08",
+      "seq": 57,
+      "week": 10,
+      "title": "Family planning and child spacing",
+      "subtopic": "Family planning and child spacing",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_d25d42bbd3c44e3582c5a1c63a6e0ff7",
+      "seq": 58,
+      "week": 10,
+      "title": "Myths about reproductive health",
+      "subtopic": "Myths about reproductive health",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_a9157ddad45b41d7b69e05389f1fc32a",
+      "seq": 59,
+      "week": 10,
+      "title": "End-of-term science assessment",
+      "subtopic": "End-of-term science assessment",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    },
+    {
+      "id": "lles_1d7e39784faa4822bc8dffa44aacbc10",
+      "seq": 60,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Science at Home and in Our Community, Accidents and First Aid, Sanitation, The Reproductive System",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "The Reproductive System"
+    }
+  ]
+}

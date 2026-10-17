@@ -1,0 +1,78 @@
+{
+  "job": "ltsk_2e6488baae014bac97494970e8e6b92e-0",
+  "task": "ltsk_2e6488baae014bac97494970e8e6b92e",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 51,
+  "school": "sch-7207f9",
+  "class": "P6",
+  "classLevel": 6,
+  "subject": "Science",
+  "term": "2026-T3",
+  "week": 1,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [
+    {
+      "id": "lles_d05728906d2b44f1a6821687fbb85097",
+      "kind": "teach",
+      "week": 1,
+      "title": "Safe drinking water",
+      "periods": 1,
+      "subtopic": "Safe drinking water"
+    },
+    {
+      "id": "lles_487f493cee954c7c968c6958b83f6469",
+      "kind": "teach",
+      "week": 1,
+      "title": "Water impurities",
+      "periods": 1,
+      "subtopic": "Water impurities"
+    },
+    {
+      "id": "lles_b65189aea11848329da9daf3871c0a06",
+      "kind": "teach",
+      "week": 1,
+      "title": "Boiling water",
+      "periods": 1,
+      "subtopic": "Boiling water"
+    },
+    {
+      "id": "lles_e52ce5f2126b425fa858c3df16286e98",
+      "kind": "teach",
+      "week": 1,
+      "title": "Filtering water",
+      "periods": 1,
+      "subtopic": "Filtering water"
+    },
+    {
+      "id": "lles_7fe1d23bcb78465fa793028bdf830a67",
+      "kind": "teach",
+      "week": 1,
+      "title": "Treating water",
+      "periods": 1,
+      "subtopic": "Treating water"
+    },
+    {
+      "id": "lles_bd74e013218c4843b3003456e5b101d9",
+      "kind": "teach",
+      "week": 1,
+      "title": "Distilling water",
+      "periods": 1,
+      "subtopic": "Distilling water"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P6/science",
+  "passages": [
+    "lchk_423533289cce49e2ad444f1ac034ec9e",
+    "lchk_fb87e8874d7541f4ba18ae85b06eddc6",
+    "lchk_3992e00e9502482f9c49407a8d400893",
+    "lchk_c4c6d466acb549fa9c4bba1246eb74f8",
+    "lchk_8e9d431e9d6b47f498cca1284b751ed0",
+    "lchk_b3ba2ada9d144186bfd0378008d26191"
+  ],
+  "created": "2026-10-17T12:54:50.347Z"
+}
