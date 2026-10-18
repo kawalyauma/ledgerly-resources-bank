@@ -1,0 +1,525 @@
+{
+  "title": "P3 Islamic Religious Education Scheme — 2026 Term III",
+  "summary": "Twenty NCDC-aligned 40-minute lessons across ten weeks. Coverage: Khadijah and the Revelation; Rites of the Qur'an; Uniqueness of the Qur'an; Impurities and Toilet Manners; Dua for knowledge; The Call. Third weekly periods are reserved for review.",
+  "units": [
+    {
+      "title": "History of Islam — Khadijah and the Revelation",
+      "theme": "Khadijah and the Revelation",
+      "weekFrom": 1,
+      "weekTo": 2,
+      "competences": "Describes the first revelation, Khadijah's reaction and Waraqa bin Nawfal's role.",
+      "sources": [
+        {
+          "source": "lchk_0483f0e20f2044b2bcdd9445a9aef8ca",
+          "quote": "Khadijah and the Revelation"
+        },
+        {
+          "source": "lchk_f1810b7b39dd4e0a98bd9bdf9cd7a817",
+          "quote": "Khadijah and the Revelation"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Events immediately after the first revelation",
+          "subtopic": "Khadijah and the Revelation",
+          "week": 1,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to tell what happened immediately after the first revelation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f1810b7b39dd4e0a98bd9bdf9cd7a817",
+              "quote": "Events which Occurred Immediately after the First"
+            },
+            {
+              "source": "lchk_0483f0e20f2044b2bcdd9445a9aef8ca",
+              "quote": "Khadijah and the Revelation"
+            }
+          ]
+        },
+        {
+          "title": "Khadijah's reaction to the first revelation",
+          "subtopic": "Khadijah and the Revelation",
+          "week": 1,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to describe how Khadijah responded to the first revelation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0bae47a91d89494f859251372186e83c",
+              "quote": "Khadijah’s Reactions"
+            },
+            {
+              "source": "lchk_0483f0e20f2044b2bcdd9445a9aef8ca",
+              "quote": "Khadijah and the Revelation"
+            }
+          ]
+        },
+        {
+          "title": "Role of Waraqa bin Nawfal",
+          "subtopic": "Khadijah and the Revelation",
+          "week": 2,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to describe the role of Waraqa bin Nawfal."
+          ],
+          "sources": [
+            {
+              "source": "lchk_057e00aab4e44d66aa9549782d5bacd2",
+              "quote": "The role of Waraqa bin Nawfal"
+            },
+            {
+              "source": "lchk_0483f0e20f2044b2bcdd9445a9aef8ca",
+              "quote": "Khadijah and the Revelation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Reading of the Qur'an — Rites of the Qur'an",
+      "theme": "Rites of the Qur’an",
+      "weekFrom": 2,
+      "weekTo": 3,
+      "competences": "Identifies rites of the Qur'an and demonstrates Wudhu and recognition of Arabic vowels.",
+      "sources": [
+        {
+          "source": "lchk_0483f0e20f2044b2bcdd9445a9aef8ca",
+          "quote": "Rites of the Qur’an"
+        },
+        {
+          "source": "lchk_057e00aab4e44d66aa9549782d5bacd2",
+          "quote": "Rites of the Qur’an"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Rites before reciting the Qur'an",
+          "subtopic": "Rites of the Qur’an",
+          "week": 2,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to name rites before reading the Qur'an."
+          ],
+          "sources": [
+            {
+              "source": "lchk_057e00aab4e44d66aa9549782d5bacd2",
+              "quote": "Rites of the Qur’an"
+            },
+            {
+              "source": "lchk_0483f0e20f2044b2bcdd9445a9aef8ca",
+              "quote": "Rites of the Qur’an"
+            }
+          ]
+        },
+        {
+          "title": "Performing Wudhu",
+          "subtopic": "Rites of the Qur’an",
+          "week": 3,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to explain how Wudhu is performed before reading the Qur'an."
+          ],
+          "sources": [
+            {
+              "source": "lchk_092ba41d16184e7986d312a6fadeac86",
+              "quote": "Performing Wudhu"
+            },
+            {
+              "source": "lchk_0483f0e20f2044b2bcdd9445a9aef8ca",
+              "quote": "Rites of the Qur’an"
+            }
+          ]
+        },
+        {
+          "title": "Arabic vowels and syllables",
+          "subtopic": "Rites of the Qur’an",
+          "week": 3,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to recognise Arabic vowels and form syllables."
+          ],
+          "sources": [
+            {
+              "source": "lchk_9cc46185e03c4d78a7859433b246a838",
+              "quote": "Arabic Vowels in Words"
+            },
+            {
+              "source": "lchk_0483f0e20f2044b2bcdd9445a9aef8ca",
+              "quote": "Rites of the Qur’an"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tawhiid (Faith) — Uniqueness of the Qur'an",
+      "theme": "Uniqueness of the Qur’an",
+      "weekFrom": 4,
+      "weekTo": 5,
+      "competences": "Explains the unique nature and universal message of the Qur'an.",
+      "sources": [
+        {
+          "source": "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+          "quote": "Uniqueness of the Qur’an"
+        },
+        {
+          "source": "lchk_6f2923255c7348f981bc07db4fdd1cf1",
+          "quote": "Uniqueness of the Qur’an"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Uniqueness of the Qur'an: miracles",
+          "subtopic": "Uniqueness of the Qur’an",
+          "week": 4,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to describe how the Qur'an is unique."
+          ],
+          "sources": [
+            {
+              "source": "lchk_6f2923255c7348f981bc07db4fdd1cf1",
+              "quote": "Uniqueness of the Qur’an –The Miracles"
+            },
+            {
+              "source": "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+              "quote": "Uniqueness of the Qur’an"
+            }
+          ]
+        },
+        {
+          "title": "Universal message of the Qur'an",
+          "subtopic": "Uniqueness of the Qur’an",
+          "week": 4,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to explain the universal nature of the Qur'an."
+          ],
+          "sources": [
+            {
+              "source": "lchk_6f2923255c7348f981bc07db4fdd1cf1",
+              "quote": "Uniqueness of the Qur’an – Universal"
+            },
+            {
+              "source": "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+              "quote": "Uniqueness of the Qur’an"
+            }
+          ]
+        },
+        {
+          "title": "The Qur'an and other Holy Books",
+          "subtopic": "Uniqueness of the Qur’an",
+          "week": 5,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify other holy books mentioned in the Qur'an."
+          ],
+          "sources": [
+            {
+              "source": "lchk_edebe6be2b834056b6d0162e78ca0e07",
+              "quote": "Uniqueness of the Qur’an vs Messages of other Holy"
+            },
+            {
+              "source": "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+              "quote": "Uniqueness of the Qur’an"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fiqh (Practice) — Impurities and Toilet Manners",
+      "theme": "Impurities and Toilet Manners",
+      "weekFrom": 5,
+      "weekTo": 6,
+      "competences": "Defines Najasah, names impurities and describes toilet manners and ablution.",
+      "sources": [
+        {
+          "source": "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+          "quote": "Impurities and Toilet Manners"
+        },
+        {
+          "source": "lchk_fc36b259ad07447595766595cb6ec191",
+          "quote": "Impurities and Toilet Manners"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning of Najasah",
+          "subtopic": "Impurities and Toilet Manners",
+          "week": 5,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to explain the meaning of Najasah."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc36b259ad07447595766595cb6ec191",
+              "quote": "Najasah (Impurities)"
+            },
+            {
+              "source": "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+              "quote": "Impurities and Toilet Manners"
+            }
+          ]
+        },
+        {
+          "title": "Examples of impurities",
+          "subtopic": "Impurities and Toilet Manners",
+          "week": 6,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify examples of impurities."
+          ],
+          "sources": [
+            {
+              "source": "lchk_fc36b259ad07447595766595cb6ec191",
+              "quote": "Examples of Impurities"
+            },
+            {
+              "source": "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+              "quote": "Impurities and Toilet Manners"
+            }
+          ]
+        },
+        {
+          "title": "Istinjae and ablution",
+          "subtopic": "Impurities and Toilet Manners",
+          "week": 6,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to explain Istinjae and the need for ablution."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e6a0848741b94edfb8bc42a462bf59cd",
+              "quote": "Istinjae (Toilet Manners)"
+            },
+            {
+              "source": "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+              "quote": "Impurities and Toilet Manners"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Moral and Spiritual Teachings — Dua for Knowledge",
+      "theme": "Dua",
+      "weekFrom": 7,
+      "weekTo": 9,
+      "competences": "Recites Duas for knowledge and explains their meaning and importance.",
+      "sources": [
+        {
+          "source": "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+          "quote": "Reciting Duas related to knowledge"
+        },
+        {
+          "source": "lchk_2f2c092a8f7046318a0e8a9ef6f1f04a",
+          "quote": "Dua – Rabbi Zidnii ilman"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Dua for acquiring knowledge",
+          "subtopic": "Dua",
+          "week": 7,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to recite the Dua Rabbi Zidnii ilman."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2f2c092a8f7046318a0e8a9ef6f1f04a",
+              "quote": "Rabbi Zidnii ilman (Acquisition of Knowledge)"
+            },
+            {
+              "source": "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+              "quote": "Reciting Duas related to knowledge"
+            }
+          ]
+        },
+        {
+          "title": "Meaning of the Dua for knowledge",
+          "subtopic": "Dua",
+          "week": 7,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to explain the Dua related to knowledge."
+          ],
+          "sources": [
+            {
+              "source": "lchk_29714dd06f134999a520d085c0d7078c",
+              "quote": "Explaining the Dua"
+            },
+            {
+              "source": "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+              "quote": "Reciting Duas related to knowledge"
+            }
+          ]
+        },
+        {
+          "title": "Ayah related to knowledge",
+          "subtopic": "Dua",
+          "week": 8,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to recite the Ayah about knowledge."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2939cdc32d5846e88076c111e271f51a",
+              "quote": "Ayah Related to Knowledge Q39: 9"
+            },
+            {
+              "source": "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+              "quote": "Reciting Duas related to knowledge"
+            }
+          ]
+        },
+        {
+          "title": "Importance of seeking knowledge",
+          "subtopic": "Dua",
+          "week": 8,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to explain the importance of seeking knowledge."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2939cdc32d5846e88076c111e271f51a",
+              "quote": "Explaining the Ayah Related to Knowledge"
+            },
+            {
+              "source": "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+              "quote": "Reciting Duas related to knowledge"
+            }
+          ]
+        },
+        {
+          "title": "Reciting the Dua for knowledge",
+          "subtopic": "Dua",
+          "week": 9,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to recite the Dua for knowledge accurately."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2266c58f503a41b7b98a9448254c3fbb",
+              "quote": "Reciting the Dua Related to Knowledge"
+            },
+            {
+              "source": "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+              "quote": "Reciting Duas related to knowledge"
+            }
+          ]
+        },
+        {
+          "title": "Practising Dua for knowledge",
+          "subtopic": "Dua",
+          "week": 9,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to demonstrate a Dua practice related to knowledge."
+          ],
+          "sources": [
+            {
+              "source": "lchk_286d5562262a47209e989a508d8802d2",
+              "quote": "Role Playing the Dua Practices"
+            },
+            {
+              "source": "lchk_ae56dcaa6e2e43ee975880eec54f3475",
+              "quote": "Reciting Duas related to knowledge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "History of Islam — The Call",
+      "theme": "The Call",
+      "weekFrom": 10,
+      "weekTo": 10,
+      "competences": "Describes the beginning of the call and identifies its first recipients.",
+      "sources": [
+        {
+          "source": "lchk_9a3a8c1962714cc289d9a9885bc70608",
+          "quote": "The Call"
+        },
+        {
+          "source": "lchk_286d5562262a47209e989a508d8802d2",
+          "quote": "The Beginning of the Call"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "The beginning of Prophet Muhammad's call",
+          "subtopic": "The Call",
+          "week": 10,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to describe the beginning of the call."
+          ],
+          "sources": [
+            {
+              "source": "lchk_286d5562262a47209e989a508d8802d2",
+              "quote": "The Beginning of the Call"
+            },
+            {
+              "source": "lchk_9a3a8c1962714cc289d9a9885bc70608",
+              "quote": "The Call"
+            }
+          ]
+        },
+        {
+          "title": "First recipients of the call and term assessment",
+          "subtopic": "The Call",
+          "week": 10,
+          "kind": "teach",
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify the first people called and answer source-based review questions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2333a86171bb440d83a3be4b4f4b196b",
+              "quote": "The First People Who Received the Prophet’s Call"
+            },
+            {
+              "source": "lchk_9a3a8c1962714cc289d9a9885bc70608",
+              "quote": "The Call"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "NCDC allocates Weeks 10–12 to The Call. This ten-week term supports only the beginning and first recipients of the Prophet's call. Public preaching, reactions and problems faced need additional sourced periods.",
+    "The final period is reserved for end-of-term assessment. The full questions, answers and marking guide must be selected from the resource pack when the lesson is written.",
+    "Ledgerly reserves the third period each week for revision. No unsupported review questions are invented here."
+  ]
+}
