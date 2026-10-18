@@ -92,104 +92,6 @@ Learning Outcome: | Thelearner is able to understand the principle of Tawhiid.
 Content | Competences | Life skills | Values
 <!-- /passage -->
 
-<!-- passage lchk_8f89ee9db7564a2c8b613fec316bfb27 part 54 -->
-others, caring for others, | faithfulness,
-working together | responsibility
- Empathy |  Guide others, listening to
-others,
- Comforting others
- Friendship |  Working in groups, use of
-formation | polite language
-
-Instructional Strategies: Role play, recitation
-Instructional Resources: costumes (Kanzu, a Turban), hijab, niqab
-
-PRIMARY ONE | TEACHERS’ RESOURCE BOOK
-
-Teacher’s Activities | Learners’ Activities
- Guide the learners to mention the |  Mention the character traits of
-characters of Prophet Muhammad’s | Prophet Muhammad
-character traits by dressing like a |  Role play Prophet
-Muslim | Muhammad’s character traits
- Guide learners to role play the |  Recite a rhyme related to
-character traits of Prophet | Prophet Muhammad’s
-Muhammad | character traits
- Guide the learners to recite/sign a |  Tell/ sign lessons learnt
-rhyme related to Prophet | individually
-Muhammad’s character traits
- Give individual learners opportunity
-to share the lessons learnt
-
-Guidance on Assessment
- Assess as the learner identifies Prophet Muhammad’s character traits
- Listen and assess as the learner suggests the character traits, he/she is to
-emulate
- Observe and assess as the learner emulates Prophet Muhammad
-
-Sample activity: Role playing Prophet Muhammad’s characters
-
-Hint for the Teacher
-This lesson is mainly for revision so, give learners time to practice and give the
-lessons they learn from Prophet Muhammad
-Holy Qur’an 9: 105“And say O Muhammad (PBUH) do deeds; Allah will see your
-deeds and the believers …”
-
-ISLAMIC RELIGIOUS EDUCATION
-
-TERM 3
-WEEK 1: THEME 1: Reading from the Holy Qur’an
-SUB-THEME: Surat Nas
-Learning outcome: The learner is able to recite/sign Surat-an-Nas and
-understand the message contained in the Surah (chapter).
-
-LESSON 1: Reciting Surat An-Nas
-Reference: The Holy Qur’an, Noble Holy Qur’an, Juzu
-Key message: | Competences:
-I can recite/sign | The learner:
-Surat Nas. |  identifies Surat An-Nas
- recites/signs Surat An-Nas correctly
-
-Life Skills | Indicators | Values
- Effective |  Fluency, audibility, confidence, |  Appreciation,
-communication | verbal and non- verbal | responsibility
-expression, articulation
-
-Instructional Strategies: Demonstration, recitation, I do, we do, you do,
-Instructional Resources: Holy Qur’an, resource person
-Teacher’s Activities | Learner’s Activities
- Guide learners to say a prayer thanking |  Say a prayer thanking Allah
-Allah |  Practise the recitation of the
- Using the demonstration method, guide | Surah (chapter) An-Nas with
-the learners to recite/sign the Surat An- | correct articulation as a class,
-Nas with correct articulation using the | group and as individuals
-Holy Qur’an, “Q114: 1-6. |  Recite/ sign and discuss the
- Guide the learners to recite/ sign and | meaning of the key message.
-discuss the meaning of the key message. | “I can recite/sign
-Surat An-Nas”
-
-PRIMARY ONE | TEACHERS’ RESOURCE BOOK
-
-Guidance on Assessment
- | Assess as the learner recite/ sign the Surah (chapter) with correct
-pronunciation
-
-Sample activity: Reciting the surah (chapter) in groups, pairs and individually
-Surat Nas
-
-Bismillaahir Rahmaanir Raheem
-1. Qul a'oozu birabbin naas
-2. Malikin naas
-3. Ilaahin naas
-4. Min sharril waswaasil khannaas
-5. Allazee yuwaswisu fee sudoorin naas
-6. Minal jinnati wannaas
-
-Hint for the Teacher
- Display a chart with the Surat
- Allow learners to recite/sign the Surah (chapter) several times as a class,
-group and individuals
-<!-- /passage -->
-
 <!-- passage lchk_1c39d6f24103439aa9a783db81b14e33 part 55 -->
  Do not give the Holy Qur’an to learners but use the quotations given from
 the various parts of Holy Qur’an
@@ -281,150 +183,6 @@ verses several times | individually
  Guide learners to recite/ sign and |  Recite/ sign and discuss the
 discuss the meaning of the key | meaning of the key message
 message. | “I can read Surat An-Nas”.
-<!-- /passage -->
-
-<!-- passage lchk_3ad484a8bc434ca6b784417b97e149aa part 4 -->
-LESSON 3: A RHYME ABOUT THE CLAN AND TRIBE OF PROPHET MUHAMMAD
-(PBUH) ............................................................................................................ 123
-WEEK 11 .......................................................................................... 125
-LESSON 1: THE CHARACTER OF PROPHET MUHAMMAD (PBUH) AS A CHILD
-(KIND, RESPECTFUL, PEACEFUL, COOPERATIVE, FRIENDLY) ........................ 125
-LESSON 2: OTHER CHARACTER TRAITS OF MUHAMMAD (PBUH) AS YOUTH
-(TRUSTWORTHY, HONEST, FAITHFUL, TRUTHFUL, NEVER WORSHIPPED
-IDOLS .............................................................................................................. 127
-LESSON 3: BENEFITS OF IMITATING PROPHET MUHAMMAD’S CHARACTERS AS
-A YOUTH ......................................................................................................... 128
-WEEK 12 .......................................................................................... 131
-LESSON 1: THE WORK OF MUHAMMAD AS A YOUTH ...................................... 131
-LESSON 2: KHADIJAH’S PROPOSAL OF MARRIAGE TO PROPHET MUHAMMAD
-(PBUH) ............................................................................................................ 132
-LESSON 3: ROLE PLAYING CHARACTERS OF PROPHET MUHAMMAD ............ 134
-TERM 3 ............................................................................................ 136
-WEEK 1: THEME 1: READING FROM THE HOLY QUR’AN ......................... 136
-SUB-THEME: SURAT NAS ............................................................................... 136
-LESSON 1: RECITING SURAT AN-NAS ............................................................. 136
-LESSON 2: MEANING OF SURAT AN-NAS ....................................................... 137
-LESSON 3: READ SURAT ANNAS IN ARABIC (VERSES 1-6) .............................. 139
-WEEK 2 ............................................................................................ 141
-LESSON 1: READ SURAT AN-NAS IN THE LANGUAGE OF INSTRUCTION (VERSES
-1-6) ................................................................................................................. 141
-LESSON 2: IMPORTANCE OF SURAT AN-NAS ................................................. 142
-LESSON 3: MEMORISING SURAT AN-NAS ....................................................... 143
-
-vi
-
-vi
-
-PRIMARY ONE | TEACHERS’ RESOURCE BOOK
-
-WEEK 3 ............................................................................................ 145
-LESSON 1: INCIDENTS THAT LED TO THE REVELATION OF SURAT AN-NAS .. 145
-LESSON 2: MAIN PURPOSE FOR THE REVELATION OF SURAT AN-NAS ......... 146
-LESSON 3: RECITING A DUA USING SURAT AN-NAS ....................................... 148
-WEEK 4: THEME 2: TAWHIID (FAITH) ................................................... 149
-SUB-THEME: ALLAH AND HIS CREATION ....................................................... 149
-LESSON 1: BELIEF IN THE EXISTENCE OF ALLAH ........................................... 149
-LESSON 2: THINGS CREATED BY ALLAH ......................................................... 151
-LESSON 3: SIGNS THAT SHOW ALLAH’S EXISTENCE...................................... 152
-WEEK 5 ............................................................................................ 154
-LESSON 1: THE IMPORTANCE OF THE THINGS ALLAH CREATED ................... 154
-LESSON 2: THE ONENESS OF ALLAH .............................................................. 155
-<!-- /passage -->
-
-<!-- passage lchk_e6dd2d7cb62042abb60b1f95a71f60fa part 59 -->
- Decision-making |  Acceptance, making choice |  Appreciation,
- Effective |  Fluency, confidence, | responsibility
-communication | audibility, verbal and non-
-verbal expression
-
-Instructional Strategies: Recitation, demonstration
-Instructional Resources: Holy Qur’an
-Teacher’s Activities | Learner’s Activities
- Lead learners to recite/sign any dua |  Recite/sign a known dua
-they know |  Recite/sign a dua after the
- Demonstrate reciting a dua using | teacher using Surat An-Nas.
-Surat An-Nas |  Practice reciting a dua using
- Guide the learners to recite/sign | Surat An-Nas on their own
-Surat An-Nas as a dua on their own |  Recite/sign and discuss the
- Lead learners to recite/sign and | meaning of the key message
-discuss the meaning of the key | “Allah gives me protection”.
-message.
-Guidance on Assessment
- | Assess as the learner recites/ signs a dua using Surat Annas
-
-Sample activity: Practising reciting a dua using Surat An-Nas
-
-Hint for the Teacher
- | Let learners know that when you use Surat An-Nas as a dua, Allah gives you
-protection.
-
-PRIMARY ONE | TEACHERS’ RESOURCE BOOK
-
-WEEK 4: THEME 2: Tawhiid (Faith)
-SUB-THEME: Allah and His Creation
-Learning outcome: The learner is able to understand the principle of Tawhiid
-
-LESSON 1: Belief in the existence of Allah
-Reference: Holy Qur’an, Hadith Books -Bukhari, Islamic Website, Islamic Books
-e.g. Let us Learn Islam
-
-Key message: | Competences:
-Allah is near me | The learner:
- identifies things that show Allah’s existence.
- tells/signs who Allah is.
-
-Life Skills | Indicators | Values
- Effective |  Audibility, fluency, confidence, |  Love,
-communication | verbal and non- verbal expression | respect,
- Critical thinking |  Responding to questions | obedience
-appropriately,
- | Creative thinking |  Logical reasoning
-
-Instructional Strategies: Guided discovery, recitation.
-Instructional Resources: Chart showing different things in the environment
-
-Teacher’s Activities | Learners’ Activities
- Guide learners to say a prayer |  Say a prayer thanking Allah
-thanking Allah |  Mention things from the
- Guide the learners to mention things | environment that show the
-in the environment that show the | existence of Allah
-existence of Allah |  identifying some of the things
- Guide the learners to identify some of | from the chart that show Allah’s
-the things from the chart | existence
- Share with the learners who Allah is |  Explain who Allah is.
- Guide learners to recite/ sign a rhyme |  Recite/sign the rhyme about
-
-ISLAMIC RELIGIOUS EDUCATION
-
-Teacher’s Activities | Learners’ Activities
-about Allah | Allah
- Guide the learners to recite/sign and |  Recite/sign and discuss the
-discuss the meaning of the key | meaning the key message “Allah
-message. | is near me.”
-
-Guidance on Assessment
- | Assess as the learner tells/signs who Allah is
- | Listen and assess as the learner identifies at least four things in the
-environment that show Allah’s existence.
-
-Sample activity:
-A rhyme
-Allah, Allah Allah
-Created this world
-Oh oh oh
-He created the people
-He created all things
-Oh oh oh
-
-Hint for the Teacher
- | Before the lesson, read chapter 59: 22-24 to get information about Allah’s
-existence
- | Surat al-Baqarah 2: 29 “Huwa alladhii khalaqa lakum maa fil arudhwi
-jamii-a”, “It is He (Allah), who created for you all that is on earth …”
- | Emphasise that Allah is the powerful God who created all that we see and
-all that beyond our knowledge.
-
-PRIMARY ONE | TEACHERS’ RESOURCE BOOK
 <!-- /passage -->
 
 <!-- passage lchk_8e901e6e75984837a9b4f858f11ed702 part 56 -->
@@ -621,106 +379,437 @@ Teacher’s Activities | Learners’ Activities
 with the learners (1-6 verses) from | (1-6 verses) from the memory
 <!-- /passage -->
 
-<!-- passage lchk_879ad571b45a43699ce218859794afb3 part 78 -->
-B: How important do you think it is that you should possess/acquire the
-following skills?
+<!-- passage lchk_7bc4fd2bd1b14712a8cb85dfd8e5e3f4 part 170 -->
+Sub-theme 9.1: Types and Means of Transport
 
-Levels: 5 very important, 4 important, 3 slightly important, 2 slightly not
-important, 1 Not important
+Materials
+Wall chart showing types and means of transport
+Counters
+Word cards
+Number cards
 
-Topic | Area of self-assessment/ reflection | Number | Remarks
-1 | saying salaam
-saying salaam to elders
-2 | Using Surat Al-Fatiha in daily prayer
-3 | Reciting dua before meals
-Reciting dua after meals
-Reciting dua before bed
-Reciting dua after bed
-Reciting dua for parents
-4 | Worshipping Allah
-5 | Performing ablution before prayer
-6 | Emulating Prophet Muhammad’s
-character
+Preparation
+Prepare rhymes and songs for the day's lessons
+
+News
+• | Ask learners to tell you their news. Discuss what transport they use when coming to school.
+• | Recite a known rhyme
+
+Literacy I
+• Identify and describe types of transport
+• Reading words related to transport
+• Matching words to pictures
+• Asking and answering questions
+
+Literacy II
+• Prepare learners for writing through finger exercises.
+• Learners write patterns and letters h, a ha ha
+• Learners write words: water, road, air, and railway.
+• They recite a known rhyme.
+• Write short sentences.
+
+Mathematics
+• Learners count round the class from 1 to 90.
+• Continue then from 81-90.
+• Learners count in 10s together - 10, 20, 30, 40 etc to 90.
+• Learners write number symbols 71-80.
+• End with a known counting song.
+
+English
+• Teach them new vocabulary "road, water, railway" using the following structures
+- What is this? This/That is a . . .
+- Where is the . . . . . . ? Here is the . . . . . .
+
+PE
+Experience with body and space awareness (Refer to Curriculum)
+
+RE
+IRE: | Reading the Quran: Surat Annas (Refer to Curriculum)
+Reciting the Surat
+CRE: | Plow??? Jesus expressed friendship among people e.g. lonely
+
+Creative Performing Arts (Music)
+• Teach a song related to types of transport.
+• As learners sing let them move according to the rhythm of the song.
+
+Primary School Curriculum , Teacher’s Guide- Primary 1
+
+9.1. | Types and Means of Transport
+
+Materials
+Wall chart showing different means of transport
+Number chart
+Picture cards
+Musical instruments
+Abacus
+Word cards
+Calendar
+
+Preparation
+Prepare all the materials above beforehand e.g. picture of cars with number plates.
+
+PE
+Experiences with body and space (Refer to Curriculum).
+
+Mathematics
+• Learners count 1-90
+• Learners name the months of the year
+• Using a calendar let learners tell the days of each month, January to June
+• They write the month of the year (ordinal numbers e.g. 1st, 2nd, 3rd).
+
+Literacy 1
+• Learners name common places related to types and means of transport e.g. bus park, taxi park, bus
+stop. Identify where these are if they are near the school and where they can catch a bus, taxi or
+bicycle, (borda borda)
+• Using a wallchart learners identify means of transport related to common places.
+• Learners read words from word cards related to common places and means of transport
+
+Literacy II
+• Learners write patterns and letters aha | aha and letters ah, a.
+• Learners write words and sentences.
+
+English
+• Revise the vocabulary for the previous English lesson (road, water, railway)
+• Using a wall chart teach the new vocabulary (i.e. car, bus, and bicycle) | using the following
+structures:
+- What is this/that? | This is/that is a ...
+- What are these/those? | These/those are ...
+
+News
+• | Learners tell news related to means of transport.
+• | Learners draw their news
+• | Learners display and talk about their work.
+
+RE
+IRE: Reading the Quran: Annas (Refer to Curriculum)
+Importance of Surat Al-Lahab
+CRE: What each member of the family contributes to the home.
+
+Creative Performing Arts (Music)
+• Learners sing a known song.
+• Learners play instruments to accompany the song.
+• Learners dance according to the rhythm of the song.
+
+National Curriculum Development Centre
+
+9.1. Types and Means of Transport
+
+Materials
+A wall chart showing types of transport
+Number cards
+Word cards
+<!-- /passage -->
+
+<!-- passage lchk_e6dd2d7cb62042abb60b1f95a71f60fa part 59 -->
+ Decision-making |  Acceptance, making choice |  Appreciation,
+ Effective |  Fluency, confidence, | responsibility
+communication | audibility, verbal and non-
+verbal expression
+
+Instructional Strategies: Recitation, demonstration
+Instructional Resources: Holy Qur’an
+Teacher’s Activities | Learner’s Activities
+ Lead learners to recite/sign any dua |  Recite/sign a known dua
+they know |  Recite/sign a dua after the
+ Demonstrate reciting a dua using | teacher using Surat An-Nas.
+Surat An-Nas |  Practice reciting a dua using
+ Guide the learners to recite/sign | Surat An-Nas on their own
+Surat An-Nas as a dua on their own |  Recite/sign and discuss the
+ Lead learners to recite/sign and | meaning of the key message
+discuss the meaning of the key | “Allah gives me protection”.
+message.
+Guidance on Assessment
+ | Assess as the learner recites/ signs a dua using Surat Annas
+
+Sample activity: Practising reciting a dua using Surat An-Nas
+
+Hint for the Teacher
+ | Let learners know that when you use Surat An-Nas as a dua, Allah gives you
+protection.
+
+PRIMARY ONE | TEACHERS’ RESOURCE BOOK
+
+WEEK 4: THEME 2: Tawhiid (Faith)
+SUB-THEME: Allah and His Creation
+Learning outcome: The learner is able to understand the principle of Tawhiid
+
+LESSON 1: Belief in the existence of Allah
+Reference: Holy Qur’an, Hadith Books -Bukhari, Islamic Website, Islamic Books
+e.g. Let us Learn Islam
+
+Key message: | Competences:
+Allah is near me | The learner:
+ identifies things that show Allah’s existence.
+ tells/signs who Allah is.
+
+Life Skills | Indicators | Values
+ Effective |  Audibility, fluency, confidence, |  Love,
+communication | verbal and non- verbal expression | respect,
+ Critical thinking |  Responding to questions | obedience
+appropriately,
+ | Creative thinking |  Logical reasoning
+
+Instructional Strategies: Guided discovery, recitation.
+Instructional Resources: Chart showing different things in the environment
+
+Teacher’s Activities | Learners’ Activities
+ Guide learners to say a prayer |  Say a prayer thanking Allah
+thanking Allah |  Mention things from the
+ Guide the learners to mention things | environment that show the
+in the environment that show the | existence of Allah
+existence of Allah |  identifying some of the things
+ Guide the learners to identify some of | from the chart that show Allah’s
+the things from the chart | existence
+ Share with the learners who Allah is |  Explain who Allah is.
+ Guide learners to recite/ sign a rhyme |  Recite/sign the rhyme about
 
 ISLAMIC RELIGIOUS EDUCATION
 
-Competence-Based Assessment
-Introduction
-In Islamic Religious Education, like any other subject, learners should
-continuously be assessed. The type of assessment based on competence is called
-competence-based assessment. Teaching and learning is a continuous process
-which is assessed gradually basing on specific competences. This type of
-assessment process provides a way of building the skills and knowledge learners
-need at the end of the lesson as stipulated by the learning outcome.
-Therefore, a religious education teacher should get familiar with competence-
-based assessment, which aims at assessing specific competences (abilities) and
-learn how to get and manage scores that are accumulated over time. Therefore,
-this section specifies the assessment tool and the scoring process. The scores
-attained are cumulatively computed to come out with the final score of a
-particular child.
-To ease the process of assessing learners should be grouped. Each group should
-have five learners. Assess five learners on a given competence every day. At least
-assess your learner twice on each competence during the term. It is most
-important that you follow up with learners who are not achieving the
-competence.
-It may be difficult to record directly in the Continuous Assessment Monitoring
-form (CAM Form) during the lesson, but you may keep the records on a small
-sheet of paper and record in the CAM form during break time or after school. Do
-this on daily basis.
-For example: IRE.
-Learning outcome: The learner is able to recite/sign Surat-Ikhlas and
-understand the message contained in the Surah (chapter).
-Competences: The learner:
- pronounces Arabic alphabets related to Surat Ikhlas
- pronounces words related to Surat Ikhlas correctly
- recites/signs Surat Ikhlas correctly (verse 1-3)
- discusses the meaning of the message in the surah
+Teacher’s Activities | Learners’ Activities
+about Allah | Allah
+ Guide the learners to recite/sign and |  Recite/sign and discuss the
+discuss the meaning of the key | meaning the key message “Allah
+message. | is near me.”
 
-Learning outcome: The learner is able to recite/sign Surat-Ikhlas and understand the message contained in the
-Surah (chapter).
-PRIMARY ONE
+Guidance on Assessment
+ | Assess as the learner tells/signs who Allah is
+ | Listen and assess as the learner identifies at least four things in the
+environment that show Allah’s existence.
 
-Competences | Reads | Recites the Surah Discusses the message
-Alphabets | Reads Words
+Sample activity:
+A rhyme
+Allah, Allah Allah
+Created this world
+Oh oh oh
+He created the people
+He created all things
+Oh oh oh
 
-Indicators
+Hint for the Teacher
+ | Before the lesson, read chapter 59: 22-24 to get information about Allah’s
+existence
+ | Surat al-Baqarah 2: 29 “Huwa alladhii khalaqa lakum maa fil arudhwi
+jamii-a”, “It is He (Allah), who created for you all that is on earth …”
+ | Emphasise that Allah is the powerful God who created all that we see and
+all that beyond our knowledge.
 
-Articulation
-Fluency
-Accuracy
-Self-expression
-Articulation
-Fluency
-Accuracy
-Self-expression
-Articulation
-Fluency
-Accuracy
-Self-expression
-Cause of
-revelation
-When it was
-revealed
-Lessons learnt
-Benefits to self
-expression
+PRIMARY ONE | TEACHERS’ RESOURCE BOOK
+<!-- /passage -->
 
-No | Name
-1 | Abaine Rossset
-2 | Bakulu Mpangi
-3 | Bakunda Tom
-4 | Cecelia Mary
-TEACHERS’ RESOURCE BOOK
+<!-- passage lchk_7382780b2be149b78ac3b55a01fc1022 part 37 -->
+acceptance and
+trust
 
-5 | Chellangat Musa
-6 | Ibrahim Bilal
-7 | Namutebi Husnat
-8 | Ssekyewa Barakat
+Assessment Guidelines
+ Talk about how he/she relates with others at home
+ Tell the importance of being trustworthy
+ Talk about how forgiveness leads to acceptance and trust
+ Tell how he/she can interact well with others
 
-Here are the symbols to be used in the CAM form to represent learner’s achievements.
+THEME: DISCOVERING GOD’S GIFT TO ME
 
-Level 3: The learner whose performance exceeds the competence gets a triangle. | Symbol | 3 slashes
-(Excellent).
-Level 2: The learner whose performance meets the competence gets 2 slashes. Symbol | (Very good).
-Level 1: The learner whose performance does not yet meets the competence gets 1 slash. Symbol | (Tried).
+Weeks 10-12
+Sub-theme | Content | Competences | Life Skills | Values
+Discovering |  Revision of God‟s gifts |  Telling gifts God |  Decision |  Appreciation
+more of God‟s | i.e. our bodies, people | has given her/him | making |  Love
+gift to me: | and other creation |  Talking about |  Critical thinking |  Caring
+ God‟s | - Mathew 9: 27-30 | ways in which |  Creative |  Responsibility
+family and |  Love and care for | he/she can love | thinking |  Interdependence
+his love | babies in a family | and care for a |  Empathy |  Unity
+- The story of Jesus’ | baby in a family |  Problem solving |  Cooperation
+birth in Bethlehem |  Narrating the |  Effective |  Sympathy
+- Luke 1 and 2 | events of the birth | communication
+- Things to do to | of Jesus
+prepare for Christmas |  Talking about
+things they do to
+prepare for
+Christmas
+
+ | Role-play the birth
+of Jesus
+
+Assessment Guidelines
+ Tell gifts God has given her/him
+ Talk about ways in which he/she can love and care for a baby in a family
+ Narrate the events of the birth of Jesus
+
+ISLAMIC RELIGIOUS EDUCATION
+
+TERM 1
+TERM 1
+THEME 1: READING FROM THE QURAN
+
+Weeks 2-4
+
+Learning Outcome: The learner is able to appreciate, and practise the principles and teachings of
+Islam in order to have total submission to the will and laws of God.
+Content | Competences | Life skills | Values
+The Islamic greeting |  | Saying salaam |  | Effective |  | Respect
+(Salaam) |  | Explaining the meaning of | communication |  | Loyalty
+salaam |  | Interpersonal |  | Responsibility
+ | Telling the importance of salaam | relationship
+ | Friendship formation
+
+Surat Al-Fatiha |  | Reciting Surat „Al-Fatiha‟ |  | Decision making |  | Responsibility
+ | Telling its meaning and |  | Problem solving |  | Obedience
+importance |  | Creative thinking |  | Appreciation
+ | Critical thinking |  | Care
+ | Loyalty
+
+Assessment Guidelines for Theme 1
+ Say salaam
+ Explain its meaning and importance
+ Recite Surat Al-Fatiha
+ Tell the meaning and importance of the Sura
+
+TERM 1
+THEME 2: (TAWHIID) FAITH
+
+Weeks 5-7
+
+Learning Outcome: | The learner is able to understand the principle of Tawhiid.
+Content | Competences | Life Skills | Values
+Worshipping |  | Telling his/her relationship |  | Self awareness |  | Responsibility
+ Who am I? | with the creator |  | Problem solving |  | Sense of belonging
+ Where did I come from? |  | Appreciating his/her role |  | Creative thinking |  | Respect
+ Why was I created? | with God |  | Critical thinking |  | Appreciation
+ What is worshipping? |  | Telling the meaning of |  | Assertiveness |  | Confidence
+ Places of worship i.e. | worship |  | Unity
+mosques and homes |  | Naming the places of
+worship
+
+Assessment Guidelines for Theme 2
+ Name 2 places of worship
+ Tell his/her relationship to the Creator
+ Tell the meaning of worship
+
+TERM 1
+THEME 3: FIQH (PRACTICES)
+
+Weeks 8 -10
+
+Learning Outcome: The learner is able to recognise and understand the rules and regulations of the
+places of worship and the concept of physical purity.
+Content | Competences | Life sSkills | Values
+<!-- /passage -->
+
+<!-- passage lchk_1f4c2a6cc0b5478a9bd4b57f8954a527 part 173 -->
+-  What is she doing? | She is ... (riding a bicycle).
+• Learners say the vocabulary in plural form
+• Learners draw and label pictures.
+
+PE
+Experience with body and space (Refer to Curriculum)
+
+RE
+IRE: Reading the Quran: Meaning of the Surat Annas (Refer to Curriculum)
+CRE: Doing what is right at all times
+
+Creative Performing Arts (Music)
+• Recite any known rhyme
+• Give the background of the song to be taught
+• Learners learn the new song
+• Learners sing the song and dance to the rhyme.
+
+National Curriculum Development Centre
+
+9.2. Importance of Transport
+
+Materials
+Counters,
+Wall chart
+Flashcards
+Toys
+
+Preparation
+Prepare materials for the day's lessons
+
+PE
+Experiences with body and space (Refer to Curriculum)
+
+Literacy 1
+• Learners revise different types and means of transport.
+• Learners talk about the most common type of transport.
+• They talk about the safest transport and why.
+• Learners read words and sentences related to different types and means of transport
+• Learners build words learnt using individual letters (word building).
+
+Literacy II
+• Learners write patterns aka, akoa
+• They write letters o, a, k.
+• Learners write words built from the letters.
+• Learners write short sentences.
+
+Mathematics
+• Learners count 1-90.
+• They write number names 31-40.
+
+English
+• Learners revise the vocabulary from last week using the singular.
+- "What is this/that is?
+- This/that is . . .
+• Learners learn the plural form of bicycle, horse, aeroplane using the following structures
+- How many ... are there?
+- There are ...
+• Learners practice using the structures learnt
+• Learners practise the question and answer:
+- How do you come to school? | I walk to school.
+- How does she come to school | She comes to school by bus '
+• If necessary, they can imitate how they come to school.
+
+News
+• | Learners tell / sign news about the means of transport they saw on their way to school
+• | Learners tell their news
+• | Learners draw their news
+
+RE
+IRE: | Reciting Surat Annas (Refer to Curriculum)
+Reading the Quran: Meaning of the Surat
+CRE: | Doing what is right at all times
+
+Creative Performing Arts (Music)
+• Learners sing any known song
+• Talk about the song intended to be taught
+• Teach a new song and accompany it with simple percussion instruments.
+
+Primary School Curriculum , Teacher’s Guide- Primary 1
+
+9.2. Importance of Transport
+
+Materials
+Counters
+Word cards
+Wall chart, picture cards, number chart, sentence cards
+
+Preparation
+Find an appropriate story, songs for the day's lessons.
+
+News
+• | Learners tell their news about types of transport they like and why.
+• | They draw their news in their workbooks/slates.
+
+Literacy 1
+• Read a story to learners while they listen
+• Ask questions about the story
+• Learners answer orally.
+• Let learners talk about the safest type of transport
+• Learners read the key words from the story.
+
+Literacy II
+• Learners write patterns kata tak. Get learners to find words that use those letters.
+• Learners write letters a, k, t.
+• Write simple sentences and get learners to copy and punctuate them using capital letters and full stops.
+
+Mathematics
+• Learners count 1 - 9 0
+• They match number symbols to number names 1 — 40.
+
+English
+• Revise the vocabulary learnt previously and structure i.e. bicycle and horse "How many ... are
+there?", "There are ..."
+• Teach new vocabulary motor cycle, ship and helicopter using following the structures in
+singular and plural: -
+- "What is this/that?"
+- it's a ...
+- What are these?
 <!-- /passage -->

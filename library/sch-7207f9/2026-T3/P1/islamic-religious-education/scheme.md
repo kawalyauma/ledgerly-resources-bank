@@ -2,12 +2,12 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Reading from the Qur'an — Surat An-Nas | Reciting Surat An-Nas — Surat An-Nas | writing |
-| 2 | 1 | teach | Reading from the Qur'an — Surat An-Nas | Reading Surat An-Nas in Arabic — Surat An-Nas | writing |
-| 3 | 1 | review | Reading from the Qur'an — Surat An-Nas | Week 1 review — Reading from the Qur'an — Surat An-Nas | writing |
-| 4 | 2 | teach | Reading from the Qur'an — Surat An-Nas | Meaning of Surat An-Nas — Surat An-Nas | pending |
-| 5 | 2 | teach | Reading from the Qur'an — Surat An-Nas | Importance of Surat An-Nas — Surat An-Nas | pending |
-| 6 | 2 | review | Reading from the Qur'an — Surat An-Nas | Week 2 review — Reading from the Qur'an — Surat An-Nas | pending |
+| 1 | 1 | teach | Reading from the Qur'an — Surat An-Nas | Reciting Surat An-Nas — Surat An-Nas | written |
+| 2 | 1 | teach | Reading from the Qur'an — Surat An-Nas | Reading Surat An-Nas in Arabic — Surat An-Nas | written |
+| 3 | 1 | review | Reading from the Qur'an — Surat An-Nas | Week 1 review — Reading from the Qur'an — Surat An-Nas | written |
+| 4 | 2 | teach | Reading from the Qur'an — Surat An-Nas | Meaning of Surat An-Nas — Surat An-Nas | writing |
+| 5 | 2 | teach | Reading from the Qur'an — Surat An-Nas | Importance of Surat An-Nas — Surat An-Nas | writing |
+| 6 | 2 | review | Reading from the Qur'an — Surat An-Nas | Week 2 review — Reading from the Qur'an — Surat An-Nas | writing |
 | 7 | 3 | teach | Reading from the Qur'an — Surat An-Nas | Memorising Surat An-Nas — Surat An-Nas | pending |
 | 8 | 3 | teach | Reading from the Qur'an — Surat An-Nas | The revelation of Surat An-Nas — Surat An-Nas | pending |
 | 9 | 3 | review | Reading from the Qur'an — Surat An-Nas | Week 3 review — Reading from the Qur'an — Surat An-Nas | pending |
