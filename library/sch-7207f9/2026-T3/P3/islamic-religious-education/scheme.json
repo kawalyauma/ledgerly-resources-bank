@@ -1,0 +1,342 @@
+{
+  "units": [
+    {
+      "title": "History of Islam — Khadijah and the Revelation",
+      "theme": "Khadijah and the Revelation",
+      "weekFrom": 1,
+      "weekTo": 2
+    },
+    {
+      "title": "Reading of the Qur'an — Rites of the Qur'an",
+      "theme": "Rites of the Qur’an",
+      "weekFrom": 2,
+      "weekTo": 3
+    },
+    {
+      "title": "Tawhiid (Faith) — Uniqueness of the Qur'an",
+      "theme": "Uniqueness of the Qur’an",
+      "weekFrom": 4,
+      "weekTo": 5
+    },
+    {
+      "title": "Fiqh (Practice) — Impurities and Toilet Manners",
+      "theme": "Impurities and Toilet Manners",
+      "weekFrom": 5,
+      "weekTo": 6
+    },
+    {
+      "title": "Moral and Spiritual Teachings — Dua for Knowledge",
+      "theme": "Dua",
+      "weekFrom": 7,
+      "weekTo": 9
+    },
+    {
+      "title": "History of Islam — The Call",
+      "theme": "The Call",
+      "weekFrom": 10,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_0a25e2d98b64493ca819be8cbfd3828c",
+      "seq": 1,
+      "week": 1,
+      "title": "Events immediately after the first revelation",
+      "subtopic": "Khadijah and the Revelation",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "History of Islam — Khadijah and the Revelation"
+    },
+    {
+      "id": "lles_fcb5eb50daf5425ea1b5a38eb0e8aa21",
+      "seq": 2,
+      "week": 1,
+      "title": "Khadijah's reaction to the first revelation",
+      "subtopic": "Khadijah and the Revelation",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "History of Islam — Khadijah and the Revelation"
+    },
+    {
+      "id": "lles_7dbbe9215f904a0f97a904bbea56c5ad",
+      "seq": 3,
+      "week": 1,
+      "title": "Week 1 review",
+      "subtopic": "History of Islam — Khadijah and the Revelation",
+      "kind": "review",
+      "status": "writing",
+      "unit": "History of Islam — Khadijah and the Revelation"
+    },
+    {
+      "id": "lles_928507b2702845619afd32d4dfb8dd36",
+      "seq": 4,
+      "week": 2,
+      "title": "Role of Waraqa bin Nawfal",
+      "subtopic": "Khadijah and the Revelation",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "History of Islam — Khadijah and the Revelation"
+    },
+    {
+      "id": "lles_94e40e85c66348bc9fa168ef6ddd2508",
+      "seq": 5,
+      "week": 2,
+      "title": "Rites before reciting the Qur'an",
+      "subtopic": "Rites of the Qur’an",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Reading of the Qur'an — Rites of the Qur'an"
+    },
+    {
+      "id": "lles_08dcb50340314517a33c80c87e33a9b5",
+      "seq": 6,
+      "week": 2,
+      "title": "Week 2 review",
+      "subtopic": "History of Islam — Khadijah and the Revelation, Reading of the Qur'an — Rites of the Qur'an",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Reading of the Qur'an — Rites of the Qur'an"
+    },
+    {
+      "id": "lles_8e7e700eccb649829eeff70829565367",
+      "seq": 7,
+      "week": 3,
+      "title": "Performing Wudhu",
+      "subtopic": "Rites of the Qur’an",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Reading of the Qur'an — Rites of the Qur'an"
+    },
+    {
+      "id": "lles_f7312df3b0894f7fae9080a1f84bd520",
+      "seq": 8,
+      "week": 3,
+      "title": "Arabic vowels and syllables",
+      "subtopic": "Rites of the Qur’an",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Reading of the Qur'an — Rites of the Qur'an"
+    },
+    {
+      "id": "lles_083f4567a48442f0a45d264837de945d",
+      "seq": 9,
+      "week": 3,
+      "title": "Week 3 review",
+      "subtopic": "Reading of the Qur'an — Rites of the Qur'an",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Reading of the Qur'an — Rites of the Qur'an"
+    },
+    {
+      "id": "lles_359d6bc137c344a8b2ab09671262afca",
+      "seq": 10,
+      "week": 4,
+      "title": "Uniqueness of the Qur'an: miracles",
+      "subtopic": "Uniqueness of the Qur’an",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Tawhiid (Faith) — Uniqueness of the Qur'an"
+    },
+    {
+      "id": "lles_2a685c849718466e8791d32bbc32f692",
+      "seq": 11,
+      "week": 4,
+      "title": "Universal message of the Qur'an",
+      "subtopic": "Uniqueness of the Qur’an",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Tawhiid (Faith) — Uniqueness of the Qur'an"
+    },
+    {
+      "id": "lles_a7124020155143fd8f0c3a3cc27deeb4",
+      "seq": 12,
+      "week": 4,
+      "title": "Week 4 review",
+      "subtopic": "Tawhiid (Faith) — Uniqueness of the Qur'an",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Tawhiid (Faith) — Uniqueness of the Qur'an"
+    },
+    {
+      "id": "lles_d099c6ad7cb945b08f7eceab5219cf0a",
+      "seq": 13,
+      "week": 5,
+      "title": "The Qur'an and other Holy Books",
+      "subtopic": "Uniqueness of the Qur’an",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Tawhiid (Faith) — Uniqueness of the Qur'an"
+    },
+    {
+      "id": "lles_eee6b792435a4782bb22030a64fa47ab",
+      "seq": 14,
+      "week": 5,
+      "title": "Meaning of Najasah",
+      "subtopic": "Impurities and Toilet Manners",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Fiqh (Practice) — Impurities and Toilet Manners"
+    },
+    {
+      "id": "lles_d40bc8dfa6274719a686d6f773d1253a",
+      "seq": 15,
+      "week": 5,
+      "title": "Week 5 review",
+      "subtopic": "Tawhiid (Faith) — Uniqueness of the Qur'an, Fiqh (Practice) — Impurities and Toilet Manners",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Fiqh (Practice) — Impurities and Toilet Manners"
+    },
+    {
+      "id": "lles_bbd480203a8d4fb98c2899687f1ca889",
+      "seq": 16,
+      "week": 6,
+      "title": "Examples of impurities",
+      "subtopic": "Impurities and Toilet Manners",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Fiqh (Practice) — Impurities and Toilet Manners"
+    },
+    {
+      "id": "lles_3496470e26d24c8882de9e305d163f98",
+      "seq": 17,
+      "week": 6,
+      "title": "Istinjae and ablution",
+      "subtopic": "Impurities and Toilet Manners",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Fiqh (Practice) — Impurities and Toilet Manners"
+    },
+    {
+      "id": "lles_b78bdd9cf5bf41cd95a7fc41b052cc11",
+      "seq": 18,
+      "week": 6,
+      "title": "Week 6 review",
+      "subtopic": "Fiqh (Practice) — Impurities and Toilet Manners",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Fiqh (Practice) — Impurities and Toilet Manners"
+    },
+    {
+      "id": "lles_59db6bafd67d4710af76103185cdd7ab",
+      "seq": 19,
+      "week": 7,
+      "title": "Dua for acquiring knowledge",
+      "subtopic": "Dua",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Moral and Spiritual Teachings — Dua for Knowledge"
+    },
+    {
+      "id": "lles_2f95d0ba5c464c12b3e0b6dd71e2a8cb",
+      "seq": 20,
+      "week": 7,
+      "title": "Meaning of the Dua for knowledge",
+      "subtopic": "Dua",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Moral and Spiritual Teachings — Dua for Knowledge"
+    },
+    {
+      "id": "lles_2779753edb6745c495e800c6fdf16445",
+      "seq": 21,
+      "week": 7,
+      "title": "Week 7 review",
+      "subtopic": "Moral and Spiritual Teachings — Dua for Knowledge",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Moral and Spiritual Teachings — Dua for Knowledge"
+    },
+    {
+      "id": "lles_49d5aae3cfb0466abd1e4868833df0cf",
+      "seq": 22,
+      "week": 8,
+      "title": "Ayah related to knowledge",
+      "subtopic": "Dua",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Moral and Spiritual Teachings — Dua for Knowledge"
+    },
+    {
+      "id": "lles_f07ea44499004ec0aa78ff58dc2421a0",
+      "seq": 23,
+      "week": 8,
+      "title": "Importance of seeking knowledge",
+      "subtopic": "Dua",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Moral and Spiritual Teachings — Dua for Knowledge"
+    },
+    {
+      "id": "lles_4eda3e0d26b0456f943fa1b8a21279ef",
+      "seq": 24,
+      "week": 8,
+      "title": "Week 8 review",
+      "subtopic": "Moral and Spiritual Teachings — Dua for Knowledge",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Moral and Spiritual Teachings — Dua for Knowledge"
+    },
+    {
+      "id": "lles_55dc8ac414764949ab29379ab8af66d1",
+      "seq": 25,
+      "week": 9,
+      "title": "Reciting the Dua for knowledge",
+      "subtopic": "Dua",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Moral and Spiritual Teachings — Dua for Knowledge"
+    },
+    {
+      "id": "lles_86714335cd394304a50b5ef046163c3f",
+      "seq": 26,
+      "week": 9,
+      "title": "Practising Dua for knowledge",
+      "subtopic": "Dua",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Moral and Spiritual Teachings — Dua for Knowledge"
+    },
+    {
+      "id": "lles_f03e7e7f6ef84118aa1f11cc9964bffa",
+      "seq": 27,
+      "week": 9,
+      "title": "Week 9 review",
+      "subtopic": "Moral and Spiritual Teachings — Dua for Knowledge",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Moral and Spiritual Teachings — Dua for Knowledge"
+    },
+    {
+      "id": "lles_40a8cea499774ff19ba426c32bec78d3",
+      "seq": 28,
+      "week": 10,
+      "title": "The beginning of Prophet Muhammad's call",
+      "subtopic": "The Call",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "History of Islam — The Call"
+    },
+    {
+      "id": "lles_945551ab6a4949519b2532b8d82398fb",
+      "seq": 29,
+      "week": 10,
+      "title": "First recipients of the call and term assessment",
+      "subtopic": "The Call",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "History of Islam — The Call"
+    },
+    {
+      "id": "lles_e7759799d13d43c981460898afde901b",
+      "seq": 30,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "History of Islam — Khadijah and the Revelation, Reading of the Qur'an — Rites of the Qur'an, Tawhiid (Faith) — Uniqueness of the Qur'an, Fiqh (Practice) — Impurities and Toilet Manners, Moral and Spiritual Teachings — Dua for Knowledge, History of Islam — The Call",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "History of Islam — The Call"
+    }
+  ]
+}
