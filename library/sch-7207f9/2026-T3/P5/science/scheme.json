@@ -1,0 +1,630 @@
+{
+  "units": [
+    {
+      "title": "Types of Changes",
+      "theme": "Managing Changes in the Environment",
+      "weekFrom": 1,
+      "weekTo": 10
+    },
+    {
+      "title": "Keeping Goats, Sheep and Pigs",
+      "theme": "Science in Human Activities and Occupation",
+      "weekFrom": 2,
+      "weekTo": 10
+    },
+    {
+      "title": "Food and Nutrition",
+      "theme": "Human Health",
+      "weekFrom": 4,
+      "weekTo": 10
+    },
+    {
+      "title": "Primary Health Care (PHC)",
+      "theme": "Human Health",
+      "weekFrom": 4,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_502cee53f74d4c8c97df42ccff08d499",
+      "seq": 1,
+      "week": 1,
+      "title": "Types of Changes in the Environment",
+      "subtopic": "Biological, chemical and physical changes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_3f7a701fad9b4696ac36a6dbb3aa53c2",
+      "seq": 2,
+      "week": 1,
+      "title": "Biological Changes",
+      "subtopic": "Meaning, examples and characteristics of biological changes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_8ac68b044fb849179910abdfbf610f19",
+      "seq": 3,
+      "week": 1,
+      "title": "Observing Biological Changes",
+      "subtopic": "Meaning, examples and characteristics of biological changes",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_05260ed1193d4945916cf63fd076b1f8",
+      "seq": 4,
+      "week": 1,
+      "title": "Effects of Biological Changes",
+      "subtopic": "Importance and dangers of biological changes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_348261f7822b4302afd807b0b57322bf",
+      "seq": 5,
+      "week": 1,
+      "title": "Chemical Changes",
+      "subtopic": "Meaning and examples of chemical changes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_4e7a0961031347c5a2152ab9dc8e89c0",
+      "seq": 6,
+      "week": 1,
+      "title": "Observing Chemical Changes",
+      "subtopic": "Meaning and examples of chemical changes",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_e83a277ac5cf48a6a15b0a48daa9c301",
+      "seq": 7,
+      "week": 2,
+      "title": "Physical Changes",
+      "subtopic": "Meaning and examples of physical changes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_f87ec9ce0b28488bbe5e374cfc24de85",
+      "seq": 8,
+      "week": 2,
+      "title": "Observing Changes of State",
+      "subtopic": "Meaning and examples of physical changes",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_721a169f85a14cc692752db624f14869",
+      "seq": 9,
+      "week": 2,
+      "title": "Natural Changes and Their Effects",
+      "subtopic": "Natural changes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_8c8b279c71a346c385afb332578ec69e",
+      "seq": 10,
+      "week": 2,
+      "title": "Human Activities and Environmental Changes",
+      "subtopic": "Managing changes in the environment",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_4c1db8d72e244d26b85a88093916c1ba",
+      "seq": 11,
+      "week": 2,
+      "title": "External Parts of a Goat",
+      "subtopic": "External parts of a goat",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_43af178ff2034c27bf14a3393d861f13",
+      "seq": 12,
+      "week": 2,
+      "title": "Drawing a Goat",
+      "subtopic": "External parts of a goat",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_9df81b12ec37457095f27c1bfa6cecf4",
+      "seq": 13,
+      "week": 3,
+      "title": "Reasons for Keeping Goats",
+      "subtopic": "Uses of goats",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_d3a10ff2e55c42a0933b5b57ed4522c5",
+      "seq": 14,
+      "week": 3,
+      "title": "Listing Goat Products and Uses",
+      "subtopic": "Uses of goats",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_5ccc5e5d45bd4c9c944e7bc3fb659dd6",
+      "seq": 15,
+      "week": 3,
+      "title": "Breeds of Goats",
+      "subtopic": "Local and exotic breeds of goats",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_f3eaff39f2f24a5f9844dad4ef844a9a",
+      "seq": 16,
+      "week": 3,
+      "title": "Naming Goat Breeds",
+      "subtopic": "Local and exotic breeds of goats",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_64f719b321c44b03b86de1badb7dccad",
+      "seq": 17,
+      "week": 3,
+      "title": "Types of Goats",
+      "subtopic": "Meat, dairy and dual-purpose goats",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_ac775f6aa25f4844b3bd47b788a8da78",
+      "seq": 18,
+      "week": 3,
+      "title": "Comparing Local and Exotic Goat Breeds",
+      "subtopic": "Advantages and disadvantages of keeping local and exotic breeds",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_5f6a2caeee06444b975025bb8c99bdc1",
+      "seq": 19,
+      "week": 4,
+      "title": "Usefulness of Food",
+      "subtopic": "Uses of food to the body",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Food and Nutrition"
+    },
+    {
+      "id": "lles_a04a0f48a557452e92fe95c8e630d376",
+      "seq": 20,
+      "week": 4,
+      "title": "Preserving Meat",
+      "subtopic": "Meat preservation in a local home",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Food and Nutrition"
+    },
+    {
+      "id": "lles_75d2c8dc10a54ad28c907fe21e640b4e",
+      "seq": 21,
+      "week": 4,
+      "title": "Primary Health Care Activities at Home",
+      "subtopic": "Activities that promote primary health care",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Primary Health Care (PHC)"
+    },
+    {
+      "id": "lles_ff9137a09c4f4bbab8a2c78e42637898",
+      "seq": 22,
+      "week": 4,
+      "title": "Primary Health Care Activities in the Community",
+      "subtopic": "Activities that promote primary health care",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Primary Health Care (PHC)"
+    },
+    {
+      "id": "lles_6a6eeee30c13491197fe606569dca320",
+      "seq": 23,
+      "week": 4,
+      "title": "Questions on Primary Health Care Activities",
+      "subtopic": "Activities that promote primary health care",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Primary Health Care (PHC)"
+    },
+    {
+      "id": "lles_bf3f76d9643a4d0e88937dfbdf0a1200",
+      "seq": 24,
+      "week": 4,
+      "title": "Health Parades",
+      "subtopic": "Meaning and activities of health parades",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Primary Health Care (PHC)"
+    },
+    {
+      "id": "lles_b2bd5861b77a42c3a43f1f43f9cd8aeb",
+      "seq": 25,
+      "week": 5,
+      "title": "Questions on Health Parades",
+      "subtopic": "Meaning and activities of health parades",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Primary Health Care (PHC)"
+    },
+    {
+      "id": "lles_7584522108bb40f682bf7c793518c1e4",
+      "seq": 26,
+      "week": 5,
+      "title": "Revision: Types of Changes",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_11a8f6e3046a4b809b27944a7dbc1bfc",
+      "seq": 27,
+      "week": 5,
+      "title": "Revision: Keeping Goats, Sheep and Pigs",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_0b2e2ab8b74948b2b0b181dfae224748",
+      "seq": 28,
+      "week": 5,
+      "title": "Revision: Food and Nutrition",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Food and Nutrition"
+    },
+    {
+      "id": "lles_ad64f8f167ef4e2491229557e01c48e7",
+      "seq": 29,
+      "week": 5,
+      "title": "Revision: Primary Health Care (PHC)",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Primary Health Care (PHC)"
+    },
+    {
+      "id": "lles_038b059006044899b6eabf7d78379979",
+      "seq": 30,
+      "week": 5,
+      "title": "Term revision 1: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_f1afc5dce1b440f7bb5edbf3d02a092c",
+      "seq": 31,
+      "week": 6,
+      "title": "Term revision 2: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_a2d6d0f648f443e59b272270bdc1f625",
+      "seq": 32,
+      "week": 6,
+      "title": "Term revision 3: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Food and Nutrition"
+    },
+    {
+      "id": "lles_a8818c1a92bb4906b630c6829de6eb51",
+      "seq": 33,
+      "week": 6,
+      "title": "Term revision 4: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Primary Health Care (PHC)"
+    },
+    {
+      "id": "lles_fde42a4127ca482cbe92f82f043ed9fe",
+      "seq": 34,
+      "week": 6,
+      "title": "Term revision 5: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_7d01ae5eb6fb4b139eae941b23fbc276",
+      "seq": 35,
+      "week": 6,
+      "title": "Term revision 6: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_14169029daa1461698767116b5cdc34b",
+      "seq": 36,
+      "week": 6,
+      "title": "Term revision 7: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Food and Nutrition"
+    },
+    {
+      "id": "lles_b1a1b96818de4076850b0ec112311c37",
+      "seq": 37,
+      "week": 7,
+      "title": "Term revision 8: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Primary Health Care (PHC)"
+    },
+    {
+      "id": "lles_494c09bea7d64367bb49cd154294f2c2",
+      "seq": 38,
+      "week": 7,
+      "title": "Term revision 9: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_b89e78e9e8144772baa483766833a59e",
+      "seq": 39,
+      "week": 7,
+      "title": "Term revision 10: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_b6c28dd07bbf4cc8b3fecccf754bd6c0",
+      "seq": 40,
+      "week": 7,
+      "title": "Term revision 11: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Food and Nutrition"
+    },
+    {
+      "id": "lles_b7796dd162e948a09a4c3213738633eb",
+      "seq": 41,
+      "week": 7,
+      "title": "Term revision 12: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Primary Health Care (PHC)"
+    },
+    {
+      "id": "lles_09ddd62d5b034e248d2c48516cc384f1",
+      "seq": 42,
+      "week": 7,
+      "title": "Term revision 13: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_e84557463889451d8f0eda2c2dba89a6",
+      "seq": 43,
+      "week": 8,
+      "title": "Term revision 14: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_92adf579e35647619a1136d015c719a4",
+      "seq": 44,
+      "week": 8,
+      "title": "Term revision 15: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Food and Nutrition"
+    },
+    {
+      "id": "lles_536be6b025a8401892ade77ec7072451",
+      "seq": 45,
+      "week": 8,
+      "title": "Term revision 16: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Primary Health Care (PHC)"
+    },
+    {
+      "id": "lles_de057268803d4966b8eed1d567b6e16a",
+      "seq": 46,
+      "week": 8,
+      "title": "Term revision 17: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_0ce9f3354c6e41dbabbad1f06cb181cf",
+      "seq": 47,
+      "week": 8,
+      "title": "Term revision 18: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_b925fe690d7e422482e1e76adb79a33a",
+      "seq": 48,
+      "week": 8,
+      "title": "Term revision 19: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Food and Nutrition"
+    },
+    {
+      "id": "lles_c5175864e0c4492e911a02626a6fbcbe",
+      "seq": 49,
+      "week": 9,
+      "title": "Term revision 20: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Primary Health Care (PHC)"
+    },
+    {
+      "id": "lles_6cb2094c8025439ca7e50b159c312375",
+      "seq": 50,
+      "week": 9,
+      "title": "Term revision 21: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_28e86846328c44a79b629cc7b245a35a",
+      "seq": 51,
+      "week": 9,
+      "title": "Term revision 22: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_cfce3c1ed6ef412db0a6df3728ff6e91",
+      "seq": 52,
+      "week": 9,
+      "title": "Term revision 23: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Food and Nutrition"
+    },
+    {
+      "id": "lles_3c7f60c1991947ecb973dd8837f8d33d",
+      "seq": 53,
+      "week": 9,
+      "title": "Term revision 24: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Primary Health Care (PHC)"
+    },
+    {
+      "id": "lles_d6da040dd5f54efe8fee69898312c7b0",
+      "seq": 54,
+      "week": 9,
+      "title": "Term revision 25: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_2d39ee4575b743189c89b0f32c078144",
+      "seq": 55,
+      "week": 10,
+      "title": "Term revision 26: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_f2fc063feecf435e9aa2e8891bbd4063",
+      "seq": 56,
+      "week": 10,
+      "title": "Term revision 27: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Food and Nutrition"
+    },
+    {
+      "id": "lles_cb63b106ce244fae9a41a08a8be35487",
+      "seq": 57,
+      "week": 10,
+      "title": "Term revision 28: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Primary Health Care (PHC)"
+    },
+    {
+      "id": "lles_cdb41ed8b6994345908c671a78ad0310",
+      "seq": 58,
+      "week": 10,
+      "title": "Term revision 29: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Types of Changes"
+    },
+    {
+      "id": "lles_0b3e0fb69787413aa03881562af1b689",
+      "seq": 59,
+      "week": 10,
+      "title": "Term revision 30: Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    },
+    {
+      "id": "lles_6f492976f2a84d5ca6e7bb009c97d498",
+      "seq": 60,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Types of Changes, Keeping Goats, Sheep and Pigs, Food and Nutrition, Primary Health Care (PHC)",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Keeping Goats, Sheep and Pigs"
+    }
+  ]
+}
