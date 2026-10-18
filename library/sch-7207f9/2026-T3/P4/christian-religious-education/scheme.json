@@ -1,0 +1,318 @@
+{
+  "units": [
+    {
+      "title": "Reconciliation",
+      "theme": null,
+      "weekFrom": 1,
+      "weekTo": 10
+    },
+    {
+      "title": "Things God promised us if we live according to his commandments",
+      "theme": "Peace",
+      "weekFrom": 2,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_650e6c904c8b4c088467eb413216f238",
+      "seq": 1,
+      "week": 1,
+      "title": "Christian ways of reconciling with God",
+      "subtopic": "Christian ways of reconciling with God",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Reconciliation"
+    },
+    {
+      "id": "lles_deee5b4da9214571aa5cd7019dd3f359",
+      "seq": 2,
+      "week": 1,
+      "title": "Practice: Christian ways of reconciling with God",
+      "subtopic": "Christian ways of reconciling with God",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Reconciliation"
+    },
+    {
+      "id": "lles_c0d9b3b73acf4dc389cca26dcf3e875e",
+      "seq": 3,
+      "week": 1,
+      "title": "Week 1 review",
+      "subtopic": "Reconciliation",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Reconciliation"
+    },
+    {
+      "id": "lles_aa88b33aa8d642ad8cbd55a395d9f9ec",
+      "seq": 4,
+      "week": 2,
+      "title": "God’s promises to people who live according to his commandments",
+      "subtopic": "God’s promises",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_9815d1f6efcc48b2897936d440ff9855",
+      "seq": 5,
+      "week": 2,
+      "title": "Practice: God’s promises",
+      "subtopic": "God’s promises",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_a01e31fbfdee46e6aa612aeea79809d1",
+      "seq": 6,
+      "week": 2,
+      "title": "Week 2 review",
+      "subtopic": "Things God promised us if we live according to his commandments",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_6de573536bb643149623cf2ea3b4adc9",
+      "seq": 7,
+      "week": 3,
+      "title": "Revision: Reconciliation",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Reconciliation"
+    },
+    {
+      "id": "lles_4ac621850f3e4fe1a3a951ba947419cd",
+      "seq": 8,
+      "week": 3,
+      "title": "Revision: Things God promised us if we live according to his commandments",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_aae2d7d3c85345d68d6e2d9737175683",
+      "seq": 9,
+      "week": 3,
+      "title": "Week 3 review",
+      "subtopic": "Reconciliation, Things God promised us if we live according to his commandments",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_ff154981f78549a0a86433353a674788",
+      "seq": 10,
+      "week": 4,
+      "title": "Term revision 1: Reconciliation, Things God promised us if we live according to his commandments",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Reconciliation"
+    },
+    {
+      "id": "lles_58f68476707b4c55b0f3ef216b666e93",
+      "seq": 11,
+      "week": 4,
+      "title": "Term revision 2: Reconciliation, Things God promised us if we live according to his commandments",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_00f5b1d8ba6e41599fca20c1e260fc42",
+      "seq": 12,
+      "week": 4,
+      "title": "Week 4 review",
+      "subtopic": "Reconciliation, Things God promised us if we live according to his commandments",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_3625efed38104aadadfe4022a1110c3e",
+      "seq": 13,
+      "week": 5,
+      "title": "Term revision 3: Reconciliation, Things God promised us if we live according to his commandments",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Reconciliation"
+    },
+    {
+      "id": "lles_793be0a1ed774a169ec98babc7a7bcc9",
+      "seq": 14,
+      "week": 5,
+      "title": "Term revision 4: Reconciliation, Things God promised us if we live according to his commandments",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_05a15e9ee2684c189f1d88886caa3e21",
+      "seq": 15,
+      "week": 5,
+      "title": "Week 5 review",
+      "subtopic": "Reconciliation, Things God promised us if we live according to his commandments",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_b861004bcbf1421b8fc812371d4be527",
+      "seq": 16,
+      "week": 6,
+      "title": "Term revision 5: Reconciliation, Things God promised us if we live according to his commandments",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Reconciliation"
+    },
+    {
+      "id": "lles_67fd22c846dd4788baedca559d010af5",
+      "seq": 17,
+      "week": 6,
+      "title": "Term revision 6: Reconciliation, Things God promised us if we live according to his commandments",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_db82df8376a74787843eaef9ab5e8337",
+      "seq": 18,
+      "week": 6,
+      "title": "Week 6 review",
+      "subtopic": "Reconciliation, Things God promised us if we live according to his commandments",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_f8def642a5664e2d8aa9c6871080a67c",
+      "seq": 19,
+      "week": 7,
+      "title": "Term revision 7: Reconciliation, Things God promised us if we live according to his commandments",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Reconciliation"
+    },
+    {
+      "id": "lles_090305f8fd64408b8037001d1069eb05",
+      "seq": 20,
+      "week": 7,
+      "title": "Term revision 8: Reconciliation, Things God promised us if we live according to his commandments",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_ee363193936846a1a99c595c7e6d312d",
+      "seq": 21,
+      "week": 7,
+      "title": "Week 7 review",
+      "subtopic": "Reconciliation, Things God promised us if we live according to his commandments",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_eed37a4fb09144d7acf3d246e3831968",
+      "seq": 22,
+      "week": 8,
+      "title": "Term revision 9: Reconciliation, Things God promised us if we live according to his commandments",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Reconciliation"
+    },
+    {
+      "id": "lles_d08ab0a4e1d64cac812509ed79f581de",
+      "seq": 23,
+      "week": 8,
+      "title": "Term revision 10: Reconciliation, Things God promised us if we live according to his commandments",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_ea066ee6b6654d36a137eb9e540def37",
+      "seq": 24,
+      "week": 8,
+      "title": "Week 8 review",
+      "subtopic": "Reconciliation, Things God promised us if we live according to his commandments",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_c1892e9b8d47470d9f2789004f372284",
+      "seq": 25,
+      "week": 9,
+      "title": "Term revision 11: Reconciliation, Things God promised us if we live according to his commandments",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Reconciliation"
+    },
+    {
+      "id": "lles_25ada742a8d34b29b8516b71ff45cfac",
+      "seq": 26,
+      "week": 9,
+      "title": "Term revision 12: Reconciliation, Things God promised us if we live according to his commandments",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_4efcaff1310a4add9fb9fc5d6cedbac9",
+      "seq": 27,
+      "week": 9,
+      "title": "Week 9 review",
+      "subtopic": "Reconciliation, Things God promised us if we live according to his commandments",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_01185bd677ee40de98881be76f184e7f",
+      "seq": 28,
+      "week": 10,
+      "title": "Term revision 13: Reconciliation, Things God promised us if we live according to his commandments",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Reconciliation"
+    },
+    {
+      "id": "lles_efda5db21521493b93328b42c29a5fd0",
+      "seq": 29,
+      "week": 10,
+      "title": "Term revision 14: Reconciliation, Things God promised us if we live according to his commandments",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    },
+    {
+      "id": "lles_9132f85db40e4f20aa783446e6098da6",
+      "seq": 30,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Reconciliation, Things God promised us if we live according to his commandments",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Things God promised us if we live according to his commandments"
+    }
+  ]
+}
