@@ -1,0 +1,15 @@
+{
+  "job": "ltsk_05193cc3da2548648248560d9f14e964-0",
+  "attempt": 1,
+  "agent": "chatgpt-gpt6",
+  "model": "GPT-6",
+  "gaps": {
+    "scheme": [
+      "The NCDC Primary Four IRE home-study booklet covers Terms I–III without specifying which listed study lessons belong exclusively to Term III. The outline preserves the booklet's topic order; the DOS should confirm term allocation before approval.",
+      "The separate Primary Four Term III notes also list Tawhiid (25 prophets, holy books), prayer organisation and Hejira. Their term-specific sequence conflicts with the full NCDC study-booklet sequence. These topics are not falsely represented as extra NCDC lessons; the DOS should reconcile allocation.",
+      "The final Hadith cleanliness assessment must use actual exercises from the supplied materials; a full marking key and complete examination paper will be selected during lesson writing.",
+      "Only two classroom periods per week are scheduled here because Ledgerly reserves the third for review."
+    ]
+  },
+  "reviewerNotes": "Provisional NCDC 2020 P4 IRE home-study source outline with 20 cited 40-minute lessons. Source citations have been checked against the full NCDC pack and supplementary Term III notes; DOS must reconcile conflicting topic allocations."
+}

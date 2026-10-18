@@ -1,0 +1,545 @@
+{
+  "title": "Primary Four Islamic Religious Education — Term III 2026",
+  "summary": "A provisional 20-lesson, 40-minute outline based on the NCDC P4 IRE study booklet's topic sequence, including congregational prayer, impurities, early converts, Surat Al-Humazah, Imaan, Surat Al-Falaq and cleanliness. Term III school-reference conflicts are declared as gaps for DOS review.",
+  "units": [
+    {
+      "title": "Fiqh — Congregational Prayer and Conduct of Prayer",
+      "theme": "Congregational Prayer and Conduct of Prayer",
+      "weekFrom": 1,
+      "weekTo": 1,
+      "competences": "Learners explain group prayer requirements and show how an Imam leads congregational prayer.",
+      "sources": [
+        {
+          "source": "lchk_1599c0a6def246809643a0f88e540244",
+          "quote": "Congregational Prayer and Conduct of Prayer"
+        },
+        {
+          "source": "lchk_b2af934ec27e418eb621ec7eea6726a3",
+          "quote": "Before prayers are said the following must be observed"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Requirements for congregational prayer",
+          "subtopic": "Congregational Prayer and Conduct of Prayer",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to give the meaning and requirements of congregational prayer."
+          ],
+          "sources": [
+            {
+              "source": "lchk_1599c0a6def246809643a0f88e540244",
+              "quote": "Lesson: Requirements for Prayer"
+            },
+            {
+              "source": "lchk_1599c0a6def246809643a0f88e540244",
+              "quote": "Congregational Prayer and Conduct of Prayer"
+            }
+          ]
+        },
+        {
+          "title": "Conduct of congregational prayer",
+          "subtopic": "Congregational Prayer and Conduct of Prayer",
+          "kind": "teach",
+          "week": 1,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify the roles of the Imam and Ma-amuum in prayer."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c38cad29997d407d9ec1ae000f1bcd99",
+              "quote": "Lesson: Conduct of the congregational prayer"
+            },
+            {
+              "source": "lchk_1599c0a6def246809643a0f88e540244",
+              "quote": "Congregational Prayer and Conduct of Prayer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hadith — Impurities",
+      "theme": "Impurities",
+      "weekFrom": 2,
+      "weekTo": 3,
+      "competences": "Learners read, write, interpret and apply the hadith on impurities.",
+      "sources": [
+        {
+          "source": "lchk_c38cad29997d407d9ec1ae000f1bcd99",
+          "quote": "SUB- THEME: Impurities"
+        },
+        {
+          "source": "lchk_67fe1e7602b64b339eb916b0cf34fd01",
+          "quote": "hadith on impurities"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Reading and writing the hadith on impurities",
+          "subtopic": "Impurities",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to read and write the hadith on impurities."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c38cad29997d407d9ec1ae000f1bcd99",
+              "quote": "Readingand writing a hadith on impurities"
+            },
+            {
+              "source": "lchk_c38cad29997d407d9ec1ae000f1bcd99",
+              "quote": "SUB- THEME: Impurities"
+            }
+          ]
+        },
+        {
+          "title": "Meaning of the hadith on impurities",
+          "subtopic": "Impurities",
+          "kind": "teach",
+          "week": 2,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to explain the meaning of the hadith on impurities."
+          ],
+          "sources": [
+            {
+              "source": "lchk_659465bf741f4c4bb0d96363a1e0915f",
+              "quote": "Meaning of a hadith on impurities"
+            },
+            {
+              "source": "lchk_c38cad29997d407d9ec1ae000f1bcd99",
+              "quote": "SUB- THEME: Impurities"
+            }
+          ]
+        },
+        {
+          "title": "Lessons from the hadith on impurities",
+          "subtopic": "Impurities",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify lessons from the hadith about impurities."
+          ],
+          "sources": [
+            {
+              "source": "lchk_67fe1e7602b64b339eb916b0cf34fd01",
+              "quote": "Lesson learnt from the hadith on impurities"
+            },
+            {
+              "source": "lchk_c38cad29997d407d9ec1ae000f1bcd99",
+              "quote": "SUB- THEME: Impurities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "History of Islam — Early Converts",
+      "theme": "Early Converts in Islam",
+      "weekFrom": 3,
+      "weekTo": 4,
+      "competences": "Learners describe the first converts, early Muslim suffering and events of the night journey.",
+      "sources": [
+        {
+          "source": "lchk_67fe1e7602b64b339eb916b0cf34fd01",
+          "quote": "Early Converts in Islam"
+        },
+        {
+          "source": "lchk_cbb1a62bd4a54a3c86239988d6bcd251",
+          "quote": "Migration of early Muslims"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Beliefs of the early Muslim converts",
+          "subtopic": "Early Converts in Islam",
+          "kind": "teach",
+          "week": 3,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to name early converts and describe their belief."
+          ],
+          "sources": [
+            {
+              "source": "lchk_67fe1e7602b64b339eb916b0cf34fd01",
+              "quote": "The first Muslim converts’ belief"
+            },
+            {
+              "source": "lchk_67fe1e7602b64b339eb916b0cf34fd01",
+              "quote": "Early Converts in Islam"
+            }
+          ]
+        },
+        {
+          "title": "Sufferings of Prophet Muhammad and early converts",
+          "subtopic": "Early Converts in Islam",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to describe the suffering faced by Prophet Muhammad and the early converts."
+          ],
+          "sources": [
+            {
+              "source": "lchk_55756f99cec54195b17d08e00f8ed29c",
+              "quote": "Suffering of Prophet Muhammad (P.B.U.H) and his early converts"
+            },
+            {
+              "source": "lchk_67fe1e7602b64b339eb916b0cf34fd01",
+              "quote": "Early Converts in Islam"
+            }
+          ]
+        },
+        {
+          "title": "Events of Al-Israi Wal-Miiraj",
+          "subtopic": "Early Converts in Islam",
+          "kind": "teach",
+          "week": 4,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to describe the events of Al-Israi Wal-Miiraj."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d82ffad065314fedb52dfcbcabc892bb",
+              "quote": "Events of Al- IsraiWal- Miiraj"
+            },
+            {
+              "source": "lchk_67fe1e7602b64b339eb916b0cf34fd01",
+              "quote": "Early Converts in Islam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Reading from the Qur'an — Surat Al-Humazah",
+      "theme": "Surat Al-Humazah",
+      "weekFrom": 5,
+      "weekTo": 6,
+      "competences": "Learners read and write Surat Al-Humazah and explain its meaning.",
+      "sources": [
+        {
+          "source": "lchk_bc1e0744323c488fba608e017c95922e",
+          "quote": "Surat Al- Humazah"
+        },
+        {
+          "source": "lchk_ee58f15d5f5b4bfba8b672a4fa0d0ee3",
+          "quote": "Surat al – humaza"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Reading Surat Al-Humazah",
+          "subtopic": "Surat Al-Humazah",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to read Surat Al-Humazah."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bc1e0744323c488fba608e017c95922e",
+              "quote": "Readingthe Surat Al- Humazah"
+            },
+            {
+              "source": "lchk_bc1e0744323c488fba608e017c95922e",
+              "quote": "Surat Al- Humazah"
+            }
+          ]
+        },
+        {
+          "title": "Writing Surat Al-Humazah",
+          "subtopic": "Surat Al-Humazah",
+          "kind": "teach",
+          "week": 5,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to write Surat Al-Humazah."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bc1e0744323c488fba608e017c95922e",
+              "quote": "Writing Surat Al- Humazah"
+            },
+            {
+              "source": "lchk_bc1e0744323c488fba608e017c95922e",
+              "quote": "Surat Al- Humazah"
+            }
+          ]
+        },
+        {
+          "title": "Meaning and lessons of Surat Al-Humazah",
+          "subtopic": "Surat Al-Humazah",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to state lessons from the meaning of Surat Al-Humazah."
+          ],
+          "sources": [
+            {
+              "source": "lchk_8d9f3442a8c540068444a51fb66207cd",
+              "quote": "Meaning and lesson learnt from the surah"
+            },
+            {
+              "source": "lchk_bc1e0744323c488fba608e017c95922e",
+              "quote": "Surat Al- Humazah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hadith — Imaan",
+      "theme": "Hadith Concerning Imaan",
+      "weekFrom": 6,
+      "weekTo": 7,
+      "competences": "Learners read and explain the hadith concerning Imaan and lessons drawn from it.",
+      "sources": [
+        {
+          "source": "lchk_8d9f3442a8c540068444a51fb66207cd",
+          "quote": "Hadith concerningImaan"
+        },
+        {
+          "source": "lchk_00776a0b8b1747d387c486bf7050bd3f",
+          "quote": "Meaning of the hadith about Imaan"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Reading a hadith concerning Imaan",
+          "subtopic": "Hadith Concerning Imaan",
+          "kind": "teach",
+          "week": 6,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to read the hadith concerning Imaan."
+          ],
+          "sources": [
+            {
+              "source": "lchk_8d9f3442a8c540068444a51fb66207cd",
+              "quote": "Reading a hadith concerning Imaan"
+            },
+            {
+              "source": "lchk_8d9f3442a8c540068444a51fb66207cd",
+              "quote": "Hadith concerningImaan"
+            }
+          ]
+        },
+        {
+          "title": "Meaning of the hadith about Imaan",
+          "subtopic": "Hadith Concerning Imaan",
+          "kind": "teach",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to give the meaning of the hadith about Imaan."
+          ],
+          "sources": [
+            {
+              "source": "lchk_00776a0b8b1747d387c486bf7050bd3f",
+              "quote": "Meaning of the hadith about Imaan"
+            },
+            {
+              "source": "lchk_8d9f3442a8c540068444a51fb66207cd",
+              "quote": "Hadith concerningImaan"
+            }
+          ]
+        },
+        {
+          "title": "Lessons from the hadith about Imaan",
+          "subtopic": "Hadith Concerning Imaan",
+          "kind": "teach",
+          "week": 7,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify lessons from the hadith concerning Imaan."
+          ],
+          "sources": [
+            {
+              "source": "lchk_00776a0b8b1747d387c486bf7050bd3f",
+              "quote": "Lesson learnt from the hadith concerning Imaan"
+            },
+            {
+              "source": "lchk_8d9f3442a8c540068444a51fb66207cd",
+              "quote": "Hadith concerningImaan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Reading from the Qur'an — Surat Al-Falaq",
+      "theme": "Surat Al-Falaq",
+      "weekFrom": 8,
+      "weekTo": 9,
+      "competences": "Learners read, write and interpret Surat Al-Falaq.",
+      "sources": [
+        {
+          "source": "lchk_583c01e1313c46aebdce19ba006e0754",
+          "quote": "Surat Al- Falaq"
+        },
+        {
+          "source": "lchk_f0ae1eea386f41acb4ec79b2c21074ab",
+          "quote": "Lesson you learn from This Surah"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Reading Surat Al-Falaq",
+          "subtopic": "Surat Al-Falaq",
+          "kind": "teach",
+          "week": 8,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to read Surat Al-Falaq."
+          ],
+          "sources": [
+            {
+              "source": "lchk_583c01e1313c46aebdce19ba006e0754",
+              "quote": "Reading Surat Al- Falaq"
+            },
+            {
+              "source": "lchk_583c01e1313c46aebdce19ba006e0754",
+              "quote": "Surat Al- Falaq"
+            }
+          ]
+        },
+        {
+          "title": "Writing Surat Al-Falaq",
+          "subtopic": "Surat Al-Falaq",
+          "kind": "teach",
+          "week": 8,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to write Surat Al-Falaq."
+          ],
+          "sources": [
+            {
+              "source": "lchk_583c01e1313c46aebdce19ba006e0754",
+              "quote": "WritingSurat Al- Falaq"
+            },
+            {
+              "source": "lchk_583c01e1313c46aebdce19ba006e0754",
+              "quote": "Surat Al- Falaq"
+            }
+          ]
+        },
+        {
+          "title": "Meaning of Surat Al-Falaq and its relevance",
+          "subtopic": "Surat Al-Falaq",
+          "kind": "teach",
+          "week": 9,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to explain the meaning and relevance of Surat Al-Falaq."
+          ],
+          "sources": [
+            {
+              "source": "lchk_583c01e1313c46aebdce19ba006e0754",
+              "quote": "Meaning and the relevancy of Surat Al- Falaq"
+            },
+            {
+              "source": "lchk_583c01e1313c46aebdce19ba006e0754",
+              "quote": "Surat Al- Falaq"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hadith — Cleanliness",
+      "theme": "Hadith Concerning Cleanliness",
+      "weekFrom": 9,
+      "weekTo": 10,
+      "competences": "Learners read, interpret and apply the hadith concerning cleanliness.",
+      "sources": [
+        {
+          "source": "lchk_f0ae1eea386f41acb4ec79b2c21074ab",
+          "quote": "Hadith concerning cleanliness"
+        },
+        {
+          "source": "lchk_2e672c4992c84ee99d428530f09345ea",
+          "quote": "Lessons learnt from Hadith concerning cleanliness"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Reading a hadith concerning cleanliness",
+          "subtopic": "Hadith Concerning Cleanliness",
+          "kind": "teach",
+          "week": 9,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to read the hadith concerning cleanliness."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f0ae1eea386f41acb4ec79b2c21074ab",
+              "quote": "Reading a Hadith concerning cleanliness"
+            },
+            {
+              "source": "lchk_f0ae1eea386f41acb4ec79b2c21074ab",
+              "quote": "Hadith concerning cleanliness"
+            }
+          ]
+        },
+        {
+          "title": "Meaning of the hadith concerning cleanliness",
+          "subtopic": "Hadith Concerning Cleanliness",
+          "kind": "teach",
+          "week": 10,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to give the meaning of the hadith concerning cleanliness."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2e672c4992c84ee99d428530f09345ea",
+              "quote": "Meaning of a hadith concerning cleanliness"
+            },
+            {
+              "source": "lchk_f0ae1eea386f41acb4ec79b2c21074ab",
+              "quote": "Hadith concerning cleanliness"
+            }
+          ]
+        },
+        {
+          "title": "Lessons from the hadith on cleanliness and assessment",
+          "subtopic": "Hadith Concerning Cleanliness",
+          "kind": "teach",
+          "week": 10,
+          "periods": 1,
+          "objectives": [
+            "By the end of the lesson, learners should be able to state lessons from the hadith on cleanliness and answer the supplied review questions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_2e672c4992c84ee99d428530f09345ea",
+              "quote": "Lessons learnt from Hadith concerning cleanliness"
+            },
+            {
+              "source": "lchk_f0ae1eea386f41acb4ec79b2c21074ab",
+              "quote": "Hadith concerning cleanliness"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "The NCDC Primary Four IRE home-study booklet covers Terms I–III without specifying which listed study lessons belong exclusively to Term III. The outline preserves the booklet's topic order; the DOS should confirm term allocation before approval.",
+    "The separate Primary Four Term III notes also list Tawhiid (25 prophets, holy books), prayer organisation and Hejira. Their term-specific sequence conflicts with the full NCDC study-booklet sequence. These topics are not falsely represented as extra NCDC lessons; the DOS should reconcile allocation.",
+    "The final Hadith cleanliness assessment must use actual exercises from the supplied materials; a full marking key and complete examination paper will be selected during lesson writing.",
+    "Only two classroom periods per week are scheduled here because Ledgerly reserves the third for review."
+  ]
+}
