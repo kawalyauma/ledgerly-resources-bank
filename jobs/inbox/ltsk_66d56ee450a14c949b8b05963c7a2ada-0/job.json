@@ -1,0 +1,80 @@
+{
+  "job": "ltsk_66d56ee450a14c949b8b05963c7a2ada-0",
+  "task": "ltsk_66d56ee450a14c949b8b05963c7a2ada",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 51,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "English",
+  "term": "2026-T3",
+  "week": 1,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [
+    {
+      "id": "lles_79b48f93c52344508840d05b75a1ce07",
+      "kind": "teach",
+      "week": 1,
+      "title": "Peace and security vocabulary",
+      "periods": 1,
+      "subtopic": "Statement, cell, counter, offence and barracks"
+    },
+    {
+      "id": "lles_9ee96a67a1044b1f93bf9ca7c5abc3e2",
+      "kind": "teach",
+      "week": 1,
+      "title": "Distinguishing related vocabulary",
+      "periods": 1,
+      "subtopic": "Cell, sale, sell, court and coat"
+    },
+    {
+      "id": "lles_f91f41345de44746be18d43a273828f6",
+      "kind": "teach",
+      "week": 1,
+      "title": "Using was/were … by",
+      "periods": 1,
+      "subtopic": "Past simple passive voice"
+    },
+    {
+      "id": "lles_5e34c20982284d9cb5fc4b3b117bf571",
+      "kind": "practice",
+      "week": 1,
+      "title": "Changing statements into passive voice",
+      "periods": 1,
+      "subtopic": "Past simple passive voice"
+    },
+    {
+      "id": "lles_b086b50853a54e7699aa97b54d8d154a",
+      "kind": "teach",
+      "week": 1,
+      "title": "Using so … that",
+      "periods": 1,
+      "subtopic": "Joining sentences using so … that"
+    },
+    {
+      "id": "lles_c5e72a8c61f440b582c7eb6ba64de79c",
+      "kind": "practice",
+      "week": 1,
+      "title": "Sentence joining practice",
+      "periods": 1,
+      "subtopic": "Joining sentences using so … that"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/english",
+  "passages": [
+    "lchk_9b31b311f7e948c5800dedda9d2db45e",
+    "lchk_beeb25b8d2f4494e92b29afa9ddb15c5",
+    "lchk_10b4c5decfb94fb7a973fa4e3ebf03aa",
+    "lchk_83cb1903e990412bbd12843c8ed4dd72",
+    "lchk_2f22fb1c3b054ac19be49bce586ca063",
+    "lchk_785c79b352a041d7bfc46414c03c983c",
+    "lchk_7d017b9e8abd410982101abf73a657fe",
+    "lchk_93cc618fa1c94715aba585307d5282b3"
+  ],
+  "created": "2026-10-18T04:15:01.685Z"
+}

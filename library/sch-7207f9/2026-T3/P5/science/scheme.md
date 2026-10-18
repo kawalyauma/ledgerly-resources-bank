@@ -2,12 +2,12 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Types of Changes | Types of Changes in the Environment — Biological, chemical and physical changes | pending |
-| 2 | 1 | teach | Types of Changes | Biological Changes — Meaning, examples and characteristics of biological changes | pending |
-| 3 | 1 | Part B | Types of Changes | Observing Biological Changes — Meaning, examples and characteristics of biological changes | pending |
-| 4 | 1 | teach | Types of Changes | Effects of Biological Changes — Importance and dangers of biological changes | pending |
-| 5 | 1 | teach | Types of Changes | Chemical Changes — Meaning and examples of chemical changes | pending |
-| 6 | 1 | Part B | Types of Changes | Observing Chemical Changes — Meaning and examples of chemical changes | pending |
+| 1 | 1 | teach | Types of Changes | Types of Changes in the Environment — Biological, chemical and physical changes | writing |
+| 2 | 1 | teach | Types of Changes | Biological Changes — Meaning, examples and characteristics of biological changes | writing |
+| 3 | 1 | Part B | Types of Changes | Observing Biological Changes — Meaning, examples and characteristics of biological changes | writing |
+| 4 | 1 | teach | Types of Changes | Effects of Biological Changes — Importance and dangers of biological changes | writing |
+| 5 | 1 | teach | Types of Changes | Chemical Changes — Meaning and examples of chemical changes | writing |
+| 6 | 1 | Part B | Types of Changes | Observing Chemical Changes — Meaning and examples of chemical changes | writing |
 | 7 | 2 | teach | Types of Changes | Physical Changes — Meaning and examples of physical changes | pending |
 | 8 | 2 | Part B | Types of Changes | Observing Changes of State — Meaning and examples of physical changes | pending |
 | 9 | 2 | teach | Types of Changes | Natural Changes and Their Effects — Natural changes | pending |

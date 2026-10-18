@@ -2,12 +2,12 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Algebra | Using letters for numbers — Equations with and without letters | pending |
-| 2 | 1 | teach | Algebra | Adding letters and writing in short — Adding letters | pending |
-| 3 | 1 | Part B | Algebra | Writing in short: exercises — Adding letters | pending |
-| 4 | 1 | teach | Algebra | Finding perimeter using letters — Perimeter using letters for numbers | pending |
-| 5 | 1 | teach | Algebra | Subtracting letters — Subtracting letters | pending |
-| 6 | 1 | Part B | Algebra | Subtracting letters: exercises — Subtracting letters | pending |
+| 1 | 1 | teach | Algebra | Using letters for numbers — Equations with and without letters | writing |
+| 2 | 1 | teach | Algebra | Adding letters and writing in short — Adding letters | writing |
+| 3 | 1 | Part B | Algebra | Writing in short: exercises — Adding letters | writing |
+| 4 | 1 | teach | Algebra | Finding perimeter using letters — Perimeter using letters for numbers | writing |
+| 5 | 1 | teach | Algebra | Subtracting letters — Subtracting letters | writing |
+| 6 | 1 | Part B | Algebra | Subtracting letters: exercises — Subtracting letters | writing |
 | 7 | 2 | teach | Algebra | Collecting like terms — Collecting like terms involving addition only | pending |
 | 8 | 2 | Part B | Algebra | Collecting like terms: exercises — Collecting like terms involving addition only | pending |
 | 9 | 2 | teach | Algebra | Substitution — Substitution | pending |

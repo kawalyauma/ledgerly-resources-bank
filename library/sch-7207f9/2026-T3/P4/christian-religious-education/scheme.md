@@ -2,9 +2,9 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Reconciliation | Christian ways of reconciling with God — Christian ways of reconciling with God | pending |
-| 2 | 1 | Part B | Reconciliation | Practice: Christian ways of reconciling with God — Christian ways of reconciling with God | pending |
-| 3 | 1 | review | Reconciliation | Week 1 review — Reconciliation | pending |
+| 1 | 1 | teach | Reconciliation | Christian ways of reconciling with God — Christian ways of reconciling with God | writing |
+| 2 | 1 | Part B | Reconciliation | Practice: Christian ways of reconciling with God — Christian ways of reconciling with God | writing |
+| 3 | 1 | review | Reconciliation | Week 1 review — Reconciliation | writing |
 | 4 | 2 | teach | Things God promised us if we live according to his commandments | God’s promises to people who live according to his commandments — God’s promises | pending |
 | 5 | 2 | Part B | Things God promised us if we live according to his commandments | Practice: God’s promises — God’s promises | pending |
 | 6 | 2 | review | Things God promised us if we live according to his commandments | Week 2 review — Things God promised us if we live according to his commandments | pending |

@@ -2,12 +2,12 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Peace and Security | Peace and security vocabulary — Statement, cell, counter, offence and barracks | pending |
-| 2 | 1 | teach | Peace and Security | Distinguishing related vocabulary — Cell, sale, sell, court and coat | pending |
-| 3 | 1 | teach | Peace and Security | Using was/were … by — Past simple passive voice | pending |
-| 4 | 1 | Part B | Peace and Security | Changing statements into passive voice — Past simple passive voice | pending |
-| 5 | 1 | teach | Peace and Security | Using so … that — Joining sentences using so … that | pending |
-| 6 | 1 | Part B | Peace and Security | Sentence joining practice — Joining sentences using so … that | pending |
+| 1 | 1 | teach | Peace and Security | Peace and security vocabulary — Statement, cell, counter, offence and barracks | writing |
+| 2 | 1 | teach | Peace and Security | Distinguishing related vocabulary — Cell, sale, sell, court and coat | writing |
+| 3 | 1 | teach | Peace and Security | Using was/were … by — Past simple passive voice | writing |
+| 4 | 1 | Part B | Peace and Security | Changing statements into passive voice — Past simple passive voice | writing |
+| 5 | 1 | teach | Peace and Security | Using so … that — Joining sentences using so … that | writing |
+| 6 | 1 | Part B | Peace and Security | Sentence joining practice — Joining sentences using so … that | writing |
 | 7 | 2 | teach | Peace and Security | Ndayidde and the police constable — Conversation comprehension | pending |
 | 8 | 2 | Part B | Peace and Security | Acting the conversation — Conversation comprehension | pending |
 | 9 | 2 | teach | Peace and Security | What the Police Does — Poem comprehension | pending |

@@ -1,0 +1,81 @@
+{
+  "job": "ltsk_d1851fb2bde8422cb6b810aca24117b3-0",
+  "task": "ltsk_d1851fb2bde8422cb6b810aca24117b3",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 51,
+  "school": "sch-7207f9",
+  "class": "P5",
+  "classLevel": 5,
+  "subject": "Mathematics",
+  "term": "2026-T3",
+  "week": 1,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [
+    {
+      "id": "lles_429f7e0871a646ec832561bdfd1b8e58",
+      "kind": "teach",
+      "week": 1,
+      "title": "Simple rates",
+      "periods": 1,
+      "subtopic": "Simple rates"
+    },
+    {
+      "id": "lles_3b3c0eb1367046209f47cdc51dd05670",
+      "kind": "practice",
+      "week": 1,
+      "title": "Simple rates exercises",
+      "periods": 1,
+      "subtopic": "Simple rates"
+    },
+    {
+      "id": "lles_a6d52ec7e18e4cff986542e5f0e8e72d",
+      "kind": "teach",
+      "week": 1,
+      "title": "More about simple rates",
+      "periods": 1,
+      "subtopic": "More about simple rates"
+    },
+    {
+      "id": "lles_8db11c74887a46ef8da9de1161accaea",
+      "kind": "practice",
+      "week": 1,
+      "title": "More about simple rates exercises",
+      "periods": 1,
+      "subtopic": "More about simple rates"
+    },
+    {
+      "id": "lles_d331fa292d694abe8f5ed58a727cc865",
+      "kind": "teach",
+      "week": 1,
+      "title": "Shopping bills and change",
+      "periods": 1,
+      "subtopic": "Shopping list"
+    },
+    {
+      "id": "lles_d9e392d2b78745c1a45e580f7c3dc8c9",
+      "kind": "practice",
+      "week": 1,
+      "title": "Buying and selling exercises",
+      "periods": 1,
+      "subtopic": "Shopping list"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P5/mathematics",
+  "passages": [
+    "lchk_710d046489f04bcd9e0537b56df7729c",
+    "lchk_310b141c67c0492a9e93e9528fc5afee",
+    "lchk_9cc062c74d864f4a9331182a56d862c4",
+    "lchk_920ab54bd9f744038ae3f9b61fdcde05",
+    "lchk_37ef9a279a18476bad458e97a038ffd6",
+    "lchk_40e8aded33fd444b8d4413e55054ff4b",
+    "lchk_0385c6ae55944b4b93836eec4fd75808",
+    "lchk_a164765cea1f4e5d90d753d48350bfcd",
+    "lchk_e2828c4247444179ba941def67468c4d"
+  ],
+  "created": "2026-10-18T04:15:06.624Z"
+}

@@ -2,12 +2,12 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Money | Simple rates — Simple rates | pending |
-| 2 | 1 | Part B | Money | Simple rates exercises — Simple rates | pending |
-| 3 | 1 | teach | Money | More about simple rates — More about simple rates | pending |
-| 4 | 1 | Part B | Money | More about simple rates exercises — More about simple rates | pending |
-| 5 | 1 | teach | Money | Shopping bills and change — Shopping list | pending |
-| 6 | 1 | Part B | Money | Buying and selling exercises — Shopping list | pending |
+| 1 | 1 | teach | Money | Simple rates — Simple rates | writing |
+| 2 | 1 | Part B | Money | Simple rates exercises — Simple rates | writing |
+| 3 | 1 | teach | Money | More about simple rates — More about simple rates | writing |
+| 4 | 1 | Part B | Money | More about simple rates exercises — More about simple rates | writing |
+| 5 | 1 | teach | Money | Shopping bills and change — Shopping list | writing |
+| 6 | 1 | Part B | Money | Buying and selling exercises — Shopping list | writing |
 | 7 | 2 | teach | Money | Completing bill tables — Completing the bill | pending |
 | 8 | 2 | Part B | Money | Filling in a shopping bill — Completing the bill | pending |
 | 9 | 2 | teach | Money | Finding profit — Profit | pending |

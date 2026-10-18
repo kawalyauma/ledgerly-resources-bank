@@ -2,13 +2,13 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Our Transport | Plurals taking s — Types and means of transport: plurals taking s | pending |
-| 2 | 1 | Part B | Our Transport | Reading and writing plurals taking s — Types and means of transport: plurals taking s | pending |
-| 3 | 1 | teach | Our Transport | The Traffic Light — Rhyme in relation to transport | pending |
-| 4 | 1 | Part B | Our Transport | Reciting and writing The Traffic Light — Rhyme in relation to transport | pending |
-| 5 | 1 | teach | Our Transport | My Father — A story related to transport | pending |
-| 6 | 1 | Part B | Our Transport | Completing My Father — A story related to transport | pending |
-| 7 | 1 | review | Our Transport | Week 1 review — Our Transport | pending |
+| 1 | 1 | teach | Our Transport | Plurals taking s — Types and means of transport: plurals taking s | writing |
+| 2 | 1 | Part B | Our Transport | Reading and writing plurals taking s — Types and means of transport: plurals taking s | writing |
+| 3 | 1 | teach | Our Transport | The Traffic Light — Rhyme in relation to transport | writing |
+| 4 | 1 | Part B | Our Transport | Reciting and writing The Traffic Light — Rhyme in relation to transport | writing |
+| 5 | 1 | teach | Our Transport | My Father — A story related to transport | writing |
+| 6 | 1 | Part B | Our Transport | Completing My Father — A story related to transport | writing |
+| 7 | 1 | review | Our Transport | Week 1 review — Our Transport | writing |
 | 8 | 2 | teach | Our Transport | Plurals taking es — Plurals taking es | pending |
 | 9 | 2 | Part B | Our Transport | Writing plurals taking es — Plurals taking es | pending |
 | 10 | 2 | teach | Our Transport | Transport tongue twisters — Speech exercise and tongue twister | pending |

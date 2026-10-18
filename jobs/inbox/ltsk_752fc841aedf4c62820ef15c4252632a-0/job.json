@@ -1,0 +1,80 @@
+{
+  "job": "ltsk_752fc841aedf4c62820ef15c4252632a-0",
+  "task": "ltsk_752fc841aedf4c62820ef15c4252632a",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 51,
+  "school": "sch-7207f9",
+  "class": "P4",
+  "classLevel": 4,
+  "subject": "Mathematics",
+  "term": "2026-T3",
+  "week": 1,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [
+    {
+      "id": "lles_cb0af2b5b0aa467dbec66017f5d82c64",
+      "kind": "teach",
+      "week": 1,
+      "title": "Using letters for numbers",
+      "periods": 1,
+      "subtopic": "Equations with and without letters"
+    },
+    {
+      "id": "lles_433c91cdf65045de81f9ee8609c699d9",
+      "kind": "teach",
+      "week": 1,
+      "title": "Adding letters and writing in short",
+      "periods": 1,
+      "subtopic": "Adding letters"
+    },
+    {
+      "id": "lles_97cf3280620c4879b49c93ee2af57d37",
+      "kind": "practice",
+      "week": 1,
+      "title": "Writing in short: exercises",
+      "periods": 1,
+      "subtopic": "Adding letters"
+    },
+    {
+      "id": "lles_a55e2fe0e437486f87b9fd4b6113781a",
+      "kind": "teach",
+      "week": 1,
+      "title": "Finding perimeter using letters",
+      "periods": 1,
+      "subtopic": "Perimeter using letters for numbers"
+    },
+    {
+      "id": "lles_3978fa35bf0f4d46a3efa7e540b9be58",
+      "kind": "teach",
+      "week": 1,
+      "title": "Subtracting letters",
+      "periods": 1,
+      "subtopic": "Subtracting letters"
+    },
+    {
+      "id": "lles_f32f8f0b8ab349bd8b522b4a03d7f268",
+      "kind": "practice",
+      "week": 1,
+      "title": "Subtracting letters: exercises",
+      "periods": 1,
+      "subtopic": "Subtracting letters"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P4/mathematics",
+  "passages": [
+    "lchk_4ae8b6ee7ff74590b4b6ee1bceec1041",
+    "lchk_1d2f5914dfc44d7993d25e1990a7f64b",
+    "lchk_c3b4097a84614d11812f9f508ee4e7b5",
+    "lchk_87cb86fc55d24d8389bd459fec5ac4d8",
+    "lchk_b7287a834b564c0d9633ee281421ed53",
+    "lchk_4a558b3e2f454208955d3d35fc4fce0d",
+    "lchk_19ae9eddea0f464f95a6cac4d7262973",
+    "lchk_32ef90b007b846ae93829003b1e25503"
+  ],
+  "created": "2026-10-18T04:15:21.628Z"
+}
