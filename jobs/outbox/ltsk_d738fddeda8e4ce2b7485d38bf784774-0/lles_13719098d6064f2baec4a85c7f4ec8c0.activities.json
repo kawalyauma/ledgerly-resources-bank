@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Read Surat An-Nas",
+    "answer": "Qul a'oozu birabbin naas; Malikin naas; Ilaahin naas; Min sharril waswaasil khannaas; Allazee yuwaswisu fee sudoorin naas; Minal jinnati wannaas",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Surat An-Nas",
+    "skill": "recite or read",
+    "cognitiveLevel": "remember",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_8e901e6e75984837a9b4f858f11ed702",
+      "quote": "Read Surat An-Nas"
+    }
+  },
+  {
+    "question": "Reading Surat An-Nas",
+    "answer": "Qul a'oozu birabbin naas; Malikin naas; Ilaahin naas; Min sharril waswaasil khannaas; Allazee yuwaswisu fee sudoorin naas; Minal jinnati wannaas",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Surat An-Nas",
+    "skill": "recite or read",
+    "cognitiveLevel": "remember",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_8e901e6e75984837a9b4f858f11ed702",
+      "quote": "Reading Surat An-Nas"
+    }
+  },
+  {
+    "question": "Tell the meaning of Surat",
+    "answer": "Say: I seek refuge with the Lord And Cherisher of Mankind; The King (or Ruler) Of Mankind; The God (or Judge) Of Mankind",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Surat An-Nas",
+    "skill": "tell meaning",
+    "cognitiveLevel": "remember",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_d75bf64ba9b746b4883980badae1a50e",
+      "quote": "Tell the meaning of Surat"
+    }
+  }
+]

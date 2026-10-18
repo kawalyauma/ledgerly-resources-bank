@@ -1,0 +1,15 @@
+{
+  "job": "ltsk_d738fddeda8e4ce2b7485d38bf784774-0",
+  "attempt": 1,
+  "agent": "gpt-6-automation",
+  "model": "gpt-6",
+  "gaps": {
+    "lles_13719098d6064f2baec4a85c7f4ec8c0": [
+      "The supplied passages give transliterated verses, not the original Arabic script. The Arabic script was not invented."
+    ],
+    "lles_1b3ff9c1a3874799b7ecb18b568a74f1": [
+      "Only recitation, reading and meaning assessment tasks are supplied; few distinct written review questions are available."
+    ]
+  },
+  "reviewerNotes": "All six transliterated verses and the oral exercises come from the NCDC passages. No Arabic-script verses or unsourced questions were added."
+}

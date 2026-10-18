@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Recite the Surat",
+    "answer": "Qul a'oozu birabbin naas; Malikin naas; Ilaahin naas; Min sharril waswaasil khannaas; Allazee yuwaswisu fee sudoorin naas; Minal jinnati wannaas",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Surat An-Nas",
+    "skill": "recite or read",
+    "cognitiveLevel": "remember",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_d75bf64ba9b746b4883980badae1a50e",
+      "quote": "Recite the Surat"
+    }
+  },
+  {
+    "question": "Reciting the surah (chapter) in groups, pairs and individually",
+    "answer": "Qul a'oozu birabbin naas; Malikin naas; Ilaahin naas; Min sharril waswaasil khannaas; Allazee yuwaswisu fee sudoorin naas; Minal jinnati wannaas",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Surat An-Nas",
+    "skill": "recite or read",
+    "cognitiveLevel": "remember",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_8f89ee9db7564a2c8b613fec316bfb27",
+      "quote": "Reciting the surah (chapter) in groups, pairs and individually"
+    }
+  },
+  {
+    "question": "Reciting Surat An-Nas (1-6 verses)",
+    "answer": "Qul a'oozu birabbin naas; Malikin naas; Ilaahin naas; Min sharril waswaasil khannaas; Allazee yuwaswisu fee sudoorin naas; Minal jinnati wannaas",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "concept": "Surat An-Nas",
+    "skill": "recite or read",
+    "cognitiveLevel": "remember",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_1c39d6f24103439aa9a783db81b14e33",
+      "quote": "Reciting Surat An-Nas (1-6 verses)"
+    }
+  }
+]

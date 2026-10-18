@@ -1,0 +1,90 @@
+{
+  "competences": [
+    "The learner reads the transliterated verses of Surat An-Nas.",
+    "The learner tells the meanings of the first three verses."
+  ],
+  "languageCompetence": "Pronounces and reads: Surat An-Nas, Qul a'oozu birabbin naas, Malikin naas, Ilaahin naas.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to read the six transliterated verses in order.",
+    "By the end of the lesson, learners should be able to tell the meanings of the first three verses."
+  ],
+  "priorKnowledge": "Learners practised reciting Surat An-Nas during the previous lesson and now connect the sounds to the written transliteration.",
+  "methods": [
+    "Recitation",
+    "Demonstration",
+    "I do, we do, you do",
+    "Guided discussion"
+  ],
+  "materials": [
+    "Chart showing the six transliterated verses of Surat An-Nas",
+    "Teacher's Holy Qur’an for reference"
+  ],
+  "references": [
+    "NCDC P1 Curriculum",
+    "NCDC IRE P.1 TEACHERS RESOURCE BOOK"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Surat An-Nas has six verses.",
+      "teacherActivity": "The teacher asks learners to recite the surah practised on Tuesday, points to the displayed lines and introduces reading the transliteration. The teacher asks: 'Can you identify Surat An-Nas?'",
+      "learnerActivity": "Learners look at the displayed chart, name the surah and recall the six verses with the teacher.",
+      "source": {
+        "source": "lchk_8f89ee9db7564a2c8b613fec316bfb27",
+        "quote": "Display a chart with the Surat"
+      }
+    },
+    {
+      "stage": "Development: Reading Surat An-Nas",
+      "minutes": 10,
+      "content": "Surat An-Nas has six verses; Qul a'oozu birabbin naas; Malikin naas; Ilaahin naas.",
+      "teacherActivity": "The teacher points to the transliterated verses and reads them one at a time, asking learners to follow each word from the displayed chart. The teacher points to the relevant verses on the chart.",
+      "learnerActivity": "Learners follow the verses on the chart, repeat the words clearly and take turns responding to the teacher.",
+      "source": {
+        "source": "lchk_8f89ee9db7564a2c8b613fec316bfb27",
+        "quote": "Using the demonstration method"
+      }
+    },
+    {
+      "stage": "Development: Meaning of Surat An-Nas",
+      "minutes": 12,
+      "content": "Qul a'oozu birabbin naas; Malikin naas; Ilaahin naas; Min sharril waswaasil khannaas; Allazee yuwaswisu fee sudoorin naas; Minal jinnati wannaas; the Lord, King and God of mankind.",
+      "teacherActivity": "The teacher reads the six verses and explains the sourced meanings of the first three: seeking refuge, the King of mankind, and the God of mankind. The teacher invites learners to practise individually while listening to their pronunciation.",
+      "learnerActivity": "Learners recite or read the verses together and individually, then repeat the words that need clearer articulation.",
+      "source": {
+        "source": "lchk_1c39d6f24103439aa9a783db81b14e33",
+        "quote": "transliteration"
+      }
+    },
+    {
+      "stage": "Practice: Exercise",
+      "minutes": 8,
+      "content": "Read Surat An-Nas; Reading Surat An-Nas; Tell the meaning of Surat",
+      "teacherActivity": "The teacher sets the sourced tasks: 'Read Surat An-Nas', 'Reading Surat An-Nas', and 'Tell the meaning of Surat'. The teacher checks each learner's performance.",
+      "learnerActivity": "Learners complete the three oral tasks in pairs and individually, repeating the verses and answering the teacher.",
+      "source": {
+        "source": "lchk_8f89ee9db7564a2c8b613fec316bfb27",
+        "quote": "Reciting the surah (chapter) in groups, pairs and individually"
+      }
+    },
+    {
+      "stage": "Conclusion",
+      "minutes": 5,
+      "content": "I can recite Surat An-Nas; I can read Surat An-Nas.",
+      "teacherActivity": "The teacher invites three learners to recite or read the six verses and asks the class to check the correct order. The teacher gives feedback.",
+      "learnerActivity": "Learners listen to the three recitations, correct their pronunciation with guidance, and read the verses together.",
+      "source": {
+        "source": "lchk_8e901e6e75984837a9b4f858f11ed702",
+        "quote": "Assess as the learner reads Surat Annas"
+      }
+    }
+  ],
+  "assessment": "Assess learners through the sourced activities 'Read Surat An-Nas', 'Reading Surat An-Nas' and 'Tell the meaning of Surat'. Check correct pronunciation, reading order and understanding.",
+  "homework": "Practise reciting and reading the six verses of Surat An-Nas each day.",
+  "lifeSkills": [
+    "Effective communication",
+    "Responsibility",
+    "Appreciation"
+  ]
+}
