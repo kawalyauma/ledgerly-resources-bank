@@ -1,0 +1,348 @@
+{
+  "units": [
+    {
+      "title": "Fiqh — Congregational Prayer and Conduct of Prayer",
+      "theme": "Congregational Prayer and Conduct of Prayer",
+      "weekFrom": 1,
+      "weekTo": 1
+    },
+    {
+      "title": "Hadith — Impurities",
+      "theme": "Impurities",
+      "weekFrom": 2,
+      "weekTo": 3
+    },
+    {
+      "title": "History of Islam — Early Converts",
+      "theme": "Early Converts in Islam",
+      "weekFrom": 3,
+      "weekTo": 4
+    },
+    {
+      "title": "Reading from the Qur'an — Surat Al-Humazah",
+      "theme": "Surat Al-Humazah",
+      "weekFrom": 5,
+      "weekTo": 6
+    },
+    {
+      "title": "Hadith — Imaan",
+      "theme": "Hadith Concerning Imaan",
+      "weekFrom": 6,
+      "weekTo": 7
+    },
+    {
+      "title": "Reading from the Qur'an — Surat Al-Falaq",
+      "theme": "Surat Al-Falaq",
+      "weekFrom": 8,
+      "weekTo": 9
+    },
+    {
+      "title": "Hadith — Cleanliness",
+      "theme": "Hadith Concerning Cleanliness",
+      "weekFrom": 9,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_7a2654c9ae9a47a39cf72aff4dc20eae",
+      "seq": 1,
+      "week": 1,
+      "title": "Requirements for congregational prayer",
+      "subtopic": "Congregational Prayer and Conduct of Prayer",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Fiqh — Congregational Prayer and Conduct of Prayer"
+    },
+    {
+      "id": "lles_a4218f25160941c5b89d8e6a5273ac5f",
+      "seq": 2,
+      "week": 1,
+      "title": "Conduct of congregational prayer",
+      "subtopic": "Congregational Prayer and Conduct of Prayer",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Fiqh — Congregational Prayer and Conduct of Prayer"
+    },
+    {
+      "id": "lles_f8795eb3b58f42a4b741868f61322ed0",
+      "seq": 3,
+      "week": 1,
+      "title": "Week 1 review",
+      "subtopic": "Fiqh — Congregational Prayer and Conduct of Prayer",
+      "kind": "review",
+      "status": "writing",
+      "unit": "Fiqh — Congregational Prayer and Conduct of Prayer"
+    },
+    {
+      "id": "lles_fa50eb0d9851424f9ec1dc29191aeda1",
+      "seq": 4,
+      "week": 2,
+      "title": "Reading and writing the hadith on impurities",
+      "subtopic": "Impurities",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hadith — Impurities"
+    },
+    {
+      "id": "lles_fb20534ab2c84433bc351e2fd6ca3e96",
+      "seq": 5,
+      "week": 2,
+      "title": "Meaning of the hadith on impurities",
+      "subtopic": "Impurities",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hadith — Impurities"
+    },
+    {
+      "id": "lles_8ed6157f25414f01acd7b59a4a8e6de2",
+      "seq": 6,
+      "week": 2,
+      "title": "Week 2 review",
+      "subtopic": "Hadith — Impurities",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Hadith — Impurities"
+    },
+    {
+      "id": "lles_9fae6ba684dd4a0ebeb31206dca65445",
+      "seq": 7,
+      "week": 3,
+      "title": "Lessons from the hadith on impurities",
+      "subtopic": "Impurities",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hadith — Impurities"
+    },
+    {
+      "id": "lles_1d40676da0f14b92a885b497346a081c",
+      "seq": 8,
+      "week": 3,
+      "title": "Beliefs of the early Muslim converts",
+      "subtopic": "Early Converts in Islam",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "History of Islam — Early Converts"
+    },
+    {
+      "id": "lles_12151d978a0743a29a656a32823fddf2",
+      "seq": 9,
+      "week": 3,
+      "title": "Week 3 review",
+      "subtopic": "Hadith — Impurities, History of Islam — Early Converts",
+      "kind": "review",
+      "status": "pending",
+      "unit": "History of Islam — Early Converts"
+    },
+    {
+      "id": "lles_03bcc77a64074926aed35964141ce6a1",
+      "seq": 10,
+      "week": 4,
+      "title": "Sufferings of Prophet Muhammad and early converts",
+      "subtopic": "Early Converts in Islam",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "History of Islam — Early Converts"
+    },
+    {
+      "id": "lles_dc24d04822384ee38dd0e0db524f644f",
+      "seq": 11,
+      "week": 4,
+      "title": "Events of Al-Israi Wal-Miiraj",
+      "subtopic": "Early Converts in Islam",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "History of Islam — Early Converts"
+    },
+    {
+      "id": "lles_7480079d5f3848b39e62f5f7c8227650",
+      "seq": 12,
+      "week": 4,
+      "title": "Week 4 review",
+      "subtopic": "History of Islam — Early Converts",
+      "kind": "review",
+      "status": "pending",
+      "unit": "History of Islam — Early Converts"
+    },
+    {
+      "id": "lles_81dad7e30b0a4599b7173fadd01afc95",
+      "seq": 13,
+      "week": 5,
+      "title": "Reading Surat Al-Humazah",
+      "subtopic": "Surat Al-Humazah",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Reading from the Qur'an — Surat Al-Humazah"
+    },
+    {
+      "id": "lles_c4b4ca4e75a94159b322f90e365a9aa4",
+      "seq": 14,
+      "week": 5,
+      "title": "Writing Surat Al-Humazah",
+      "subtopic": "Surat Al-Humazah",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Reading from the Qur'an — Surat Al-Humazah"
+    },
+    {
+      "id": "lles_bceeb73808e54f0d9589b7b3e29a1713",
+      "seq": 15,
+      "week": 5,
+      "title": "Week 5 review",
+      "subtopic": "Reading from the Qur'an — Surat Al-Humazah",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Reading from the Qur'an — Surat Al-Humazah"
+    },
+    {
+      "id": "lles_cd17df48d6c24d77aaadb8ede8697ad0",
+      "seq": 16,
+      "week": 6,
+      "title": "Meaning and lessons of Surat Al-Humazah",
+      "subtopic": "Surat Al-Humazah",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Reading from the Qur'an — Surat Al-Humazah"
+    },
+    {
+      "id": "lles_4fce06e84307434996c5450ccd20ba2f",
+      "seq": 17,
+      "week": 6,
+      "title": "Reading a hadith concerning Imaan",
+      "subtopic": "Hadith Concerning Imaan",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hadith — Imaan"
+    },
+    {
+      "id": "lles_38caae78df9b49d89afdd5154fe7192c",
+      "seq": 18,
+      "week": 6,
+      "title": "Week 6 review",
+      "subtopic": "Reading from the Qur'an — Surat Al-Humazah, Hadith — Imaan",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Hadith — Imaan"
+    },
+    {
+      "id": "lles_80b3ea33a9994a4dbbcc517151819b56",
+      "seq": 19,
+      "week": 7,
+      "title": "Meaning of the hadith about Imaan",
+      "subtopic": "Hadith Concerning Imaan",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hadith — Imaan"
+    },
+    {
+      "id": "lles_65a15bdcc9a14ceba4304b08bd9144f8",
+      "seq": 20,
+      "week": 7,
+      "title": "Lessons from the hadith about Imaan",
+      "subtopic": "Hadith Concerning Imaan",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hadith — Imaan"
+    },
+    {
+      "id": "lles_b039c7d08e9040f79ba31690ce24a340",
+      "seq": 21,
+      "week": 7,
+      "title": "Week 7 review",
+      "subtopic": "Hadith — Imaan",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Hadith — Imaan"
+    },
+    {
+      "id": "lles_fa1a8ad56ba241cc8dbbf428d283a283",
+      "seq": 22,
+      "week": 8,
+      "title": "Reading Surat Al-Falaq",
+      "subtopic": "Surat Al-Falaq",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Reading from the Qur'an — Surat Al-Falaq"
+    },
+    {
+      "id": "lles_a855cedc85d34504ab4e485d90b56109",
+      "seq": 23,
+      "week": 8,
+      "title": "Writing Surat Al-Falaq",
+      "subtopic": "Surat Al-Falaq",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Reading from the Qur'an — Surat Al-Falaq"
+    },
+    {
+      "id": "lles_a0ce7b3e938045ce8fea3b7133cbc9c2",
+      "seq": 24,
+      "week": 8,
+      "title": "Week 8 review",
+      "subtopic": "Reading from the Qur'an — Surat Al-Falaq",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Reading from the Qur'an — Surat Al-Falaq"
+    },
+    {
+      "id": "lles_afd3a40b30d54848b1661b50390669df",
+      "seq": 25,
+      "week": 9,
+      "title": "Meaning of Surat Al-Falaq and its relevance",
+      "subtopic": "Surat Al-Falaq",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Reading from the Qur'an — Surat Al-Falaq"
+    },
+    {
+      "id": "lles_647d317975f5488a89fea4793fdfe41b",
+      "seq": 26,
+      "week": 9,
+      "title": "Reading a hadith concerning cleanliness",
+      "subtopic": "Hadith Concerning Cleanliness",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hadith — Cleanliness"
+    },
+    {
+      "id": "lles_401e66704c24491b91395026f305b0b8",
+      "seq": 27,
+      "week": 9,
+      "title": "Week 9 review",
+      "subtopic": "Reading from the Qur'an — Surat Al-Falaq, Hadith — Cleanliness",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Hadith — Cleanliness"
+    },
+    {
+      "id": "lles_b31f0a2d45e44dc8804d30aa8a6e9ad6",
+      "seq": 28,
+      "week": 10,
+      "title": "Meaning of the hadith concerning cleanliness",
+      "subtopic": "Hadith Concerning Cleanliness",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hadith — Cleanliness"
+    },
+    {
+      "id": "lles_5947794e31ab4b45841c6ecb9d33df58",
+      "seq": 29,
+      "week": 10,
+      "title": "Lessons from the hadith on cleanliness and assessment",
+      "subtopic": "Hadith Concerning Cleanliness",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hadith — Cleanliness"
+    },
+    {
+      "id": "lles_c7acf302540745fba4a81b701f486a21",
+      "seq": 30,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Fiqh — Congregational Prayer and Conduct of Prayer, Hadith — Impurities, History of Islam — Early Converts, Reading from the Qur'an — Surat Al-Humazah, Hadith — Imaan, Reading from the Qur'an — Surat Al-Falaq, Hadith — Cleanliness",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Hadith — Cleanliness"
+    }
+  ]
+}
