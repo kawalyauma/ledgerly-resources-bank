@@ -1,0 +1,636 @@
+{
+  "units": [
+    {
+      "title": "Algebra",
+      "theme": "Algebra",
+      "weekFrom": 1,
+      "weekTo": 3
+    },
+    {
+      "title": "Money",
+      "theme": "Measures",
+      "weekFrom": 3,
+      "weekTo": 5
+    },
+    {
+      "title": "Time",
+      "theme": "Measures",
+      "weekFrom": 5,
+      "weekTo": 8
+    },
+    {
+      "title": "Capacity",
+      "theme": "Measurements",
+      "weekFrom": 8,
+      "weekTo": 9
+    },
+    {
+      "title": "Weight and volume (mass)",
+      "theme": "Measurements",
+      "weekFrom": 9,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_cb0af2b5b0aa467dbec66017f5d82c64",
+      "seq": 1,
+      "week": 1,
+      "title": "Using letters for numbers",
+      "subtopic": "Equations with and without letters",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_433c91cdf65045de81f9ee8609c699d9",
+      "seq": 2,
+      "week": 1,
+      "title": "Adding letters and writing in short",
+      "subtopic": "Adding letters",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_97cf3280620c4879b49c93ee2af57d37",
+      "seq": 3,
+      "week": 1,
+      "title": "Writing in short: exercises",
+      "subtopic": "Adding letters",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_a55e2fe0e437486f87b9fd4b6113781a",
+      "seq": 4,
+      "week": 1,
+      "title": "Finding perimeter using letters",
+      "subtopic": "Perimeter using letters for numbers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_3978fa35bf0f4d46a3efa7e540b9be58",
+      "seq": 5,
+      "week": 1,
+      "title": "Subtracting letters",
+      "subtopic": "Subtracting letters",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_f32f8f0b8ab349bd8b522b4a03d7f268",
+      "seq": 6,
+      "week": 1,
+      "title": "Subtracting letters: exercises",
+      "subtopic": "Subtracting letters",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_845c849282df4179b86ac314c3cdc3a9",
+      "seq": 7,
+      "week": 2,
+      "title": "Collecting like terms",
+      "subtopic": "Collecting like terms involving addition only",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_ff1e8c720388456abf0b55aaaecc226b",
+      "seq": 8,
+      "week": 2,
+      "title": "Collecting like terms: exercises",
+      "subtopic": "Collecting like terms involving addition only",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_bfb5edea9e2f473982f20e9a52dc96b8",
+      "seq": 9,
+      "week": 2,
+      "title": "Substitution",
+      "subtopic": "Substitution",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_0a507bee78d9448cbe475533d4917e4f",
+      "seq": 10,
+      "week": 2,
+      "title": "Solving addition equations",
+      "subtopic": "Equations of addition",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_629a65c1b66f4456b4c52bb0885167ff",
+      "seq": 11,
+      "week": 2,
+      "title": "Addition equations: exercises",
+      "subtopic": "Equations of addition",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_caa3cc2209864377a06e69fc8c162d33",
+      "seq": 12,
+      "week": 2,
+      "title": "Solving subtraction equations",
+      "subtopic": "Equations of subtraction",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_07cb95f1ac164729a7a9542b5952da55",
+      "seq": 13,
+      "week": 3,
+      "title": "Solving equations involving division",
+      "subtopic": "Equations of division",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_97436525f9b14e4a9c2709ecdbcd1099",
+      "seq": 14,
+      "week": 3,
+      "title": "Forming addition and subtraction equations",
+      "subtopic": "Forming equations of addition and subtraction",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_eb6a40a7463f4698baf7a12e2436f80b",
+      "seq": 15,
+      "week": 3,
+      "title": "Recognising coins and bank notes",
+      "subtopic": "Recognition of money",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_e936a59d82944f6d8e6f0917ae0b4708",
+      "seq": 16,
+      "week": 3,
+      "title": "Describing coins and bank notes",
+      "subtopic": "Recognition of money",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_53e1531a41414ef8b34084c406599993",
+      "seq": 17,
+      "week": 3,
+      "title": "Changing shillings to cents and cents to shillings",
+      "subtopic": "Conversion of money",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_c71473f4662c4cebba9c78d4321f46d4",
+      "seq": 18,
+      "week": 3,
+      "title": "Adding money",
+      "subtopic": "Addition of money",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_cbfa600f1a7949cbb0bed88facd7a6ca",
+      "seq": 19,
+      "week": 4,
+      "title": "Subtracting money",
+      "subtopic": "Subtraction of money",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_afd63dd209014085ae7853af35827ef4",
+      "seq": 20,
+      "week": 4,
+      "title": "Finding money left after buying",
+      "subtopic": "Subtraction of money",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_53bb973de54d4c1785bc8968295458f5",
+      "seq": 21,
+      "week": 4,
+      "title": "Multiplying money",
+      "subtopic": "Multiplication of money",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_1447990b958e4f40aa2250d625742467",
+      "seq": 22,
+      "week": 4,
+      "title": "Direct proportions",
+      "subtopic": "Direct proportions",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_0a70c901e828493d87ed50ca45348ea8",
+      "seq": 23,
+      "week": 4,
+      "title": "Buying, selling and shopping bills",
+      "subtopic": "Buying and selling shopping bills",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_1c94e16765f74346b6521d77aaa96f63",
+      "seq": 24,
+      "week": 4,
+      "title": "Buyer and seller role play",
+      "subtopic": "Buying and selling shopping bills",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_918bb31d5d7948f1848d2ef2d82a5d72",
+      "seq": 25,
+      "week": 5,
+      "title": "Dividing money",
+      "subtopic": "Division of money",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_4f682dc443354e03bd39636a372cf5ad",
+      "seq": 26,
+      "week": 5,
+      "title": "Finding profit",
+      "subtopic": "Profit and loss",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_e67c5ceaa81a443698cecd5a7d652286",
+      "seq": 27,
+      "week": 5,
+      "title": "Finding loss",
+      "subtopic": "Profit and loss",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_659ec6d3b3154cc39f996447ed9556ee",
+      "seq": 28,
+      "week": 5,
+      "title": "Postage rates",
+      "subtopic": "Postage rates",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_7f03ea3aea40473790ca7e2e0870219f",
+      "seq": 29,
+      "week": 5,
+      "title": "Telling time",
+      "subtopic": "Telling time",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_e34034721594457285fdf079785a6fd7",
+      "seq": 30,
+      "week": 5,
+      "title": "Showing time on clock faces",
+      "subtopic": "Telling time",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_d5aba703043e476db895bc48a3626d47",
+      "seq": 31,
+      "week": 6,
+      "title": "Changing hours to minutes",
+      "subtopic": "Conversion of hours and minutes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_5a18c9b2977b41ec909cc3e4f093b156",
+      "seq": 32,
+      "week": 6,
+      "title": "Writing minutes as hours and minutes",
+      "subtopic": "Changing minutes to hours and minutes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_433e6d22be7b46e7b2fe792bf5ba4143",
+      "seq": 33,
+      "week": 6,
+      "title": "Minutes to hours: word problems",
+      "subtopic": "Changing minutes to hours and minutes",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_cc2febaa22114c3a95ccad320ac13214",
+      "seq": 34,
+      "week": 6,
+      "title": "Adding time",
+      "subtopic": "Addition of time and word problems",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_8163216acf8a4bbc9329b3c2bdc2fced",
+      "seq": 35,
+      "week": 6,
+      "title": "Subtracting time",
+      "subtopic": "Subtraction of time and word problems",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_1a86f3df190a47028b4069f66d201ce6",
+      "seq": 36,
+      "week": 6,
+      "title": "Time in a.m. and p.m.",
+      "subtopic": "Time in a.m. and p.m.",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_b9adfde76d7f48f893200c35d8404378",
+      "seq": 37,
+      "week": 7,
+      "title": "Changing days to hours",
+      "subtopic": "Changing days to hours",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_5500ef5b8ac44f8ab236af569916523a",
+      "seq": 38,
+      "week": 7,
+      "title": "Changing hours to days",
+      "subtopic": "Changing hours to days",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_c96182fd210940b985aefa5d2a4b39b1",
+      "seq": 39,
+      "week": 7,
+      "title": "Changing weeks to days",
+      "subtopic": "Changing weeks to days",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_003a11f97c1e404a8ea975f657dc908a",
+      "seq": 40,
+      "week": 7,
+      "title": "Changing days to weeks",
+      "subtopic": "Changing days to weeks",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_a43549be62614e1cb630ecb7388e1fb1",
+      "seq": 41,
+      "week": 7,
+      "title": "Months and days",
+      "subtopic": "Changing months to days",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_e4a5b4b9647042618d1a372d51f3d7a3",
+      "seq": 42,
+      "week": 7,
+      "title": "Reading the supplied calendar",
+      "subtopic": "Changing months to days",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_cf554aed25644011b7dd2714b1d43d18",
+      "seq": 43,
+      "week": 8,
+      "title": "Adding weeks and days",
+      "subtopic": "Addition of weeks and days",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_db6ab7ab4ead49d8afd495b77d39dbbb",
+      "seq": 44,
+      "week": 8,
+      "title": "Subtracting weeks and days",
+      "subtopic": "Subtraction of time in weeks and days",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time"
+    },
+    {
+      "id": "lles_39b33f4187034a078a28801d9bbfe668",
+      "seq": 45,
+      "week": 8,
+      "title": "Half and quarter litres",
+      "subtopic": "Half and quarter litres",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Capacity"
+    },
+    {
+      "id": "lles_8cf2306ae0664e9bbea2c4665774d154",
+      "seq": 46,
+      "week": 8,
+      "title": "Expressing capacity",
+      "subtopic": "Half and quarter litres",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Capacity"
+    },
+    {
+      "id": "lles_43b18db91d4b46c5873a1c014bc41c01",
+      "seq": 47,
+      "week": 8,
+      "title": "Adding litres as half litres",
+      "subtopic": "Addition of litres as half litres",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Capacity"
+    },
+    {
+      "id": "lles_24f6d08fc2584368aba7aa75dc92bfec",
+      "seq": 48,
+      "week": 8,
+      "title": "Half-litre addition practice",
+      "subtopic": "Addition of litres as half litres",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Capacity"
+    },
+    {
+      "id": "lles_8a55ac1df28442ba94b918e1df7df22c",
+      "seq": 49,
+      "week": 9,
+      "title": "Adding litres and millilitres",
+      "subtopic": "Addition of litres and millilitres",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Capacity"
+    },
+    {
+      "id": "lles_88b3be3234fc4bfeadbbdde5f3a3048b",
+      "seq": 50,
+      "week": 9,
+      "title": "Litres and millilitres: addition practice",
+      "subtopic": "Addition of litres and millilitres",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Capacity"
+    },
+    {
+      "id": "lles_52e90140a12c4334a523120ec73db5bf",
+      "seq": 51,
+      "week": 9,
+      "title": "Half and quarter kilograms",
+      "subtopic": "Half and quarter kilograms",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Weight and volume (mass)"
+    },
+    {
+      "id": "lles_8ea8b644fb0c41f18fb485c361dbd0f4",
+      "seq": 52,
+      "week": 9,
+      "title": "Expressing weight",
+      "subtopic": "Half and quarter kilograms",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Weight and volume (mass)"
+    },
+    {
+      "id": "lles_4d33f1516720411e9f504712e92f08ca",
+      "seq": 53,
+      "week": 9,
+      "title": "Changing kilograms to grams",
+      "subtopic": "Conversion of kilograms and grams",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Weight and volume (mass)"
+    },
+    {
+      "id": "lles_8a9b3ef07cd340c5a7e9aa0a74bdcd06",
+      "seq": 54,
+      "week": 9,
+      "title": "Changing grams to kilograms",
+      "subtopic": "Conversion of kilograms and grams",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Weight and volume (mass)"
+    },
+    {
+      "id": "lles_9a5165896ecc46e2943b4faf14a8d285",
+      "seq": 55,
+      "week": 10,
+      "title": "Adding kilograms and grams",
+      "subtopic": "Addition of kilograms and grams",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Weight and volume (mass)"
+    },
+    {
+      "id": "lles_43d687e472a545d48bd50b3d4163abf2",
+      "seq": 56,
+      "week": 10,
+      "title": "Subtracting kilograms and grams",
+      "subtopic": "Subtraction of kilograms and grams",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Weight and volume (mass)"
+    },
+    {
+      "id": "lles_a8d3b32ceeb94966a100c1487c4b84aa",
+      "seq": 57,
+      "week": 10,
+      "title": "Dozens, crates and trays",
+      "subtopic": "Dozens, crates and trays",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Weight and volume (mass)"
+    },
+    {
+      "id": "lles_c6b47a33657f4afa8c681261500a359e",
+      "seq": 58,
+      "week": 10,
+      "title": "Volume of a cube",
+      "subtopic": "Volume of cubes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Weight and volume (mass)"
+    },
+    {
+      "id": "lles_9b1b7bd1e41b4a4b98d0abb74ca6a88c",
+      "seq": 59,
+      "week": 10,
+      "title": "Volume of a cuboid",
+      "subtopic": "Volume of cuboids",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Weight and volume (mass)"
+    },
+    {
+      "id": "lles_8d1213f340334c379df2f14d5a2c43d1",
+      "seq": 60,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Algebra, Money, Time, Capacity, Weight and volume (mass)",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Weight and volume (mass)"
+    }
+  ]
+}
