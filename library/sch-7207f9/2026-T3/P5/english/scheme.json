@@ -1,0 +1,618 @@
+{
+  "units": [
+    {
+      "title": "Peace and Security",
+      "theme": "Peace and Security",
+      "weekFrom": 1,
+      "weekTo": 10
+    },
+    {
+      "title": "Services (Banking)",
+      "theme": "Services (Banking)",
+      "weekFrom": 5,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_79b48f93c52344508840d05b75a1ce07",
+      "seq": 1,
+      "week": 1,
+      "title": "Peace and security vocabulary",
+      "subtopic": "Statement, cell, counter, offence and barracks",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_9ee96a67a1044b1f93bf9ca7c5abc3e2",
+      "seq": 2,
+      "week": 1,
+      "title": "Distinguishing related vocabulary",
+      "subtopic": "Cell, sale, sell, court and coat",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_f91f41345de44746be18d43a273828f6",
+      "seq": 3,
+      "week": 1,
+      "title": "Using was/were … by",
+      "subtopic": "Past simple passive voice",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_5e34c20982284d9cb5fc4b3b117bf571",
+      "seq": 4,
+      "week": 1,
+      "title": "Changing statements into passive voice",
+      "subtopic": "Past simple passive voice",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_b086b50853a54e7699aa97b54d8d154a",
+      "seq": 5,
+      "week": 1,
+      "title": "Using so … that",
+      "subtopic": "Joining sentences using so … that",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_c5e72a8c61f440b582c7eb6ba64de79c",
+      "seq": 6,
+      "week": 1,
+      "title": "Sentence joining practice",
+      "subtopic": "Joining sentences using so … that",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_636d7dc8e8994c68a3e7eeb1c496c926",
+      "seq": 7,
+      "week": 2,
+      "title": "Ndayidde and the police constable",
+      "subtopic": "Conversation comprehension",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_6dedb4db995b4d5fbafcd32231b8ca4f",
+      "seq": 8,
+      "week": 2,
+      "title": "Acting the conversation",
+      "subtopic": "Conversation comprehension",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_3baec5ff0ae6455cadbf90f3f3989804",
+      "seq": 9,
+      "week": 2,
+      "title": "What the Police Does",
+      "subtopic": "Poem comprehension",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_94d8338b58714b2a81e4598d033a1413",
+      "seq": 10,
+      "week": 2,
+      "title": "The New Vision article",
+      "subtopic": "Newspaper article comprehension",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_2bd9c1cd2f5f4da3bd56cd4d5bd47383",
+      "seq": 11,
+      "week": 2,
+      "title": "Our village: oral sentence construction",
+      "subtopic": "Guided composition about our village",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_6923d49f8c854090afb28b1f0b126ef4",
+      "seq": 12,
+      "week": 2,
+      "title": "Our village: guided writing",
+      "subtopic": "Guided composition about our village",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_bd1a7908c1cc498cb2df2c83937463af",
+      "seq": 13,
+      "week": 3,
+      "title": "Reading a peace and security passage",
+      "subtopic": "Passage comprehension",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_77ddae8e4e2d47f293a2194ea4ac5504",
+      "seq": 14,
+      "week": 3,
+      "title": "Mob justice vocabulary",
+      "subtopic": "Mob, offender, handcuffed, harmony and property",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_2f8c30e6f1d54596a3bf8eb82ada9ab1",
+      "seq": 15,
+      "week": 3,
+      "title": "Completing sentences with correct word forms",
+      "subtopic": "Correct forms of words",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_e87539a8ca5e4a82a0ff4dc44799dfe4",
+      "seq": 16,
+      "week": 3,
+      "title": "Word-form exercise",
+      "subtopic": "Correct forms of words",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_883c22bf19294f7e847584b0a1d36fb0",
+      "seq": 17,
+      "week": 3,
+      "title": "Dangers of mob justice: oral discussion",
+      "subtopic": "Narrative composition about the dangers of mob justice",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_ff2a99744e734f11b9f922208291d70f",
+      "seq": 18,
+      "week": 3,
+      "title": "Dangers of mob justice: narrative writing",
+      "subtopic": "Narrative composition about the dangers of mob justice",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_fa3ae8d2d1cd456aa6b218ae6a4f9c78",
+      "seq": 19,
+      "week": 4,
+      "title": "Court vocabulary",
+      "subtopic": "Magistrate, witness, judiciary, sentenced and judgment",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_be0ea1aa2aac475f98f8a761aa253875",
+      "seq": 20,
+      "week": 4,
+      "title": "Using has and have",
+      "subtopic": "Has/have structures",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_0b0d687904784fccbefaff9bea15df61",
+      "seq": 21,
+      "week": 4,
+      "title": "A Thief: reading jumbled sentences",
+      "subtopic": "Sentence rearrangement",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_2e1c596fa20747d39a852f058fb65fae",
+      "seq": 22,
+      "week": 4,
+      "title": "A Thief: arranging the story",
+      "subtopic": "Sentence rearrangement",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_b75ce687392c4d23adafde7f673a270e",
+      "seq": 23,
+      "week": 4,
+      "title": "Picture composition in the present continuous",
+      "subtopic": "Present continuous sentences from pictures",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_01312f81582a4325afd270507ab1c3d2",
+      "seq": 24,
+      "week": 4,
+      "title": "Picture composition in the present perfect",
+      "subtopic": "Present perfect sentences from pictures",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_7546e73096124296ba3f04e69dc18e11",
+      "seq": 25,
+      "week": 5,
+      "title": "Banking vocabulary",
+      "subtopic": "Banking, cashier, deposit, cheque leaf and signature",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_d7a921ad198f44949f18387f3009c922",
+      "seq": 26,
+      "week": 5,
+      "title": "Reading banking vocabulary",
+      "subtopic": "Banking, cashier, deposit, cheque leaf and signature",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_be817ed5811045d5a7d5bccff103870d",
+      "seq": 27,
+      "week": 5,
+      "title": "Further banking vocabulary",
+      "subtopic": "Loan and withdraw",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_507eccfc0653426badac9ccee13c90b1",
+      "seq": 28,
+      "week": 5,
+      "title": "Banking story sequence",
+      "subtopic": "Jumbled sentences",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_e12e1c2a527e47988b2ebf47fe879d46",
+      "seq": 29,
+      "week": 5,
+      "title": "Revision: Peace and Security",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_4c5e7195dd8541c29bfa517711366628",
+      "seq": 30,
+      "week": 5,
+      "title": "Revision: Services (Banking)",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_2c2cba3729d242f8b90a33351a1be781",
+      "seq": 31,
+      "week": 6,
+      "title": "Term revision 1: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_f46e291471364c9cba0e17c4e91d15b6",
+      "seq": 32,
+      "week": 6,
+      "title": "Term revision 2: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_8660cea830454e15989d381456fe2d2c",
+      "seq": 33,
+      "week": 6,
+      "title": "Term revision 3: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_c3f8bee5431a41fd85887c5bcc1bbab7",
+      "seq": 34,
+      "week": 6,
+      "title": "Term revision 4: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_8659933a972c4c7fbf711d630d575412",
+      "seq": 35,
+      "week": 6,
+      "title": "Term revision 5: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_221ee47419184a0593af28e835671a7a",
+      "seq": 36,
+      "week": 6,
+      "title": "Term revision 6: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_7f0331be56934c9196062b9ef052244e",
+      "seq": 37,
+      "week": 7,
+      "title": "Term revision 7: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_aa0f8f145d6341a18c490bd8c2a6e7d6",
+      "seq": 38,
+      "week": 7,
+      "title": "Term revision 8: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_38d3e322d0a44ff99f34f5afe85f6cec",
+      "seq": 39,
+      "week": 7,
+      "title": "Term revision 9: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_67c510e5dfa94b48a80c523b24e82749",
+      "seq": 40,
+      "week": 7,
+      "title": "Term revision 10: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_17a6421a0efb481b9c412f284643de1b",
+      "seq": 41,
+      "week": 7,
+      "title": "Term revision 11: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_ae581f07c7f64fb881e77bc0b59453c6",
+      "seq": 42,
+      "week": 7,
+      "title": "Term revision 12: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_3b64787e7a61417cae52e250a80e2c7c",
+      "seq": 43,
+      "week": 8,
+      "title": "Term revision 13: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_e1d4b49c70474a1a9f09ff3a70e5f088",
+      "seq": 44,
+      "week": 8,
+      "title": "Term revision 14: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_04988bbbd7f9461db6ec16186b1a9589",
+      "seq": 45,
+      "week": 8,
+      "title": "Term revision 15: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_667ccea1a6994dbbb418941c80114cb8",
+      "seq": 46,
+      "week": 8,
+      "title": "Term revision 16: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_8f04d4d91c184c40913fb92331f0c66a",
+      "seq": 47,
+      "week": 8,
+      "title": "Term revision 17: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_7d2812fe3178407a8e8bd9e5d6aaf292",
+      "seq": 48,
+      "week": 8,
+      "title": "Term revision 18: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_851832c06089480ca0f24311521c905c",
+      "seq": 49,
+      "week": 9,
+      "title": "Term revision 19: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_13e8e8577c074406b863b76db381fdc2",
+      "seq": 50,
+      "week": 9,
+      "title": "Term revision 20: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_b469520542e241a1b37262521456e6c6",
+      "seq": 51,
+      "week": 9,
+      "title": "Term revision 21: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_370e7b8394a248d19a257049a54bd942",
+      "seq": 52,
+      "week": 9,
+      "title": "Term revision 22: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_90634bf071134fe4be11346c490272a1",
+      "seq": 53,
+      "week": 9,
+      "title": "Term revision 23: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_8f8f379ef9c64930ab31df4f3a54ece0",
+      "seq": 54,
+      "week": 9,
+      "title": "Term revision 24: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_1d018fdba41c40feb180776317c4ef13",
+      "seq": 55,
+      "week": 10,
+      "title": "Term revision 25: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_c72e9777cfd945b69d2ac0aa9b81cb2e",
+      "seq": 56,
+      "week": 10,
+      "title": "Term revision 26: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_236b58e4f85d4358a532dc02c542dd1b",
+      "seq": 57,
+      "week": 10,
+      "title": "Term revision 27: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_62b6f4e2b35240ae81caafcb1b280b84",
+      "seq": 58,
+      "week": 10,
+      "title": "Term revision 28: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Services (Banking)"
+    },
+    {
+      "id": "lles_f9af738e01444d7aa3f25f1ea330d3f0",
+      "seq": 59,
+      "week": 10,
+      "title": "Term revision 29: Peace and Security, Services (Banking)",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Peace and Security"
+    },
+    {
+      "id": "lles_d27414f79bd443b5bb5e6549bdc49259",
+      "seq": 60,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Peace and Security, Services (Banking)",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Peace and Security"
+    }
+  ]
+}
