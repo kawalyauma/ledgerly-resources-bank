@@ -1,0 +1,330 @@
+{
+  "units": [
+    {
+      "title": "Reading from the Qur'an — Surat An-Nas",
+      "theme": "Our Transport (general P1 theme 9)",
+      "weekFrom": 1,
+      "weekTo": 3
+    },
+    {
+      "title": "Tawhiid (Faith) — Allah and His Creation",
+      "theme": "Things We Make (general P1 theme 10)",
+      "weekFrom": 4,
+      "weekTo": 6
+    },
+    {
+      "title": "Fiqh (Practice) — Physical Purity",
+      "theme": "Our Environment (general P1 theme 11)",
+      "weekFrom": 7,
+      "weekTo": 9
+    },
+    {
+      "title": "Moral and Spiritual Teaching — Cleanliness and History",
+      "theme": "Peace and Security (general P1 theme 12)",
+      "weekFrom": 10,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_c86e17b8f9ff4872a7f6af7d3000ddbc",
+      "seq": 1,
+      "week": 1,
+      "title": "Reciting Surat An-Nas",
+      "subtopic": "Surat An-Nas",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Reading from the Qur'an — Surat An-Nas"
+    },
+    {
+      "id": "lles_13719098d6064f2baec4a85c7f4ec8c0",
+      "seq": 2,
+      "week": 1,
+      "title": "Reading Surat An-Nas in Arabic",
+      "subtopic": "Surat An-Nas",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Reading from the Qur'an — Surat An-Nas"
+    },
+    {
+      "id": "lles_1b3ff9c1a3874799b7ecb18b568a74f1",
+      "seq": 3,
+      "week": 1,
+      "title": "Week 1 review",
+      "subtopic": "Reading from the Qur'an — Surat An-Nas",
+      "kind": "review",
+      "status": "writing",
+      "unit": "Reading from the Qur'an — Surat An-Nas"
+    },
+    {
+      "id": "lles_8528dd637201429eb213bf26d2965c0f",
+      "seq": 4,
+      "week": 2,
+      "title": "Meaning of Surat An-Nas",
+      "subtopic": "Surat An-Nas",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Reading from the Qur'an — Surat An-Nas"
+    },
+    {
+      "id": "lles_4a597d6cf504416f9ce0cc4ea8e3e647",
+      "seq": 5,
+      "week": 2,
+      "title": "Importance of Surat An-Nas",
+      "subtopic": "Surat An-Nas",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Reading from the Qur'an — Surat An-Nas"
+    },
+    {
+      "id": "lles_a7449ff64db240acbbbc144b75371025",
+      "seq": 6,
+      "week": 2,
+      "title": "Week 2 review",
+      "subtopic": "Reading from the Qur'an — Surat An-Nas",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Reading from the Qur'an — Surat An-Nas"
+    },
+    {
+      "id": "lles_70b5deac41d8481cbf36515f975408e7",
+      "seq": 7,
+      "week": 3,
+      "title": "Memorising Surat An-Nas",
+      "subtopic": "Surat An-Nas",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Reading from the Qur'an — Surat An-Nas"
+    },
+    {
+      "id": "lles_f7519a99735c473a967e970e6befcf3a",
+      "seq": 8,
+      "week": 3,
+      "title": "The revelation of Surat An-Nas",
+      "subtopic": "Surat An-Nas",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Reading from the Qur'an — Surat An-Nas"
+    },
+    {
+      "id": "lles_b599c9c4a7a04644869c8074ae06c020",
+      "seq": 9,
+      "week": 3,
+      "title": "Week 3 review",
+      "subtopic": "Reading from the Qur'an — Surat An-Nas",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Reading from the Qur'an — Surat An-Nas"
+    },
+    {
+      "id": "lles_ba7d6449434c46f8bcc0e5a6bffb02f5",
+      "seq": 10,
+      "week": 4,
+      "title": "Belief in the existence of Allah",
+      "subtopic": "Allah and His Creation",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Tawhiid (Faith) — Allah and His Creation"
+    },
+    {
+      "id": "lles_fce39b6498cf4ad18050d48fdcf743e9",
+      "seq": 11,
+      "week": 4,
+      "title": "Signs of Allah's existence",
+      "subtopic": "Allah and His Creation",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Tawhiid (Faith) — Allah and His Creation"
+    },
+    {
+      "id": "lles_786e840b5d674b4fa6bc87824c19758d",
+      "seq": 12,
+      "week": 4,
+      "title": "Week 4 review",
+      "subtopic": "Tawhiid (Faith) — Allah and His Creation",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Tawhiid (Faith) — Allah and His Creation"
+    },
+    {
+      "id": "lles_6bfdd032b61646cb9768c1c5cee47f96",
+      "seq": 13,
+      "week": 5,
+      "title": "Things created by Allah",
+      "subtopic": "Allah and His Creation",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Tawhiid (Faith) — Allah and His Creation"
+    },
+    {
+      "id": "lles_941176bde438492a9de7a48b1a9dfd23",
+      "seq": 14,
+      "week": 5,
+      "title": "The oneness of Allah",
+      "subtopic": "Allah and His Creation",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Tawhiid (Faith) — Allah and His Creation"
+    },
+    {
+      "id": "lles_a95c2a5377e54f9aa3be74481065dd46",
+      "seq": 15,
+      "week": 5,
+      "title": "Week 5 review",
+      "subtopic": "Tawhiid (Faith) — Allah and His Creation",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Tawhiid (Faith) — Allah and His Creation"
+    },
+    {
+      "id": "lles_f4c38f08464646ea957b5c4c4fb1dff3",
+      "seq": 16,
+      "week": 6,
+      "title": "Kalimat Shahaadah",
+      "subtopic": "Kalimat Shahaadah",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Tawhiid (Faith) — Allah and His Creation"
+    },
+    {
+      "id": "lles_e43ace1c35c3463a9631e9f0104c8295",
+      "seq": 17,
+      "week": 6,
+      "title": "Importance of the Shahaadah",
+      "subtopic": "Kalimat Shahaadah",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Tawhiid (Faith) — Allah and His Creation"
+    },
+    {
+      "id": "lles_6413361929cf4f8e933485c027c36b82",
+      "seq": 18,
+      "week": 6,
+      "title": "Week 6 review",
+      "subtopic": "Tawhiid (Faith) — Allah and His Creation",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Tawhiid (Faith) — Allah and His Creation"
+    },
+    {
+      "id": "lles_cc7dffd161eb44bb8fd61e3822279496",
+      "seq": 19,
+      "week": 7,
+      "title": "Physical purity",
+      "subtopic": "Physical purity",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Fiqh (Practice) — Physical Purity"
+    },
+    {
+      "id": "lles_7f8d445d27524b8dbf70ef58c630e0f0",
+      "seq": 20,
+      "week": 7,
+      "title": "Kinds of water for ablution",
+      "subtopic": "Physical purity",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Fiqh (Practice) — Physical Purity"
+    },
+    {
+      "id": "lles_9c109b0aea474bee8e0e487e2e0fe829",
+      "seq": 21,
+      "week": 7,
+      "title": "Week 7 review",
+      "subtopic": "Fiqh (Practice) — Physical Purity",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Fiqh (Practice) — Physical Purity"
+    },
+    {
+      "id": "lles_760711cafd854a359e3d2367ccf412c5",
+      "seq": 22,
+      "week": 8,
+      "title": "Water unsuitable for ablution",
+      "subtopic": "Physical purity",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Fiqh (Practice) — Physical Purity"
+    },
+    {
+      "id": "lles_2dc86307219445128b1706e156324021",
+      "seq": 23,
+      "week": 8,
+      "title": "Tayammum: dry ablution",
+      "subtopic": "Tayammum",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Fiqh (Practice) — Physical Purity"
+    },
+    {
+      "id": "lles_a5473f3a7f0041c5b92433463b403538",
+      "seq": 24,
+      "week": 8,
+      "title": "Week 8 review",
+      "subtopic": "Fiqh (Practice) — Physical Purity",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Fiqh (Practice) — Physical Purity"
+    },
+    {
+      "id": "lles_bb987a060d2d4eff80a2139d4348266f",
+      "seq": 25,
+      "week": 9,
+      "title": "When to use Tayammum",
+      "subtopic": "Tayammum",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Fiqh (Practice) — Physical Purity"
+    },
+    {
+      "id": "lles_e9354ac51797430b8aed158b8ee99343",
+      "seq": 26,
+      "week": 9,
+      "title": "Practical performance of Tayammum",
+      "subtopic": "Tayammum",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Fiqh (Practice) — Physical Purity"
+    },
+    {
+      "id": "lles_89e124475c974aa38bca99ea188eef9f",
+      "seq": 27,
+      "week": 9,
+      "title": "Week 9 review",
+      "subtopic": "Fiqh (Practice) — Physical Purity",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Fiqh (Practice) — Physical Purity"
+    },
+    {
+      "id": "lles_bcd3d8f9d5f244009e5f97ecbb93aaea",
+      "seq": 28,
+      "week": 10,
+      "title": "Keeping the body clean",
+      "subtopic": "Cleanliness",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Moral and Spiritual Teaching — Cleanliness and History"
+    },
+    {
+      "id": "lles_c88ec37a8ea647179ffe9d0a8de05e8f",
+      "seq": 29,
+      "week": 10,
+      "title": "Muhammad's journey to Syria and term review",
+      "subtopic": "History of Islam",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Moral and Spiritual Teaching — Cleanliness and History"
+    },
+    {
+      "id": "lles_f8e670b3817e4c27b4ca26cbcf9d0355",
+      "seq": 30,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Reading from the Qur'an — Surat An-Nas, Tawhiid (Faith) — Allah and His Creation, Fiqh (Practice) — Physical Purity, Moral and Spiritual Teaching — Cleanliness and History",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Moral and Spiritual Teaching — Cleanliness and History"
+    }
+  ]
+}

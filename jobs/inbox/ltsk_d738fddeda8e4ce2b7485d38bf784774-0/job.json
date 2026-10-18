@@ -1,0 +1,56 @@
+{
+  "job": "ltsk_d738fddeda8e4ce2b7485d38bf784774-0",
+  "task": "ltsk_d738fddeda8e4ce2b7485d38bf784774",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 51,
+  "school": "sch-7207f9",
+  "class": "P1",
+  "classLevel": 1,
+  "subject": "Islamic Religious Education",
+  "term": "2026-T3",
+  "week": 1,
+  "weeks": 10,
+  "periodsPerWeek": 3,
+  "lessons": [
+    {
+      "id": "lles_c86e17b8f9ff4872a7f6af7d3000ddbc",
+      "kind": "teach",
+      "week": 1,
+      "title": "Reciting Surat An-Nas",
+      "periods": 1,
+      "subtopic": "Surat An-Nas"
+    },
+    {
+      "id": "lles_13719098d6064f2baec4a85c7f4ec8c0",
+      "kind": "teach",
+      "week": 1,
+      "title": "Reading Surat An-Nas in Arabic",
+      "periods": 1,
+      "subtopic": "Surat An-Nas"
+    },
+    {
+      "id": "lles_1b3ff9c1a3874799b7ecb18b568a74f1",
+      "kind": "review",
+      "week": 1,
+      "title": "Week 1 review",
+      "periods": 1,
+      "subtopic": "Reading from the Qur'an — Surat An-Nas"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P1/islamic-religious-education",
+  "passages": [
+    "lchk_d75bf64ba9b746b4883980badae1a50e",
+    "lchk_8f89ee9db7564a2c8b613fec316bfb27",
+    "lchk_1c39d6f24103439aa9a783db81b14e33",
+    "lchk_3ad484a8bc434ca6b784417b97e149aa",
+    "lchk_e6dd2d7cb62042abb60b1f95a71f60fa",
+    "lchk_8e901e6e75984837a9b4f858f11ed702",
+    "lchk_87ccf675cc344e278f61c86a178d8e51",
+    "lchk_879ad571b45a43699ce218859794afb3"
+  ],
+  "created": "2026-10-18T04:32:52.321Z"
+}
