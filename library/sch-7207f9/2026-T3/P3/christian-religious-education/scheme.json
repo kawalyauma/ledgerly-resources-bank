@@ -1,0 +1,330 @@
+{
+  "units": [
+    {
+      "title": "Forgiveness and Acceptance",
+      "theme": "Christians Grow in Jesus",
+      "weekFrom": 1,
+      "weekTo": 3
+    },
+    {
+      "title": "Treating Others Fairly",
+      "theme": "Christians Grow in Jesus",
+      "weekFrom": 4,
+      "weekTo": 6
+    },
+    {
+      "title": "Jesus Brings Joy",
+      "theme": "Christians Grow in Jesus",
+      "weekFrom": 7,
+      "weekTo": 9
+    },
+    {
+      "title": "The Joy of Christmas",
+      "theme": "Christians Grow in Jesus",
+      "weekFrom": 10,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_99f3857335d24c87b7c7d8b415a1cb90",
+      "seq": 1,
+      "week": 1,
+      "title": "Meaning of forgiveness",
+      "subtopic": "Forgiveness and acceptance",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Forgiveness and Acceptance"
+    },
+    {
+      "id": "lles_33a4ff57d0324262a7b7546c0a0a8ea6",
+      "seq": 2,
+      "week": 1,
+      "title": "Traditional ways of encouraging forgiveness",
+      "subtopic": "Forgiveness and acceptance",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Forgiveness and Acceptance"
+    },
+    {
+      "id": "lles_499d79b6714f4f6db4f12a1307ebeab5",
+      "seq": 3,
+      "week": 1,
+      "title": "Week 1 review",
+      "subtopic": "Forgiveness and Acceptance",
+      "kind": "review",
+      "status": "writing",
+      "unit": "Forgiveness and Acceptance"
+    },
+    {
+      "id": "lles_1bfddce217914cb3a727ff3e31a1b670",
+      "seq": 4,
+      "week": 2,
+      "title": "Reasons for forgiving others",
+      "subtopic": "Forgiveness and acceptance",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Forgiveness and Acceptance"
+    },
+    {
+      "id": "lles_78df408f6bdb42989fd0608a516f0b09",
+      "seq": 5,
+      "week": 2,
+      "title": "Resolving disagreements without violence",
+      "subtopic": "Forgiveness and acceptance",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Forgiveness and Acceptance"
+    },
+    {
+      "id": "lles_e9cd48ea74324f55b969b43f0d59016b",
+      "seq": 6,
+      "week": 2,
+      "title": "Week 2 review",
+      "subtopic": "Forgiveness and Acceptance",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Forgiveness and Acceptance"
+    },
+    {
+      "id": "lles_1fe4325941f2452aa2713bef2afc4e2b",
+      "seq": 7,
+      "week": 3,
+      "title": "Causes of conflict",
+      "subtopic": "Forgiveness and acceptance",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Forgiveness and Acceptance"
+    },
+    {
+      "id": "lles_351786f4d6d24f3693934519946ddb58",
+      "seq": 8,
+      "week": 3,
+      "title": "Accepting and tolerating other people",
+      "subtopic": "Forgiveness and acceptance",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Forgiveness and Acceptance"
+    },
+    {
+      "id": "lles_3086bf50a4484508a0cd2105126fa3ce",
+      "seq": 9,
+      "week": 3,
+      "title": "Week 3 review",
+      "subtopic": "Forgiveness and Acceptance",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Forgiveness and Acceptance"
+    },
+    {
+      "id": "lles_e6fe31de8a804cc4b5eb47165c007d07",
+      "seq": 10,
+      "week": 4,
+      "title": "Fair and unfair behaviour",
+      "subtopic": "Treating others fairly",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Treating Others Fairly"
+    },
+    {
+      "id": "lles_b3c48015fa6e45f1b776b9db89c87890",
+      "seq": 11,
+      "week": 4,
+      "title": "Results of fair and unfair behaviour",
+      "subtopic": "Treating others fairly",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Treating Others Fairly"
+    },
+    {
+      "id": "lles_7c2bdb9ab09b428ba8626bb8a18a182f",
+      "seq": 12,
+      "week": 4,
+      "title": "Week 4 review",
+      "subtopic": "Treating Others Fairly",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Treating Others Fairly"
+    },
+    {
+      "id": "lles_2819d95f3ce1479a9e3a2f58056b1e9c",
+      "seq": 13,
+      "week": 5,
+      "title": "Reasons people behave unfairly",
+      "subtopic": "Treating others fairly",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Treating Others Fairly"
+    },
+    {
+      "id": "lles_88127cb43fce44439c466b265e094cf9",
+      "seq": 14,
+      "week": 5,
+      "title": "John the Baptist's teaching about fairness",
+      "subtopic": "Treating others fairly",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Treating Others Fairly"
+    },
+    {
+      "id": "lles_254a595e507e417cb091f7c9b4819421",
+      "seq": 15,
+      "week": 5,
+      "title": "Week 5 review",
+      "subtopic": "Treating Others Fairly",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Treating Others Fairly"
+    },
+    {
+      "id": "lles_c0b00cab392a48b194ac35ffe76d92eb",
+      "seq": 16,
+      "week": 6,
+      "title": "Meaning and forms of cheating",
+      "subtopic": "Treating others fairly",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Treating Others Fairly"
+    },
+    {
+      "id": "lles_a0921b115607473398960035c1e29705",
+      "seq": 17,
+      "week": 6,
+      "title": "Why cheating is wrong and how to avoid it",
+      "subtopic": "Treating others fairly",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Treating Others Fairly"
+    },
+    {
+      "id": "lles_fcabe7cec4bf4dceb1fe19fe398f14f2",
+      "seq": 18,
+      "week": 6,
+      "title": "Week 6 review",
+      "subtopic": "Treating Others Fairly",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Treating Others Fairly"
+    },
+    {
+      "id": "lles_4bb85368807a4d498247b7f8b7c92bf3",
+      "seq": 19,
+      "week": 7,
+      "title": "Old Testament prophecies of Jesus' coming",
+      "subtopic": "Jesus brings joy",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Jesus Brings Joy"
+    },
+    {
+      "id": "lles_d3a1dcf1375f4d6da7a841534ff6803c",
+      "seq": 20,
+      "week": 7,
+      "title": "How Jesus fulfilled the prophecies",
+      "subtopic": "Jesus brings joy",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Jesus Brings Joy"
+    },
+    {
+      "id": "lles_bbb0316b348243bd910a2dcec93cdd5a",
+      "seq": 21,
+      "week": 7,
+      "title": "Week 7 review",
+      "subtopic": "Jesus Brings Joy",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Jesus Brings Joy"
+    },
+    {
+      "id": "lles_c90f6f349f8542999bcd809b6cf9172d",
+      "seq": 22,
+      "week": 8,
+      "title": "The birth of Jesus",
+      "subtopic": "Jesus brings joy",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Jesus Brings Joy"
+    },
+    {
+      "id": "lles_e26c83ee8e7443cf91752bb048069938",
+      "seq": 23,
+      "week": 8,
+      "title": "Angels and shepherds at the first Christmas",
+      "subtopic": "Jesus brings joy",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Jesus Brings Joy"
+    },
+    {
+      "id": "lles_600f74c131174e71941abf5fb4f4bb04",
+      "seq": 24,
+      "week": 8,
+      "title": "Week 8 review",
+      "subtopic": "Jesus Brings Joy",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Jesus Brings Joy"
+    },
+    {
+      "id": "lles_702c26f0e64a4c2eb0e1f5dfbc19a9d2",
+      "seq": 25,
+      "week": 9,
+      "title": "Wise men and their gifts",
+      "subtopic": "Jesus brings joy",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Jesus Brings Joy"
+    },
+    {
+      "id": "lles_cb65dc2711ee465c9fea971084276d77",
+      "seq": 26,
+      "week": 9,
+      "title": "Preparing for Christmas with others",
+      "subtopic": "Jesus brings joy",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Jesus Brings Joy"
+    },
+    {
+      "id": "lles_a984ff63e2a9402e88a3049aeeab411a",
+      "seq": 27,
+      "week": 9,
+      "title": "Week 9 review",
+      "subtopic": "Jesus Brings Joy",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Jesus Brings Joy"
+    },
+    {
+      "id": "lles_dd26206235e440f48b3ab00c9077eafa",
+      "seq": 28,
+      "week": 10,
+      "title": "Making Christmas cards and messages",
+      "subtopic": "The joy of Christmas",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Joy of Christmas"
+    },
+    {
+      "id": "lles_27e39a0cdfe149ce8df1e674524d3a9f",
+      "seq": 29,
+      "week": 10,
+      "title": "End-of-term assessment: Christmas preparations and celebrations",
+      "subtopic": "The joy of Christmas",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Joy of Christmas"
+    },
+    {
+      "id": "lles_9392efc690e44059ae519bcab9371512",
+      "seq": 30,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Forgiveness and Acceptance, Treating Others Fairly, Jesus Brings Joy, The Joy of Christmas",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "The Joy of Christmas"
+    }
+  ]
+}
