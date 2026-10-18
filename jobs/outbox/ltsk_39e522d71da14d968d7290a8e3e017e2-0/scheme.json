@@ -1,0 +1,486 @@
+{
+  "title": "Primary Three Christian Religious Education – Term III 2026",
+  "summary": "NCDC order: Forgiveness and Acceptance (Weeks 1–3); Treating Others Fairly (Weeks 4–6); Jesus Brings Joy (Weeks 7–9); The Joy of Christmas (Week 10). Two 40-minute teaching periods per week. The third period is reserved by Ledgerly for weekly review.",
+  "units": [
+    {
+      "title": "Forgiveness and Acceptance",
+      "theme": "Christians Grow in Jesus",
+      "weekFrom": 1,
+      "weekTo": 3,
+      "competences": "Learners explain forgiveness, name traditional reconciliation practices, discuss peaceful conflict resolution, and show tolerance.",
+      "sources": [
+        {
+          "source": "lchk_8a908ba4886e4d62ac30811dbe54f9e4",
+          "quote": "Talking about the importance of forgiveness"
+        },
+        {
+          "source": "lchk_62708a3a375147ff995bcb0b55044f5c",
+          "quote": "FORGIVENESS AND ACCEPTANCE"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning of forgiveness",
+          "subtopic": "Forgiveness and acceptance",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to explain the meaning of forgiveness and identify words used to seek forgiveness."
+          ],
+          "sources": [
+            {
+              "source": "lchk_8a908ba4886e4d62ac30811dbe54f9e4",
+              "quote": "Talking about traditional ways of encouraging"
+            },
+            {
+              "source": "lchk_62708a3a375147ff995bcb0b55044f5c",
+              "quote": "Forgiveness means stopping being angry"
+            }
+          ]
+        },
+        {
+          "title": "Traditional ways of encouraging forgiveness",
+          "subtopic": "Forgiveness and acceptance",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to name traditional ways of encouraging forgiveness, including apologising and reconciliation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_8a908ba4886e4d62ac30811dbe54f9e4",
+              "quote": "Traditional ways of encouraging"
+            },
+            {
+              "source": "lchk_62708a3a375147ff995bcb0b55044f5c",
+              "quote": "Traditional ways of encouraging forgiveness"
+            }
+          ]
+        },
+        {
+          "title": "Reasons for forgiving others",
+          "subtopic": "Forgiveness and acceptance",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to state reasons why people need to forgive one another."
+          ],
+          "sources": [
+            {
+              "source": "lchk_8a908ba4886e4d62ac30811dbe54f9e4",
+              "quote": "Talking about the importance of forgiveness"
+            },
+            {
+              "source": "lchk_62708a3a375147ff995bcb0b55044f5c",
+              "quote": "Reasons why we need to forgive"
+            }
+          ]
+        },
+        {
+          "title": "Resolving disagreements without violence",
+          "subtopic": "Forgiveness and acceptance",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to describe steps for resolving disagreements without violence."
+          ],
+          "sources": [
+            {
+              "source": "lchk_8a908ba4886e4d62ac30811dbe54f9e4",
+              "quote": "Resolving differences without"
+            },
+            {
+              "source": "lchk_9e957d59f08b43d1b70e97ab9a55ec26",
+              "quote": "Resolving misunderstanding without violence"
+            }
+          ]
+        },
+        {
+          "title": "Causes of conflict",
+          "subtopic": "Forgiveness and acceptance",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to identify differences and wrongdoings that may cause misunderstanding."
+          ],
+          "sources": [
+            {
+              "source": "lchk_8a908ba4886e4d62ac30811dbe54f9e4",
+              "quote": "Identifying causes of conflicts"
+            },
+            {
+              "source": "lchk_9e957d59f08b43d1b70e97ab9a55ec26",
+              "quote": "Causes of misunderstandings/violence"
+            }
+          ]
+        },
+        {
+          "title": "Accepting and tolerating other people",
+          "subtopic": "Forgiveness and acceptance",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to describe ways of accepting other people's differences peacefully."
+          ],
+          "sources": [
+            {
+              "source": "lchk_8a908ba4886e4d62ac30811dbe54f9e4",
+              "quote": "Talking about ways of accepting and being tolerant"
+            },
+            {
+              "source": "lchk_9e957d59f08b43d1b70e97ab9a55ec26",
+              "quote": "Ways of accepting and tolerating our differences"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treating Others Fairly",
+      "theme": "Christians Grow in Jesus",
+      "weekFrom": 4,
+      "weekTo": 6,
+      "competences": "Learners distinguish fair and unfair conduct, explain its effects, describe John the Baptist's teaching and identify ways to avoid cheating.",
+      "sources": [
+        {
+          "source": "lchk_801d58ef610b45fc98ad724cde437368",
+          "quote": "Treating Others Fairly"
+        },
+        {
+          "source": "lchk_b83f17389f3e48a492fe757908d69ec0",
+          "quote": "TREATING OTHERS FAIRLY"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Fair and unfair behaviour",
+          "subtopic": "Treating others fairly",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to distinguish fair from unfair behaviour and give examples."
+          ],
+          "sources": [
+            {
+              "source": "lchk_801d58ef610b45fc98ad724cde437368",
+              "quote": "Fair and unfair behaviour"
+            },
+            {
+              "source": "lchk_b83f17389f3e48a492fe757908d69ec0",
+              "quote": "Being fair means treating each person equally."
+            }
+          ]
+        },
+        {
+          "title": "Results of fair and unfair behaviour",
+          "subtopic": "Treating others fairly",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to give consequences of treating people fairly and unfairly."
+          ],
+          "sources": [
+            {
+              "source": "lchk_801d58ef610b45fc98ad724cde437368",
+              "quote": "Talking about the importance of fair"
+            },
+            {
+              "source": "lchk_b83f17389f3e48a492fe757908d69ec0",
+              "quote": "Results of fair behaviour."
+            }
+          ]
+        },
+        {
+          "title": "Reasons people behave unfairly",
+          "subtopic": "Treating others fairly",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to identify reasons that can lead to unfair treatment."
+          ],
+          "sources": [
+            {
+              "source": "lchk_801d58ef610b45fc98ad724cde437368",
+              "quote": "Talking about the causes of unfair"
+            },
+            {
+              "source": "lchk_b83f17389f3e48a492fe757908d69ec0",
+              "quote": "Reasons why some people behave unfairly"
+            }
+          ]
+        },
+        {
+          "title": "John the Baptist's teaching about fairness",
+          "subtopic": "Treating others fairly",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to state the teaching about sharing and fair collection of taxes."
+          ],
+          "sources": [
+            {
+              "source": "lchk_801d58ef610b45fc98ad724cde437368",
+              "quote": "Talking about the need to treat others"
+            },
+            {
+              "source": "lchk_b83f17389f3e48a492fe757908d69ec0",
+              "quote": "How John the Baptist teaches us to be fair"
+            }
+          ]
+        },
+        {
+          "title": "Meaning and forms of cheating",
+          "subtopic": "Treating others fairly",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to explain cheating and identify dishonest practices."
+          ],
+          "sources": [
+            {
+              "source": "lchk_801d58ef610b45fc98ad724cde437368",
+              "quote": "Identifying causes of cheating"
+            },
+            {
+              "source": "lchk_b83f17389f3e48a492fe757908d69ec0",
+              "quote": "Forms of cheating"
+            }
+          ]
+        },
+        {
+          "title": "Why cheating is wrong and how to avoid it",
+          "subtopic": "Treating others fairly",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to explain reasons against cheating and ways to avoid it."
+          ],
+          "sources": [
+            {
+              "source": "lchk_801d58ef610b45fc98ad724cde437368",
+              "quote": "Talking about how to avoid cheating"
+            },
+            {
+              "source": "lchk_0200e6d211b54ed5bd69be8651323189",
+              "quote": "Ways how you can avoid cheating"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Jesus Brings Joy",
+      "theme": "Christians Grow in Jesus",
+      "weekFrom": 7,
+      "weekTo": 9,
+      "competences": "Learners relate Old Testament prophecies to Jesus' coming, tell the first Christmas story and describe Christmas preparations.",
+      "sources": [
+        {
+          "source": "lchk_801d58ef610b45fc98ad724cde437368",
+          "quote": "Jesus Brings Joy"
+        },
+        {
+          "source": "lchk_9750aa45dc444a7daab9ff2e052e8d93",
+          "quote": "JESUS BRINGS JOY"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Old Testament prophecies of Jesus' coming",
+          "subtopic": "Jesus brings joy",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to name prophets who foretold the coming of Jesus."
+          ],
+          "sources": [
+            {
+              "source": "lchk_801d58ef610b45fc98ad724cde437368",
+              "quote": "Naming different prophets in the Old Testament"
+            },
+            {
+              "source": "lchk_9750aa45dc444a7daab9ff2e052e8d93",
+              "quote": "Old prophesies about Jesus"
+            }
+          ]
+        },
+        {
+          "title": "How Jesus fulfilled the prophecies",
+          "subtopic": "Jesus brings joy",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to relate the foretold birth of Jesus to Bethlehem and his family lineage."
+          ],
+          "sources": [
+            {
+              "source": "lchk_801d58ef610b45fc98ad724cde437368",
+              "quote": "Talking about the importance of the prophecy"
+            },
+            {
+              "source": "lchk_0200e6d211b54ed5bd69be8651323189",
+              "quote": "That Jesus would be born in a small town called Bethlehem."
+            }
+          ]
+        },
+        {
+          "title": "The birth of Jesus",
+          "subtopic": "Jesus brings joy",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to describe the birth of Jesus and its significance for Christians."
+          ],
+          "sources": [
+            {
+              "source": "lchk_801d58ef610b45fc98ad724cde437368",
+              "quote": "Identifying the most important events of the first"
+            },
+            {
+              "source": "lchk_9750aa45dc444a7daab9ff2e052e8d93",
+              "quote": "Jesus was born on the first Christmas."
+            }
+          ]
+        },
+        {
+          "title": "Angels and shepherds at the first Christmas",
+          "subtopic": "Jesus brings joy",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to describe the shepherds' part in the Christmas story."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b28499144e76424abfa8ce46c8f61e5c",
+              "quote": "the visit of Angels to the"
+            },
+            {
+              "source": "lchk_0200e6d211b54ed5bd69be8651323189",
+              "quote": "The shepherds were the first people to know about Jesus"
+            }
+          ]
+        },
+        {
+          "title": "Wise men and their gifts",
+          "subtopic": "Jesus brings joy",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to name the gifts brought by the wise men to baby Jesus."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b28499144e76424abfa8ce46c8f61e5c",
+              "quote": "the visit of the wise men"
+            },
+            {
+              "source": "lchk_0200e6d211b54ed5bd69be8651323189",
+              "quote": "The Magi gave baby Jesus these gifts;"
+            }
+          ]
+        },
+        {
+          "title": "Preparing for Christmas with others",
+          "subtopic": "Jesus brings joy",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to identify ways people prepare for and share Christmas joy."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b28499144e76424abfa8ce46c8f61e5c",
+              "quote": "Talking about how to prepare for Christmas at home"
+            },
+            {
+              "source": "lchk_9750aa45dc444a7daab9ff2e052e8d93",
+              "quote": "Sending Christmas cards to friends and relatives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Joy of Christmas",
+      "theme": "Christians Grow in Jesus",
+      "weekFrom": 10,
+      "weekTo": 10,
+      "competences": "Learners describe Christmas cards, messages and carols and answer assessment questions drawn from the supplied materials.",
+      "sources": [
+        {
+          "source": "lchk_b28499144e76424abfa8ce46c8f61e5c",
+          "quote": "Preparation for Christmas play"
+        },
+        {
+          "source": "lchk_9750aa45dc444a7daab9ff2e052e8d93",
+          "quote": "Preparation for Christmas"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Making Christmas cards and messages",
+          "subtopic": "The joy of Christmas",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to describe making a Christmas card and writing a greeting."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b28499144e76424abfa8ce46c8f61e5c",
+              "quote": "Designing Christmas cards"
+            },
+            {
+              "source": "lchk_b28499144e76424abfa8ce46c8f61e5c",
+              "quote": "Writing Christmas messages"
+            }
+          ]
+        },
+        {
+          "title": "End-of-term assessment: Christmas preparations and celebrations",
+          "subtopic": "The joy of Christmas",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, the learner should be able to answer sourced questions on Christmas preparations, celebration and carols."
+          ],
+          "sources": [
+            {
+              "source": "lchk_b28499144e76424abfa8ce46c8f61e5c",
+              "quote": "Singing Christmas carols"
+            },
+            {
+              "source": "lchk_9750aa45dc444a7daab9ff2e052e8d93",
+              "quote": "On which day do Christians celebrate the birth of Jesus Christ?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "The NCDC Theme 'The Joy of Christmas' extends to Weeks 10–12; this school's ten-week term permits only the first week of the theme. Remaining Christmas-play activities require further pacing or review allocation.",
+    "The last lesson is reserved for an end-of-term assessment using source questions. The full assessment paper and answer key must be selected from the pack when the lesson is written."
+  ]
+}
