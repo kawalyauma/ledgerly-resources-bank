@@ -1,0 +1,666 @@
+{
+  "units": [
+    {
+      "title": "Money",
+      "theme": "Measurements",
+      "weekFrom": 1,
+      "weekTo": 2
+    },
+    {
+      "title": "Length, Mass and Capacity",
+      "theme": "Measurements",
+      "weekFrom": 3,
+      "weekTo": 3
+    },
+    {
+      "title": "Perimeter",
+      "theme": "Measurements",
+      "weekFrom": 4,
+      "weekTo": 4
+    },
+    {
+      "title": "Area",
+      "theme": "Measurements",
+      "weekFrom": 4,
+      "weekTo": 4
+    },
+    {
+      "title": "Volume",
+      "theme": "Measurements",
+      "weekFrom": 5,
+      "weekTo": 5
+    },
+    {
+      "title": "Total surface area",
+      "theme": "Measurements",
+      "weekFrom": 5,
+      "weekTo": 5
+    },
+    {
+      "title": "Capacity",
+      "theme": "Measurements",
+      "weekFrom": 6,
+      "weekTo": 6
+    },
+    {
+      "title": "Weight (mass)",
+      "theme": "Measurements",
+      "weekFrom": 6,
+      "weekTo": 6
+    },
+    {
+      "title": "Integers",
+      "theme": null,
+      "weekFrom": 7,
+      "weekTo": 8
+    },
+    {
+      "title": "Algebra",
+      "theme": "Algebra",
+      "weekFrom": 8,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_429f7e0871a646ec832561bdfd1b8e58",
+      "seq": 1,
+      "week": 1,
+      "title": "Simple rates",
+      "subtopic": "Simple rates",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_3b3c0eb1367046209f47cdc51dd05670",
+      "seq": 2,
+      "week": 1,
+      "title": "Simple rates exercises",
+      "subtopic": "Simple rates",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_a6d52ec7e18e4cff986542e5f0e8e72d",
+      "seq": 3,
+      "week": 1,
+      "title": "More about simple rates",
+      "subtopic": "More about simple rates",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_8db11c74887a46ef8da9de1161accaea",
+      "seq": 4,
+      "week": 1,
+      "title": "More about simple rates exercises",
+      "subtopic": "More about simple rates",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_d331fa292d694abe8f5ed58a727cc865",
+      "seq": 5,
+      "week": 1,
+      "title": "Shopping bills and change",
+      "subtopic": "Shopping list",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_d9e392d2b78745c1a45e580f7c3dc8c9",
+      "seq": 6,
+      "week": 1,
+      "title": "Buying and selling exercises",
+      "subtopic": "Shopping list",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_104e3ab2be0c47d2b7f53ec7abb18296",
+      "seq": 7,
+      "week": 2,
+      "title": "Completing bill tables",
+      "subtopic": "Completing the bill",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_22533e3ba3fa44deae7ac5824b76c03a",
+      "seq": 8,
+      "week": 2,
+      "title": "Filling in a shopping bill",
+      "subtopic": "Completing the bill",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_7c75f2d2777042d398d10d7ff7d51e37",
+      "seq": 9,
+      "week": 2,
+      "title": "Finding profit",
+      "subtopic": "Profit",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_a4a8d739a5f14f0a8cbf0ce1a8888c8c",
+      "seq": 10,
+      "week": 2,
+      "title": "Profit oral work and calculation",
+      "subtopic": "Profit",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_d2a13318ad714454a50dd82ae8808dff",
+      "seq": 11,
+      "week": 2,
+      "title": "Finding loss",
+      "subtopic": "Loss",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_81e4e9e43f84485d86c448d98a4a7db7",
+      "seq": 12,
+      "week": 2,
+      "title": "Loss oral work and calculation",
+      "subtopic": "Loss",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_5dc501f988c04e019a5f46b44c79cd68",
+      "seq": 13,
+      "week": 3,
+      "title": "Units used to measure length",
+      "subtopic": "Units of length",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length, Mass and Capacity"
+    },
+    {
+      "id": "lles_9cf73b53334f4f45b77aeabc89bde5ff",
+      "seq": 14,
+      "week": 3,
+      "title": "Estimating length",
+      "subtopic": "Estimating length",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length, Mass and Capacity"
+    },
+    {
+      "id": "lles_8f7ece4cb0254cb89e69db0645f0dc75",
+      "seq": 15,
+      "week": 3,
+      "title": "Measuring length",
+      "subtopic": "Measuring length of objects",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length, Mass and Capacity"
+    },
+    {
+      "id": "lles_b1d9eabb35334786a7a234a18d3c3553",
+      "seq": 16,
+      "week": 3,
+      "title": "Centimetres and millimetres",
+      "subtopic": "Conversion of units",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length, Mass and Capacity"
+    },
+    {
+      "id": "lles_84b01952c78a48009ea93f45e502a31f",
+      "seq": 17,
+      "week": 3,
+      "title": "Metres and centimetres",
+      "subtopic": "Conversion of units",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length, Mass and Capacity"
+    },
+    {
+      "id": "lles_3acfe0598bb94b3fb7d6467eb1db3bd1",
+      "seq": 18,
+      "week": 3,
+      "title": "Kilometres and metres",
+      "subtopic": "Conversion of units",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length, Mass and Capacity"
+    },
+    {
+      "id": "lles_67d13b3be2b84420a33f4fa08334dbdf",
+      "seq": 19,
+      "week": 4,
+      "title": "Perimeter of triangles, rectangles and squares",
+      "subtopic": "Perimeter of figures",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Perimeter"
+    },
+    {
+      "id": "lles_1ed9cb65c1c4435db0fd4e24e76affd5",
+      "seq": 20,
+      "week": 4,
+      "title": "Perimeter of pentagons and hexagons",
+      "subtopic": "Perimeter of figures",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Perimeter"
+    },
+    {
+      "id": "lles_0a6073277b4e4723beb69723370bf474",
+      "seq": 21,
+      "week": 4,
+      "title": "Perimeter of combined figures",
+      "subtopic": "Perimeter of combined figures",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Perimeter"
+    },
+    {
+      "id": "lles_bac37dc809dd4678b3b8db038e5099f3",
+      "seq": 22,
+      "week": 4,
+      "title": "Area of rectangles and squares",
+      "subtopic": "Area of figures",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Area"
+    },
+    {
+      "id": "lles_4e9c383f8b704d6da88c7e1e34bfe049",
+      "seq": 23,
+      "week": 4,
+      "title": "Area of triangles",
+      "subtopic": "Area of figures",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Area"
+    },
+    {
+      "id": "lles_8c4202ce0a0343d2a92d002d5620d98c",
+      "seq": 24,
+      "week": 4,
+      "title": "Combined areas and differences in area",
+      "subtopic": "Combined figures and difference in area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Area"
+    },
+    {
+      "id": "lles_33967289ceb2486e9036a3a1f9bf2940",
+      "seq": 25,
+      "week": 5,
+      "title": "Volume of cubes",
+      "subtopic": "Volume of cubes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Volume"
+    },
+    {
+      "id": "lles_aae76714378941a5bd1b8898b6337b87",
+      "seq": 26,
+      "week": 5,
+      "title": "Volume of cuboids",
+      "subtopic": "Volume of cuboids",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Volume"
+    },
+    {
+      "id": "lles_e6993fc2f9424012982fa0fb9ff2cdc2",
+      "seq": 27,
+      "week": 5,
+      "title": "Application of volume",
+      "subtopic": "Application of volume",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Volume"
+    },
+    {
+      "id": "lles_c1395c3148514aa7b5e35edfcbe6dda9",
+      "seq": 28,
+      "week": 5,
+      "title": "Working out volume problems",
+      "subtopic": "Application of volume",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Volume"
+    },
+    {
+      "id": "lles_0de96ac2968f45ec965a0e325febdaa5",
+      "seq": 29,
+      "week": 5,
+      "title": "Total surface area of a cuboid",
+      "subtopic": "Total surface area of a cuboid",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Total surface area"
+    },
+    {
+      "id": "lles_c078536f5ad34baabe63e544955863da",
+      "seq": 30,
+      "week": 5,
+      "title": "Total surface area problems",
+      "subtopic": "Total surface area of a cuboid",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Total surface area"
+    },
+    {
+      "id": "lles_3c7080a5f9e942ad9cf837f4ad48530c",
+      "seq": 31,
+      "week": 6,
+      "title": "Units of capacity",
+      "subtopic": "Units for capacity",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Capacity"
+    },
+    {
+      "id": "lles_d7df6a5695a941b0a55f1a16d0b0b749",
+      "seq": 32,
+      "week": 6,
+      "title": "Converting capacity units",
+      "subtopic": "Litres, millilitres and cubic centimetres",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Capacity"
+    },
+    {
+      "id": "lles_90c59ded4039451ca616763c4f987394",
+      "seq": 33,
+      "week": 6,
+      "title": "Capacity conversion problems",
+      "subtopic": "Litres, millilitres and cubic centimetres",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Capacity"
+    },
+    {
+      "id": "lles_9d774d87de0a4d36b7a84376126e4843",
+      "seq": 34,
+      "week": 6,
+      "title": "Describing mass and its units",
+      "subtopic": "Mass or weight",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Weight (mass)"
+    },
+    {
+      "id": "lles_0804ec6a2b3f44078922a747dc51c7e1",
+      "seq": 35,
+      "week": 6,
+      "title": "Kilograms and grams",
+      "subtopic": "Converting kilograms and grams",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Weight (mass)"
+    },
+    {
+      "id": "lles_c57b7dfdfb914099905b89f07f1f6bdf",
+      "seq": 36,
+      "week": 6,
+      "title": "Mass conversion practice",
+      "subtopic": "Converting kilograms and grams",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Weight (mass)"
+    },
+    {
+      "id": "lles_2e5192ec8a6a47bc88140377458d6762",
+      "seq": 37,
+      "week": 7,
+      "title": "Positive and negative integers",
+      "subtopic": "Positive and negative integers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Integers"
+    },
+    {
+      "id": "lles_24e000db34774f07b58d99bb959b05ee",
+      "seq": 38,
+      "week": 7,
+      "title": "Representing integers on a number line",
+      "subtopic": "Integers on a number line",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Integers"
+    },
+    {
+      "id": "lles_7d30ea76a842460c84026444f2ec12b3",
+      "seq": 39,
+      "week": 7,
+      "title": "Ordering integers",
+      "subtopic": "Ordering integers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Integers"
+    },
+    {
+      "id": "lles_fcf9175268d04a39974aff043a821d4b",
+      "seq": 40,
+      "week": 7,
+      "title": "Comparing integers",
+      "subtopic": "Comparing integers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Integers"
+    },
+    {
+      "id": "lles_0b8c9fdf0b6a4bd883e963da0f557bed",
+      "seq": 41,
+      "week": 7,
+      "title": "Inverse of integers",
+      "subtopic": "Inverse of integers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Integers"
+    },
+    {
+      "id": "lles_d48235d5624a4371afc824cfc8886910",
+      "seq": 42,
+      "week": 7,
+      "title": "Adding integers using a number line",
+      "subtopic": "Addition of integers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Integers"
+    },
+    {
+      "id": "lles_4c376b080a5342dab3ebd76eecf734c7",
+      "seq": 43,
+      "week": 8,
+      "title": "Subtracting integers using a number line",
+      "subtopic": "Subtraction of integers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Integers"
+    },
+    {
+      "id": "lles_e294da580ad146c5ae767fe6c46d0629",
+      "seq": 44,
+      "week": 8,
+      "title": "Forming mathematical sentences",
+      "subtopic": "Mathematical sentences involving integers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Integers"
+    },
+    {
+      "id": "lles_f3f8c357bdd64fa99447f0aef0e89380",
+      "seq": 45,
+      "week": 8,
+      "title": "Adding integers without a number line",
+      "subtopic": "Addition of integers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Integers"
+    },
+    {
+      "id": "lles_563d39040b4e46a49342e84fb4cb531e",
+      "seq": 46,
+      "week": 8,
+      "title": "Subtracting integers without a number line",
+      "subtopic": "Subtraction of integers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Integers"
+    },
+    {
+      "id": "lles_7bb949110f62403bb47a5099ee7c8928",
+      "seq": 47,
+      "week": 8,
+      "title": "Simple integer word problems",
+      "subtopic": "Simple word problems",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Integers"
+    },
+    {
+      "id": "lles_f21c0d4b3cc34c098fc15598e18f2c99",
+      "seq": 48,
+      "week": 8,
+      "title": "Forming algebraic expressions",
+      "subtopic": "Forming algebraic expressions",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_3280f8da06b74996a3999cca5d0d8cf6",
+      "seq": 49,
+      "week": 9,
+      "title": "Collecting like terms",
+      "subtopic": "Collecting like terms",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_a44ada93d84641f384f30971952547af",
+      "seq": 50,
+      "week": 9,
+      "title": "Simplifying by collecting like terms",
+      "subtopic": "Collecting like terms",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_8f4b54d3e8cd43358fb248c05e2647a2",
+      "seq": 51,
+      "week": 9,
+      "title": "Substitution",
+      "subtopic": "Substitution",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_e232ca4ae41940909ff54de22e4f7077",
+      "seq": 52,
+      "week": 9,
+      "title": "Substitution practice",
+      "subtopic": "Substitution",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_5a2c1df9e19e4fcb8b7f05af542f1da1",
+      "seq": 53,
+      "week": 9,
+      "title": "Solving equations by subtracting",
+      "subtopic": "Solving equations by subtraction",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_dc4af3f2c49c4d9e948bae99f11f5a85",
+      "seq": 54,
+      "week": 9,
+      "title": "Solving equations by adding",
+      "subtopic": "Solving equations by addition",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_16409d09e8a040ba81bcf617d376caa0",
+      "seq": 55,
+      "week": 10,
+      "title": "Addition and subtraction word problems",
+      "subtopic": "Forming and solving equations involving addition and subtraction",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_f89710b496fb4dafa4df04b5eb290c8a",
+      "seq": 56,
+      "week": 10,
+      "title": "Number problem practice",
+      "subtopic": "Forming and solving equations involving addition and subtraction",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_cdf30f4b503d4260a813891cc73948cd",
+      "seq": 57,
+      "week": 10,
+      "title": "Solving equations by dividing",
+      "subtopic": "Solving equations by division",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_952f73e640594cdc800b81fcb57fb808",
+      "seq": 58,
+      "week": 10,
+      "title": "Solving equations by multiplying",
+      "subtopic": "Solving equations by multiplication",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_2cb4d7bf7c5c429a95a6f822cb6f677b",
+      "seq": 59,
+      "week": 10,
+      "title": "Division and multiplication word problems",
+      "subtopic": "Forming and solving equations involving division and multiplication",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_da70e40072314a17a28d2fb70269d3ea",
+      "seq": 60,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Money, Length, Mass and Capacity, Perimeter, Area, Volume, Total surface area, Capacity, Weight (mass), Integers, Algebra",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Algebra"
+    }
+  ]
+}
