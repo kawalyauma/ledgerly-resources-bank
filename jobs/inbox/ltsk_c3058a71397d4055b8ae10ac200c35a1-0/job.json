@@ -3,7 +3,7 @@
   "task": "ltsk_c3058a71397d4055b8ae10ac200c35a1",
   "call": 0,
   "kind": "lesson.write",
-  "status": "open",
+  "status": "answered",
   "attempt": 1,
   "priority": 51,
   "school": "sch-7207f9",
@@ -76,5 +76,6 @@
     "lchk_11d1b263ed194f0dbe2283cd505309d9",
     "lchk_6ada0a6682ac4826817cae5ee2fc04b1"
   ],
-  "created": "2026-10-19T13:10:53.457Z"
+  "created": "2026-10-19T13:10:53.457Z",
+  "answeredBy": "codex-direct-p1-p4/GPT-6"
 }
