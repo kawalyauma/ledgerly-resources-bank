@@ -8,12 +8,12 @@
 | 4 | 1 | teach | Time and expression of the future — week 1 | Future-time vocabulary — Future-time vocabulary | written |
 | 5 | 1 | teach | Time and expression of the future — week 1 | Using will and shall — Using will and shall | written |
 | 6 | 1 | teach | Time and expression of the future — week 1 | Reading: Akot’s plan to go to the zoo — Reading: Akot’s plan to go to the zoo | written |
-| 7 | 2 | teach | Time and expression of the future — week 2 | Using for — Using for | writing |
-| 8 | 2 | teach | Time and expression of the future — week 2 | Using before — Using before | writing |
-| 9 | 2 | teach | Time and expression of the future — week 2 | Using after — Using after | writing |
-| 10 | 2 | teach | Time and expression of the future — week 2 | Reading: Namata’s work plan — Reading: Namata’s work plan | writing |
-| 11 | 2 | teach | Time and expression of the future — week 2 | Reading: Amanya’s diary — Reading: Amanya’s diary | writing |
-| 12 | 2 | teach | Time and expression of the future — week 2 | Reading: Mukaga’s daily plan — Reading: Mukaga’s daily plan | writing |
+| 7 | 2 | teach | Time and expression of the future — week 2 | Using for — Using for | written |
+| 8 | 2 | teach | Time and expression of the future — week 2 | Using before — Using before | written |
+| 9 | 2 | teach | Time and expression of the future — week 2 | Using after — Using after | written |
+| 10 | 2 | teach | Time and expression of the future — week 2 | Reading: Namata’s work plan — Reading: Namata’s work plan | written |
+| 11 | 2 | teach | Time and expression of the future — week 2 | Reading: Amanya’s diary — Reading: Amanya’s diary | written |
+| 12 | 2 | teach | Time and expression of the future — week 2 | Reading: Mukaga’s daily plan — Reading: Mukaga’s daily plan | written |
 | 13 | 3 | teach | Time and expression of the future — week 3 | Present simple passive — Present simple passive | pending |
 | 14 | 3 | teach | Time and expression of the future — week 3 | Present continuous passive — Present continuous passive | pending |
 | 15 | 3 | teach | Time and expression of the future — week 3 | Present perfect passive — Present perfect passive | pending |
