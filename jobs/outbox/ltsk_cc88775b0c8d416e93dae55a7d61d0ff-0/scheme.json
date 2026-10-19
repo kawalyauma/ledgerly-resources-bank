@@ -1,0 +1,1044 @@
+{
+  "title": "Primary Six Mathematics \u2014 Term 3",
+  "summary": "Six 40-minute lessons each week. The OSEB school scheme sets weeks 1\u20132; other school schemes complete the term sequence. Only weeks 1\u20132 are authorised for detailed notes and plans in this run. The final period is reserved for assessment.",
+  "units": [
+    {
+      "title": "Length, Mass and Capacity",
+      "theme": "Length, Mass and Capacity",
+      "weekFrom": 1,
+      "weekTo": 5,
+      "competences": "The learner solves the stated problems accurately and explains the method used.",
+      "sources": [
+        {
+          "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+          "quote": "Finding the unknowns by comparing areas of triangles"
+        },
+        {
+          "source": "lchk_9d3cab691b6d474081d0e2c8256f85b5",
+          "quote": "Converts the cubic centimeters to litres"
+        },
+        {
+          "source": "lchk_0bd0b7369eed421590c650a93e975e8a",
+          "quote": "Find it\u2019s radius"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Metric units of length",
+          "subtopic": "Metric units of length",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify metric length units and convert kilometres to metres."
+          ],
+          "sources": [
+            {
+              "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+              "quote": "Conversion of metric units"
+            }
+          ]
+        },
+        {
+          "title": "Converting metric length units",
+          "subtopic": "Converting metric length units",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to convert metres, decimetres, centimetres and millimetres."
+          ],
+          "sources": [
+            {
+              "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+              "quote": "Conversion of metric units"
+            }
+          ]
+        },
+        {
+          "title": "Converting square units",
+          "subtopic": "Converting square units",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to convert square metres to square centimetres."
+          ],
+          "sources": [
+            {
+              "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+              "quote": "Conversion of metric units"
+            }
+          ]
+        },
+        {
+          "title": "Area and perimeter of a square",
+          "subtopic": "Area and perimeter of a square",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to find the side and perimeter from the area of a square."
+          ],
+          "sources": [
+            {
+              "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+              "quote": "Finding area when given the perimeter"
+            }
+          ]
+        },
+        {
+          "title": "Area and perimeter of a rectangle",
+          "subtopic": "Area and perimeter of a rectangle",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to find a rectangle\u2019s missing side and perimeter from its area."
+          ],
+          "sources": [
+            {
+              "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+              "quote": "Calculate its perimeter"
+            }
+          ]
+        },
+        {
+          "title": "Unknown sides, area and perimeter",
+          "subtopic": "Unknown sides, area and perimeter",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to find unknown sides, area and perimeter of a rectangle."
+          ],
+          "sources": [
+            {
+              "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+              "quote": "Finding the sides, area and perimeter"
+            }
+          ]
+        },
+        {
+          "title": "Area of shaded rectangles",
+          "subtopic": "Area of shaded rectangles",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to subtract the inner rectangle\u2019s area from the outer rectangle\u2019s area."
+          ],
+          "sources": [
+            {
+              "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+              "quote": "Area of shaded parts of rectangles"
+            }
+          ]
+        },
+        {
+          "title": "Area of rectangular borders",
+          "subtopic": "Area of rectangular borders",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to find missing lengths and calculate the area of a rectangular border."
+          ],
+          "sources": [
+            {
+              "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+              "quote": "Area of shaded parts of rectangles"
+            }
+          ]
+        },
+        {
+          "title": "Area of triangles",
+          "subtopic": "Area of triangles",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to calculate area using a base and perpendicular height."
+          ],
+          "sources": [
+            {
+              "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+              "quote": "Finding the unknowns by comparing areas of triangles"
+            }
+          ]
+        },
+        {
+          "title": "Comparing areas: finding a base",
+          "subtopic": "Comparing areas: finding a base",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to find an unknown base by equating two expressions for the same triangle\u2019s area."
+          ],
+          "sources": [
+            {
+              "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+              "quote": "Finding the unknowns by comparing areas of triangles"
+            }
+          ]
+        },
+        {
+          "title": "Comparing areas: finding a height",
+          "subtopic": "Comparing areas: finding a height",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to find an unknown height by comparing areas of the same triangle."
+          ],
+          "sources": [
+            {
+              "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+              "quote": "Finding the unknowns by comparing areas of triangles"
+            }
+          ]
+        },
+        {
+          "title": "Area of a trapezium",
+          "subtopic": "Area of a trapezium",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify parallel sides and calculate a trapezium\u2019s area."
+          ],
+          "sources": [
+            {
+              "source": "lchk_9d3cab691b6d474081d0e2c8256f85b5",
+              "quote": "Area of a trapezium"
+            }
+          ]
+        },
+        {
+          "title": "Area of a parallelogram",
+          "subtopic": "Area of a parallelogram",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to calculate area using base and perpendicular height."
+          ],
+          "sources": [
+            {
+              "source": "lchk_9d3cab691b6d474081d0e2c8256f85b5",
+              "quote": "Area of a parallelogram and a rhombus"
+            }
+          ]
+        },
+        {
+          "title": "Area and perimeter of a rhombus",
+          "subtopic": "Area and perimeter of a rhombus",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to calculate the area and perimeter of a rhombus."
+          ],
+          "sources": [
+            {
+              "source": "lchk_9d3cab691b6d474081d0e2c8256f85b5",
+              "quote": "Area of a parallelogram and a rhombus"
+            }
+          ]
+        },
+        {
+          "title": "Area of a kite",
+          "subtopic": "Area of a kite",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to calculate the area of a kite."
+          ],
+          "sources": [
+            {
+              "source": "lchk_9d3cab691b6d474081d0e2c8256f85b5",
+              "quote": "Area of a kite"
+            }
+          ]
+        },
+        {
+          "title": "Total surface area of a cube",
+          "subtopic": "Total surface area of a cube",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to calculate a cube\u2019s total surface area."
+          ],
+          "sources": [
+            {
+              "source": "lchk_9d3cab691b6d474081d0e2c8256f85b5",
+              "quote": "Volume and total surface area of a cube"
+            }
+          ]
+        },
+        {
+          "title": "Volume of a cube",
+          "subtopic": "Volume of a cube",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to calculate a cube\u2019s volume."
+          ],
+          "sources": [
+            {
+              "source": "lchk_9d3cab691b6d474081d0e2c8256f85b5",
+              "quote": "Volume and total surface area of a cube"
+            }
+          ]
+        },
+        {
+          "title": "Volume of a cuboid",
+          "subtopic": "Volume of a cuboid",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to calculate volume in cubic centimetres."
+          ],
+          "sources": [
+            {
+              "source": "lchk_9d3cab691b6d474081d0e2c8256f85b5",
+              "quote": "Finding the volume of a cuboid in litres"
+            }
+          ]
+        },
+        {
+          "title": "Volume and capacity in litres",
+          "subtopic": "Volume and capacity in litres",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to convert a cuboid\u2019s volume to litres."
+          ],
+          "sources": [
+            {
+              "source": "lchk_9d3cab691b6d474081d0e2c8256f85b5",
+              "quote": "Converts the cubic centimeters to litres"
+            }
+          ]
+        },
+        {
+          "title": "Packing cubes in cartons",
+          "subtopic": "Packing cubes in cartons",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to calculate the number of cubes that fit along each dimension."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0bd0b7369eed421590c650a93e975e8a",
+              "quote": "Packing cubes and cuboids in cartons"
+            }
+          ]
+        },
+        {
+          "title": "Space left after packing",
+          "subtopic": "Space left after packing",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to calculate the volume of unoccupied space."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0bd0b7369eed421590c650a93e975e8a",
+              "quote": "Calculates volume of space wasted"
+            }
+          ]
+        },
+        {
+          "title": "Parts of a circle",
+          "subtopic": "Parts of a circle",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to relate a circle\u2019s radius and diameter."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0bd0b7369eed421590c650a93e975e8a",
+              "quote": "Circumference of a circle"
+            }
+          ]
+        },
+        {
+          "title": "Circumference from diameter",
+          "subtopic": "Circumference from diameter",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to calculate circumference from diameter."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0bd0b7369eed421590c650a93e975e8a",
+              "quote": "diameter is 14cm"
+            }
+          ]
+        },
+        {
+          "title": "Circumference from radius",
+          "subtopic": "Circumference from radius",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to calculate circumference from radius."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0bd0b7369eed421590c650a93e975e8a",
+              "quote": "radius is 20dm"
+            }
+          ]
+        },
+        {
+          "title": "Perimeter of a semicircle",
+          "subtopic": "Perimeter of a semicircle",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to calculate perimeter including the straight diameter."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0bd0b7369eed421590c650a93e975e8a",
+              "quote": "perimeter of a semicircle"
+            }
+          ]
+        },
+        {
+          "title": "Area of a circle",
+          "subtopic": "Area of a circle",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to calculate area from radius."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0bd0b7369eed421590c650a93e975e8a",
+              "quote": "Area of a circle"
+            }
+          ]
+        },
+        {
+          "title": "Radius from area",
+          "subtopic": "Radius from area",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to find a circle\u2019s radius from its area."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0bd0b7369eed421590c650a93e975e8a",
+              "quote": "Find it\u2019s radius"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Geometry",
+      "theme": "Geometry",
+      "weekFrom": 5,
+      "weekTo": 7,
+      "competences": "The learner solves the stated problems accurately and explains the method used.",
+      "sources": [
+        {
+          "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+          "quote": "Pythagoras theorem and application"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Constructing 60 and 90 degree angles",
+          "subtopic": "Constructing 60 and 90 degree angles",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to construct angles using geometric instruments."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+              "quote": "Construction of 60"
+            }
+          ]
+        },
+        {
+          "title": "Bisecting angles",
+          "subtopic": "Bisecting angles",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to bisect angles to obtain 30 and 45 degrees."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+              "quote": "Bisecting angles to get"
+            }
+          ]
+        },
+        {
+          "title": "Constructing triangles",
+          "subtopic": "Constructing triangles",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to construct triangles with geometric instruments."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+              "quote": "Construction of triangles"
+            }
+          ]
+        },
+        {
+          "title": "Constructing squares and rectangles",
+          "subtopic": "Constructing squares and rectangles",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to construct squares and rectangles."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+              "quote": "squares, rectangles"
+            }
+          ]
+        },
+        {
+          "title": "Constructing polygons",
+          "subtopic": "Constructing polygons",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to construct the stated polygons."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+              "quote": "pentagon and Octagon and nonagon"
+            }
+          ]
+        },
+        {
+          "title": "Parallel and perpendicular lines",
+          "subtopic": "Parallel and perpendicular lines",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to construct and label parallel and perpendicular lines."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+              "quote": "Construction of parallel and perpendicular lines"
+            }
+          ]
+        },
+        {
+          "title": "Complementary angles",
+          "subtopic": "Complementary angles",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to find complementary angles."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+              "quote": "Complementary angles"
+            }
+          ]
+        },
+        {
+          "title": "Supplementary angles",
+          "subtopic": "Supplementary angles",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to find supplementary angles."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+              "quote": "Supplementary angles"
+            }
+          ]
+        },
+        {
+          "title": "Angles in triangles",
+          "subtopic": "Angles in triangles",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to calculate an unknown angle in a triangle."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+              "quote": "Angles in a triangle"
+            }
+          ]
+        },
+        {
+          "title": "Angles on parallel lines",
+          "subtopic": "Angles on parallel lines",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify corresponding and alternate angles."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+              "quote": "Angles in parallel lines"
+            }
+          ]
+        },
+        {
+          "title": "Co-interior and vertically opposite angles",
+          "subtopic": "Co-interior and vertically opposite angles",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to calculate co-interior and vertically opposite angles."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+              "quote": "Co-interior angles"
+            }
+          ]
+        },
+        {
+          "title": "Properties of quadrilaterals",
+          "subtopic": "Properties of quadrilaterals",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to classify quadrilaterals by their properties."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+              "quote": "Quadrilaterals and their properties"
+            }
+          ]
+        },
+        {
+          "title": "Pythagoras\u2019 theorem",
+          "subtopic": "Pythagoras\u2019 theorem",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to find a missing side of a right-angled triangle."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+              "quote": "Pythagoras theorem and application"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Integers",
+      "theme": "Integers",
+      "weekFrom": 7,
+      "weekTo": 8,
+      "competences": "The learner solves the stated problems accurately and explains the method used.",
+      "sources": [
+        {
+          "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+          "quote": "Addition of integers without a number line"
+        },
+        {
+          "source": "lchk_f9252348f14e4fdd96704f1b63dac1db",
+          "quote": "Application of integers"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Addition of integers on a number line",
+          "subtopic": "Addition of integers on a number line",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to add integers using a number line."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+              "quote": "Addition of integers on a number line"
+            }
+          ]
+        },
+        {
+          "title": "Addition without a number line",
+          "subtopic": "Addition without a number line",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to add positive and negative integers."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f5779a2822ff4c0ea7c361f2e4fd4e8b",
+              "quote": "Addition of integers without a number line"
+            }
+          ]
+        },
+        {
+          "title": "Subtraction of integers",
+          "subtopic": "Subtraction of integers",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to subtract integers using a number line."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9252348f14e4fdd96704f1b63dac1db",
+              "quote": "Subtraction of integers on a number line"
+            }
+          ]
+        },
+        {
+          "title": "Multiplication of integers",
+          "subtopic": "Multiplication of integers",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to multiply signed integers."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9252348f14e4fdd96704f1b63dac1db",
+              "quote": "Multiplication of integers"
+            }
+          ]
+        },
+        {
+          "title": "Division of integers",
+          "subtopic": "Division of integers",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to divide signed integers."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9252348f14e4fdd96704f1b63dac1db",
+              "quote": "Division of integers"
+            }
+          ]
+        },
+        {
+          "title": "Applications of integers",
+          "subtopic": "Applications of integers",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to solve real-life problems involving integers."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9252348f14e4fdd96704f1b63dac1db",
+              "quote": "Application of integers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sets",
+      "theme": "Sets",
+      "weekFrom": 8,
+      "weekTo": 8,
+      "competences": "The learner solves the stated problems accurately and explains the method used.",
+      "sources": [
+        {
+          "source": "lchk_d2bd76c37a25478ebddbc7fc96d5c77f",
+          "quote": "Finding solution sets for the inequalities"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Sets of integers on number lines",
+          "subtopic": "Sets of integers on number lines",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to represent a set of integers on a number line."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d2bd76c37a25478ebddbc7fc96d5c77f",
+              "quote": "Representing sets of integers on a number line"
+            }
+          ]
+        },
+        {
+          "title": "Solution sets of inequalities",
+          "subtopic": "Solution sets of inequalities",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to list integers satisfying an inequality."
+          ],
+          "sources": [
+            {
+              "source": "lchk_d2bd76c37a25478ebddbc7fc96d5c77f",
+              "quote": "Finding solution sets for the inequalities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Algebra",
+      "theme": "Algebra",
+      "weekFrom": 9,
+      "weekTo": 10,
+      "competences": "The learner solves the stated problems accurately and explains the method used.",
+      "sources": [
+        {
+          "source": "lchk_f9252348f14e4fdd96704f1b63dac1db",
+          "quote": "Forming equations"
+        },
+        {
+          "source": "lchk_392a9421323d4be49fe456d939a9002a",
+          "quote": "Dividing powers of the same base"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Algebraic expressions",
+          "subtopic": "Algebraic expressions",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to write algebraic expressions from phrases."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9252348f14e4fdd96704f1b63dac1db",
+              "quote": "Algebraic expressions"
+            }
+          ]
+        },
+        {
+          "title": "Collecting like terms",
+          "subtopic": "Collecting like terms",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to simplify expressions by collecting like terms."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9252348f14e4fdd96704f1b63dac1db",
+              "quote": "Collecting and simplifying like terms"
+            }
+          ]
+        },
+        {
+          "title": "Removing brackets",
+          "subtopic": "Removing brackets",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to expand and simplify expressions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9252348f14e4fdd96704f1b63dac1db",
+              "quote": "Removing brackets"
+            }
+          ]
+        },
+        {
+          "title": "Substitution",
+          "subtopic": "Substitution",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to evaluate expressions using given values."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9252348f14e4fdd96704f1b63dac1db",
+              "quote": "Substitution"
+            }
+          ]
+        },
+        {
+          "title": "Forming equations",
+          "subtopic": "Forming equations",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to form equations from statements."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9252348f14e4fdd96704f1b63dac1db",
+              "quote": "Forming equations"
+            }
+          ]
+        },
+        {
+          "title": "Solving simple equations",
+          "subtopic": "Solving simple equations",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to solve equations with one unknown."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9252348f14e4fdd96704f1b63dac1db",
+              "quote": "Solving equations involving all operations"
+            }
+          ]
+        },
+        {
+          "title": "Solving fractional equations",
+          "subtopic": "Solving fractional equations",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to solve equations involving fractions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9252348f14e4fdd96704f1b63dac1db",
+              "quote": "Solving fractional equations"
+            }
+          ]
+        },
+        {
+          "title": "Solving inequalities",
+          "subtopic": "Solving inequalities",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to solve inequalities and state solution sets."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9252348f14e4fdd96704f1b63dac1db",
+              "quote": "Solving inequalities"
+            }
+          ]
+        },
+        {
+          "title": "Forming equations from word problems",
+          "subtopic": "Forming equations from word problems",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to form and solve equations from word problems."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f9252348f14e4fdd96704f1b63dac1db",
+              "quote": "Forming equations"
+            }
+          ]
+        },
+        {
+          "title": "Products of powers",
+          "subtopic": "Products of powers",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to multiply powers with the same base."
+          ],
+          "sources": [
+            {
+              "source": "lchk_392a9421323d4be49fe456d939a9002a",
+              "quote": "Products of powers with the same base"
+            }
+          ]
+        },
+        {
+          "title": "Division of powers",
+          "subtopic": "Division of powers",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to divide powers with the same base."
+          ],
+          "sources": [
+            {
+              "source": "lchk_392a9421323d4be49fe456d939a9002a",
+              "quote": "Dividing powers of the same base"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "School schemes differ in ordering: OSEB starts with metric conversions and rectangles; the thematic scheme starts with circumference. This outline follows OSEB in weeks 1\u20132 and retains the other listed topics later."
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "job": "ltsk_cc88775b0c8d416e93dae55a7d61d0ff-0",
+  "attempt": 1,
+  "agent": "codex-direct-p6",
+  "model": "GPT-6",
+  "gaps": {},
+  "reviewerNotes": "User prioritised P6 Mathematics, Term 3, weeks 1\u20132 only. Scheme write_until_week is set to 2. Full outline is an engine prerequisite; detailed generation stops after 12 lessons. OSEB source contains incomplete diagrams; use independently supported complete examples from the pack, never guessed dimensions."
+}
