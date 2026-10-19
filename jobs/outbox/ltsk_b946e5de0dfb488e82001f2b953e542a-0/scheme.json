@@ -1,0 +1,966 @@
+{
+  "title": "Primary Four English \u2014 Term 3",
+  "summary": "Six 40-minute periods each week: three grammar and three composition/comprehension periods in the school scheme\u2019s order. Detailed generation is limited to weeks 1\u20132 for this request. Eight reference weeks plus revision complete the ten-week outline.",
+  "units": [
+    {
+      "title": "Time and expression of the future \u2014 week 1",
+      "theme": "Expression of the future and Time",
+      "weekFrom": 1,
+      "weekTo": 1,
+      "competences": "The learner reads, speaks and writes the stated English structures and interprets the supplied texts.",
+      "sources": [
+        {
+          "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+          "quote": "Since is used when a point of time"
+        },
+        {
+          "source": "lchk_f716af72c8cc4a5a82acd048b8952822",
+          "quote": "Using will / shall"
+        },
+        {
+          "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+          "quote": "AKOT\u2019S PLAN TO GO TO THE ZOO"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Using if",
+          "subtopic": "Using if",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use if to express a condition and punctuate a conditional sentence."
+          ],
+          "sources": [
+            {
+              "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+              "quote": "Use of \u201cif\u201d and \u201cunless\u201d"
+            }
+          ]
+        },
+        {
+          "title": "Using unless",
+          "subtopic": "Using unless",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use unless to express a negative condition."
+          ],
+          "sources": [
+            {
+              "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+              "quote": "Use of \u201cunless\u201d"
+            }
+          ]
+        },
+        {
+          "title": "Using since",
+          "subtopic": "Using since",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use since with a starting point in time."
+          ],
+          "sources": [
+            {
+              "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+              "quote": "Since is used when a point of time"
+            }
+          ]
+        },
+        {
+          "title": "Future-time vocabulary",
+          "subtopic": "Future-time vocabulary",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to read and spell future-time words."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f716af72c8cc4a5a82acd048b8952822",
+              "quote": "tomorrow"
+            }
+          ]
+        },
+        {
+          "title": "Using will and shall",
+          "subtopic": "Using will and shall",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to form affirmative and negative future sentences."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f716af72c8cc4a5a82acd048b8952822",
+              "quote": "Using will / shall"
+            }
+          ]
+        },
+        {
+          "title": "Reading: Akot\u2019s plan to go to the zoo",
+          "subtopic": "Reading: Akot\u2019s plan to go to the zoo",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to read a future-time passage and answer comprehension questions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+              "quote": "AKOT\u2019S PLAN TO GO TO THE ZOO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Time and expression of the future \u2014 week 2",
+      "theme": "Expression of the future and Time",
+      "weekFrom": 2,
+      "weekTo": 2,
+      "competences": "The learner reads, speaks and writes the stated English structures and interprets the supplied texts.",
+      "sources": [
+        {
+          "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+          "quote": "Using \u201cafter\u201d"
+        },
+        {
+          "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+          "quote": "Study Namata\u2019s work plan"
+        },
+        {
+          "source": "lchk_f716af72c8cc4a5a82acd048b8952822",
+          "quote": "Keeping a diary"
+        },
+        {
+          "source": "lchk_a8b51257a7204350820a66c1c782842d",
+          "quote": "Study Mukaga\u2019s plan for tomorrow"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Using for",
+          "subtopic": "Using for",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use for to express duration."
+          ],
+          "sources": [
+            {
+              "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+              "quote": "Using \u201cfor\u201d"
+            }
+          ]
+        },
+        {
+          "title": "Using before",
+          "subtopic": "Using before",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use before to order actions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+              "quote": "Before and after using \u201cbefore\u201d"
+            }
+          ]
+        },
+        {
+          "title": "Using after",
+          "subtopic": "Using after",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to join actions using after."
+          ],
+          "sources": [
+            {
+              "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+              "quote": "Using \u201cafter\u201d"
+            }
+          ]
+        },
+        {
+          "title": "Reading: Namata\u2019s work plan",
+          "subtopic": "Reading: Namata\u2019s work plan",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to interpret a weekly work plan and answer in full sentences."
+          ],
+          "sources": [
+            {
+              "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+              "quote": "Study Namata\u2019s work plan"
+            }
+          ]
+        },
+        {
+          "title": "Reading: Amanya\u2019s diary",
+          "subtopic": "Reading: Amanya\u2019s diary",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to read a diary and identify dates and events."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f716af72c8cc4a5a82acd048b8952822",
+              "quote": "Keeping a diary"
+            }
+          ]
+        },
+        {
+          "title": "Reading: Mukaga\u2019s daily plan",
+          "subtopic": "Reading: Mukaga\u2019s daily plan",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to read a timed plan and answer questions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8b51257a7204350820a66c1c782842d",
+              "quote": "Study Mukaga\u2019s plan for tomorrow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Time and expression of the future \u2014 week 3",
+      "theme": "Expression of the future and Time",
+      "weekFrom": 3,
+      "weekTo": 3,
+      "competences": "The learner reads, speaks and writes the stated English structures and interprets the supplied texts.",
+      "sources": [
+        {
+          "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+          "quote": "The present simple tense"
+        },
+        {
+          "source": "lchk_504c935022c24f93bb1915bbac48425c",
+          "quote": "present perfect"
+        },
+        {
+          "source": "lchk_f716af72c8cc4a5a82acd048b8952822",
+          "quote": "diary Study Amanya\u2019s Diary"
+        },
+        {
+          "source": "lchk_0be5a61e38954d309965c6e67641a240",
+          "quote": "Mugabi"
+        },
+        {
+          "source": "lchk_a8b51257a7204350820a66c1c782842d",
+          "quote": "Study Nanono\u2019s timetable"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Present simple passive",
+          "subtopic": "Present simple passive",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to change present simple sentences to passive voice."
+          ],
+          "sources": [
+            {
+              "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+              "quote": "The present simple tense"
+            }
+          ]
+        },
+        {
+          "title": "Present continuous passive",
+          "subtopic": "Present continuous passive",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use the present continuous passive."
+          ],
+          "sources": [
+            {
+              "source": "lchk_504c935022c24f93bb1915bbac48425c",
+              "quote": "present continuous"
+            }
+          ]
+        },
+        {
+          "title": "Present perfect passive",
+          "subtopic": "Present perfect passive",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use the present perfect passive."
+          ],
+          "sources": [
+            {
+              "source": "lchk_504c935022c24f93bb1915bbac48425c",
+              "quote": "present perfect"
+            }
+          ]
+        },
+        {
+          "title": "Diary vocabulary",
+          "subtopic": "Diary vocabulary",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use diary vocabulary."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f716af72c8cc4a5a82acd048b8952822",
+              "quote": "diary Study Amanya\u2019s Diary"
+            }
+          ]
+        },
+        {
+          "title": "A daily routine",
+          "subtopic": "A daily routine",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to read a daily routine."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0be5a61e38954d309965c6e67641a240",
+              "quote": "Mugabi"
+            }
+          ]
+        },
+        {
+          "title": "Reading a timetable",
+          "subtopic": "Reading a timetable",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to interpret subjects and times."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a8b51257a7204350820a66c1c782842d",
+              "quote": "Study Nanono\u2019s timetable"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Democracy \u2014 week 4",
+      "theme": "Democracy: games, sports, music, drama and elections",
+      "weekFrom": 4,
+      "weekTo": 4,
+      "competences": "The learner reads, speaks and writes the stated English structures and interprets the supplied texts.",
+      "sources": [
+        {
+          "source": "lchk_504c935022c24f93bb1915bbac48425c",
+          "quote": "Future simple"
+        },
+        {
+          "source": "lchk_0be5a61e38954d309965c6e67641a240",
+          "quote": "referee"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Past simple passive",
+          "subtopic": "Past simple passive",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use the past simple passive."
+          ],
+          "sources": [
+            {
+              "source": "lchk_504c935022c24f93bb1915bbac48425c",
+              "quote": "Past simple"
+            }
+          ]
+        },
+        {
+          "title": "Past continuous passive",
+          "subtopic": "Past continuous passive",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use the past continuous passive."
+          ],
+          "sources": [
+            {
+              "source": "lchk_504c935022c24f93bb1915bbac48425c",
+              "quote": "Past continuous"
+            }
+          ]
+        },
+        {
+          "title": "Future simple passive",
+          "subtopic": "Future simple passive",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use the future simple passive."
+          ],
+          "sources": [
+            {
+              "source": "lchk_504c935022c24f93bb1915bbac48425c",
+              "quote": "Future simple"
+            }
+          ]
+        },
+        {
+          "title": "Games and sports vocabulary",
+          "subtopic": "Games and sports vocabulary",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to read and use games vocabulary."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0be5a61e38954d309965c6e67641a240",
+              "quote": "Run, jump, skip"
+            }
+          ]
+        },
+        {
+          "title": "Future actions in sports",
+          "subtopic": "Future actions in sports",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to ask and answer questions about future actions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0be5a61e38954d309965c6e67641a240",
+              "quote": "What will"
+            }
+          ]
+        },
+        {
+          "title": "Sportspeople vocabulary",
+          "subtopic": "Sportspeople vocabulary",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify sportspeople and their roles."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0be5a61e38954d309965c6e67641a240",
+              "quote": "referee"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Democracy \u2014 week 5",
+      "theme": "Democracy: games, sports, music, drama and elections",
+      "weekFrom": 5,
+      "weekTo": 5,
+      "competences": "The learner reads, speaks and writes the stated English structures and interprets the supplied texts.",
+      "sources": [
+        {
+          "source": "lchk_e6a52719b4f24c60ac119d88d7c3b391",
+          "quote": "Order of adjectives When"
+        },
+        {
+          "source": "lchk_0be5a61e38954d309965c6e67641a240",
+          "quote": "Ordinal"
+        },
+        {
+          "source": "lchk_a359bf96ae7547149fd9645e5fb96dda",
+          "quote": "Yellow is my team"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Not as \u2026 as",
+          "subtopic": "Not as \u2026 as",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to compare using not as \u2026 as."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e6a52719b4f24c60ac119d88d7c3b391",
+              "quote": "not as............as................ Examples This"
+            }
+          ]
+        },
+        {
+          "title": "Double comparatives",
+          "subtopic": "Double comparatives",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use paired comparatives."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e6a52719b4f24c60ac119d88d7c3b391",
+              "quote": "The more"
+            }
+          ]
+        },
+        {
+          "title": "Order of adjectives",
+          "subtopic": "Order of adjectives",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to order adjectives correctly."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e6a52719b4f24c60ac119d88d7c3b391",
+              "quote": "Order of adjectives When"
+            }
+          ]
+        },
+        {
+          "title": "Ordinal numbers",
+          "subtopic": "Ordinal numbers",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use ordinal numbers."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0be5a61e38954d309965c6e67641a240",
+              "quote": "Ordinal"
+            }
+          ]
+        },
+        {
+          "title": "Using when in sports sentences",
+          "subtopic": "Using when in sports sentences",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to join events using when."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a359bf96ae7547149fd9645e5fb96dda",
+              "quote": "when............... Examples She feels"
+            }
+          ]
+        },
+        {
+          "title": "Reading: Yellow is my team",
+          "subtopic": "Reading: Yellow is my team",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to read a sourced sports dialogue."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a359bf96ae7547149fd9645e5fb96dda",
+              "quote": "Yellow is my team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Democracy \u2014 week 6",
+      "theme": "Democracy: games, sports, music, drama and elections",
+      "weekFrom": 6,
+      "weekTo": 6,
+      "competences": "The learner reads, speaks and writes the stated English structures and interprets the supplied texts.",
+      "sources": [
+        {
+          "source": "lchk_e6a52719b4f24c60ac119d88d7c3b391",
+          "quote": "Looking forward"
+        },
+        {
+          "source": "lchk_a359bf96ae7547149fd9645e5fb96dda",
+          "quote": "drama Listening Speaking Reading"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Proper adjectives",
+          "subtopic": "Proper adjectives",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use proper adjectives."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e6a52719b4f24c60ac119d88d7c3b391",
+              "quote": "Proper"
+            }
+          ]
+        },
+        {
+          "title": "Using hope",
+          "subtopic": "Using hope",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to express future hopes."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e6a52719b4f24c60ac119d88d7c3b391",
+              "quote": "Hope Hope is followed"
+            }
+          ]
+        },
+        {
+          "title": "Looking forward to",
+          "subtopic": "Looking forward to",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use looking forward to with an appropriate following form."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e6a52719b4f24c60ac119d88d7c3b391",
+              "quote": "Looking forward"
+            }
+          ]
+        },
+        {
+          "title": "Reading a scoreboard",
+          "subtopic": "Reading a scoreboard",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to interpret a sports scoreboard."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a359bf96ae7547149fd9645e5fb96dda",
+              "quote": "scored the winning goal"
+            }
+          ]
+        },
+        {
+          "title": "Sports dialogue practice",
+          "subtopic": "Sports dialogue practice",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to answer dialogue questions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a359bf96ae7547149fd9645e5fb96dda",
+              "quote": "Yellow is my team"
+            }
+          ]
+        },
+        {
+          "title": "Music and drama vocabulary",
+          "subtopic": "Music and drama vocabulary",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to read and spell music and drama words."
+          ],
+          "sources": [
+            {
+              "source": "lchk_a359bf96ae7547149fd9645e5fb96dda",
+              "quote": "drama Listening Speaking Reading"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Democracy \u2014 week 7",
+      "theme": "Democracy: games, sports, music, drama and elections",
+      "weekFrom": 7,
+      "weekTo": 7,
+      "competences": "The learner reads, speaks and writes the stated English structures and interprets the supplied texts.",
+      "sources": [
+        {
+          "source": "lchk_db80dff9e9fa46b3ad2a5e6c6ec604cf",
+          "quote": "and neither"
+        },
+        {
+          "source": "lchk_0be5a61e38954d309965c6e67641a240",
+          "quote": "when ................. Example He"
+        },
+        {
+          "source": "lchk_e90703e9cd484f1991cfcb2bfb23b050",
+          "quote": "function"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Using because",
+          "subtopic": "Using because",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to give reasons using because."
+          ],
+          "sources": [
+            {
+              "source": "lchk_db80dff9e9fa46b3ad2a5e6c6ec604cf",
+              "quote": "because"
+            }
+          ]
+        },
+        {
+          "title": "Neither \u2026 nor",
+          "subtopic": "Neither \u2026 nor",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to join negative alternatives."
+          ],
+          "sources": [
+            {
+              "source": "lchk_db80dff9e9fa46b3ad2a5e6c6ec604cf",
+              "quote": "Neither"
+            }
+          ]
+        },
+        {
+          "title": "And neither",
+          "subtopic": "And neither",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to agree with a negative statement."
+          ],
+          "sources": [
+            {
+              "source": "lchk_db80dff9e9fa46b3ad2a5e6c6ec604cf",
+              "quote": "and neither"
+            }
+          ]
+        },
+        {
+          "title": "Using when in event sentences",
+          "subtopic": "Using when in event sentences",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to relate future events using when."
+          ],
+          "sources": [
+            {
+              "source": "lchk_0be5a61e38954d309965c6e67641a240",
+              "quote": "when ................. Example He"
+            }
+          ]
+        },
+        {
+          "title": "Speech day conversation",
+          "subtopic": "Speech day conversation",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to read an event conversation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e90703e9cd484f1991cfcb2bfb23b050",
+              "quote": "Speech"
+            }
+          ]
+        },
+        {
+          "title": "Composition: a function attended",
+          "subtopic": "Composition: a function attended",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to write a composition about a function."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e90703e9cd484f1991cfcb2bfb23b050",
+              "quote": "function"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Democracy \u2014 week 8",
+      "theme": "Democracy: games, sports, music, drama and elections",
+      "weekFrom": 8,
+      "weekTo": 8,
+      "competences": "The learner reads, speaks and writes the stated English structures and interprets the supplied texts.",
+      "sources": [
+        {
+          "source": "lchk_db80dff9e9fa46b3ad2a5e6c6ec604cf",
+          "quote": "both) Note \u201cBoth\u201d goes"
+        },
+        {
+          "source": "lchk_ce469431c4f843469ca72f8a578efd2c",
+          "quote": "Compound"
+        },
+        {
+          "source": "lchk_e90703e9cd484f1991cfcb2bfb23b050",
+          "quote": "results"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Either \u2026 or",
+          "subtopic": "Either \u2026 or",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to express alternatives."
+          ],
+          "sources": [
+            {
+              "source": "lchk_db80dff9e9fa46b3ad2a5e6c6ec604cf",
+              "quote": "either"
+            }
+          ]
+        },
+        {
+          "title": "Either and both",
+          "subtopic": "Either and both",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to distinguish either and both."
+          ],
+          "sources": [
+            {
+              "source": "lchk_db80dff9e9fa46b3ad2a5e6c6ec604cf",
+              "quote": "both) Note \u201cBoth\u201d goes"
+            }
+          ]
+        },
+        {
+          "title": "Compound nouns and plurals",
+          "subtopic": "Compound nouns and plurals",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to form plurals of compound nouns."
+          ],
+          "sources": [
+            {
+              "source": "lchk_ce469431c4f843469ca72f8a578efd2c",
+              "quote": "Compound"
+            }
+          ]
+        },
+        {
+          "title": "Election vocabulary",
+          "subtopic": "Election vocabulary",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to use election vocabulary."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e90703e9cd484f1991cfcb2bfb23b050",
+              "quote": "Election"
+            }
+          ]
+        },
+        {
+          "title": "Relative clauses with who",
+          "subtopic": "Relative clauses with who",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to join sentences using who."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e90703e9cd484f1991cfcb2bfb23b050",
+              "quote": "who..........\u201d Examples This is"
+            }
+          ]
+        },
+        {
+          "title": "Reading election results",
+          "subtopic": "Reading election results",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to interpret election results."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e90703e9cd484f1991cfcb2bfb23b050",
+              "quote": "results"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "The two main school schemes provide eight weeks of detailed pacing. Weeks 9\u201310 are left for sourced revision and final assessment.",
+    "The scheme lists We shall miss Mr Guma and My family but supplies no complete texts for those readings in the pack. Weeks 1\u20132 instead use complete source texts Akot\u2019s plan, Namata\u2019s work plan and Mukaga\u2019s daily plan, retaining the future/time reading strand."
+  ]
+}

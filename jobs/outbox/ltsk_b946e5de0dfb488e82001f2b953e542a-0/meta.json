@@ -1,0 +1,8 @@
+{
+  "job": "ltsk_b946e5de0dfb488e82001f2b953e542a-0",
+  "attempt": 1,
+  "agent": "codex-direct-p4",
+  "model": "GPT-6",
+  "gaps": {},
+  "reviewerNotes": "First two weeks requested, following the preceding P6 scope; write_until_week=2. School scheme governs sequence. Unsupported named stories replaced by complete readings from supplied notes. Incorrect if/unless equivalence in one source is omitted. Scheme adds no invented reading text."
+}
