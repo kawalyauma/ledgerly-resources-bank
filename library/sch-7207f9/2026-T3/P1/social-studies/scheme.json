@@ -1,0 +1,430 @@
+{
+  "units": [
+    {
+      "title": "Transport",
+      "theme": "Our Transport",
+      "weekFrom": 1,
+      "weekTo": 3
+    },
+    {
+      "title": "Things we make and communication",
+      "theme": "Things We Make",
+      "weekFrom": 3,
+      "weekTo": 5
+    },
+    {
+      "title": "Our environment",
+      "theme": "Our Environment",
+      "weekFrom": 5,
+      "weekTo": 8
+    },
+    {
+      "title": "Peace and security",
+      "theme": "Peace and Security",
+      "weekFrom": 8,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_75de8bc28f5244eb8f105b51aa0d4562",
+      "seq": 1,
+      "week": 1,
+      "title": "Meaning and types of transport",
+      "subtopic": "Meaning and types of transport",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Transport"
+    },
+    {
+      "id": "lles_a7250666608745beb6b5d793843841f9",
+      "seq": 2,
+      "week": 1,
+      "title": "Water transport and the people who use it",
+      "subtopic": "Water transport and the people who use it",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Transport"
+    },
+    {
+      "id": "lles_dbb7cb4236d94742bb0f74b4c60cec0d",
+      "seq": 3,
+      "week": 1,
+      "title": "Railway transport and railway stations",
+      "subtopic": "Railway transport and railway stations",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Transport"
+    },
+    {
+      "id": "lles_8d1aa0645eb44b1f9b30107a769852a2",
+      "seq": 4,
+      "week": 1,
+      "title": "Week 1 review",
+      "subtopic": "Transport",
+      "kind": "review",
+      "status": "writing",
+      "unit": "Transport"
+    },
+    {
+      "id": "lles_8fad85f2833e4026ba63c6c7aaf67de3",
+      "seq": 5,
+      "week": 2,
+      "title": "Air transport and people who use it",
+      "subtopic": "Air transport and people who use it",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Transport"
+    },
+    {
+      "id": "lles_f36d92cd66704000a69557da919b62af",
+      "seq": 6,
+      "week": 2,
+      "title": "Road transport and road users",
+      "subtopic": "Road transport and road users",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Transport"
+    },
+    {
+      "id": "lles_89b9f669a7b146f1a9c7b1fa45e9fae4",
+      "seq": 7,
+      "week": 2,
+      "title": "Road signs and traffic lights",
+      "subtopic": "Road signs and traffic lights",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Transport"
+    },
+    {
+      "id": "lles_7abde311cde540d882656340099bb8f9",
+      "seq": 8,
+      "week": 2,
+      "title": "Week 2 review",
+      "subtopic": "Transport",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Transport"
+    },
+    {
+      "id": "lles_d85d63c73a104f9095a289887454d2be",
+      "seq": 9,
+      "week": 3,
+      "title": "Safe road use and avoiding accidents",
+      "subtopic": "Safe road use and avoiding accidents",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Transport"
+    },
+    {
+      "id": "lles_43a4526a424a4ce697c58a889c9411ff",
+      "seq": 10,
+      "week": 3,
+      "title": "Importance of transport and transport work",
+      "subtopic": "Importance of transport and transport work",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Transport"
+    },
+    {
+      "id": "lles_93659d4dca37446a8d89e9d3d9579745",
+      "seq": 11,
+      "week": 3,
+      "title": "Things we make at home",
+      "subtopic": "Things we make at home",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Things we make and communication"
+    },
+    {
+      "id": "lles_fef46b43885e4a27b6743ef82f8dda06",
+      "seq": 12,
+      "week": 3,
+      "title": "Week 3 review",
+      "subtopic": "Transport, Things we make and communication",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Things we make and communication"
+    },
+    {
+      "id": "lles_7a37898920694214abe4068f84234444",
+      "seq": 13,
+      "week": 4,
+      "title": "Means and uses of communication",
+      "subtopic": "Means and uses of communication",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Things we make and communication"
+    },
+    {
+      "id": "lles_92eb4daa4e8246899bb6b60f3793143d",
+      "seq": 14,
+      "week": 4,
+      "title": "Furniture and crafts",
+      "subtopic": "Furniture and crafts",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Things we make and communication"
+    },
+    {
+      "id": "lles_352bd46493364c1f8fd1657017372546",
+      "seq": 15,
+      "week": 4,
+      "title": "Clothes and tools we make",
+      "subtopic": "Clothes and tools we make",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Things we make and communication"
+    },
+    {
+      "id": "lles_cedb0de1131b47afbe78df50a9f43572",
+      "seq": 16,
+      "week": 4,
+      "title": "Week 4 review",
+      "subtopic": "Things we make and communication",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Things we make and communication"
+    },
+    {
+      "id": "lles_f791e5542b9d4df7bbafccdd5aafd94f",
+      "seq": 17,
+      "week": 5,
+      "title": "Uses and materials of things we make",
+      "subtopic": "Uses and materials of things we make",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Things we make and communication"
+    },
+    {
+      "id": "lles_340788501f6648df8d3683f3fb7f6087",
+      "seq": 18,
+      "week": 5,
+      "title": "People who make things",
+      "subtopic": "People who make things",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Things we make and communication"
+    },
+    {
+      "id": "lles_e2db7ff3301c4fdaafb0e16510a9f77d",
+      "seq": 19,
+      "week": 5,
+      "title": "Components of our environment",
+      "subtopic": "Components of our environment",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Our environment"
+    },
+    {
+      "id": "lles_becb9c0232394502a9759fc337f08fe6",
+      "seq": 20,
+      "week": 5,
+      "title": "Week 5 review",
+      "subtopic": "Things we make and communication, Our environment",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Our environment"
+    },
+    {
+      "id": "lles_b5685dab017c40e7a3fcf4249ee9599c",
+      "seq": 21,
+      "week": 6,
+      "title": "Living and non-living things",
+      "subtopic": "Living and non-living things",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Our environment"
+    },
+    {
+      "id": "lles_b1d2a6f16fa44e17adf1519c9b5e3c32",
+      "seq": 22,
+      "week": 6,
+      "title": "Domestic and wild animals",
+      "subtopic": "Domestic and wild animals",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Our environment"
+    },
+    {
+      "id": "lles_aab44a3af3584fc2aabaf3b321797e2b",
+      "seq": 23,
+      "week": 6,
+      "title": "Animal homes and young ones",
+      "subtopic": "Animal homes and young ones",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Our environment"
+    },
+    {
+      "id": "lles_1a6342e1da364abb9bdbc73abd6a223f",
+      "seq": 24,
+      "week": 6,
+      "title": "Week 6 review",
+      "subtopic": "Our environment",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Our environment"
+    },
+    {
+      "id": "lles_315f15e09e1a4a92976d7e68a8497ead",
+      "seq": 25,
+      "week": 7,
+      "title": "Food crops, cash crops and fruit trees",
+      "subtopic": "Food crops, cash crops and fruit trees",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Our environment"
+    },
+    {
+      "id": "lles_a712c7de03524322bf81a9f40e49d7c7",
+      "seq": 26,
+      "week": 7,
+      "title": "Physical features around us",
+      "subtopic": "Physical features around us",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Our environment"
+    },
+    {
+      "id": "lles_9c70259f24cc4e40bf6049751652a1e0",
+      "seq": 27,
+      "week": 7,
+      "title": "Useful and harmful insects",
+      "subtopic": "Useful and harmful insects",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Our environment"
+    },
+    {
+      "id": "lles_0dd8abe45b414f28ba1e0ec5eb4e7605",
+      "seq": 28,
+      "week": 7,
+      "title": "Week 7 review",
+      "subtopic": "Our environment",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Our environment"
+    },
+    {
+      "id": "lles_ebb0f5acc2284bf9a226dc8abb3d6902",
+      "seq": 29,
+      "week": 8,
+      "title": "Protecting our environment",
+      "subtopic": "Protecting our environment",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Our environment"
+    },
+    {
+      "id": "lles_810d1b713f014c708795be544315d94c",
+      "seq": 30,
+      "week": 8,
+      "title": "Meaning of peace and security",
+      "subtopic": "Meaning of peace and security",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and security"
+    },
+    {
+      "id": "lles_62589419449745b99477b2b8da2bca81",
+      "seq": 31,
+      "week": 8,
+      "title": "People who keep peace in the community",
+      "subtopic": "People who keep peace in the community",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and security"
+    },
+    {
+      "id": "lles_2d4ae624f64749a3b5d2513ca2b36fd7",
+      "seq": 32,
+      "week": 8,
+      "title": "Week 8 review",
+      "subtopic": "Our environment, Peace and security",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Peace and security"
+    },
+    {
+      "id": "lles_af170c786570440a8195802eb971e1a8",
+      "seq": 33,
+      "week": 9,
+      "title": "Work of people who keep peace and security",
+      "subtopic": "Work of people who keep peace and security",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and security"
+    },
+    {
+      "id": "lles_f4eb8d262877432ba0481966172096fb",
+      "seq": 34,
+      "week": 9,
+      "title": "People who keep peace at school",
+      "subtopic": "People who keep peace at school",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and security"
+    },
+    {
+      "id": "lles_17db83fe5db8459eb99572780f029a59",
+      "seq": 35,
+      "week": 9,
+      "title": "Keeping peace at school",
+      "subtopic": "Keeping peace at school",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and security"
+    },
+    {
+      "id": "lles_20db534b19f54554be147eade944e3f6",
+      "seq": 36,
+      "week": 9,
+      "title": "Week 9 review",
+      "subtopic": "Peace and security",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Peace and security"
+    },
+    {
+      "id": "lles_0128f21037d24364a1c21138afeda40c",
+      "seq": 37,
+      "week": 10,
+      "title": "Peace and security at home",
+      "subtopic": "Peace and security at home",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and security"
+    },
+    {
+      "id": "lles_c0ba1388bc42461ca58619eb66b44d48",
+      "seq": 38,
+      "week": 10,
+      "title": "Causes of insecurity at home and school",
+      "subtopic": "Causes of insecurity at home and school",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and security"
+    },
+    {
+      "id": "lles_d1d62523a12e4cb2981aed9979e381ba",
+      "seq": 39,
+      "week": 10,
+      "title": "Importance of peace and security",
+      "subtopic": "Importance of peace and security",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Peace and security"
+    },
+    {
+      "id": "lles_c2f0285d180b4ac8aaaa06a31ff044ee",
+      "seq": 40,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Transport, Things we make and communication, Our environment, Peace and security",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Peace and security"
+    }
+  ]
+}
