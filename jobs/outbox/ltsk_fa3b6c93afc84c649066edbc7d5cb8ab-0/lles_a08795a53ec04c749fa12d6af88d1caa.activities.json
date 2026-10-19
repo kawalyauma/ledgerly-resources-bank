@@ -1,0 +1,67 @@
+[
+  {
+    "question": "Change 5 dm to centimetres.",
+    "answer": "5 \u00d7 10 = 50 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+      "quote": "Change 5dm to centimeters"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Convert 8.5 m to millimetres.",
+    "answer": "8.5 \u00d7 1000 = 8500 mm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+      "quote": "Convert 8.5m to millimeters"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Convert 50 cm to metres.",
+    "answer": "50 \u00f7 100 = 0.5 m.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a9614f08ac544e419e398c3d3e90c819",
+      "quote": "50cm to m"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Express 86 m as centimetres.",
+    "answer": "86 \u00d7 100 = 8600 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+      "quote": "Express 86m as cm"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Change 530 cm to metres.",
+    "answer": "530 \u00f7 100 = 5.3 m.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+      "quote": "Change 530cm to m"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  }
+]

@@ -1,0 +1,113 @@
+{
+  "competences": [
+    "The learner find missing dimensions using area.",
+    "The learner calculate perimeter from known area and width."
+  ],
+  "languageCompetence": "Reads, pronounces, spells and correctly uses: rectangle, length, width, area, perimeter.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to find missing dimensions using area.",
+    "By the end of the lesson, learners should be able to calculate perimeter from known area and width."
+  ],
+  "priorKnowledge": "Learners know the formulae for rectangle area and perimeter.",
+  "methods": [
+    "Demonstration",
+    "Guided discovery",
+    "Question and answer"
+  ],
+  "materials": [
+    "Rectangle cards labelled with area and one side",
+    "Chart showing area and perimeter formulae"
+  ],
+  "references": [
+    "MATH P.6 TERM III",
+    "P 6 Primary SIX MTC Notes Docx (ecolebooks Com)",
+    "P.6 MATHEMATICS SCHEME TERM 3",
+    "P 6 MTC Notes Final 123kqk"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Learners know the formulae for rectangle area and perimeter. Starter: A rectangle has area 45 square decimetres and width 5 dm. Find its perimeter.",
+      "teacherActivity": "The teacher displays rectangle cards labelled with area and one side, reviews the prior skill, and asks: \"A rectangle has area 45 square decimetres and width 5 dm. Find its perimeter.\" The teacher records learners\u2019 methods and connects them to area and perimeter of a rectangle.",
+      "learnerActivity": "Learners recall the previous skill, read the starter question, and explain which measurements or operations they would use.",
+      "source": {
+        "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+        "quote": "width is 5dm.Find the perimeter"
+      }
+    },
+    {
+      "stage": "Development: Area and perimeter of rectangles",
+      "minutes": 5,
+      "content": "Area and perimeter of rectangles: $\\text{Area}=\\text{length}\\times\\text{width}$. $\\text{Width}=\\text{area}\\div\\text{length}$. $\\text{Length}=\\text{area}\\div\\text{width}$. $\\text{Perimeter}=2(\\text{length}+\\text{width})$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: $\\text{Area}=\\text{length}\\times\\text{width}$. $\\text{Width}=\\text{area}\\div\\text{length}$. $\\text{Length}=\\text{area}\\div\\text{width}$. $\\text{Perimeter}=2(\\text{length}+\\text{width})$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+        "quote": "APPLICATION OF AREA OF RECTANGLES"
+      }
+    },
+    {
+      "stage": "Development: Example: width from area",
+      "minutes": 5,
+      "content": "Example: width from area: The area of a rectangle is $56\\text{ cm}^2$ and its length is $8\\text{ cm}$. Find its width. $\\text{Length}\\times\\text{width}=\\text{area}$. $8w=56$. $w=56\\div8=7\\text{ cm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: The area of a rectangle is $56\\text{ cm}^2$ and its length is $8\\text{ cm}$. Find its width. $\\text{Length}\\times\\text{width}=\\text{area}$. $8w=56$. $w=56\\div8=7\\text{ cm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_86c16de94e8a413d91435f90323b93e8",
+        "quote": "The area of a rectangle is 56cm 2"
+      }
+    },
+    {
+      "stage": "Development: Example: length from area",
+      "minutes": 5,
+      "content": "Example: length from area: A rectangular piece of paper has area $4800\\text{ mm}^2$ and width $60\\text{ mm}$. Find its length. $\\text{Length}\\times\\text{width}=\\text{area}$. $60L=4800$. $L=4800\\div60=80\\text{ mm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: A rectangular piece of paper has area $4800\\text{ mm}^2$ and width $60\\text{ mm}$. Find its length. $\\text{Length}\\times\\text{width}=\\text{area}$. $60L=4800$. $L=4800\\div60=80\\text{ mm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_86c16de94e8a413d91435f90323b93e8",
+        "quote": "A rectangular piece of paper is 4800mm 2"
+      }
+    },
+    {
+      "stage": "Development: Example: perimeter from area",
+      "minutes": 5,
+      "content": "Example: perimeter from area: A rectangle has area $28\\text{ cm}^2$ and width $4\\text{ cm}$. Find its perimeter. $\\text{Length}=28\\div4=7\\text{ cm}$. $P=2(L+W)$. $P=2(7+4)=2\\times11=22\\text{ cm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: A rectangle has area $28\\text{ cm}^2$ and width $4\\text{ cm}$. Find its perimeter. $\\text{Length}=28\\div4=7\\text{ cm}$. $P=2(L+W)$. $P=2(7+4)=2\\times11=22\\text{ cm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+        "quote": "Find the perimeter of the rectangle whose area is 28cm 2"
+      }
+    },
+    {
+      "stage": "Practice and marking",
+      "minutes": 10,
+      "content": "A rectangle has area 45 square decimetres and width 5 dm. Find its perimeter. A rectangle has area 20 square centimetres and length 5 cm. Find its width. The perimeter of a rectangle is 18 cm and its length is 5 cm. Find its width. A rectangle has area 28 square centimetres and width 4 cm. Find its perimeter. Calculate the area of a rectangle whose length is 14 dm and width is 9 dm.",
+      "teacherActivity": "The teacher sets these questions: A rectangle has area 45 square decimetres and width 5 dm. Find its perimeter. A rectangle has area 20 square centimetres and length 5 cm. Find its width. The perimeter of a rectangle is 18 cm and its length is 5 cm. Find its width. A rectangle has area 28 square centimetres and width 4 cm. Find its perimeter. Calculate the area of a rectangle whose length is 14 dm and width is 9 dm. The teacher checks each learner\u2019s working, marks against these computed answers: Length = 45 \u00f7 5 = 9 dm; P = 2(9 + 5) = 28 dm. 20 \u00f7 5 = 4 cm. 18 \u00f7 2 \u2212 5 = 4 cm. Length = 28 \u00f7 4 = 7 cm; perimeter = 2(7 + 4) = 22 cm. 14 \u00d7 9 = 126 dm\u00b2. and supports learners who confuse lengths, areas or units.",
+      "learnerActivity": "Learners solve the questions individually, show each calculation, compare marked answers, and correct any errors in substitution or units.",
+      "source": {
+        "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+        "quote": "width is 5dm.Find the perimeter"
+      }
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 5,
+      "content": "Length = 45 \u00f7 5 = 9 dm; P = 2(9 + 5) = 28 dm. 20 \u00f7 5 = 4 cm. 18 \u00f7 2 \u2212 5 = 4 cm. Length = 28 \u00f7 4 = 7 cm; perimeter = 2(7 + 4) = 22 cm. 14 \u00d7 9 = 126 dm\u00b2.",
+      "teacherActivity": "The teacher asks learners to explain their solutions to these questions: A rectangle has area 45 square decimetres and width 5 dm. Find its perimeter. A rectangle has area 20 square centimetres and length 5 cm. Find its width. The perimeter of a rectangle is 18 cm and its length is 5 cm. Find its width. A rectangle has area 28 square centimetres and width 4 cm. Find its perimeter. Calculate the area of a rectangle whose length is 14 dm and width is 9 dm. The teacher checks the lesson objectives against the written work and assigns correction of the final exercise item.",
+      "learnerActivity": "Learners explain their calculation methods, state the correct units, and correct the final exercise item after receiving feedback.",
+      "source": {
+        "source": "lchk_a9614f08ac544e419e398c3d3e90c819",
+        "quote": "Calculate the area of a rectangle whose length is 14dm and width is 9dm"
+      }
+    }
+  ],
+  "assessment": "Mark the written working for these questions: A rectangle has area 45 square decimetres and width 5 dm. Find its perimeter. A rectangle has area 20 square centimetres and length 5 cm. Find its width. The perimeter of a rectangle is 18 cm and its length is 5 cm. Find its width. A rectangle has area 28 square centimetres and width 4 cm. Find its perimeter. Calculate the area of a rectangle whose length is 14 dm and width is 9 dm. Check the stated measurements, operations, final answers and units against the answer key.",
+  "homework": "Correct and fully work this exercise item: Calculate the area of a rectangle whose length is 14 dm and width is 9 dm.",
+  "lifeSkills": [
+    "Problem solving",
+    "Critical thinking",
+    "Effective communication"
+  ]
+}

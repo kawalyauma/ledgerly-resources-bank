@@ -1,0 +1,111 @@
+{
+  "competences": [
+    "The learner form an equation from equal opposite sides.",
+    "The learner substitute the unknown to calculate dimensions, area and perimeter."
+  ],
+  "languageCompetence": "Reads, pronounces, spells and correctly uses: opposite sides, unknown, equation, substitution.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to form an equation from equal opposite sides.",
+    "By the end of the lesson, learners should be able to substitute the unknown to calculate dimensions, area and perimeter."
+  ],
+  "priorKnowledge": "Learners solve simple equations and calculate rectangle area and perimeter.",
+  "methods": [
+    "Demonstration",
+    "Guided discovery",
+    "Question and answer"
+  ],
+  "materials": [
+    "Rectangle ABCD diagram with the three algebraic side labels",
+    "Worked equation and substitution chart"
+  ],
+  "references": [
+    "P.6 MTC term 3",
+    "MATH P.6 TERM III"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Learners solve simple equations and calculate rectangle area and perimeter. Starter: In rectangle ABCD, AB = (2x \u2212 5) cm, DC = (x + 3) cm and AD = (x \u2212 1) cm. Find x.",
+      "teacherActivity": "The teacher displays rectangle abcd diagram with the three algebraic side labels, reviews the prior skill, and asks: \"In rectangle ABCD, AB = (2x \u2212 5) cm, DC = (x + 3) cm and AD = (x \u2212 1) cm. Find x.\" The teacher records learners\u2019 methods and connects them to unknown sides, area and perimeter.",
+      "learnerActivity": "Learners recall the previous skill, read the starter question, and explain which measurements or operations they would use.",
+      "source": {
+        "source": "lchk_c4287e2236664f34876c77b8819206e1",
+        "quote": "Find the value of x"
+      }
+    },
+    {
+      "stage": "Development: Comparing opposite sides",
+      "minutes": 5,
+      "content": "Comparing opposite sides: The opposite sides of a rectangle are equal. $\\text{Area}=\\text{length}\\times\\text{width}$. $\\text{Perimeter}=2(\\text{length}+\\text{width})$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: The opposite sides of a rectangle are equal. $\\text{Area}=\\text{length}\\times\\text{width}$. $\\text{Perimeter}=2(\\text{length}+\\text{width})$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_2141da57e5bd4c278b8a405ae7cf3c0f",
+        "quote": "Rectangle : is a quadrilateral with two opposite sides equal"
+      }
+    },
+    {
+      "stage": "Development: Example: finding the unknown",
+      "minutes": 5,
+      "content": "Example: finding the unknown: ABCD is a rectangle: $AB=(2x-5)\\text{ cm}$, $DC=(x+3)\\text{ cm}$, $AD=(x-1)\\text{ cm}$. $2x-5=x+3$. $2x-5+5=x+3+5$. $2x=x+8$. $2x-x=x-x+8$. $x=8$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: ABCD is a rectangle: $AB=(2x-5)\\text{ cm}$, $DC=(x+3)\\text{ cm}$, $AD=(x-1)\\text{ cm}$. $2x-5=x+3$. $2x-5+5=x+3+5$. $2x=x+8$. $2x-x=x-x+8$. $x=8$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_c4287e2236664f34876c77b8819206e1",
+        "quote": "ABCD is a rectangle"
+      }
+    },
+    {
+      "stage": "Development: Example: actual length and width",
+      "minutes": 5,
+      "content": "Example: actual length and width: Length is $(x+3)\\text{ cm}$. $L=8+3=11\\text{ cm}$. Width is $(x-1)\\text{ cm}$. $W=8-1=7\\text{ cm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Length is $(x+3)\\text{ cm}$. $L=8+3=11\\text{ cm}$. Width is $(x-1)\\text{ cm}$. $W=8-1=7\\text{ cm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+        "quote": "What is the length and width of the figure"
+      }
+    },
+    {
+      "stage": "Development: Example: area and perimeter",
+      "minutes": 5,
+      "content": "Example: area and perimeter: $A=L\\times W$. $A=11\\text{ cm}\\times7\\text{ cm}=77\\text{ cm}^2$. $P=2(L+W)$. $P=2(11\\text{ cm}+7\\text{ cm})$. $P=2\\times18\\text{ cm}=36\\text{ cm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: $A=L\\times W$. $A=11\\text{ cm}\\times7\\text{ cm}=77\\text{ cm}^2$. $P=2(L+W)$. $P=2(11\\text{ cm}+7\\text{ cm})$. $P=2\\times18\\text{ cm}=36\\text{ cm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+        "quote": "Determine the perimeter of the shape"
+      }
+    },
+    {
+      "stage": "Practice and marking",
+      "minutes": 10,
+      "content": "In rectangle ABCD, AB = (2x \u2212 5) cm, DC = (x + 3) cm and AD = (x \u2212 1) cm. Find x. For rectangle ABCD above, find its actual length. For rectangle ABCD above, find its actual width. Calculate the area of rectangle ABCD above. Determine the perimeter of rectangle ABCD above.",
+      "teacherActivity": "The teacher sets these questions: In rectangle ABCD, AB = (2x \u2212 5) cm, DC = (x + 3) cm and AD = (x \u2212 1) cm. Find x. For rectangle ABCD above, find its actual length. For rectangle ABCD above, find its actual width. Calculate the area of rectangle ABCD above. Determine the perimeter of rectangle ABCD above. The teacher checks each learner\u2019s working, marks against these computed answers: 2x \u2212 5 = x + 3; x = 8. Length = x + 3 = 8 + 3 = 11 cm. Width = x \u2212 1 = 8 \u2212 1 = 7 cm. 11 \u00d7 7 = 77 cm\u00b2. 2(11 + 7) = 36 cm. and supports learners who confuse lengths, areas or units.",
+      "learnerActivity": "Learners solve the questions individually, show each calculation, compare marked answers, and correct any errors in substitution or units.",
+      "source": {
+        "source": "lchk_c4287e2236664f34876c77b8819206e1",
+        "quote": "Find the value of x"
+      }
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 5,
+      "content": "2x \u2212 5 = x + 3; x = 8. Length = x + 3 = 8 + 3 = 11 cm. Width = x \u2212 1 = 8 \u2212 1 = 7 cm. 11 \u00d7 7 = 77 cm\u00b2. 2(11 + 7) = 36 cm.",
+      "teacherActivity": "The teacher asks learners to explain their solutions to these questions: In rectangle ABCD, AB = (2x \u2212 5) cm, DC = (x + 3) cm and AD = (x \u2212 1) cm. Find x. For rectangle ABCD above, find its actual length. For rectangle ABCD above, find its actual width. Calculate the area of rectangle ABCD above. Determine the perimeter of rectangle ABCD above. The teacher checks the lesson objectives against the written work and assigns correction of the final exercise item.",
+      "learnerActivity": "Learners explain their calculation methods, state the correct units, and correct the final exercise item after receiving feedback.",
+      "source": {
+        "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+        "quote": "Determine the perimeter of the shape"
+      }
+    }
+  ],
+  "assessment": "Mark the written working for these questions: In rectangle ABCD, AB = (2x \u2212 5) cm, DC = (x + 3) cm and AD = (x \u2212 1) cm. Find x. For rectangle ABCD above, find its actual length. For rectangle ABCD above, find its actual width. Calculate the area of rectangle ABCD above. Determine the perimeter of rectangle ABCD above. Check the stated measurements, operations, final answers and units against the answer key.",
+  "homework": "Correct and fully work this exercise item: Determine the perimeter of rectangle ABCD above.",
+  "lifeSkills": [
+    "Problem solving",
+    "Critical thinking",
+    "Effective communication"
+  ]
+}

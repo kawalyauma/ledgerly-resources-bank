@@ -1,0 +1,112 @@
+{
+  "competences": [
+    "The learner convert metres to centimetres and millimetres.",
+    "The learner convert centimetres to metres."
+  ],
+  "languageCompetence": "Reads, pronounces, spells and correctly uses: metre, decimetre, centimetre, millimetre.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to convert metres to centimetres and millimetres.",
+    "By the end of the lesson, learners should be able to convert centimetres to metres."
+  ],
+  "priorKnowledge": "Learners can multiply and divide by 100 and 1000.",
+  "methods": [
+    "Demonstration",
+    "Guided discovery",
+    "Question and answer"
+  ],
+  "materials": [
+    "Metric length chart including dm, cm and mm",
+    "Ruler marked in centimetres and millimetres"
+  ],
+  "references": [
+    "MATH P.6 TERM III",
+    "P 6 MTC Notes Final 123kqk",
+    "P.6 MATHEMATICS SCHEME TERM 3"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Learners can multiply and divide by 100 and 1000. Starter: Change 5 dm to centimetres.",
+      "teacherActivity": "The teacher displays metric length chart including dm, cm and mm, reviews the prior skill, and asks: \"Change 5 dm to centimetres.\" The teacher records learners\u2019 methods and connects them to converting metric length units.",
+      "learnerActivity": "Learners recall the previous skill, read the starter question, and explain which measurements or operations they would use.",
+      "source": {
+        "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+        "quote": "Change 5dm to centimeters"
+      }
+    },
+    {
+      "stage": "Development: Metres and centimetres",
+      "minutes": 5,
+      "content": "Metres and centimetres: $1\\text{ m}=100\\text{ cm}$. $1\\text{ m}=1000\\text{ mm}$. $100\\text{ cm}=1\\text{ m}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: $1\\text{ m}=100\\text{ cm}$. $1\\text{ m}=1000\\text{ mm}$. $100\\text{ cm}=1\\text{ m}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+        "quote": "Metres to centimeters"
+      }
+    },
+    {
+      "stage": "Development: Example: metres to centimetres",
+      "minutes": 5,
+      "content": "Example: metres to centimetres: Convert $4\\text{ m}$ to centimetres. $1\\text{ m}=100\\text{ cm}$. $4\\text{ m}=4\\times100\\text{ cm}=400\\text{ cm}$. Express $86\\text{ m}$ as centimetres. $86\\text{ m}=86\\times100\\text{ cm}$. $86\\text{ m}=8600\\text{ cm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Convert $4\\text{ m}$ to centimetres. $1\\text{ m}=100\\text{ cm}$. $4\\text{ m}=4\\times100\\text{ cm}=400\\text{ cm}$. Express $86\\text{ m}$ as centimetres. $86\\text{ m}=86\\times100\\text{ cm}$. $86\\text{ m}=8600\\text{ cm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+        "quote": "Express 86m as cm"
+      }
+    },
+    {
+      "stage": "Development: Example: centimetres to metres",
+      "minutes": 5,
+      "content": "Example: centimetres to metres: Write $6200\\text{ cm}$ as metres. $100\\text{ cm}=1\\text{ m}$. $6200\\text{ cm}=6200\\div100\\text{ m}=62\\text{ m}$. Change $530\\text{ cm}$ to metres. $530\\text{ cm}=530\\div100\\text{ m}$. $530\\text{ cm}=5.3\\text{ m}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Write $6200\\text{ cm}$ as metres. $100\\text{ cm}=1\\text{ m}$. $6200\\text{ cm}=6200\\div100\\text{ m}=62\\text{ m}$. Change $530\\text{ cm}$ to metres. $530\\text{ cm}=530\\div100\\text{ m}$. $530\\text{ cm}=5.3\\text{ m}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+        "quote": "Change 530cm to m"
+      }
+    },
+    {
+      "stage": "Development: Example: metres to millimetres",
+      "minutes": 5,
+      "content": "Example: metres to millimetres: Change $7\\text{ m}$ to millimetres. $1\\text{ m}=1000\\text{ mm}$. $7\\text{ m}=7\\times1000\\text{ mm}$. $7\\text{ m}=7000\\text{ mm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Change $7\\text{ m}$ to millimetres. $1\\text{ m}=1000\\text{ mm}$. $7\\text{ m}=7\\times1000\\text{ mm}$. $7\\text{ m}=7000\\text{ mm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_a9614f08ac544e419e398c3d3e90c819",
+        "quote": "Change 7m to millimetres"
+      }
+    },
+    {
+      "stage": "Practice and marking",
+      "minutes": 10,
+      "content": "Change 5 dm to centimetres. Convert 8.5 m to millimetres. Convert 50 cm to metres. Express 86 m as centimetres. Change 530 cm to metres.",
+      "teacherActivity": "The teacher sets these questions: Change 5 dm to centimetres. Convert 8.5 m to millimetres. Convert 50 cm to metres. Express 86 m as centimetres. Change 530 cm to metres. The teacher checks each learner\u2019s working, marks against these computed answers: 5 \u00d7 10 = 50 cm. 8.5 \u00d7 1000 = 8500 mm. 50 \u00f7 100 = 0.5 m. 86 \u00d7 100 = 8600 cm. 530 \u00f7 100 = 5.3 m. and supports learners who confuse lengths, areas or units.",
+      "learnerActivity": "Learners solve the questions individually, show each calculation, compare marked answers, and correct any errors in substitution or units.",
+      "source": {
+        "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+        "quote": "Change 5dm to centimeters"
+      }
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 5,
+      "content": "5 \u00d7 10 = 50 cm. 8.5 \u00d7 1000 = 8500 mm. 50 \u00f7 100 = 0.5 m. 86 \u00d7 100 = 8600 cm. 530 \u00f7 100 = 5.3 m.",
+      "teacherActivity": "The teacher asks learners to explain their solutions to these questions: Change 5 dm to centimetres. Convert 8.5 m to millimetres. Convert 50 cm to metres. Express 86 m as centimetres. Change 530 cm to metres. The teacher checks the lesson objectives against the written work and assigns correction of the final exercise item.",
+      "learnerActivity": "Learners explain their calculation methods, state the correct units, and correct the final exercise item after receiving feedback.",
+      "source": {
+        "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+        "quote": "Change 530cm to m"
+      }
+    }
+  ],
+  "assessment": "Mark the written working for these questions: Change 5 dm to centimetres. Convert 8.5 m to millimetres. Convert 50 cm to metres. Express 86 m as centimetres. Change 530 cm to metres. Check the stated measurements, operations, final answers and units against the answer key.",
+  "homework": "Correct and fully work this exercise item: Change 530 cm to metres.",
+  "lifeSkills": [
+    "Problem solving",
+    "Critical thinking",
+    "Effective communication"
+  ]
+}

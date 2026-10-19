@@ -1,0 +1,67 @@
+[
+  {
+    "question": "A square has an area of 81 square centimetres. Calculate its perimeter.",
+    "answer": "Side = \u221a81 = 9 cm; perimeter = 4 \u00d7 9 = 36 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+      "quote": "The area of a square is 81cm"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Find the length of a square whose perimeter is 20 dm.",
+    "answer": "20 \u00f7 4 = 5 dm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+      "quote": "Find the length of a square whose perimeter is 20 dm"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Find the area of a square whose side is 13 m.",
+    "answer": "13 \u00d7 13 = 169 m\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a9614f08ac544e419e398c3d3e90c819",
+      "quote": "Find the area of a square whose side is 13m"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "The area of a square is 36 square centimetres. Find its side.",
+    "answer": "\u221a36 = 6 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+      "quote": "The area of a square is 36cm 2"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "The perimeter of a square is 24 cm. What is its area?",
+    "answer": "Side = 24 \u00f7 4 = 6 cm; area = 6 \u00d7 6 = 36 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+      "quote": "The perimeter of a square is 24cm"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  }
+]

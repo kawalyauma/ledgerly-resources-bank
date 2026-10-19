@@ -1,0 +1,111 @@
+{
+  "competences": [
+    "The learner convert square metres to square centimetres.",
+    "The learner convert between square kilometres and square metres."
+  ],
+  "languageCompetence": "Reads, pronounces, spells and correctly uses: square metre, square centimetre, square kilometre, area.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to convert square metres to square centimetres.",
+    "By the end of the lesson, learners should be able to convert between square kilometres and square metres."
+  ],
+  "priorKnowledge": "Learners know length conversion and calculate the area of a square.",
+  "methods": [
+    "Demonstration",
+    "Guided discovery",
+    "Question and answer"
+  ],
+  "materials": [
+    "Square metre and square centimetre area chart",
+    "Ruler and squared paper"
+  ],
+  "references": [
+    "MATH P.6 TERM III",
+    "P.6 MATHEMATICS SCHEME TERM 3"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Learners know length conversion and calculate the area of a square. Starter: Convert 4 square metres to square centimetres.",
+      "teacherActivity": "The teacher displays square metre and square centimetre area chart, reviews the prior skill, and asks: \"Convert 4 square metres to square centimetres.\" The teacher records learners\u2019 methods and connects them to converting square units.",
+      "learnerActivity": "Learners recall the previous skill, read the starter question, and explain which measurements or operations they would use.",
+      "source": {
+        "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+        "quote": "Convert 4m\u00b2 to cm\u00b2"
+      }
+    },
+    {
+      "stage": "Development: Square units",
+      "minutes": 5,
+      "content": "Square units: Area is measured in square units. $1\\text{ m}=100\\text{ cm}$. $1\\text{ m}^2=100\\text{ cm}\\times100\\text{ cm}$. $1\\text{ m}^2=10000\\text{ cm}^2$. $1\\text{ km}^2=1000\\text{ m}\\times1000\\text{ m}=1000000\\text{ m}^2$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Area is measured in square units. $1\\text{ m}=100\\text{ cm}$. $1\\text{ m}^2=100\\text{ cm}\\times100\\text{ cm}$. $1\\text{ m}^2=10000\\text{ cm}^2$. $1\\text{ km}^2=1000\\text{ m}\\times1000\\text{ m}=1000000\\text{ m}^2$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+        "quote": "NOTE: area is measured in square units"
+      }
+    },
+    {
+      "stage": "Development: Example: square metres to square centimetres",
+      "minutes": 5,
+      "content": "Example: square metres to square centimetres: Write $4\\text{ m}^2$ as square centimetres. $1\\text{ m}^2=10000\\text{ cm}^2$. $4\\text{ m}^2=4\\times10000\\text{ cm}^2$. $4\\text{ m}^2=40000\\text{ cm}^2$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Write $4\\text{ m}^2$ as square centimetres. $1\\text{ m}^2=10000\\text{ cm}^2$. $4\\text{ m}^2=4\\times10000\\text{ cm}^2$. $4\\text{ m}^2=40000\\text{ cm}^2$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+        "quote": "Write 4m 2 as cm 2"
+      }
+    },
+    {
+      "stage": "Development: Example: square kilometres to square metres",
+      "minutes": 5,
+      "content": "Example: square kilometres to square metres: Express $5\\text{ km}^2$ as square metres. $1\\text{ km}^2=1000000\\text{ m}^2$. $5\\text{ km}^2=5\\times1000000\\text{ m}^2$. $5\\text{ km}^2=5000000\\text{ m}^2$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Express $5\\text{ km}^2$ as square metres. $1\\text{ km}^2=1000000\\text{ m}^2$. $5\\text{ km}^2=5\\times1000000\\text{ m}^2$. $5\\text{ km}^2=5000000\\text{ m}^2$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+        "quote": "Express 5km 2 as m 2"
+      }
+    },
+    {
+      "stage": "Development: Example: square centimetres to square metres",
+      "minutes": 5,
+      "content": "Example: square centimetres to square metres: Change $190000\\text{ cm}^2$ to square metres. $10000\\text{ cm}^2=1\\text{ m}^2$. $190000\\text{ cm}^2=190000\\div10000\\text{ m}^2$. $190000\\text{ cm}^2=19\\text{ m}^2$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Change $190000\\text{ cm}^2$ to square metres. $10000\\text{ cm}^2=1\\text{ m}^2$. $190000\\text{ cm}^2=190000\\div10000\\text{ m}^2$. $190000\\text{ cm}^2=19\\text{ m}^2$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+        "quote": "Change 190000cm 2 to m 2"
+      }
+    },
+    {
+      "stage": "Practice and marking",
+      "minutes": 10,
+      "content": "Convert 4 square metres to square centimetres. Express 5 square kilometres as square metres. Change 7,200,000 square metres to square kilometres. Change 190,000 square centimetres to square metres. Convert 20 square metres to square centimetres.",
+      "teacherActivity": "The teacher sets these questions: Convert 4 square metres to square centimetres. Express 5 square kilometres as square metres. Change 7,200,000 square metres to square kilometres. Change 190,000 square centimetres to square metres. Convert 20 square metres to square centimetres. The teacher checks each learner\u2019s working, marks against these computed answers: 4 \u00d7 10,000 = 40,000 cm\u00b2. 5 \u00d7 1,000,000 = 5,000,000 m\u00b2. 7,200,000 \u00f7 1,000,000 = 7.2 km\u00b2. 190,000 \u00f7 10,000 = 19 m\u00b2. 20 \u00d7 10,000 = 200,000 cm\u00b2. and supports learners who confuse lengths, areas or units.",
+      "learnerActivity": "Learners solve the questions individually, show each calculation, compare marked answers, and correct any errors in substitution or units.",
+      "source": {
+        "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+        "quote": "Convert 4m\u00b2 to cm\u00b2"
+      }
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 5,
+      "content": "4 \u00d7 10,000 = 40,000 cm\u00b2. 5 \u00d7 1,000,000 = 5,000,000 m\u00b2. 7,200,000 \u00f7 1,000,000 = 7.2 km\u00b2. 190,000 \u00f7 10,000 = 19 m\u00b2. 20 \u00d7 10,000 = 200,000 cm\u00b2.",
+      "teacherActivity": "The teacher asks learners to explain their solutions to these questions: Convert 4 square metres to square centimetres. Express 5 square kilometres as square metres. Change 7,200,000 square metres to square kilometres. Change 190,000 square centimetres to square metres. Convert 20 square metres to square centimetres. The teacher checks the lesson objectives against the written work and assigns correction of the final exercise item.",
+      "learnerActivity": "Learners explain their calculation methods, state the correct units, and correct the final exercise item after receiving feedback.",
+      "source": {
+        "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+        "quote": "20m 2 = 20 x 10000cm 2"
+      }
+    }
+  ],
+  "assessment": "Mark the written working for these questions: Convert 4 square metres to square centimetres. Express 5 square kilometres as square metres. Change 7,200,000 square metres to square kilometres. Change 190,000 square centimetres to square metres. Convert 20 square metres to square centimetres. Check the stated measurements, operations, final answers and units against the answer key.",
+  "homework": "Correct and fully work this exercise item: Convert 20 square metres to square centimetres.",
+  "lifeSkills": [
+    "Problem solving",
+    "Critical thinking",
+    "Effective communication"
+  ]
+}

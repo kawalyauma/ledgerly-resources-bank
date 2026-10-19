@@ -1,0 +1,67 @@
+[
+  {
+    "question": "In rectangle ABCD, AB = (2x \u2212 5) cm, DC = (x + 3) cm and AD = (x \u2212 1) cm. Find x.",
+    "answer": "2x \u2212 5 = x + 3; x = 8.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c4287e2236664f34876c77b8819206e1",
+      "quote": "Find the value of x"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "For rectangle ABCD above, find its actual length.",
+    "answer": "Length = x + 3 = 8 + 3 = 11 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c4287e2236664f34876c77b8819206e1",
+      "quote": "Find the"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "For rectangle ABCD above, find its actual width.",
+    "answer": "Width = x \u2212 1 = 8 \u2212 1 = 7 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c4287e2236664f34876c77b8819206e1",
+      "quote": "Find the"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Calculate the area of rectangle ABCD above.",
+    "answer": "11 \u00d7 7 = 77 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+      "quote": "Calculate the area of the shape"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Determine the perimeter of rectangle ABCD above.",
+    "answer": "2(11 + 7) = 36 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+      "quote": "Determine the perimeter of the shape"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  }
+]

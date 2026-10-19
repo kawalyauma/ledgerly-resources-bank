@@ -1,0 +1,114 @@
+{
+  "competences": [
+    "The learner calculate a square\u2019s side from its area.",
+    "The learner calculate area and perimeter of squares."
+  ],
+  "languageCompetence": "Reads, pronounces, spells and correctly uses: square, side, area, perimeter.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to calculate a square\u2019s side from its area.",
+    "By the end of the lesson, learners should be able to calculate area and perimeter of squares."
+  ],
+  "priorKnowledge": "Learners can multiply whole numbers and recognise squares with four equal sides.",
+  "methods": [
+    "Demonstration",
+    "Guided discovery",
+    "Question and answer"
+  ],
+  "materials": [
+    "Square cut-outs labelled with equal sides",
+    "Chart of square area and perimeter formulae"
+  ],
+  "references": [
+    "P.6 MTC term 3",
+    "P 6 Primary SIX MTC Notes Docx (ecolebooks Com)",
+    "MATH P.6 TERM III",
+    "P.6 MATHEMATICS SCHEME TERM 3",
+    "P 6 MTC Notes Final 123kqk"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Learners can multiply whole numbers and recognise squares with four equal sides. Starter: A square has an area of 81 square centimetres. Calculate its perimeter.",
+      "teacherActivity": "The teacher displays square cut-outs labelled with equal sides, reviews the prior skill, and asks: \"A square has an area of 81 square centimetres. Calculate its perimeter.\" The teacher records learners\u2019 methods and connects them to area and perimeter of a square.",
+      "learnerActivity": "Learners recall the previous skill, read the starter question, and explain which measurements or operations they would use.",
+      "source": {
+        "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+        "quote": "The area of a square is 81cm"
+      }
+    },
+    {
+      "stage": "Development: Area and perimeter of squares",
+      "minutes": 5,
+      "content": "Area and perimeter of squares: A square has all its sides and angles equal. Perimeter is the total distance around a figure. $\\text{Area}=\\text{side}\\times\\text{side}$. $\\text{Perimeter}=\\text{side}+\\text{side}+\\text{side}+\\text{side}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: A square has all its sides and angles equal. Perimeter is the total distance around a figure. $\\text{Area}=\\text{side}\\times\\text{side}$. $\\text{Perimeter}=\\text{side}+\\text{side}+\\text{side}+\\text{side}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_60186bc8e4de4ba7ae2d61d47ca83692",
+        "quote": "A square is a quadrilateral with all its sides and angles equal"
+      }
+    },
+    {
+      "stage": "Development: Example: area from a side",
+      "minutes": 5,
+      "content": "Example: area from a side: Find the area of a square whose side is $6\\text{ cm}$. $\\text{Area}=\\text{side}\\times\\text{side}$. $\\text{Area}=6\\text{ cm}\\times6\\text{ cm}$. $\\text{Area}=36\\text{ cm}^2$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Find the area of a square whose side is $6\\text{ cm}$. $\\text{Area}=\\text{side}\\times\\text{side}$. $\\text{Area}=6\\text{ cm}\\times6\\text{ cm}$. $\\text{Area}=36\\text{ cm}^2$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_86c16de94e8a413d91435f90323b93e8",
+        "quote": "Find the area of a square whose side is 6cm"
+      }
+    },
+    {
+      "stage": "Development: Example: side from area",
+      "minutes": 5,
+      "content": "Example: side from area: The area of a square is $64\\text{ cm}^2$. Find each side. $p\\times p=64$. $p^2=64$. $p=2\\times2\\times2$. Each side is $8\\text{ cm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: The area of a square is $64\\text{ cm}^2$. Find each side. $p\\times p=64$. $p^2=64$. $p=2\\times2\\times2$. Each side is $8\\text{ cm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_86c16de94e8a413d91435f90323b93e8",
+        "quote": "The area of a square is 64cm 2"
+      }
+    },
+    {
+      "stage": "Development: Example: area from perimeter",
+      "minutes": 5,
+      "content": "Example: area from perimeter: The perimeter of a square is $24\\text{ cm}$. What is its area? $\\text{Side}=\\text{perimeter}\\div4$. $\\text{Side}=24\\div4=6\\text{ cm}$. $\\text{Area}=6\\text{ cm}\\times6\\text{ cm}=36\\text{ cm}^2$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: The perimeter of a square is $24\\text{ cm}$. What is its area? $\\text{Side}=\\text{perimeter}\\div4$. $\\text{Side}=24\\div4=6\\text{ cm}$. $\\text{Area}=6\\text{ cm}\\times6\\text{ cm}=36\\text{ cm}^2$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+        "quote": "The perimeter of a square is 24cm"
+      }
+    },
+    {
+      "stage": "Practice and marking",
+      "minutes": 10,
+      "content": "A square has an area of 81 square centimetres. Calculate its perimeter. Find the length of a square whose perimeter is 20 dm. Find the area of a square whose side is 13 m. The area of a square is 36 square centimetres. Find its side. The perimeter of a square is 24 cm. What is its area?",
+      "teacherActivity": "The teacher sets these questions: A square has an area of 81 square centimetres. Calculate its perimeter. Find the length of a square whose perimeter is 20 dm. Find the area of a square whose side is 13 m. The area of a square is 36 square centimetres. Find its side. The perimeter of a square is 24 cm. What is its area? The teacher checks each learner\u2019s working, marks against these computed answers: Side = \u221a81 = 9 cm; perimeter = 4 \u00d7 9 = 36 cm. 20 \u00f7 4 = 5 dm. 13 \u00d7 13 = 169 m\u00b2. \u221a36 = 6 cm. Side = 24 \u00f7 4 = 6 cm; area = 6 \u00d7 6 = 36 cm\u00b2. and supports learners who confuse lengths, areas or units.",
+      "learnerActivity": "Learners solve the questions individually, show each calculation, compare marked answers, and correct any errors in substitution or units.",
+      "source": {
+        "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+        "quote": "The area of a square is 81cm"
+      }
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 5,
+      "content": "Side = \u221a81 = 9 cm; perimeter = 4 \u00d7 9 = 36 cm. 20 \u00f7 4 = 5 dm. 13 \u00d7 13 = 169 m\u00b2. \u221a36 = 6 cm. Side = 24 \u00f7 4 = 6 cm; area = 6 \u00d7 6 = 36 cm\u00b2.",
+      "teacherActivity": "The teacher asks learners to explain their solutions to these questions: A square has an area of 81 square centimetres. Calculate its perimeter. Find the length of a square whose perimeter is 20 dm. Find the area of a square whose side is 13 m. The area of a square is 36 square centimetres. Find its side. The perimeter of a square is 24 cm. What is its area? The teacher checks the lesson objectives against the written work and assigns correction of the final exercise item.",
+      "learnerActivity": "Learners explain their calculation methods, state the correct units, and correct the final exercise item after receiving feedback.",
+      "source": {
+        "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+        "quote": "The perimeter of a square is 24cm"
+      }
+    }
+  ],
+  "assessment": "Mark the written working for these questions: A square has an area of 81 square centimetres. Calculate its perimeter. Find the length of a square whose perimeter is 20 dm. Find the area of a square whose side is 13 m. The area of a square is 36 square centimetres. Find its side. The perimeter of a square is 24 cm. What is its area? Check the stated measurements, operations, final answers and units against the answer key.",
+  "homework": "Correct and fully work this exercise item: The perimeter of a square is 24 cm. What is its area?",
+  "lifeSkills": [
+    "Problem solving",
+    "Critical thinking",
+    "Effective communication"
+  ]
+}

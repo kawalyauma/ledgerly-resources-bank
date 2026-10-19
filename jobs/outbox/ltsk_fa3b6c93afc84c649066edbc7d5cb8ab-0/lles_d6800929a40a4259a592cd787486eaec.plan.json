@@ -1,0 +1,102 @@
+{
+  "competences": [
+    "The learner convert kilometres to metres.",
+    "The learner convert metres to kilometres and state the units."
+  ],
+  "languageCompetence": "Reads, pronounces, spells and correctly uses: length, kilometre, metre, conversion.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to convert kilometres to metres.",
+    "By the end of the lesson, learners should be able to convert metres to kilometres and state the units."
+  ],
+  "priorKnowledge": "Learners have measured lengths using a ruler and know metres and centimetres.",
+  "methods": [
+    "Demonstration",
+    "Guided discovery",
+    "Question and answer"
+  ],
+  "materials": [
+    "Metric length conversion chart",
+    "Metre ruler and measuring tape"
+  ],
+  "references": [
+    "P.6 MTC term 3",
+    "MATH P.6 TERM III",
+    "P.6 MATHEMATICS SCHEME TERM 3",
+    "P 6 MTC Notes Final 123kqk"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Learners have measured lengths using a ruler and know metres and centimetres. Starter: Express 25 km in metres.",
+      "teacherActivity": "The teacher displays metric length conversion chart, reviews the prior skill, and asks: \"Express 25 km in metres.\" The teacher records learners\u2019 methods and connects them to metric units of length.",
+      "learnerActivity": "Learners recall the previous skill, read the starter question, and explain which measurements or operations they would use.",
+      "source": {
+        "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+        "quote": "Express 25Km to metres"
+      }
+    },
+    {
+      "stage": "Development: Metric length units",
+      "minutes": 7,
+      "content": "Metric length units: Length may be recorded in centimetres and millimetres. $1\\text{ km}=1000\\text{ m}$. $1\\text{ m}=100\\text{ cm}$. $1\\text{ m}=1000\\text{ mm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Length may be recorded in centimetres and millimetres. $1\\text{ km}=1000\\text{ m}$. $1\\text{ m}=100\\text{ cm}$. $1\\text{ m}=1000\\text{ mm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_60186bc8e4de4ba7ae2d61d47ca83692",
+        "quote": "Estimating, measuring and recording length in centimeters and millimeters"
+      }
+    },
+    {
+      "stage": "Development: Example: kilometres to metres",
+      "minutes": 7,
+      "content": "Example: kilometres to metres: Change $7\\text{ km}$ to metres. $1\\text{ km}=1000\\text{ m}$. $7\\text{ km}=7\\times1000\\text{ m}$. $7\\text{ km}=7000\\text{ m}$. Find the number of metres in $4.7\\text{ km}$. $4.7\\text{ km}=4.7\\times1000\\text{ m}=4700\\text{ m}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Change $7\\text{ km}$ to metres. $1\\text{ km}=1000\\text{ m}$. $7\\text{ km}=7\\times1000\\text{ m}$. $7\\text{ km}=7000\\text{ m}$. Find the number of metres in $4.7\\text{ km}$. $4.7\\text{ km}=4.7\\times1000\\text{ m}=4700\\text{ m}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+        "quote": "Find the number of metres in 4.7km"
+      }
+    },
+    {
+      "stage": "Development: Example: metres to kilometres",
+      "minutes": 6,
+      "content": "Example: metres to kilometres: Write $42000\\text{ m}$ as kilometres. $1000\\text{ m}=1\\text{ km}$. $42000\\text{ m}=42000\\div1000\\text{ km}$. $42000\\text{ m}=42\\text{ km}$. Change $2500\\text{ m}$ to kilometres. $2500\\text{ m}=2500\\div1000\\text{ km}=2.5\\text{ km}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Write $42000\\text{ m}$ as kilometres. $1000\\text{ m}=1\\text{ km}$. $42000\\text{ m}=42000\\div1000\\text{ km}$. $42000\\text{ m}=42\\text{ km}$. Change $2500\\text{ m}$ to kilometres. $2500\\text{ m}=2500\\div1000\\text{ km}=2.5\\text{ km}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+        "quote": "Write 42000m as km"
+      }
+    },
+    {
+      "stage": "Practice and marking",
+      "minutes": 10,
+      "content": "Express 25 km in metres. Convert 4 km to metres. Change 800 m to km. Change 7 km to metres. Write 42,000 m as kilometres.",
+      "teacherActivity": "The teacher sets these questions: Express 25 km in metres. Convert 4 km to metres. Change 800 m to km. Change 7 km to metres. Write 42,000 m as kilometres. The teacher checks each learner\u2019s working, marks against these computed answers: 25 \u00d7 1000 = 25,000 m. 4 \u00d7 1000 = 4000 m. 800 \u00f7 1000 = 0.8 km. 7 \u00d7 1000 = 7000 m. 42,000 \u00f7 1000 = 42 km. and supports learners who confuse lengths, areas or units.",
+      "learnerActivity": "Learners solve the questions individually, show each calculation, compare marked answers, and correct any errors in substitution or units.",
+      "source": {
+        "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+        "quote": "Express 25Km to metres"
+      }
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 5,
+      "content": "25 \u00d7 1000 = 25,000 m. 4 \u00d7 1000 = 4000 m. 800 \u00f7 1000 = 0.8 km. 7 \u00d7 1000 = 7000 m. 42,000 \u00f7 1000 = 42 km.",
+      "teacherActivity": "The teacher asks learners to explain their solutions to these questions: Express 25 km in metres. Convert 4 km to metres. Change 800 m to km. Change 7 km to metres. Write 42,000 m as kilometres. The teacher checks the lesson objectives against the written work and assigns correction of the final exercise item.",
+      "learnerActivity": "Learners explain their calculation methods, state the correct units, and correct the final exercise item after receiving feedback.",
+      "source": {
+        "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+        "quote": "Write 42000m as km"
+      }
+    }
+  ],
+  "assessment": "Mark the written working for these questions: Express 25 km in metres. Convert 4 km to metres. Change 800 m to km. Change 7 km to metres. Write 42,000 m as kilometres. Check the stated measurements, operations, final answers and units against the answer key.",
+  "homework": "Correct and fully work this exercise item: Write 42,000 m as kilometres.",
+  "lifeSkills": [
+    "Problem solving",
+    "Critical thinking",
+    "Effective communication"
+  ]
+}

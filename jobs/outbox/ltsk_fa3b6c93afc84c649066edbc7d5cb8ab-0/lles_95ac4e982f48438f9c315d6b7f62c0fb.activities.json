@@ -1,0 +1,67 @@
+[
+  {
+    "question": "Convert 4 square metres to square centimetres.",
+    "answer": "4 \u00d7 10,000 = 40,000 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_036f6f4092db424eb71c43d3de3aaace",
+      "quote": "Convert 4m\u00b2 to cm\u00b2"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Express 5 square kilometres as square metres.",
+    "answer": "5 \u00d7 1,000,000 = 5,000,000 m\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+      "quote": "Express 5km 2 as m 2"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Change 7,200,000 square metres to square kilometres.",
+    "answer": "7,200,000 \u00f7 1,000,000 = 7.2 km\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+      "quote": "Change 7200000m 2 to km 2"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Change 190,000 square centimetres to square metres.",
+    "answer": "190,000 \u00f7 10,000 = 19 m\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+      "quote": "Change 190000cm 2 to m 2"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Convert 20 square metres to square centimetres.",
+    "answer": "20 \u00d7 10,000 = 200,000 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+      "quote": "20m 2 = 20 x 10000cm 2"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  }
+]
