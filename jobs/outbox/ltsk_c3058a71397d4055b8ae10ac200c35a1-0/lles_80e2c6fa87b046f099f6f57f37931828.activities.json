@@ -1,0 +1,41 @@
+[
+  {
+    "question": "Use the sentence table to write five sentences.",
+    "answer": "Accept five grammatical combinations of a source subject, will/shall form, and action phrase. Source models: We shall not play with him. We shall go with him.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+      "quote": "Look at the table below and write five sentences"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Rearrange: tomorrow here my father will come.",
+    "answer": "My father will come here tomorrow.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b99ac999f1134b72b200041291806709",
+      "quote": "tomorrow here my father will come"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Rearrange: go to India I shall next week.",
+    "answer": "I shall go to India next week.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_b99ac999f1134b72b200041291806709",
+      "quote": "go to India I shall next week"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  }
+]

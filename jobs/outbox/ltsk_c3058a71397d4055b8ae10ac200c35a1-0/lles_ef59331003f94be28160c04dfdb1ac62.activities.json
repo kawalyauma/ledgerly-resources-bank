@@ -1,0 +1,67 @@
+[
+  {
+    "question": "With whom will Akot go to the zoo?",
+    "answer": "Akot will go to the zoo with Akot\u2019s sister Joyce.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+      "quote": "With whom will Akot go to the zoo"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "What will they eat on their way to the zoo?",
+    "answer": "They will eat pancakes on their way to the zoo.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+      "quote": "What will they eat on their way to the zoo"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Why will they not see the elephants at the zoo?",
+    "answer": "They will not see elephants because there are no elephants in the zoo.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+      "quote": "Why will they not see the elephants at the zoo"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "What will they take for the chimpanzees and the monkeys?",
+    "answer": "They will take bananas for the chimpanzees and monkeys.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+      "quote": "What will they take for the chimpanzees and the monkeys"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "How many people will go to the zoo next Sunday?",
+    "answer": "Two people, Akot and Joyce, will go to the zoo.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+      "quote": "How many people will go to the zoo next Sunday"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  }
+]

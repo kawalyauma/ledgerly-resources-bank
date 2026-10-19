@@ -1,0 +1,41 @@
+[
+  {
+    "question": "Complete the source sentence with since or for: The boy has been crying ___ 9:00 a.m.",
+    "answer": "since",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+      "quote": "The boy has been crying since 9:00am"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Complete the source sentence with since or for: The baby has cried ___ an hour.",
+    "answer": "for",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+      "quote": "The baby has cried for an hour"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Complete the source sentence with since or for: They have played ___ four hours.",
+    "answer": "for",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+      "quote": "They have played for four hours"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  }
+]

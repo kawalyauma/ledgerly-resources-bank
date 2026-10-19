@@ -1,0 +1,41 @@
+[
+  {
+    "question": "Punctuate: if i pass exams i will fly to london",
+    "answer": "If I pass exams, I will fly to London.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_66e2ee5447794359a38eab8dca9d1b53",
+      "quote": "If I pass exams, I will fly to London"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Punctuate: if i get money i will buy a new radio",
+    "answer": "If I get money, I will buy a new radio.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+      "quote": "If I get money, I will buy a new radio"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Read and write correctly: mother will punish us if we don\u2019t complete the work",
+    "answer": "Mother will punish us if we don\u2019t complete the work.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+      "quote": "Mother will punish us if we don\u2019t complete the work"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  }
+]

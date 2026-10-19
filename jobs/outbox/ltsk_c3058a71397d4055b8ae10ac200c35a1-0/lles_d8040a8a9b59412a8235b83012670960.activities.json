@@ -1,0 +1,41 @@
+[
+  {
+    "question": "Construct a meaningful sentence using tomorrow.",
+    "answer": "Source model: Jane will go to school tomorrow. Other meaningful sentences using tomorrow are acceptable.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+      "quote": "Use the vocabulary above to construct meaningful sentences"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Construct a meaningful sentence using next week.",
+    "answer": "Source model: We shall not go to the market next week. Other meaningful sentences using next week are acceptable.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+      "quote": "Use the vocabulary above to construct meaningful sentences"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Use the sentence table to write five sentences with shall, shall not, will or will not.",
+    "answer": "Accept five grammatical combinations from the source table; for example, We shall go with him. We shall not play with him.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+      "quote": "Look at the table below and write five sentences"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  }
+]
