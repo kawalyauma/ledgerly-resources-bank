@@ -1,0 +1,12 @@
+{
+  "job": "ltsk_47ee2b40223e43a785eb371dd62e928d-0",
+  "attempt": 1,
+  "agent": "codex-direct-p1-p4",
+  "model": "GPT-6",
+  "gaps": {
+    "lles_f159b2f7f0bc40f9861254e99aa84c88": [
+      "The extracted diary does not reliably preserve weekday column alignment; weekday questions are omitted rather than guessed. No month or year is added."
+    ]
+  },
+  "reviewerNotes": "P4 English, Term 3, first two weeks only. Grammar drills assemble the exact source sentences under the school scheme\u2019s prescribed punctuation, completion, reading and rewriting activities. Model answers restore the source wording. Free sentence-construction tasks allow other grammatical responses. Full readings are drawn from the pack; no missing story was invented. The source typo \u201ctale breakfast\u201d is corrected to \u201ctake breakfast\u201d. Incorrect if/unless equivalence is omitted. Timetable and diary questions with uncertain layout or unstated information are omitted. Each plan lasts exactly 40 minutes."
+}

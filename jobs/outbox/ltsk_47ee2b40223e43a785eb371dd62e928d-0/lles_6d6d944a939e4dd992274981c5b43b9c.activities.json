@@ -1,0 +1,67 @@
+[
+  {
+    "question": "On which day will the rabbits be fed?",
+    "answer": "The rabbits will be fed on Sunday.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+      "quote": "On which day will the rabbits be fed"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "What will Namata do on Monday?",
+    "answer": "Namata will clean the kennel on Monday.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+      "quote": "What will Namata do on Monday"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "At what time will Namata feed the rabbits?",
+    "answer": "Namata will feed the rabbits at 10:00 a.m.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+      "quote": "At what time will Namata feed the rabbits"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "What is the name of Namata\u2019s aunt?",
+    "answer": "Namata\u2019s aunt is called Suzan.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+      "quote": "What is the name of Namata\u2019s aunt"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "With whom will Namata go to the beach?",
+    "answer": "Namata will go to the beach with her parents.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_7685308ccbde482cb6da1bdbb89736ea",
+      "quote": "With whom will Namata go to the beach"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  }
+]

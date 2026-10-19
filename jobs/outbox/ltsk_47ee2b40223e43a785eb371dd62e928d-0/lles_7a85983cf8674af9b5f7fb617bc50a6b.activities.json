@@ -1,0 +1,41 @@
+[
+  {
+    "question": "Join using After at the beginning: Tom finished his homework. He went to sleep.",
+    "answer": "After Tom had finished his homework, he went to sleep.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+      "quote": "After Tom had finished his homework, he went to sleep"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Join using after in the middle: Tom finished his homework. He went to sleep.",
+    "answer": "Tom went to sleep after he had finished his homework.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+      "quote": "Tom went to sleep after he had finished his homework"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Punctuate: after tom had finished his homework he went to sleep",
+    "answer": "After Tom had finished his homework, he went to sleep.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+      "quote": "After Tom had finished his homework, he went to sleep"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  }
+]

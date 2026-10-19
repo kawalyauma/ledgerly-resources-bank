@@ -1,0 +1,99 @@
+{
+  "competences": [
+    "The learner identify durations in source sentences.",
+    "The learner use for correctly to state duration."
+  ],
+  "languageCompetence": "Pronounces, reads, spells and uses correctly: for, duration, hours, years, present perfect.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to identify durations in source sentences.",
+    "By the end of the lesson, learners should be able to use for correctly to state duration."
+  ],
+  "priorKnowledge": "Learners have compared since with for and can identify starting times.",
+  "methods": [
+    "Demonstration",
+    "Guided discussion",
+    "Question and answer"
+  ],
+  "materials": [
+    "Duration cards showing four hours, two years and five hours",
+    "For and since comparison chart"
+  ],
+  "references": [
+    "P 4 Grammar Scheme Term III"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Learners have compared since with for and can identify starting times. Key words: for, duration, hours, years, present perfect",
+      "teacherActivity": "The teacher displays duration cards showing four hours, two years and five hours and links the chart to the prior knowledge: Learners have compared since with for and can identify starting times. The teacher pronounces the lesson vocabulary, checks learners\u2019 reading, and introduces using for.",
+      "learnerActivity": "Learners recall familiar words, read the displayed key words aloud, and explain what they already know about the topic.",
+      "source": {
+        "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+        "quote": "For is used when the length of time"
+      }
+    },
+    {
+      "stage": "Development: For expresses duration",
+      "minutes": 7,
+      "content": "For expresses duration: For shows the length of time an action has lasted. An hour is a duration. Four hours is a duration. Two years is a duration. Five hours is a duration.",
+      "teacherActivity": "The teacher models reading of this content: For shows the length of time an action has lasted. An hour is a duration. Four hours is a duration. Two years is a duration. Five hours is a duration. The teacher checks pronunciation and meaning, draws attention to the target wording, and asks: \"Complete the source sentence with for or since: They have played ___ four hours.\" Learners\u2019 responses are checked against the displayed text.",
+      "learnerActivity": "Learners read the source sentences or entries aloud, identify the target words, answer the teacher\u2019s question, and copy the stated content accurately.",
+      "source": {
+        "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+        "quote": "For is used when the length of time"
+      }
+    },
+    {
+      "stage": "Development: Example 1",
+      "minutes": 7,
+      "content": "Example 1: They have played for four hours. I have not seen my mother for two years. Joseph has sat there for five hours.",
+      "teacherActivity": "The teacher models reading of this content: They have played for four hours. I have not seen my mother for two years. Joseph has sat there for five hours. The teacher checks pronunciation and meaning, draws attention to the target wording, and asks: \"Complete the source sentence with for or since: I have not seen my mother ___ two years.\" Learners\u2019 responses are checked against the displayed text.",
+      "learnerActivity": "Learners read the source sentences or entries aloud, identify the target words, answer the teacher\u2019s question, and copy the stated content accurately.",
+      "source": {
+        "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+        "quote": "They have played for four hours"
+      }
+    },
+    {
+      "stage": "Development: Example 2: comparing for and since",
+      "minutes": 6,
+      "content": "Example 2: comparing for and since: The baby has cried for an hour. The boy has been crying since 9:00 a.m. For introduces the duration. Since introduces the starting time.",
+      "teacherActivity": "The teacher models reading of this content: The baby has cried for an hour. The boy has been crying since 9:00 a.m. For introduces the duration. Since introduces the starting time. The teacher checks pronunciation and meaning, draws attention to the target wording, and asks: \"Complete the source sentence with for or since: Joseph has sat there ___ five hours.\" Learners\u2019 responses are checked against the displayed text.",
+      "learnerActivity": "Learners read the source sentences or entries aloud, identify the target words, answer the teacher\u2019s question, and copy the stated content accurately.",
+      "source": {
+        "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+        "quote": "The baby has cried for an hour"
+      }
+    },
+    {
+      "stage": "Practice and correction",
+      "minutes": 10,
+      "content": "Complete the source sentence with for or since: They have played ___ four hours. Complete the source sentence with for or since: I have not seen my mother ___ two years. Complete the source sentence with for or since: Joseph has sat there ___ five hours.",
+      "teacherActivity": "The teacher gives the following sourced text-based exercise: Complete the source sentence with for or since: They have played ___ four hours. Complete the source sentence with for or since: I have not seen my mother ___ two years. Complete the source sentence with for or since: Joseph has sat there ___ five hours. The teacher checks learners\u2019 written answers for meaning, spelling and punctuation, using this key: for for for",
+      "learnerActivity": "Learners answer individually in their books, use full sentences when required, read selected answers aloud, and correct spelling or punctuation after feedback.",
+      "source": {
+        "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+        "quote": "They have played for four hours"
+      }
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 5,
+      "content": "Key answers: for for for",
+      "teacherActivity": "The teacher revisits these questions: Complete the source sentence with for or since: They have played ___ four hours. Complete the source sentence with for or since: I have not seen my mother ___ two years. Complete the source sentence with for or since: Joseph has sat there ___ five hours. The teacher checks whether learners have met the objectives, explains any remaining errors using the source text, and assigns the final exercise item for correction.",
+      "learnerActivity": "Learners explain their answers with evidence from the text, read corrected sentences aloud, and note the final item for homework.",
+      "source": {
+        "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+        "quote": "Joseph has sat there for five hours"
+      }
+    }
+  ],
+  "assessment": "Check oral reading and written responses to these questions: Complete the source sentence with for or since: They have played ___ four hours. Complete the source sentence with for or since: I have not seen my mother ___ two years. Complete the source sentence with for or since: Joseph has sat there ___ five hours. Mark meaning, spelling, sentence structure and punctuation against the displayed source models.",
+  "homework": "Complete or correct the following source exercise item, writing the answer neatly: Complete the source sentence with for or since: Joseph has sat there ___ five hours.",
+  "lifeSkills": [
+    "Effective communication",
+    "Critical thinking",
+    "Co-operation"
+  ]
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "question": "Complete the source sentence with for or since: They have played ___ four hours.",
+    "answer": "for",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+      "quote": "They have played for four hours"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Complete the source sentence with for or since: I have not seen my mother ___ two years.",
+    "answer": "for",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+      "quote": "I have not seen my mother for two years"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Complete the source sentence with for or since: Joseph has sat there ___ five hours.",
+    "answer": "for",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+      "quote": "Joseph has sat there for five hours"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  }
+]

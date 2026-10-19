@@ -1,0 +1,110 @@
+{
+  "competences": [
+    "The learner identify the order of two actions.",
+    "The learner use and punctuate before in source sentences."
+  ],
+  "languageCompetence": "Pronounces, reads, spells and uses correctly: before, first action, second action, breakfast, homework.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to identify the order of two actions.",
+    "By the end of the lesson, learners should be able to use and punctuate before in source sentences."
+  ],
+  "priorKnowledge": "Learners describe familiar sequences such as washing hands and eating food.",
+  "methods": [
+    "Demonstration",
+    "Guided discussion",
+    "Question and answer"
+  ],
+  "materials": [
+    "Before sentence strips",
+    "Two-action sequence cards for homework/play and breakfast/prayer"
+  ],
+  "references": [
+    "P 4 Grammar Scheme Term III"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Learners describe familiar sequences such as washing hands and eating food. Key words: before, first action, second action, breakfast, homework",
+      "teacherActivity": "The teacher displays before sentence strips and links the chart to the prior knowledge: Learners describe familiar sequences such as washing hands and eating food. The teacher pronounces the lesson vocabulary, checks learners\u2019 reading, and introduces using before.",
+      "learnerActivity": "Learners recall familiar words, read the displayed key words aloud, and explain what they already know about the topic.",
+      "source": {
+        "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+        "quote": "I wash my hands before eating food"
+      }
+    },
+    {
+      "stage": "Development: Using before",
+      "minutes": 5,
+      "content": "Using before: I wash my hands before eating food. First action: washing hands. Second action: eating food.",
+      "teacherActivity": "The teacher models reading of this content: I wash my hands before eating food. First action: washing hands. Second action: eating food. The teacher checks pronunciation and meaning, draws attention to the target wording, and asks: \"Complete the source sentence: I wash my hands ___ eating food.\" Learners\u2019 responses are checked against the displayed text.",
+      "learnerActivity": "Learners read the source sentences or entries aloud, identify the target words, answer the teacher\u2019s question, and copy the stated content accurately.",
+      "source": {
+        "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+        "quote": "I wash my hands before eating food"
+      }
+    },
+    {
+      "stage": "Development: Example 1",
+      "minutes": 5,
+      "content": "Example 1: She will do her homework before going to play. First action: doing homework. Second action: going to play.",
+      "teacherActivity": "The teacher models reading of this content: She will do her homework before going to play. First action: doing homework. Second action: going to play. The teacher checks pronunciation and meaning, draws attention to the target wording, and asks: \"Complete the source sentence: She will do her homework ___ going to play.\" Learners\u2019 responses are checked against the displayed text.",
+      "learnerActivity": "Learners read the source sentences or entries aloud, identify the target words, answer the teacher\u2019s question, and copy the stated content accurately.",
+      "source": {
+        "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+        "quote": "She will do her homework before going to play"
+      }
+    },
+    {
+      "stage": "Development: Example 2",
+      "minutes": 5,
+      "content": "Example 2: Before going to pray, Musa will take breakfast. First action: taking breakfast. Second action: going to pray.",
+      "teacherActivity": "The teacher models reading of this content: Before going to pray, Musa will take breakfast. First action: taking breakfast. Second action: going to pray. The teacher checks pronunciation and meaning, draws attention to the target wording, and asks: \"Punctuate: before going to pray musa will take breakfast\" Learners\u2019 responses are checked against the displayed text.",
+      "learnerActivity": "Learners read the source sentences or entries aloud, identify the target words, answer the teacher\u2019s question, and copy the stated content accurately.",
+      "source": {
+        "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+        "quote": "Before going to pray, Musa will tale breakfast"
+      }
+    },
+    {
+      "stage": "Development: Example 3: before in the middle",
+      "minutes": 5,
+      "content": "Example 3: before in the middle: I wash my hands before eating food. She will do her homework before going to play.",
+      "teacherActivity": "The teacher models reading of this content: I wash my hands before eating food. She will do her homework before going to play. The teacher checks pronunciation and meaning, draws attention to the target wording, and asks: \"Punctuate: before going to pray musa will take breakfast\" Learners\u2019 responses are checked against the displayed text.",
+      "learnerActivity": "Learners read the source sentences or entries aloud, identify the target words, answer the teacher\u2019s question, and copy the stated content accurately.",
+      "source": {
+        "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+        "quote": "I wash my hands before eating food"
+      }
+    },
+    {
+      "stage": "Practice and correction",
+      "minutes": 10,
+      "content": "Complete the source sentence: I wash my hands ___ eating food. Complete the source sentence: She will do her homework ___ going to play. Punctuate: before going to pray musa will take breakfast",
+      "teacherActivity": "The teacher gives the following sourced text-based exercise: Complete the source sentence: I wash my hands ___ eating food. Complete the source sentence: She will do her homework ___ going to play. Punctuate: before going to pray musa will take breakfast The teacher checks learners\u2019 written answers for meaning, spelling and punctuation, using this key: before before Before going to pray, Musa will take breakfast.",
+      "learnerActivity": "Learners answer individually in their books, use full sentences when required, read selected answers aloud, and correct spelling or punctuation after feedback.",
+      "source": {
+        "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+        "quote": "I wash my hands before eating food"
+      }
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 5,
+      "content": "Key answers: before before Before going to pray, Musa will take breakfast.",
+      "teacherActivity": "The teacher revisits these questions: Complete the source sentence: I wash my hands ___ eating food. Complete the source sentence: She will do her homework ___ going to play. Punctuate: before going to pray musa will take breakfast The teacher checks whether learners have met the objectives, explains any remaining errors using the source text, and assigns the final exercise item for correction.",
+      "learnerActivity": "Learners explain their answers with evidence from the text, read corrected sentences aloud, and note the final item for homework.",
+      "source": {
+        "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+        "quote": "Before going to pray, Musa will tale breakfast"
+      }
+    }
+  ],
+  "assessment": "Check oral reading and written responses to these questions: Complete the source sentence: I wash my hands ___ eating food. Complete the source sentence: She will do her homework ___ going to play. Punctuate: before going to pray musa will take breakfast Mark meaning, spelling, sentence structure and punctuation against the displayed source models.",
+  "homework": "Complete or correct the following source exercise item, writing the answer neatly: Punctuate: before going to pray musa will take breakfast",
+  "lifeSkills": [
+    "Effective communication",
+    "Critical thinking",
+    "Co-operation"
+  ]
+}

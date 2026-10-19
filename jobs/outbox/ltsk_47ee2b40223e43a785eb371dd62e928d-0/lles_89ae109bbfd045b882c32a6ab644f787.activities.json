@@ -1,0 +1,67 @@
+[
+  {
+    "question": "Where will Mukaga go tomorrow?",
+    "answer": "Mukaga will go to the zoo in Entebbe tomorrow.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8b51257a7204350820a66c1c782842d",
+      "quote": "Where will Mukaga go tomorrow"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Where will he have breakfast?",
+    "answer": "He will have breakfast at Doso\u2019s restaurant.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8b51257a7204350820a66c1c782842d",
+      "quote": "Where will he have breakfast from"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "With whom is he going to Entebbe?",
+    "answer": "He is going to Entebbe with his friends.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8b51257a7204350820a66c1c782842d",
+      "quote": "With whom is he going to Entebbe"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "What will Mukaga do at 11:00 a.m.?",
+    "answer": "Mukaga will look at different animals and birds at 11:00 a.m.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8b51257a7204350820a66c1c782842d",
+      "quote": "What will Mukaga do at 11:00 a.m"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "What will he do after looking at the animals?",
+    "answer": "He will take photographs at the zoo.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8b51257a7204350820a66c1c782842d",
+      "quote": "What will he do after looking at the animals"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "question": "When did Amanya send the invitation card to her uncle?",
+    "answer": "Amanya sent the invitation card on the 3rd.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8b51257a7204350820a66c1c782842d",
+      "quote": "When did Amanya send the invitation card to her uncle"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "What did Amanya\u2019s father buy for her?",
+    "answer": "Amanya\u2019s father bought her a new party dress.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8b51257a7204350820a66c1c782842d",
+      "quote": "What did Amanya\u2019s father buy for her"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Who baked Amanya\u2019s birthday cake?",
+    "answer": "Aunt Monica baked Amanya\u2019s birthday cake.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8b51257a7204350820a66c1c782842d",
+      "quote": "Who baked Amanya\u2019s birthday cake"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "When did Amanya attend thanksgiving service?",
+    "answer": "Amanya attended thanksgiving service on the 26th.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8b51257a7204350820a66c1c782842d",
+      "quote": "When did Amanya attend thanks giving service"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Who bought Amanya a new dress?",
+    "answer": "Her father bought Amanya a new dress.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a8b51257a7204350820a66c1c782842d",
+      "quote": "Who bought Amanya a new dress"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  }
+]

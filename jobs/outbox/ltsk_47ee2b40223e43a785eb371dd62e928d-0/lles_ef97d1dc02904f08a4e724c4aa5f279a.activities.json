@@ -1,0 +1,41 @@
+[
+  {
+    "question": "Complete the source sentence: I wash my hands ___ eating food.",
+    "answer": "before",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+      "quote": "I wash my hands before eating food"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Complete the source sentence: She will do her homework ___ going to play.",
+    "answer": "before",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+      "quote": "She will do her homework before going to play"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Punctuate: before going to pray musa will take breakfast",
+    "answer": "Before going to pray, Musa will take breakfast.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_52d32128a6914ca8ae03917f25c7b78f",
+      "quote": "Before going to pray, Musa will tale breakfast"
+    },
+    "skill": "read and write",
+    "cognitiveLevel": "apply"
+  }
+]
