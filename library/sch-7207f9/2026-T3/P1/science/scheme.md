@@ -7,16 +7,16 @@
 | 3 | 1 | teach | Transport | Railway transport — Railway transport | written |
 | 4 | 1 | teach | Transport | Air transport — Air transport | written |
 | 5 | 1 | review | Transport | Week 1 review — Transport | written |
-| 6 | 2 | teach | Transport | Road transport — Road transport | writing |
-| 7 | 2 | teach | Transport | Road signs — Road signs | writing |
-| 8 | 2 | teach | Transport | Traffic lights — Traffic lights | writing |
-| 9 | 2 | teach | Transport | Safe ways of using the road — Safe ways of using the road | writing |
-| 10 | 2 | review | Transport | Week 2 review — Transport | writing |
-| 11 | 3 | teach | Transport | Dangerous things on the road — Dangerous things on the road | pending |
-| 12 | 3 | teach | Transport | Causes and control of road accidents — Causes and control of road accidents | pending |
-| 13 | 3 | teach | Things we make and communication | Things we make at home — Things we make at home | pending |
-| 14 | 3 | teach | Things we make and communication | Means of communication — Means of communication | pending |
-| 15 | 3 | review | Things we make and communication | Week 3 review — Transport, Things we make and communication | pending |
+| 6 | 2 | teach | Transport | Road transport — Road transport | written |
+| 7 | 2 | teach | Transport | Road signs — Road signs | written |
+| 8 | 2 | teach | Transport | Traffic lights — Traffic lights | written |
+| 9 | 2 | teach | Transport | Safe ways of using the road — Safe ways of using the road | written |
+| 10 | 2 | review | Transport | Week 2 review — Transport | written |
+| 11 | 3 | teach | Transport | Dangerous things on the road — Dangerous things on the road | writing |
+| 12 | 3 | teach | Transport | Causes and control of road accidents — Causes and control of road accidents | writing |
+| 13 | 3 | teach | Things we make and communication | Things we make at home — Things we make at home | writing |
+| 14 | 3 | teach | Things we make and communication | Means of communication — Means of communication | writing |
+| 15 | 3 | review | Things we make and communication | Week 3 review — Transport, Things we make and communication | writing |
 | 16 | 4 | teach | Things we make and communication | Furniture and crafts — Furniture and crafts | pending |
 | 17 | 4 | teach | Things we make and communication | Clothes and tools we make — Clothes and tools we make | pending |
 | 18 | 4 | teach | Things we make and communication | Uses of things we make — Uses of things we make | pending |

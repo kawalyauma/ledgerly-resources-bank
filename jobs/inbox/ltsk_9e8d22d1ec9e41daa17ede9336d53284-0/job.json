@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_9e8d22d1ec9e41daa17ede9336d53284-0",
+  "task": "ltsk_9e8d22d1ec9e41daa17ede9336d53284",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 61,
+  "school": "sch-7207f9",
+  "class": "P1",
+  "classLevel": 1,
+  "subject": "Science",
+  "term": "2026-T3",
+  "week": 3,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_bcccde7511234475802ce85c11a721ba",
+      "kind": "teach",
+      "week": 3,
+      "title": "Dangerous things on the road",
+      "periods": 1,
+      "subtopic": "Dangerous things on the road"
+    },
+    {
+      "id": "lles_24cdae453b09407f9aa54a2d6f5db1eb",
+      "kind": "teach",
+      "week": 3,
+      "title": "Causes and control of road accidents",
+      "periods": 1,
+      "subtopic": "Causes and control of road accidents"
+    },
+    {
+      "id": "lles_011fce4d2c6042eda8115fd8151dcac2",
+      "kind": "teach",
+      "week": 3,
+      "title": "Things we make at home",
+      "periods": 1,
+      "subtopic": "Things we make at home"
+    },
+    {
+      "id": "lles_b8eb824890eb40a5acdba87e92fc4b0d",
+      "kind": "teach",
+      "week": 3,
+      "title": "Means of communication",
+      "periods": 1,
+      "subtopic": "Means of communication"
+    },
+    {
+      "id": "lles_78c112225ad24af09f6eddfe38f72442",
+      "kind": "review",
+      "week": 3,
+      "title": "Week 3 review",
+      "periods": 1,
+      "subtopic": "Transport, Things we make and communication"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P1/science",
+  "passages": [
+    "lchk_e3d07b1570aa426dbf34b81164b491c6",
+    "lchk_c59083b188004ce194c13f539473b127",
+    "lchk_82c1a2885f414f588bf14de72f1767bd",
+    "lchk_db5aee10b6944b13b0185638aff6c33f",
+    "lchk_48d27650aa34415baef12c2554a537c0",
+    "lchk_87d1c44a733548fa934619f27e5b59e1",
+    "lchk_9491de5179da48e8888aeb6bd7f511c5",
+    "lchk_368d2991fa374de796ea6159f5c7dc46"
+  ],
+  "created": "2026-10-19T08:12:08.275Z"
+}
