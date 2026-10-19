@@ -2,18 +2,18 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Length, Mass and Capacity | Metric units of length — Metric units of length | writing |
-| 2 | 1 | teach | Length, Mass and Capacity | Converting metric length units — Converting metric length units | writing |
-| 3 | 1 | teach | Length, Mass and Capacity | Converting square units — Converting square units | writing |
-| 4 | 1 | teach | Length, Mass and Capacity | Area and perimeter of a square — Area and perimeter of a square | writing |
-| 5 | 1 | teach | Length, Mass and Capacity | Area and perimeter of a rectangle — Area and perimeter of a rectangle | writing |
-| 6 | 1 | teach | Length, Mass and Capacity | Unknown sides, area and perimeter — Unknown sides, area and perimeter | writing |
-| 7 | 2 | teach | Length, Mass and Capacity | Area of shaded rectangles — Area of shaded rectangles | pending |
-| 8 | 2 | teach | Length, Mass and Capacity | Area of rectangular borders — Area of rectangular borders | pending |
-| 9 | 2 | teach | Length, Mass and Capacity | Area of triangles — Area of triangles | pending |
-| 10 | 2 | teach | Length, Mass and Capacity | Comparing areas: finding a base — Comparing areas: finding a base | pending |
-| 11 | 2 | teach | Length, Mass and Capacity | Comparing areas: finding a height — Comparing areas: finding a height | pending |
-| 12 | 2 | teach | Length, Mass and Capacity | Area of a trapezium — Area of a trapezium | pending |
+| 1 | 1 | teach | Length, Mass and Capacity | Metric units of length — Metric units of length | written |
+| 2 | 1 | teach | Length, Mass and Capacity | Converting metric length units — Converting metric length units | written |
+| 3 | 1 | teach | Length, Mass and Capacity | Converting square units — Converting square units | written |
+| 4 | 1 | teach | Length, Mass and Capacity | Area and perimeter of a square — Area and perimeter of a square | written |
+| 5 | 1 | teach | Length, Mass and Capacity | Area and perimeter of a rectangle — Area and perimeter of a rectangle | written |
+| 6 | 1 | teach | Length, Mass and Capacity | Unknown sides, area and perimeter — Unknown sides, area and perimeter | written |
+| 7 | 2 | teach | Length, Mass and Capacity | Area of shaded rectangles — Area of shaded rectangles | writing |
+| 8 | 2 | teach | Length, Mass and Capacity | Area of rectangular borders — Area of rectangular borders | writing |
+| 9 | 2 | teach | Length, Mass and Capacity | Area of triangles — Area of triangles | writing |
+| 10 | 2 | teach | Length, Mass and Capacity | Comparing areas: finding a base — Comparing areas: finding a base | writing |
+| 11 | 2 | teach | Length, Mass and Capacity | Comparing areas: finding a height — Comparing areas: finding a height | writing |
+| 12 | 2 | teach | Length, Mass and Capacity | Area of a trapezium — Area of a trapezium | writing |
 | 13 | 3 | teach | Length, Mass and Capacity | Area of a parallelogram — Area of a parallelogram | pending |
 | 14 | 3 | teach | Length, Mass and Capacity | Area and perimeter of a rhombus — Area and perimeter of a rhombus | pending |
 | 15 | 3 | teach | Length, Mass and Capacity | Area of a kite — Area of a kite | pending |

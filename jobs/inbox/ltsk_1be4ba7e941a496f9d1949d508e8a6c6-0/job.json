@@ -1,0 +1,81 @@
+{
+  "job": "ltsk_1be4ba7e941a496f9d1949d508e8a6c6-0",
+  "task": "ltsk_1be4ba7e941a496f9d1949d508e8a6c6",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 57,
+  "school": "sch-7207f9",
+  "class": "P6",
+  "classLevel": 6,
+  "subject": "Mathematics",
+  "term": "2026-T3",
+  "week": 2,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [
+    {
+      "id": "lles_e81e19a4354c4e14b6a560b74910d5a4",
+      "kind": "teach",
+      "week": 2,
+      "title": "Area of shaded rectangles",
+      "periods": 1,
+      "subtopic": "Area of shaded rectangles"
+    },
+    {
+      "id": "lles_838d9e8d0c71458f82eb3247a93738f1",
+      "kind": "teach",
+      "week": 2,
+      "title": "Area of rectangular borders",
+      "periods": 1,
+      "subtopic": "Area of rectangular borders"
+    },
+    {
+      "id": "lles_a66f6570dcb145e284819dd833a6c0a4",
+      "kind": "teach",
+      "week": 2,
+      "title": "Area of triangles",
+      "periods": 1,
+      "subtopic": "Area of triangles"
+    },
+    {
+      "id": "lles_774b140835bb47cfbdfee743a347b4e6",
+      "kind": "teach",
+      "week": 2,
+      "title": "Comparing areas: finding a base",
+      "periods": 1,
+      "subtopic": "Comparing areas: finding a base"
+    },
+    {
+      "id": "lles_fe168dc55ab4486380682815b0f11daa",
+      "kind": "teach",
+      "week": 2,
+      "title": "Comparing areas: finding a height",
+      "periods": 1,
+      "subtopic": "Comparing areas: finding a height"
+    },
+    {
+      "id": "lles_5fc7f2bb4dba47c097634db61a43afa9",
+      "kind": "teach",
+      "week": 2,
+      "title": "Area of a trapezium",
+      "periods": 1,
+      "subtopic": "Area of a trapezium"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P6/mathematics",
+  "passages": [
+    "lchk_036f6f4092db424eb71c43d3de3aaace",
+    "lchk_9d3cab691b6d474081d0e2c8256f85b5",
+    "lchk_c4287e2236664f34876c77b8819206e1",
+    "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+    "lchk_3c577bebbf324719882a98f517161905",
+    "lchk_64bdae1d5ef74fe9886afcba15030680",
+    "lchk_6b13b320036b44d4a9de00d342080f5f",
+    "lchk_1d5db782c68947d3a85abe365868153f",
+    "lchk_96f26ff931f143f490a65df45ea0cb26"
+  ],
+  "created": "2026-10-19T12:49:42.953Z"
+}

@@ -1,4 +1,4 @@
-# Job ltsk_fa3b6c93afc84c649066edbc7d5cb8ab-0
+# Job ltsk_1be4ba7e941a496f9d1949d508e8a6c6-0
 
 You are the curriculum engine of Ledgerly AI for a Ugandan school.
 Work from the passages, page images and records given in this prompt. Do not invent facts, topics, notes, examples, activities, questions, answers or names: every one of them is taken from the passages. You choose, order, tidy and format the material; you never make it up.
@@ -6,33 +6,33 @@ If the material does not cover something, leave it out or set the field to null 
 Do not run commands, open files or browse. Everything you need is in this prompt.
 Reply with ONE JSON object only, exactly matching the requested shape. No prose before or after it.
 
-Task: write ALL 6 lesson(s) below of week 1 of the Mathematics scheme for Primary Six 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
+Task: write ALL 6 lesson(s) below of week 2 of the Mathematics scheme for Primary Six 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
 Return exactly one entry per lessonId, keeping each lessonId exactly. Write the lessons in order so they build on each other; a practice or review lesson works from the lessons before it in this week.
 Class-depth rule: P6: one 40-minute lesson: 3–6 sections; about 16–32 points; worked examples and exam-style points; 6–8 activities.
 
-lessonId=lles_d6800929a40a4259a592cd787486eaec: lesson 1, Monday, 1 period(s), 40 minutes.
-  Unit: Length, Mass and Capacity (theme: Length, Mass and Capacity). Lesson: Metric units of length — Metric units of length.
-  Objectives: By the end of the lesson, learners should be able to identify metric length units and convert kilometres to metres.
+lessonId=lles_e81e19a4354c4e14b6a560b74910d5a4: lesson 7, Monday, 1 period(s), 40 minutes.
+  Unit: Length, Mass and Capacity (theme: Length, Mass and Capacity). Lesson: Area of shaded rectangles — Area of shaded rectangles.
+  Objectives: By the end of the lesson, learners should be able to subtract the inner rectangle’s area from the outer rectangle’s area.
 
-lessonId=lles_a08795a53ec04c749fa12d6af88d1caa: lesson 2, Tuesday, 1 period(s), 40 minutes.
-  Unit: Length, Mass and Capacity (theme: Length, Mass and Capacity). Lesson: Converting metric length units — Converting metric length units.
-  Objectives: By the end of the lesson, learners should be able to convert metres, decimetres, centimetres and millimetres.
+lessonId=lles_838d9e8d0c71458f82eb3247a93738f1: lesson 8, Tuesday, 1 period(s), 40 minutes.
+  Unit: Length, Mass and Capacity (theme: Length, Mass and Capacity). Lesson: Area of rectangular borders — Area of rectangular borders.
+  Objectives: By the end of the lesson, learners should be able to find missing lengths and calculate the area of a rectangular border.
 
-lessonId=lles_95ac4e982f48438f9c315d6b7f62c0fb: lesson 3, Wednesday, 1 period(s), 40 minutes.
-  Unit: Length, Mass and Capacity (theme: Length, Mass and Capacity). Lesson: Converting square units — Converting square units.
-  Objectives: By the end of the lesson, learners should be able to convert square metres to square centimetres.
+lessonId=lles_a66f6570dcb145e284819dd833a6c0a4: lesson 9, Wednesday, 1 period(s), 40 minutes.
+  Unit: Length, Mass and Capacity (theme: Length, Mass and Capacity). Lesson: Area of triangles — Area of triangles.
+  Objectives: By the end of the lesson, learners should be able to calculate area using a base and perpendicular height.
 
-lessonId=lles_07e7dda1dff24388b780cd355bc7b3aa: lesson 4, Thursday, 1 period(s), 40 minutes.
-  Unit: Length, Mass and Capacity (theme: Length, Mass and Capacity). Lesson: Area and perimeter of a square — Area and perimeter of a square.
-  Objectives: By the end of the lesson, learners should be able to find the side and perimeter from the area of a square.
+lessonId=lles_774b140835bb47cfbdfee743a347b4e6: lesson 10, Thursday, 1 period(s), 40 minutes.
+  Unit: Length, Mass and Capacity (theme: Length, Mass and Capacity). Lesson: Comparing areas: finding a base — Comparing areas: finding a base.
+  Objectives: By the end of the lesson, learners should be able to find an unknown base by equating two expressions for the same triangle’s area.
 
-lessonId=lles_fa0ed1447ec64f65a880844618c18068: lesson 5, Friday, 1 period(s), 40 minutes.
-  Unit: Length, Mass and Capacity (theme: Length, Mass and Capacity). Lesson: Area and perimeter of a rectangle — Area and perimeter of a rectangle.
-  Objectives: By the end of the lesson, learners should be able to find a rectangle’s missing side and perimeter from its area.
+lessonId=lles_fe168dc55ab4486380682815b0f11daa: lesson 11, Friday, 1 period(s), 40 minutes.
+  Unit: Length, Mass and Capacity (theme: Length, Mass and Capacity). Lesson: Comparing areas: finding a height — Comparing areas: finding a height.
+  Objectives: By the end of the lesson, learners should be able to find an unknown height by comparing areas of the same triangle.
 
-lessonId=lles_df846ed449664d83a952543ebad64e97: lesson 6, Friday, 1 period(s), 40 minutes.
-  Unit: Length, Mass and Capacity (theme: Length, Mass and Capacity). Lesson: Unknown sides, area and perimeter — Unknown sides, area and perimeter.
-  Objectives: By the end of the lesson, learners should be able to find unknown sides, area and perimeter of a rectangle.
+lessonId=lles_5fc7f2bb4dba47c097634db61a43afa9: lesson 12, Friday, 1 period(s), 40 minutes.
+  Unit: Length, Mass and Capacity (theme: Length, Mass and Capacity). Lesson: Area of a trapezium — Area of a trapezium.
+  Objectives: By the end of the lesson, learners should be able to identify parallel sides and calculate a trapezium’s area.
 
 Write, using ONLY the passages below. Passages from "NCDC" documents are the official base for what to teach; NCDC lower-primary thematic curricula put every learning area in columns separated by " | ": use only the Mathematics column.
 For EACH lesson:
@@ -524,405 +524,219 @@ as bases,
 height and
 </passage>
 
-<passage id="lchk_03f8b377dc464cf8a3543c4f833ea50d" source="MATH P.6 TERM III" part="1">
-For more lesson notes, visit www.freshteacheruganda.com
-PRIMARY SIX MATHEMATICS
-TERM THREE
-LENGTH, MASS AND CAPACITY
-Conversion of units
-1. Kilo metres to metres:
-Example: I
-Change 7km to metres
-1 km = 1000m
-7 km = 7 x 1000m
-7 km = 7000
-Example II
-Find the number of metres in 4.7km
-1 km = 1000m
-4. 7km = 4.7 x 1000m
-4.7km = 4700m
-2. KiloMetres to centimeters.
-Example: I
-Convert 2 km to cm.
-1 km = 100000cm
-2 km = 2 x 100000m
-2 km = 200000cm
-Example II
-Express 3/5 km as cm.
-1 km = 100000cm
-3/5 km = 3/5 x 100000cm
-= 300000cm  5
-= 60000cm
-3. Metres to centimeters
-For more lesson notes, visit www.freshteacheruganda.com
-Example I:
-Convert 4 m to cm.
-1 m = 100 cm
-4 m = 4 x 100cm
-4 m = 400cm
-Example II
-Express 86m as cm
-1m = 100cm
-86m = 86 x 100cm
-86m = 8600cm
-4. Metres to km.
-Example I
-Write 42000m as km
-1000m = 1km.
-1m = 1 km
-1000
-42000m = 1 x 42000 km
-1000
-= 42km
-5. Centimeters to metres
-Example I
-Write 6200cm as metres.
-100cm = 1m
-1cm = 1 m
-100
-6200cm = 1 x 6200 m
-100
-= 62 m\.
-Example II
-Change 530cm to m.
-1cm = 1 m
-100
-530cm = 1 x 530 m
-For more lesson notes, visit www.freshteacheruganda.com
-100
-= 5.3 m
-6. Square metres to square centimeters
-Example I
-Write 4m 2 as cm 2
-1m = 100cm
-1m 2 = 100cm 2
-1m 2 = 100cm x 100cm
-1m 2 = 10000cm 2
-4m 2 = 4 x 10000cm 2
-4m 2 = 40000cm 2
-Example II
-How many sq cm are there in 20cm 2 ?
-1m 2 = 10000cm 2
-20m 2 = 20 x 10000cm 2
-7. sq. kilometers to sq. metres
-Example I
-Express 5km 2 as m 2
-1 km = 1000m
-1km 2 = 1000m 2
-1km 2 = 1000m x 1000m
-1km 2 = 1000000m 2
-5km 2 = 5 x 1000000m 2
-5km 2 = 5000000m 2
-For more lesson notes, visit www.freshteacheruganda.com
-Sq. m to sq. km
-Example I
-Change 7200000m 2 to km 2
-1000000m 2 = 1km 2
-1m 2 = 1 km 2
-1000000
-7200000m 2 = 1 x 7200000km 2
-1000000
-= 7.2km 2
-8. Sq cm to sq m
-Example I
-Change 190000cm 2 to m 2
-10000cm 2 = 1m 2
-1cm 2 = 1 m 2
-10000
-190000cm 2 = 1 x 190000m 2
-10000
-= 19m 2
-PERIMETER OF RECTANGLES
-Example:
-Find the perimeter of the rectangle below
-25 cm
-50cm
-P = L + W + L + W
-P = 50cm + 25cm + 50cm + 25cm
-P = 75cm + 75cm
-P = 150cm
-OR:
-P = 2(L +W)
-P = 2(50cm + 25cm
-P = 2 X 75cm
-P = 150cm.
-PERIMETER OF SQUARES
-Example:
-For more lesson notes, visit www.freshteacheruganda.com
-What is the perimeter of the figure below?
-7mm
-P = S +S +S + S
-P = 7mm + 7mm + 7mm + 7mm
-P = 28mm
-OR:
-P = 4 X Side
-P = 4 X 7mm
-P = 28mm
-AREA OF RECTANGLES
-Example:
-Calculate the area of the figure below:
-5cm
-6cm
-A = L X W
-A = 6cm X 5cm
-A = 30 cm 2
-AREA OF SQUARES
-Example:
-What is the area of the figure below?
-12 cm
-A = S X S
-A = 12cm X 12cm
-A = 144 cm 2
-NOTE: area is measured in square units.
-APPLICATION OF PERIMETER OF RECTANGLES
-Length = perimeter – width
-For more lesson notes, visit www.freshteacheruganda.com
-2
-Width = perimeter – length
-2
-Example:
-1. The perimeter of a rectangle is 18cm and its length is 5cm. Find its width.
-Width = perimeter – length
-2
-Width = 18cm – 5cm
-2
-Width = 9cm – 5cm
-Width = 4cm
-APPLICATION OF PERIMETER OF SQUARES
-Side = perimeter
+<passage id="lchk_9d3cab691b6d474081d0e2c8256f85b5" source="P.6 MATHEMATICS SCHEME TERM 3" part="2">
+comparing
+areas of
+triangles.
+Example
+1.ABD is a
+triangle,
+AC and BE
+are heights of
+the same
+triangle.
+BD=12cm,
+AC=10cm
+and BE=8cm
+as shown
+below. Find
+the length of
+AD
+Guided
+discovery
+Problems
+olving
+Class
+discussio
+n
+Assertiven
+ess,
+Problem
+solving
+and
+audibility
+Answering
+the given
+oral
+questions
+Doing the
+class
+exercise
+Chalkb
+oard
+illustra
+tion
+Mk
+mtcs
+bk 6
+page
+341
 4
-Example:
-Find the length of a square whose perimeter is 20 dm.
-Length = perimeter
-4
-Length = 20dm
-4
-Length = 5dm
-APPLICATION OF AREA OF RECTANGLES
-Width = Area
-Length
-Length = Area
-Width
-Example:
-The area of a rectangle is 20cm 2 and its length is 5cm. Find its width.
-Width = Area
-Length
-Width = 20cm 2
-5cm
-Width = 4cm.
-APPLICATION OF AREA OF SQUARES
-Example:
-The area of a square is 36cm 2 . Find its side.
-For more lesson notes, visit www.freshteacheruganda.com
-FINDING AREA WHEN GIVEN THE PERIMETER
-Example:
-</passage>
-
-<passage id="lchk_969b90c21f504e58b1ac129ea32f0905" source="P.6 PRIMARY SIX MTC NOTES.docx TEACHER.AC" part="31">
-TOPIC LENGTH, MASS AND CAPACITY
-LESSON 1
-Subtopic: Length
-Content: Measuring
-Example: Learners will participate in measuring and recording
-length of different objects
-i.e Book (length)
-book (width)
-book (thickness)
-Geometry set (length, width, thickness)
-pencil (length)
-door (length, width )
-window (length, width)
-table (length, width, thickness)
-Activity
-Teacher will organize different objects to be measured by the
-pupils.
-Old Mk 313-315
-Remarks:
-_____________________________________________________________________
-LESSON 2
-Subtopic: Length
-Content: Changing from small to large units
-- metres to kilometres
-- centimetres to metres
-Examples: Change 2500 metres to kilometres
-1000m = 1 km
-1 m = 1 km
-1000
-2500m = 1 x 2500 km
-1000
-= 25 km
-66
-10
-= 2.5 km
-(ii) Change 300 cm to m
-100 cm = 1 metre (m)
-1 cm = 1 metre
-100
-300 cm = 1 x 300 m
-100
-= 3 m
-Activity
-Pupils will do exercise 13. 5 and 13.6 page 315 – 316 MK BK 6.
-Old Mk 315-316
-Remarks:
-_____________________________________________________________________
-LESSON 3
-Subtopic: Length
-Content: Perimeter of geometrical figures
-Example: 1. Find the perimeter of the figure below
-10 cm
-5 cm 13 cm
-15 cm
-Perimeter is the total distance around the
-figure.
- Perimeter = S 1 + S 2 + S 3 + S 4
-= 15 cm + 5 cm + 10 cm + 13 cm
-= 43 cm
-(2) Find the perimeter
-3 cm
-2cm
-X cm 5 cm
-3cm
-8 cm
-Side X = 2 + 3
-X = 5 cm
-Perimeter = S 1 + S 2 + S 3 + S 4 + S 5 +
-S 6
-= 8cm + 3cm + 2 cm + 5 cm + 3cm +
-5 cm
-= 26 cm
-Activity
-Pupils will do exercise 13 : 12 and 13.13 page 320- 321 MK BK 6.
-Old Mk 320
-New MK 125
-Remarks:
-_____________________________________________________________________
-LESSON 5
-Subtopic: Area
-Content: Area of shapes
-Example: Find the area of a square whose side is 6cm
-6cm
-6 cm
-Area = side x side
-= 6cm x 6cm
-= 36 cm 2
-Find the area of a square whose side is pcm
-pcm
-p cm
-Area = side x side
-= pcm x p cm
-= P 2 cm 2
-Content : Find one side of the square.
-Example: The area of a square is 64cm 2 . Find the length of
-each side of the square.
-Let one side be p cm
-p cm
-67
-P cm
-S x S = Area Factorise
-P x P = 64 (2 64
-P2 = 64 (2
-32
-P = (2 x 2) x (2 x 2) x (2 x 2) (2
-16
-P = 2 x 2 x 2 (2
-8
-P = 8 ( 2 4
-Each length = 8 cm ( 2
+Tel:0775787978/0742845900 osebEdu@gmail.com ##2023 PLE 🎯
 2
+6
+$
 1
-Activity
-Pupils will do exercise 13 :18 page 328 MK BK 6.
-Pupils will do exercise 13 :19 page 329 MK BK 6
-New MK 122-123.
-Remarks:
-_____________________________________________________________________
-____________________________________________________________________
-LESSON 6
-Subtopic: Area
-Content: Finding the side of a rectangle when area is
+LENGT
+H,
+MASS
+AND
+CAPACI
+TY
+Area of a
+trapezium
+The learner
+1. Finds the
+area of a
+trapezium.
+2.
+Calculates
+the missing
+side of the
+trapezium.
+3.Finds the
+perimeter of
+the
+trapezium
+The learner
+pronounces
+the word
+trapezium
+and also
+identifies the
+two parallel
+sides.
+Example
+1.Use the
+trapezium
+below to
+answer the
+questions
+that follow
+a) Calculate
+the area of
+the figure
+above.
+b) Find its
+perimeter.
+Class
+discussio
+n
+Problems
+olving
+Guided
+discovery
+Appreciati
+on of
+oneself
+and
+others,
+Problem
+solving
+and
+assertiven
+ess
+Answering
+the oral
+questions.
+Attemptin
+g the
 given
-Example: The area of a rectangle is 56cm 2 . The length is 8cm.
-find the width of the rectangle.
-Area = 56cm 2 w
-8cm
-L x W = Area
-8cm x w = 56cm 2
-7
-8cm x w = 56 cm 2
-8cm 8 cm
-1 1
-W = 7 cm
-Width = 7 cm
-11. A rectangular piece of paper is 4800mm 2 . Its width is
-60 mm. Find its length
-60 mm Area = 4800mm 2
-Length
-Length x width = Area
-L x W = Area
-L x 60 mm = 4800mm 2
-80
-L x 600mm = 4800mm 2
-60mm 1 60mm 1
-L = 80 mm
-_____________________________________________________________________
-Content: Finding area when perimeter is given
-Example: 2 The perimeter of the rectangle is 24 cm and the
-width is 5cm
-Find the (a) length of the rectangle
-(b) Area of the rectangle Area
-(a) 2 (L + W) = perimeter
-2 (L + 5cm) = 24 cm
-5cm
-2L + 10 cm = 24 cm
-2L + 10 – 10 = 24cm – 10cm 7cm
-2L = 14 cm Area = L x
-W
-2L = 14 7 Area = 7cm x 5
-cm
-2 2 1 cm Area = 35
-cm 2
-L = 7 cm
-Activity
-Pupils will do exercise 13 :23 page 333 MK BK 6.
-New MK pg123-125
-68
-Remarks:
-</passage>
-
-<passage id="lchk_60186bc8e4de4ba7ae2d61d47ca83692" source="P.6 MTC term 3" part="1">
-For more schemes of work, visit www.uganda.madpath.com
-PRIMARY SIX THIRD TERM MTC SCHEME OF WORK
-ELO: The learner appreciates and recognizes the application of length, mass and capacity in daily life experiences.
-W
-K
-P
-D
-THE
-ME
-TOP
-IC
-SUB
-TOPIC
-CONTENT COMPETENCES IND. OF
-LIFESKILL
-S &
-VALUES
-MTHDS/
-TECHNI
-QUES
-ACTIVIT
-Y
-IMS REF R
-E
-M
-1 1
-&
+evaluation
+exercise
+Chalkb
+oard
+illustra
+tion
+Mk
+mtcs
+bk 6
+page
+344
+Unde
+rstan
+ding
+mtcs
+bk 6
+page
+3
 2
-ME
-AS
-UR
-ES
+$
+3
+Area of a
+parallelogr
+am and a
+rhombus
+The learner
+1. Finds the
+perimeter of
+the
+rhombus.
+2.
+Calculates
+the area of
+the
+The learner
+reads and
+draws the
+parallelogram
+and the
+rhombus.
+Example
+1.The figure
+below is a
+rhombus, use
+it to answer
+the questions
+that follow:-
+Guided
+discovery
+Problems
+olving
+Assertiven
+ess,
+Problem
+solving
+and
+audibility
+Doing the
+given
+class
+exercise
+A chart
+showin
+g the
+area
+and
+perime
+ter of a
+rhomb
+us
+Mk
+mtcs
+bk 7
+page
+Func
+tional
+mtcs
+bk
+8cm
+5
+Tel:0775787978/0742845900 osebEdu@gmail.com ##2023 PLE 🎯
+rhombus.
+a)Find it’s
+area
+b)Find it’s
+perimeter
+Class
+discussio
+n
+Chalkb
+oard
+illustra
+tion
+page
+4
 M
 E
 A
@@ -930,461 +744,707 @@ S
 U
 R
 E
-S
-Length Estimating, measuring and
-recording length in centimeters
-and millimeters
-Conversion of units.
+M
+E
+N
+T
+Area of a
+kite
+The learner
+1. Draws a
+kite and
+shows the
+lines of
+symmetry.
+2. Finds the
+area of the
+kite.
+The learner
+reads and
+uses the
+words such
+as kites, lines
+of symmetry.
 Example
-Change 3km to metres.
-1km = 1000m
-3km = 3x1000m
-= 3000m
-LANGUAGE SUBJECT Observati
-on
-Appreciat
-ion
-Accuracy
-Explanat
-ion
-Demons
-tration
-Estimati
-ng
-Measuri
-ng
-Recordi
-ng
-Real
-object
-s
-Real
-object
-s
-Chalk
-board
+1.Use the kite
+below to
+answer the
+questions
+that follow:
+a) Find the
+area of the
+figure above.
+b) Work out
+Class
+discussio
+n
+Problems
+olving
+Guided
+discovery
+Creative
+thinking,
+Fluency
+and
+problem
+solving
+Answering
+the oral
+questions
+Doing the
+evaluation
+exercise.
+Chalkb
+oard
 illustra
-tions
-Mk maths
-book 6 page
-313-314
-P.6
-curriculum
-page 175
-and 176
-The learner;
-- describes
-the term
-length
-- reads
-statements
-correctly.
-The learner;
-- measures the
-lengths of
-different objects.
-- records length
-of different
-objects.
-- relates units
-- converts
-kilometers to
-metres & vice-
-versa
-3 Conversion of units.
-Example
-100cm = 1m
-1cm = 1m
-100
-480cm = 1 x 480
-100
-= 48
-The learner;
-- reads
-statements
-correctly.
-The learner;
-- relates units
-- converts
-metres to
-centimetres.
-- converts
-centimetres to
-metres.
-Interpreta
 tion
+Chalkb
+oard
+illustra
+tion
+Mk
+mtcs
+bk 7
+page
+Mk
+mtcs
+bk 7
+page
+6
+Tel:0775787978/0742845900 osebEdu@gmail.com ##2023 PLE 🎯
+its perimeter.
+5
+&
+6
+Volume
+and total
+surface
+area of a
+cube
+The learner:
+finds total
+surface
+area and
+volume of a
+cube.
+Finds the
+side given
+volume or
+total
+surface
+area of a
+cube.
+The learner:
+explains the
+difference
+between a
+cube and a
+cuboid.
+A cube has
+one side
+10cm. Find
+its volume
+and total
+surface area
+.
+Class
+discussio
+n
+Guided
+discovery
+Brain
+storming.
+Critical
+thinking.
 Problem
 solving
-Illustrati
-on
-Converti
-ng units
-from
-one unit
-to
-another
-A
-chart
-showi
-ng
-metric
-units.
-Chalk
-board
-Mk maths
+Fluency
+Answering
+oral
+questions
+Attemptin
+g given
+work
+Sharing
+with
+others
+views.
+Realia
+Tables
+Chalkb
+oard
+illustra
+tion.
+Mk
+book
+six
+page
+4
+1
+&
+2
+LENGT
+H,
+MASS
+AND
+CAPACI
+TY
+Finding the
+volume of
+a cuboid in
+litres
+The learner
+1. Finds the
+volume of a
+cuboid in
+cubic
+centimeters
+.
+2.Converts
+the cubic
+centimeters
+to litres
+The learner
+describes
+volume, area
+and total
+surface area.
+Example
+1. The figure
+below is
+cuboid.
+Brainstor
+ming
+Class
+discussio
+n
+Guided
+discovery
+Appreciati
+on of
+oneself
+and
+others,
+Problem
+solving
+and
+assertiven
+ess
+Doing the
+given
+class
+exercise
+Chalkb
+oard
+illustra
+tion
+Mk
+mtcs
+bk 6
+page
+359
+Func
+tional
+mtcs
+bk 6
+page
+7
+</passage>
+
+<passage id="lchk_c4287e2236664f34876c77b8819206e1" source="P.6 MTC term 3" part="3">
+P = add all sides
+l+w+l+w = P
+l+5+l+5 = 24cm
+l+l+5+5 = 24
+2l +10 = 24
+2l + 10-10 = 24-10
+2l = 14
+2l = 14
+2 2
+L = 7cm
+rectangle when
+given perimeter.
+Interpreta
+tion
+page 175
+and 176
+4 Perime
+ter and
+area of
+a
+rectan
+gle
+Finding sides, area and
+perimeter.
+Example
+1) ABCD is a rectangle
+A (2x-5)cm B
+(x-1)cm
+D (x+3)cm C
+a) Find the value of x.
+(2x-5) = (x+3)
+2x-5 = x+3
+2x-5+5 = x+3+5
+2x = x +8
+2x – x = x-x+8
+x = 8
+The learner;
+- identifies
+equal sides of
+a rectangle.
+The learner;
+- finds the
+unknown by
+comparing sides.
+- finds the actual
+length and width.
+- finds the area
+and perimeter of
+the rectangle.
+Accuracy
+Problem
+solving
+question
+and
+answer
+Finding
+the
+unknow
+n actual
+length
+and
+width
+Area
+Perimet
+er
+chalkb
+oard
+illustra
+tions
+mk maths
 book 6 page
-315-316
+334-335
 P.6
 curriculum
 page 175
 and 176
 For more schemes of work, visit www.uganda.madpath.com
-10
-= 4.8m
-Critical
-thinking
-illustra
-tion
-4 Circle Parts of a circle
-- relating diameter and radius.
-- diameter is twice the radius.
-Example
-1. Find the radius of a circle
-whose diameter is 14cm.
-R = D
-2
-= 14cm
-2 = 7cm
-2. Calculate the diameter of a
-circle whose radius is 3 ½ cm.
-D = 2r
-= 2xr
-= 2x3 ½ cm
-= 2 x 7
-2 = 7cm
+b) Find the:
+i) length ii) width
+iii) area iv) perimeter
+5 Area Finding area of shaded parts.
+Example.
+1. Study the figure below and
+find the area of the shaded part.
+9cm
+10cm
+Area of outer (bigger)
+= L x W
+= 10cm x 9cm
+= 90cm 2
+Area of inner (smaller)
+= L x W
+= 6cm x 4cm
+= 24cm 2
+Area of the shaded part.
+90cm 2
+- 24cm 2
+86cm 2
 The learner;
-- describes a
-circle
-- reads and
-spells new
-terms.
+- identifies
+the length
+and width of
+the inner and
+outer
+rectangles.
 The learner;
-- names the
-parts of a circle.
-- relates
-diameter and
-radius
-- finds diameter
-and radius
-Logical
+- finds the area
+of inner and
+outer shapes.
+- works out the
+area of the
+shaded part.
+logical
 thinking
-Critical
-thinking
-Interpreta
+interpreta
 tion
-Problem
+critical
+thinking
+problem
 solving
-Demons
-tration
-Observa
-tion
-Explanat
+explanat
 ion
-Discussi
-on
-Naming
-parts of
-a circle
-Finding
-radius
+guided
+discover
+y
+question
 and
-diameter
-A
-chart
-showi
-ng
-parts
-of a
-circle
-Findin
-g
-radius
-and
-diamet
-er
-Mk maths
-book 6 page
-327
-P.6
-curriculum
-page 175
-and 176
-5 Finding pie ( 𝜋 ) using diameter
-and circumference.
-- get a circular object and
-measure its circumference
-- measure its diameter
-- divide circumference by
-diameter to get pie ( 𝜋 )
-𝜋 = C
-D
-C = 𝜋 D
-The learner;
-- reads
-statements
-correctly.
-The learner;
-- describes
-diameter and
-circumference
-- identifies the
-symbol for pie
-( )
-- finds pie using
-diameter and
-circumference
-Accuracy
-Problem
-solving
-Demons
-tration
-Observa
-tion
-Finding
-pie
-Circul
-ar
-object
-s
-Chalk
-board
+answer
+finding
+the area
+of
+shaded
+part.
+chalkb
+oard
 illustra
 tion
-Mk primary
-maths book
-6 2000 page
-326
+mk maths
+book 6 page
+337
 P.6
 curriculum
 page 175
 and 176
-6 Calculating circumference of
-a circle.
-Formula used:
-C = 𝜋 D or
+6 Area Finding area of shaded part
+involving missing
+measurements.
+example
+1) Find the area of the shaded
+part.
+2dm
+2dm 2dm 9cm
+5dm
+2dm
+12dm
 The learner;
 - reads and
 interprets
-The learner;
-- finds
-circumference
-Interpreta
-tion
-Explanat
-ion
-Finding
-circumfe
-rence
-Chalk
-board
-illustra
-tion
-Mk maths
-book 6 page
-328
-For more schemes of work, visit www.uganda.madpath.com
-2 𝜋 r
-Examples
-Find the circumference of a
-circle whose:
-1) radius is 7cm
-C = 2 𝜋 r
-= 2 x22x7
-7
-= 2 x 22 = 44cm
 statements
-correctly.
-when given
-diameter.
-- finds
-circumference
-when given the
-radius.
-Critical
+The learner;
+- observes the
+two rectangles.
+- identifies the
+missing
+measurements.
+- finds the
+missing sides.
+- finds the area
+of different
+figures.
+interpreta
+tion
+logical
 thinking
-Observati
-on
-Guided
+guided
 discover
 y
-Illustrati
-on
+explanat
+ion
+finding:
+missing
+sides
+area of
+the
+chalkb
+oard
+illustra
+tions
+mk maths
+book 6 page
+337
 P.6
 curriculum
 page 175
 and 176
-7 Area of
-shape
-Square:
-- A square is a quadrilateral with
-all its sides and angles equal.
+6cm
+4cm
+For more schemes of work, visit www.uganda.madpath.com
+First find missing sides
+Length of the outer rectangle.
+= 8dm+2dm+2dm
+= 12dm
+width of the outer rectangle.
+= 5dm+2dm+2dm
+= 9dm
+area of the outer rectangle.
+= LxW
+= 12dmx9dm
+= 108dm 2
+Area of inner rectangle.
+= L x W
+= 8dm x 5dm
+= 40dm 2
+Area of the shaded part.
+= 108dm 2
+- 40dm 2
+68dm 2
+observati
+on
+problem
+solving
+illustrati
+on
+question
+and
+answer
+shaded
+parts
+7 Finding area of a triangle.
+Example.
+Find the area of the triangle
+below.
+5m 7m
+6m
+13m
+formula used:
+A = ½ x bxh
+= ½ x13mx6m
+= 1x13mx3m
+= 39m 2
+2)
+The learner;
+- identifies
+the base and
+height.
+- reads and
+interprets
+statements
+correctly.
+The learner;
+- finds the area
+of given
+triangles.
+logical
+thinking
+interpreta
+tion
+observati
+on
+explanat
+ion
+guided
+discussi
+on
+finding
+area of
+triangles
+chalkb
+oard
+illustra
+tions
+mk maths
+book 6 page
+338
+P.6
+curriculum
+page 175
+and 176
+For more schemes of work, visit www.uganda.madpath.com
+6cm 10cm
+8cm
+3) A
+10cm 11cm
+9cm
+B 3cm C 5cm D
+problem
+solving
+question
+and
+answer
+3 1 Finding missing sides in a
+triangle when given area.
+Example.
+Find the base of a triangle
+whose area is 60cm 2 and height
+is 12cm.
+- need for diagrammatic
+representation.
+A = 60cm2
+12cm
+A = ½ x b x h
+½ x b x h
+½ x bx12cm=60cm 2
+6b = 60
+6b = 60
+6 61
+b = 10cm
+2) Find the height of a triangle
+whose area is 30cm 2 and its
 </passage>
 
-<passage id="lchk_64bdae1d5ef74fe9886afcba15030680" source="P 6 Primary SIX MTC Notes Docx (ecolebooks Com)" part="32">
-(c) Where was Nduga after the first hour?
-(d) Calculate Nduga’s average speed for the whole journey.
-90
-80
-70
-60
-50
-40
-30
-20
-10
-P
-7am 8am 9am 10am
-Answers
-(b) At 7 am (c) 30 km away (d) A.V speed = 90km = 30km/ hr
-3hr
-Activity
-Pupils will do exercise 2 Nos 1 – 5 on page 109 of Oxford Primary MTC pupils BK 6.
-Remarks
-_____________________________________________________________________
-Distance
-in Km
-GET MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM
-GET MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM 65
-P.6 MTC TERM III
-TOPICAL BREAKDOWN FOR TERM III
-Theme Topic Sub topic
-Measurements Length, mass
-and capacity
-• Circumference
-• Measuring the length of a
-straight spring
-• Relationship between diameter
-and circumference ( ) pie of
-circle.
-• Finding circumference of a
-circle
-• Finding the radius and diameter
-when given circumference.
-• Area
-• Finding area of;
-- Triangles
-- Rectangle
-- Trapezium
-- Parallelogram
-- Circle
-- Kite
-• Volume
-• Finding value of;
-- Cube
-- Cuboid
-- Cylinder
-- Triangular prism
-• Capacity
-• Litres, half litres and quarter
-litres
-• Calculating capacity in litres and
-millilitres
-Geometry Lines,
-angles, and
-geometrical
-figures
-• Parallel lines
-- Construction of parallel lines
-- Using a set square
-- Construction of parallel lines
-- Using a compass
-• Perpendicular lines
-- Constructing perpendicular
-lines, perpendicular bisector
-- Dropping a perpendicular line
-from point
-- Skew lines
-• Angles
-- Naming common arms and
-adjacent angles, supplementary
-angles , vertically opposite
-angles, and complementary
-angles.
-- Construction of angles of 90 0 ,
-60 0 and 120 0
-- Bisecting angles
-- Construction of angles of 30 0 ,
-45 0 , 135 0 , 15 0 , and 75 0 etc
-- Properties of triangles (types of
-triangles)
-- Pythagoras theorem
-- Constructing a right angled
-triangle
-• Geometric figures
-- Quadrilateral and their
-properties
-- Application of properties of
-quadrilaterals
-- Calculating angle of a rhombus
-and parallelogram
-- Construction of squares
-- Construction of a regular
-hexagon in a circle
-- Construction of a pentagon
-when given sides
-GET MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM
-GET MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM 66
-- Simple properties of prisms
-- Nets of simple prisms
-Numeracy Integers • Integers on a number line
-• Addition of integers
-• Subtraction of integers
-• Writing mathematical
-statements
-• Addition and subtraction of
-integers without using a number
-line
-• Application of integers
-Algebra Algebra • Algebra (forming algebraic
-equations)
-• Collecting like terms
-• Substitution
-• Simple equations (solving
-equations)
-• By addition
-• By subtraction
-• By multiplication
-• By division
-• Equations involving brackets
-• Forming and solving equations
-formed from polygons.
-GET MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM
-GET MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM 67
-TOPIC LENGTH, MASS AND CAPACITY
-LESSON 1
-Subtopic: Length
-Content: Measuring
-Example: Learners will participate in measuring and recording length of
-different objects
-i.e Book (length)
-book (width)
-book (thickness)
-Geometry set (length, width, thickness)
-pencil (length)
-door (length, width )
-window (length, width)
-table (length, width, thickness)
-Activity
-Teacher will organize different objects to be measured by the pupils.
-Old Mk 313-315
-Remarks:
-_____________________________________________________________________
-LESSON 2
-Subtopic: Length
-Content: Changing from small to large units
-- metres to kilometres
-- centimetres to metres
-Examples: Change 2500 metres to kilometres
+<passage id="lchk_fe78f42f00684caa943bea35cdbfc4d2" source="MATH P.6 TERM III" part="2">
+1. Find the area of the figure below if its perimeter is 26cm and its width is 5cm.
+Sketch:
+P = 26cm 5cm
+?
+Length = perimeter – width
+2
+Length = 26cm – 5cm
+2
+Length = 13cm – 5cm
+Length = 8cm
+A = L X W
+A = 8cm X 5cm
+A = 40cm 2
+2. The perimeter of a square is 24cm. What is its area?
+Sketch:
+P = 24cm ?
+?
+Side = perimeter
+4
+Side = 24cm
+4
+Side = 6cm
+A = S X S
+A = 6cm X 6cm
+A = 36cm 2
+FINDING PERIMETER WHEN GIVEN THE AREA.
+For more lesson notes, visit www.freshteacheruganda.com
+1 Find the perimeter of the rectangle whose area is 28cm 2 and the width is 4cm
+Sketch:
+Area = 28cm 2
+4cm
+?
+Length = Area
+Width
+Length = 28cm 2
+4cm
+Length = 7cm
+P = 2(L + W)
+P = 2(7cm + 4cm)
+P = 2 X 11cm
+P = 22cm
+FINDING UNKNOWNS IN SQUARES AND RECTANGLES
+Example:
+1. Study the below and answer the questions about it:
+(2x-5) cm
+(x-1) cm
+(x+3) cm
+a. Find the value of x.
+2x-5 = x+3
+2x-5+5 = x+(3+5)
+2x-x = x – x + 8
+x = 8
+b. What is the length and width of the figure?
+Length = x + 3cm
+Length = 8 + 3 cm+
+Length = 11cm
+Width = x – 1cm
+Width = 8 – 1cm
+Width = 7cm
+c. Determine the perimeter of the shape
+For more lesson notes, visit www.freshteacheruganda.com
+P = 2(L+W)
+P = 2(11cm + 7cm)
+P = 2X18cm
+P = 36cm
+d. Calculate the area of the shape.
+A = L X W
+A = 11cm X 7cm
+A = 77cm 2
+FINDING AREA AND PERIMETER OF COMBINED SHAPES
+Example 1:
+Find the area and perimeter of the shaded region.
+6cm
+4cm 9cm
+10cm
+Area of outer rectangle:
+A = L X W
+A = 10cm x 9cm
+A = 90 cm 2
+Area of inner rectangle:
+A = L x W
+A = 6cm x 4cm
+A = 24 cm 2
+Area of shaded part:
+A = Outer area – Inner area
+A = 90cm 2 – 24cm 2
+A = 66cm 2
+Perimeter of outer figure
+P = 2(L + W)
+P = 2(10cm + 9cm)
+P = 2 x 19cm
+P = 38cm
+Perimeter of inner figure:
+P = 2(L + W)
+For more lesson notes, visit www.freshteacheruganda.com
+P = 2(6cm + 4cm)
+P = 2 x 10cm
+P = 20cm
+Perimeter of shaded region:
+P = Outer perimeter – Inner perimeter
+P = 38cm – 20cm
+P = 18cm
+Example 2:
+Study the figure below and use it to answer the questions that follow:
+3cm
+3cm 4cm 3cm
+5cm
+3cm
+a. Find the length and width of the outer figure
+Length = 5cm +(3cm + 3cm)
+Length = 5cm + 6cm
+Length = 11cm
+Width = 4cm +(3cm + 3cm)
+Width = 4cm + 6cm
+Width = 10cm
+b. Calculate the area of the un-shaded part.
+Outer area:
+A = L x W
+A = 11cm x 10cm
+A = 110cm 2
+Inner area:
+A = L x W=A = 5cm x 4cm
+A = 20cm 2
+Un-shaded area:
+A = outer area – inner area.
+For more lesson notes, visit www.freshteacheruganda.com
+A = 110 cm 2 – 20 cm 2
+A = 90 cm 2
+c. What is the perimeter of the un-shaded region?
+Perimeter of outer shape:
+P = 2(L + W)
+P = 2(11cm + 10cm)
+P = 2 x 21cm
+P= 42cm.
+Perimeter of inner shape:
+P = 2(L + W)
+P 2(5cm + 4cm)
+P = 2 x 9cm
+P = 18cm
+Perimeter of shaded part:
+P = outer perimeter – Inner perimeter
+P = 42cm – 18cm
+P = 24cm.
+AREA OF TRIANGLES
+Example 1:
+Find the area of the rectangle below
+6cm 9cm
+5cm
+Area = ½ base x height
+A = ½ x 5cm x 6cm
+A = 5cm x 3cm
+A = 15cm 2
+Example 2:
+What is the area of the figure shown below?
+8cm
+12cm
+A = ½ x b x h
+A = ½ x 12cm x 8cm
+A = 6cm x 8cm
+A = 48 cm 2
+For more lesson notes, visit www.freshteacheruganda.com
+Example 3:
+Study the figure below and use It to answer the questions that follow.
+6cm
+4cm 5cm
+a. Find the area of the shaded triangle.
+A = ½ x b x h
+A = ½ x 4cm x 6cm
+A = 2cm x 6cm
+A = 12cm 2
+b. What is the area of the un-shaded figure?
+A = ½ x b x h
+A = ½ x 5cm x 6cm
+A = 5cm x 3cm
+A = 15 cm 2
+c. Calculate the area of the whole figure.
+A = ½ x b x h
+A = ½ x (4cm + 5cm) x 6cm
+A = ½ x 9cm x 6cm
+A = 9cm x 3cm
+A = 27 cm 2
 </passage>
 
 <passage id="lchk_3c577bebbf324719882a98f517161905" source="P 6 Maths Thematic Schemeii&iii" part="3">
@@ -1666,6 +1726,350 @@ Problem solving
 -Using standard
 </passage>
 
+<passage id="lchk_64bdae1d5ef74fe9886afcba15030680" source="P 6 Primary SIX MTC Notes Docx (ecolebooks Com)" part="32">
+(c) Where was Nduga after the first hour?
+(d) Calculate Nduga’s average speed for the whole journey.
+90
+80
+70
+60
+50
+40
+30
+20
+10
+P
+7am 8am 9am 10am
+Answers
+(b) At 7 am (c) 30 km away (d) A.V speed = 90km = 30km/ hr
+3hr
+Activity
+Pupils will do exercise 2 Nos 1 – 5 on page 109 of Oxford Primary MTC pupils BK 6.
+Remarks
+_____________________________________________________________________
+Distance
+in Km
+GET MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM
+GET MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM 65
+P.6 MTC TERM III
+TOPICAL BREAKDOWN FOR TERM III
+Theme Topic Sub topic
+Measurements Length, mass
+and capacity
+• Circumference
+• Measuring the length of a
+straight spring
+• Relationship between diameter
+and circumference ( ) pie of
+circle.
+• Finding circumference of a
+circle
+• Finding the radius and diameter
+when given circumference.
+• Area
+• Finding area of;
+- Triangles
+- Rectangle
+- Trapezium
+- Parallelogram
+- Circle
+- Kite
+• Volume
+• Finding value of;
+- Cube
+- Cuboid
+- Cylinder
+- Triangular prism
+• Capacity
+• Litres, half litres and quarter
+litres
+• Calculating capacity in litres and
+millilitres
+Geometry Lines,
+angles, and
+geometrical
+figures
+• Parallel lines
+- Construction of parallel lines
+- Using a set square
+- Construction of parallel lines
+- Using a compass
+• Perpendicular lines
+- Constructing perpendicular
+lines, perpendicular bisector
+- Dropping a perpendicular line
+from point
+- Skew lines
+• Angles
+- Naming common arms and
+adjacent angles, supplementary
+angles , vertically opposite
+angles, and complementary
+angles.
+- Construction of angles of 90 0 ,
+60 0 and 120 0
+- Bisecting angles
+- Construction of angles of 30 0 ,
+45 0 , 135 0 , 15 0 , and 75 0 etc
+- Properties of triangles (types of
+triangles)
+- Pythagoras theorem
+- Constructing a right angled
+triangle
+• Geometric figures
+- Quadrilateral and their
+properties
+- Application of properties of
+quadrilaterals
+- Calculating angle of a rhombus
+and parallelogram
+- Construction of squares
+- Construction of a regular
+hexagon in a circle
+- Construction of a pentagon
+when given sides
+GET MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM
+GET MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM 66
+- Simple properties of prisms
+- Nets of simple prisms
+Numeracy Integers • Integers on a number line
+• Addition of integers
+• Subtraction of integers
+• Writing mathematical
+statements
+• Addition and subtraction of
+integers without using a number
+line
+• Application of integers
+Algebra Algebra • Algebra (forming algebraic
+equations)
+• Collecting like terms
+• Substitution
+• Simple equations (solving
+equations)
+• By addition
+• By subtraction
+• By multiplication
+• By division
+• Equations involving brackets
+• Forming and solving equations
+formed from polygons.
+GET MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM
+GET MORE RESOURCES LIKE THIS ON ECOLEBOOKS.COM 67
+TOPIC LENGTH, MASS AND CAPACITY
+LESSON 1
+Subtopic: Length
+Content: Measuring
+Example: Learners will participate in measuring and recording length of
+different objects
+i.e Book (length)
+book (width)
+book (thickness)
+Geometry set (length, width, thickness)
+pencil (length)
+door (length, width )
+window (length, width)
+table (length, width, thickness)
+Activity
+Teacher will organize different objects to be measured by the pupils.
+Old Mk 313-315
+Remarks:
+_____________________________________________________________________
+LESSON 2
+Subtopic: Length
+Content: Changing from small to large units
+- metres to kilometres
+- centimetres to metres
+Examples: Change 2500 metres to kilometres
+</passage>
+
+<passage id="lchk_6b13b320036b44d4a9de00d342080f5f" source="P.6 PRIMARY SIX MTC NOTES.docx TEACHER.AC" part="30">
+Examples: Oseke left his mother’s house 30km away, use the
+graph to answer questions that follow.
+30
+20
+10
+2pm 3pm 4pm
+5pm 6pm
+(a) What is the scale on the vertical axis? (1 square
+represents 5 km)
+(b) What is the scale on the horizontal axis? (1 square
+represents 20 minutes)
+(c) Calculate Oseke’s average speed before he rested?
+15 km = 15km/hr
+1 hr
+(d) How far from home was Oseke at 4 : 20 p.m? (5 km
+away)
+(e) At what time did he arrive at his home? (At 4 : 40
+p.m)
+Activity
+Pupils will do exercise 108 on page 176 No 5, 6, and 8 of Revision
+Maths for upper primary.
+Remarks
+_____________________________________________________________________
+LESSON 11
+Subtopic: Travel graphs
+Content: Drawing travel graphs
+Examples: Nduga started from town P at 7 a.m and covered
+60km in 2 hours, then he rested for 30 minutes. Then
+covered the remaining 30 km to town R in 30 minutes.
+(a) Show Nduga’s journey on a travel graph.
+(b) At what time did he start his rest?
+(c) Where was Nduga after the first hour?
+(d) Calculate Nduga’s average speed for the
+whole journey.
+90
+80
+70
+60
+50
+40
+30
+20
+10
+P
+7am 8am 9am 10am
+Answers
+(b) At 7 am (c) 30 km away (d) A.V speed
+= 90km = 30km/ hr
+3hr
+Activity
+Pupils will do exercise 2 Nos 1 – 5 on page 109 of Oxford Primary
+MTC pupils BK 6.
+Remarks
+_____________________________________________________________________
+64
+Distanc
+e in
+Km
+P.6 MTC TERM III
+TOPICAL BREAKDOWN FOR TERM III
+Theme Topic Sub topic
+Measurem
+ents
+Length,
+mass and
+capacity
+ Circumference
+ Measuring the length
+of a straight spring
+ Relationship between
+diameter and
+circumference ( ) pie
+of circle.
+ Finding circumference
+of a circle
+ Finding the radius and
+diameter when given
+circumference.
+ Area
+ Finding area of;
+- Triangles
+- Rectangle
+- Trapezium
+- Parallelogram
+- Circle
+- Kite
+ Volume
+ Finding value of;
+- Cube
+- Cuboid
+- Cylinder
+- Triangular prism
+ Capacity
+ Litres, half litres and
+quarter litres
+ Calculating capacity in
+litres and millilitres
+Geometry Lines,
+angles,
+and
+geometri
+cal
+figures
+ Parallel lines
+- Construction of parallel
+lines
+- Using a set square
+- Construction of parallel
+lines
+- Using a compass
+ Perpendicular lines
+- Constructing
+perpendicular lines,
+perpendicular bisector
+- Dropping a
+perpendicular line
+from point
+- Skew lines
+ Angles
+- Naming common arms
+and adjacent angles,
+supplementary
+angles , vertically
+opposite angles, and
+complementary
+angles.
+- Construction of angles
+of 90 0 , 60 0 and 120 0
+- Bisecting angles
+- Construction of angles
+of 30 0 , 45 0 , 135 0 , 15 0 ,
+and 75 0 etc
+- Properties of triangles
+(types of triangles)
+- Pythagoras theorem
+- Constructing a right
+angled triangle
+ Geometric figures
+- Quadrilateral and their
+properties
+- Application of
+properties of
+quadrilaterals
+- Calculating angle of a
+rhombus and
+parallelogram
+- Construction of
+squares
+- Construction of a
+regular hexagon in a
+circle
+- Construction of a
+65
+pentagon when given
+sides
+- Simple properties of
+prisms
+- Nets of simple prisms
+Numeracy Integers  Integers on a number
+line
+ Addition of integers
+ Subtraction of integers
+ Writing mathematical
+statements
+ Addition and
+subtraction of integers
+without using a
+number line
+ Application of integers
+Algebra Algebra  Algebra (forming
+algebraic equations)
+ Collecting like terms
+ Substitution
+ Simple equations
+(solving equations)
+ By addition
+ By subtraction
+ By multiplication
+ By division
+ Equations involving
+brackets
+ Forming and solving
+equations formed from
+polygons.
+</passage>
+
 <passage id="lchk_1d5db782c68947d3a85abe365868153f" source="EOT P.6 MTC BY SMILE" part="1">
 WHAT’S APP: +256779680288 1
 SMILE EDUCATION CONSULTANCY BUSUNJU
@@ -1783,164 +2187,6 @@ Food y
 i) Find the value of y . (3mks)
 ii) How much does she spend on fees? (2mks)
 END
-</passage>
-
-<passage id="lchk_ebb2c5fc448f4d8ebafce088138dc1ab" source="P6 MID TERM III" part="2">
-| | (b) Find the cost of a litre of cooking oil. (02 Marks) |
-
-|
-| | (c) Find the cost of 3 exercise books, = = litre of cooking oil and a 2 kg packet of
-| wheat flour. (02 Marks)
-
-24 | Study the triangle below and answer the questions that follow.
-
-15cm
-12c
-b
-(a) Find b. (ma marly?
-(b) Workout the area of the triangle. (02 marks)
-
-Te 2022. TEL: 0393 283600, (0752 999554, 0772 097028, 0704 924083
-
-B Prime Edueational Consul ON cTHEMATICS mi ERM Ii EXAMINATIONS 2022.
-
-ron ACADEMIC EXCELLENCE, ALWAYS USE THE PINE; SC ESCH open: Meiers HOLIDAY PACKAGES,
-
-
-(5 A cylindrical container below was to be filled with water-
-|
-
-!
-
-| 60cm |
-| |
-| 28cm |
-=>) (03 Marks) |
-
-(a) Find the volume of the container.( 1 = |
-
-(b) Workout its capacity in litres. (02 Marks)
-
-ely.
-
-76 | Gladys, Paul and Allen shared sh.240000 in the ratio 4:6:5 respectiv
-(03 Marks)
-
-(a) How much did each get?
-
-(b) How much less did Gladys get than Paul? ; (02 Marks)
-
-=
-27 | Acar took 3 hours to cover part of the j
-journey at a speed |
-another 2 hours at a speed of 80kam/hr. —_————
-Calculate the average speed of the car for the whole journey. (04 Marks)
-
-
-The table below shows marks obtained by pupils of Primary shi
-| 50 | 70 | 40 | 80 |
-
-_ a arene, ae Sea |
-
-| TF ney| 2 | 3 4 r
-
-= {i _| |
-
-— |
-| (ajJHow many pupils did the test?
-
-|
-7
-(01 Mark) |
-
-(b)Work out the median mark.
-
-|
-(02 Marks) |
-|
-\
-(03 Marks) |
-
-(c)Find their average mark.
-
-"79. Musa borrowed sh.600,000 from a village Sacco at a simple interest rate of 10%
-
-1
-| per year for i; years.
-
-(a) Workout the simple interest. (03Marks)
-
-|
-|
-|
-|
-|
-
-| (b)Find the total amount Musa paid back to the Sacco. (02 Marks)
-
-/30 | Using a ruler, a sharp pencil and a pair of compasses only, construct a regular
-hexagon in a circle of radius 4cm. (03 Marks)
-
-eas .
-
-aa
-
-
-(02 Marks) |
-
-TT ae oq ee rT hexa on.
-(b) Find the perimeter of the gi |
-
-—
-
-5 be - (02 Marks)
-(a) At/=
-
-(b)Hadijah is 4 years younger than Hawa. Their total age is 30 years. How old
-is Hadijah? (03 Marks) |
-
-The pie-chart below shows how a parent divides some money amongst her
-four children.
-
-| (a)Find the value of d in degrees. (02 Marks)
-
-|
-|
-
-| ‘
-| (b)Find the total amount of mone
-|
-
-y they shared if Haula got sh.120,000,
-(03marks)
-
-CamScanner
-
-~~J(b) Find the perimeter of the hexagon. (02 Marks)
-
-4
-
-31, | Solve. ;
-| (a) K+7=13 (02 Marks)
-
-(b)Hadijah is 4 years younger than Hawa. Their total age is 30 years. How old
-is Hadijah? (03 Marks) |
-
-i
-
-(32 The pie-chart below shows how a parent divides some money amongst her
-four children.
-
-| | (a)Find the value of d in degrees. (02 Marks)
-
-| (b)Find the total amount of money they shared if Haula got sh.120,000.
-(03marks)
-
-2022, TEL: 0393 263600, 0752 999:
-TH , 554, 0772 097028, 0704 9240!
-FOR ACADEMIC EXCELLENCE, SIME P.6 MATHEMATICS MID TERM ll EXAMINATIONS 2022. a al
-
-CamScanner
 </passage>
 </passages>
 
