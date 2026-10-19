@@ -1,6 +1,6 @@
 {
-  "job": "ltsk_f6adfab66db54507b756c6b5b6ab3a85-0",
-  "task": "ltsk_f6adfab66db54507b756c6b5b6ab3a85",
+  "job": "ltsk_579d1b4625e04f55909bc9cb7d73888e-0",
+  "task": "ltsk_579d1b4625e04f55909bc9cb7d73888e",
   "call": 0,
   "kind": "scheme.outline",
   "status": "open",
@@ -18,15 +18,12 @@
   "repair": false,
   "pack": "library/sch-7207f9/2026-T3/P1/christian-religious-education",
   "passages": [
-    "lchk_b6b48e9ad75e4e459fa9bf5877391140",
-    "lchk_01989bff14fa4b43a565c48b7ebbcc49",
-    "lchk_2a4cb1eb7c05417791f508fa111303fc",
-    "lchk_84af9f3b65dc469786636ee0e0ef5f8e",
-    "lchk_2d179efb100b4b3bbf889be69049cc67",
     "lchk_06bae8bec78742e590918e32d60c7b77",
-    "lchk_eea150274265402da2ada2ae6ff10ef2",
+    "lchk_3ad484a8bc434ca6b784417b97e149aa",
+    "lchk_73f42cce93f54a598f3ca9718dc2c84c",
     "lchk_24f00223669749ceb2d3134bfd2cbb0a",
-    "lchk_dc64760a07f04fa1ad6e228d2b409aa5"
+    "lchk_dc64760a07f04fa1ad6e228d2b409aa5",
+    "lchk_e8bced7e2c844676a11742eb7f44165a"
   ],
-  "created": "2026-10-19T08:02:38.200Z"
+  "created": "2026-10-19T08:13:28.328Z"
 }
