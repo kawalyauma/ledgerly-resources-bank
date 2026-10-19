@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_13a68ce1e98543dc98636571bdc297ab-0",
+  "task": "ltsk_13a68ce1e98543dc98636571bdc297ab",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 51,
+  "school": "sch-7207f9",
+  "class": "P1",
+  "classLevel": 1,
+  "subject": "Science",
+  "term": "2026-T3",
+  "week": 1,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_b7aab464e8644f5ab9ce4559e322674e",
+      "kind": "teach",
+      "week": 1,
+      "title": "Meaning and types of transport",
+      "periods": 1,
+      "subtopic": "Meaning and types of transport"
+    },
+    {
+      "id": "lles_6b02e0a58f5b4a138b5affc7408d5c53",
+      "kind": "teach",
+      "week": 1,
+      "title": "Water transport",
+      "periods": 1,
+      "subtopic": "Water transport"
+    },
+    {
+      "id": "lles_5520b17c2f56433a966e47abd9364037",
+      "kind": "teach",
+      "week": 1,
+      "title": "Railway transport",
+      "periods": 1,
+      "subtopic": "Railway transport"
+    },
+    {
+      "id": "lles_d23789d554bc4c559b29f60d5acf581d",
+      "kind": "teach",
+      "week": 1,
+      "title": "Air transport",
+      "periods": 1,
+      "subtopic": "Air transport"
+    },
+    {
+      "id": "lles_a7f8b4b9fe7041fdada4b98af8927c60",
+      "kind": "review",
+      "week": 1,
+      "title": "Week 1 review",
+      "periods": 1,
+      "subtopic": "Transport"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P1/science",
+  "passages": [
+    "lchk_bc264fd781ad4bb08d611f7b2f3f85f3",
+    "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+    "lchk_82c1a2885f414f588bf14de72f1767bd",
+    "lchk_933da9abb9964b45a40353e49b80f960",
+    "lchk_9d42c810e7424069a48b2320429ce25f",
+    "lchk_27001e67ba0047ebbc354fff4844fc7d",
+    "lchk_667831c292434e649f00424515ed96c9",
+    "lchk_958907ace9f1495ba1d97d1185c14578"
+  ],
+  "created": "2026-10-19T08:00:53.185Z"
+}
