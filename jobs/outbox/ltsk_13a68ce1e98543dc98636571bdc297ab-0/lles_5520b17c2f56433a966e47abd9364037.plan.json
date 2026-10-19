@@ -1,0 +1,100 @@
+{
+  "competences": [
+    "The learner connects a train with the rails it uses.",
+    "The learner identifies a railway station as a place where trains are found."
+  ],
+  "languageCompetence": "Pronounces, reads, spells and writes: railway, rails, train, station, goods.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to identify the train as a means of railway transport.",
+    "By the end of the lesson, learners should be able to draw a train on rails and name a railway station."
+  ],
+  "priorKnowledge": "Learners already named railway transport among the four types and distinguished water transport from transport on land.",
+  "methods": [
+    "Guided discussion",
+    "Observation",
+    "Question and answer"
+  ],
+  "materials": [
+    "Wall chart showing a train on rails and a railway station",
+    "Word cards for railway, rails, train and station"
+  ],
+  "references": [
+    "P I Literacy Lesson Notes Term III",
+    "NCDC P1 Curriculum TG"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Transport pictures and the starter question: Fill in the missing letters: R___ ___lway, tr___ ___n, r___ils.",
+      "teacherActivity": "The teacher displays wall chart showing a train on rails and a railway station and asks: \"Fill in the missing letters: R___ ___lway, tr___ ___n, r___ils.\" Learners first identify familiar pictures; the teacher connects their responses to railway transport.",
+      "learnerActivity": "Learners look at the transport pictures, identify familiar words, and give oral responses to the starter question before copying any notes.",
+      "source": {
+        "source": "lchk_7bc4fd2bd1b14712a8cb85dfd8e5e3f4",
+        "quote": "Matching words to pictures"
+      }
+    },
+    {
+      "stage": "Development: Meaning of railway transport",
+      "minutes": 7,
+      "content": "Meaning of railway transport: Railway transport is the movement of people and goods on rails. The rails are built on land.",
+      "teacherActivity": "The teacher points to the relevant transport pictures and writes these points on the board: Railway transport is the movement of people and goods on rails. The rails are built on land. Using guided discussion, the teacher asks: \"Fill in the missing letters: R___ ___lway, tr___ ___n, r___ils.\" and checks that learners identify the corresponding pictures or words.",
+      "learnerActivity": "Learners identify the pictures and words for meaning of railway transport, answer the quoted question, and copy the short points into their books.",
+      "source": {
+        "source": "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+        "quote": "movement of people with their goods on rails. These rails are built on land"
+      }
+    },
+    {
+      "stage": "Development: Means of railway transport",
+      "minutes": 7,
+      "content": "Means of railway transport: A train moves on rails. A train carries heavy things, such as food.",
+      "teacherActivity": "The teacher points to the relevant transport pictures and writes these points on the board: A train moves on rails. A train carries heavy things, such as food. Using guided discussion, the teacher asks: \"Draw a train.\" and checks that learners identify the corresponding pictures or words.",
+      "learnerActivity": "Learners identify the pictures and words for means of railway transport, answer the quoted question, and copy the short points into their books.",
+      "source": {
+        "source": "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+        "quote": "A train: is also used to carry heavy things eg food"
+      }
+    },
+    {
+      "stage": "Development: Place where we find a train",
+      "minutes": 6,
+      "content": "Place where we find a train: Trains are found at a railway station.",
+      "teacherActivity": "The teacher points to the relevant transport pictures and writes these points on the board: Trains are found at a railway station. Using guided discussion, the teacher asks: \"A __________ moves on railways.\" and checks that learners identify the corresponding pictures or words.",
+      "learnerActivity": "Learners identify the pictures and words for place where we find a train, answer the quoted question, and copy the short points into their books.",
+      "source": {
+        "source": "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+        "quote": "Train \u2013 railway station"
+      }
+    },
+    {
+      "stage": "Practice / Exercise",
+      "minutes": 10,
+      "content": "1. Fill in the missing letters: R___ ___lway, tr___ ___n, r___ils. 2. Draw a train. 3. A __________ moves on railways.",
+      "teacherActivity": "The teacher sets the sourced exercise: \"Fill in the missing letters: R___ ___lway, tr___ ___n, r___ils.\" \"Draw a train.\" \"A __________ moves on railways.\" The teacher reads each item clearly, checks individual answers, and uses the transport chart to correct mistaken identifications.",
+      "learnerActivity": "Learners answer the exercise questions in their books, complete any specified matching or drawing, and correct their responses with the teacher.",
+      "source": {
+        "source": "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+        "quote": "R ___ ___lway tr__ __ n r__ils"
+      }
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 5,
+      "content": "Key points: Railway transport is the movement of people and goods on rails. The rails are built on land.; A train moves on rails. A train carries heavy things, such as food.; Trains are found at a railway station.",
+      "teacherActivity": "The teacher checks the lesson objectives using these exercise items: \"Fill in the missing letters: R___ ___lway, tr___ ___n, r___ils.\" \"Draw a train.\" \"A __________ moves on railways.\" The teacher confirms correct answers against the board notes and identifies learners needing further picture-supported practice.",
+      "learnerActivity": "Learners give short oral answers, compare them with the transport pictures and board notes, and correct any remaining errors in their books.",
+      "source": {
+        "source": "lchk_7bc4fd2bd1b14712a8cb85dfd8e5e3f4",
+        "quote": "Matching words to pictures"
+      }
+    }
+  ],
+  "assessment": "Check the written exercise and oral responses: Fill in the missing letters: R___ ___lway, tr___ ___n, r___ils. Draw a train. A __________ moves on railways. Mark against the source-based answers and revisit incorrect identifications using the transport chart.",
+  "homework": "Complete or correct this sourced exercise item in your book: A __________ moves on railways.",
+  "lifeSkills": [
+    "Effective communication",
+    "Critical thinking",
+    "Appreciation"
+  ]
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "question": "Fill in the missing letters: R___ ___lway, tr___ ___n, r___ils.",
+    "answer": "Railway; train; rails.",
+    "answerOrigin": "source",
+    "kind": "fill_blank",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+      "quote": "R ___ ___lway tr__ __ n r__ils"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Draw a train.",
+    "answer": "Train (drawing).",
+    "answerOrigin": "source",
+    "kind": "drawing",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+      "quote": "Draw a train"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "A __________ moves on railways.",
+    "answer": "Train.",
+    "answerOrigin": "source",
+    "kind": "fill_blank",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+      "quote": "A ______ moves on railways"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  }
+]

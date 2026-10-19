@@ -1,0 +1,54 @@
+[
+  {
+    "question": "Write the means of transport for water transport.",
+    "answer": "Boat; ship. Ferry or canoe also accepted.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_933da9abb9964b45a40353e49b80f960",
+      "quote": "Write the means of transport for the following types of transport"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "A person who sails a ship is a __________.",
+    "answer": "Captain.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_933da9abb9964b45a40353e49b80f960",
+      "quote": "A person who sails a ship is a"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "A person who sails a boat is a __________.",
+    "answer": "Sailor.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_933da9abb9964b45a40353e49b80f960",
+      "quote": "A person who sails a boat is a"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Draw these means of water transport: boat and ship.",
+    "answer": "Boat; ship (drawings).",
+    "answerOrigin": "source",
+    "kind": "drawing",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_933da9abb9964b45a40353e49b80f960",
+      "quote": "Draw these means of water transport Boat ship"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  }
+]

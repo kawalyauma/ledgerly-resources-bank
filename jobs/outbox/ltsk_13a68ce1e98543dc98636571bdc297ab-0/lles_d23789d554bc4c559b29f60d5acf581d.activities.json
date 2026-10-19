@@ -1,0 +1,45 @@
+[
+  {
+    "question": "A person who flies an aeroplane is a __________.",
+    "answer": "Pilot.",
+    "answerOrigin": "source",
+    "kind": "multiple_choice",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+      "quote": "A person who flies an aeroplane is a"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "options": [
+      "Driver",
+      "Pilot"
+    ]
+  },
+  {
+    "question": "Draw an aeroplane and a helicopter.",
+    "answer": "Aeroplane; helicopter (drawings).",
+    "answerOrigin": "source",
+    "kind": "drawing",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+      "quote": "Read and draw An aeroplane helicopter"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Fill in the missing letters: a___roplane.",
+    "answer": "Aeroplane.",
+    "answerOrigin": "source",
+    "kind": "fill_blank",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+      "quote": "a __roplane"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  }
+]

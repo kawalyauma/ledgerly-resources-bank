@@ -1,0 +1,71 @@
+[
+  {
+    "question": "What is transport?",
+    "answer": "The movement of people and goods from one place to another.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_79f00c7f282047ada33fb3c8e5092131",
+      "quote": "What is transport?"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Name the four types of transport.",
+    "answer": "Road transport; water transport; railway transport; air transport.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_79f00c7f282047ada33fb3c8e5092131",
+      "quote": "Name the four types of transport"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "A person who sails a ship is a __________.",
+    "answer": "Captain.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_933da9abb9964b45a40353e49b80f960",
+      "quote": "A person who sails a ship is a"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "A __________ moves on railways.",
+    "answer": "Train.",
+    "answerOrigin": "source",
+    "kind": "fill_blank",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+      "quote": "A ______ moves on railways"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "A person who flies an aeroplane is a __________.",
+    "answer": "Pilot.",
+    "answerOrigin": "source",
+    "kind": "multiple_choice",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+      "quote": "A person who flies an aeroplane is a"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember",
+    "options": [
+      "Driver",
+      "Pilot"
+    ]
+  }
+]

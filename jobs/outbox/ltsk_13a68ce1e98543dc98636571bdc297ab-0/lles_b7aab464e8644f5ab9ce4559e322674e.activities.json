@@ -1,0 +1,41 @@
+[
+  {
+    "question": "What is transport?",
+    "answer": "The movement of people and goods from one place to another.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_79f00c7f282047ada33fb3c8e5092131",
+      "quote": "What is transport?"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Name the four types of transport.",
+    "answer": "Road transport; water transport; railway transport; air transport.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_79f00c7f282047ada33fb3c8e5092131",
+      "quote": "Name the four types of transport"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Give any two uses of transport.",
+    "answer": "Carrying people; carrying goods. Carrying animals or water are also in the notes.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_e029f0c3c450473ab2892e2bd4264f4b",
+      "quote": "Give any two uses of transport"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  }
+]
