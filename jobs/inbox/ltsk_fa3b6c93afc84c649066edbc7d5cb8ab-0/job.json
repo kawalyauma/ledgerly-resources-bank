@@ -1,0 +1,81 @@
+{
+  "job": "ltsk_fa3b6c93afc84c649066edbc7d5cb8ab-0",
+  "task": "ltsk_fa3b6c93afc84c649066edbc7d5cb8ab",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 51,
+  "school": "sch-7207f9",
+  "class": "P6",
+  "classLevel": 6,
+  "subject": "Mathematics",
+  "term": "2026-T3",
+  "week": 1,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [
+    {
+      "id": "lles_d6800929a40a4259a592cd787486eaec",
+      "kind": "teach",
+      "week": 1,
+      "title": "Metric units of length",
+      "periods": 1,
+      "subtopic": "Metric units of length"
+    },
+    {
+      "id": "lles_a08795a53ec04c749fa12d6af88d1caa",
+      "kind": "teach",
+      "week": 1,
+      "title": "Converting metric length units",
+      "periods": 1,
+      "subtopic": "Converting metric length units"
+    },
+    {
+      "id": "lles_95ac4e982f48438f9c315d6b7f62c0fb",
+      "kind": "teach",
+      "week": 1,
+      "title": "Converting square units",
+      "periods": 1,
+      "subtopic": "Converting square units"
+    },
+    {
+      "id": "lles_07e7dda1dff24388b780cd355bc7b3aa",
+      "kind": "teach",
+      "week": 1,
+      "title": "Area and perimeter of a square",
+      "periods": 1,
+      "subtopic": "Area and perimeter of a square"
+    },
+    {
+      "id": "lles_fa0ed1447ec64f65a880844618c18068",
+      "kind": "teach",
+      "week": 1,
+      "title": "Area and perimeter of a rectangle",
+      "periods": 1,
+      "subtopic": "Area and perimeter of a rectangle"
+    },
+    {
+      "id": "lles_df846ed449664d83a952543ebad64e97",
+      "kind": "teach",
+      "week": 1,
+      "title": "Unknown sides, area and perimeter",
+      "periods": 1,
+      "subtopic": "Unknown sides, area and perimeter"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P6/mathematics",
+  "passages": [
+    "lchk_036f6f4092db424eb71c43d3de3aaace",
+    "lchk_03f8b377dc464cf8a3543c4f833ea50d",
+    "lchk_969b90c21f504e58b1ac129ea32f0905",
+    "lchk_60186bc8e4de4ba7ae2d61d47ca83692",
+    "lchk_64bdae1d5ef74fe9886afcba15030680",
+    "lchk_3c577bebbf324719882a98f517161905",
+    "lchk_1d5db782c68947d3a85abe365868153f",
+    "lchk_96f26ff931f143f490a65df45ea0cb26",
+    "lchk_ebb2c5fc448f4d8ebafce088138dc1ab"
+  ],
+  "created": "2026-10-19T12:45:57.894Z"
+}
