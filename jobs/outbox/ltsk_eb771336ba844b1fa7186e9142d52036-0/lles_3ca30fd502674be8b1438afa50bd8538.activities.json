@@ -1,0 +1,41 @@
+[
+  {
+    "question": "Name the three colours of the traffic lights.",
+    "answer": "Red; orange; green.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_db5aee10b6944b13b0185638aff6c33f",
+      "quote": "Name the three colours of the traffic lights"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Write the meaning of the traffic lights: red, orange and green.",
+    "answer": "Red: stop. Orange: get ready. Green: go.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_db5aee10b6944b13b0185638aff6c33f",
+      "quote": "Write the meaning of the traffic lights"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Draw and shade the traffic lights.",
+    "answer": "Three labelled colours: red, orange and green.",
+    "answerOrigin": "source",
+    "kind": "drawing",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_82c1a2885f414f588bf14de72f1767bd",
+      "quote": "Draw and shade the traffic lights"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "question": "__________ transport is the movement of people and goods on land.",
+    "answer": "Road.",
+    "answerOrigin": "source",
+    "kind": "fill_blank",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_933da9abb9964b45a40353e49b80f960",
+      "quote": "transport is the movement of people and goods on land"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Write four means of road transport.",
+    "answer": "Bus; car; lorry; bicycle. Motorcycle is also listed.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_933da9abb9964b45a40353e49b80f960",
+      "quote": "Write four means of road transport"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Draw these means of road transport: bus and car.",
+    "answer": "Bus; car (drawings).",
+    "answerOrigin": "source",
+    "kind": "drawing",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_933da9abb9964b45a40353e49b80f960",
+      "quote": "Draw these means of road transport Bus car"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  }
+]

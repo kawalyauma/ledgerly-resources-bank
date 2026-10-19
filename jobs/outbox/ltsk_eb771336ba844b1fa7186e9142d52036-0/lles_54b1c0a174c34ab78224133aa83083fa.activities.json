@@ -1,0 +1,54 @@
+[
+  {
+    "question": "Write any one importance of road signs to road users.",
+    "answer": "They guide road users; help reduce traffic jams; help reduce road accidents.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+      "quote": "Write any one importance of road signs to road users"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Why is it good for you to follow road signs?",
+    "answer": "To help avoid road accidents.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_db5aee10b6944b13b0185638aff6c33f",
+      "quote": "Why is it good for you to follow road signs"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "How is a zebra crossing useful to road users?",
+    "answer": "It gives road users a safe place to cross the road.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_82c1a2885f414f588bf14de72f1767bd",
+      "quote": "How is a zebra crossing useful to road users"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Name the road signs shown on the classroom chart.",
+    "answer": "Stop; school ahead; zebra crossing; railway crossing; no parking.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+      "quote": "Name the road signs"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  }
+]

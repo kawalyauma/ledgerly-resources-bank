@@ -1,0 +1,8 @@
+{
+  "job": "ltsk_eb771336ba844b1fa7186e9142d52036-0",
+  "attempt": 1,
+  "agent": "codex-direct-p1-p4",
+  "model": "GPT-6",
+  "gaps": {},
+  "reviewerNotes": "Five complete lessons, with the school-source traffic-light wording retained. Any crossing discussion or demonstration takes place using classroom charts, not on a live road. The chart required for the road-sign identification exercise is explicitly named in materials; the names and answers all occur in the source. No new questions or changed factual claims are introduced."
+}

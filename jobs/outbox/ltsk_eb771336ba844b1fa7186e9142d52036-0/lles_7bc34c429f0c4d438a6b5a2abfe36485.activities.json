@@ -1,0 +1,67 @@
+[
+  {
+    "question": "Write four means of road transport.",
+    "answer": "Bus; car; lorry; bicycle. Motorcycle is also listed.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_933da9abb9964b45a40353e49b80f960",
+      "quote": "Write four means of road transport"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Write any one importance of road signs to road users.",
+    "answer": "They guide road users; help reduce traffic jams; help reduce road accidents.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+      "quote": "Write any one importance of road signs to road users"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Name the three colours of the traffic lights.",
+    "answer": "Red; orange; green.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_db5aee10b6944b13b0185638aff6c33f",
+      "quote": "Name the three colours of the traffic lights"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Write the meaning of the traffic lights: red, orange and green.",
+    "answer": "Red: stop. Orange: get ready. Green: go.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_db5aee10b6944b13b0185638aff6c33f",
+      "quote": "Write the meaning of the traffic lights"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Write down any two good ways of using the road.",
+    "answer": "Use a zebra crossing; use footpaths. Obeying traffic rules and not running are also in the notes.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_db5aee10b6944b13b0185638aff6c33f",
+      "quote": "Write down any two good ways of using the road"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "question": "Underline the safe ways of using the road: follow the traffic lights; over-speeding; obey traffic rules.",
+    "answer": "Follow the traffic lights; obey traffic rules.",
+    "answerOrigin": "source",
+    "kind": "structured",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_db5aee10b6944b13b0185638aff6c33f",
+      "quote": "Underline the safe ways of using the road"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "Write down any two good ways of using the road.",
+    "answer": "Use a zebra crossing; use footpaths. Obeying traffic rules and not running are also in the notes.",
+    "answerOrigin": "source",
+    "kind": "short_answer",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_db5aee10b6944b13b0185638aff6c33f",
+      "quote": "Write down any two good ways of using the road"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  },
+  {
+    "question": "A person who walks on the road is called a __________.",
+    "answer": "Pedestrian.",
+    "answerOrigin": "source",
+    "kind": "fill_blank",
+    "difficulty": 1,
+    "source": {
+      "source": "lchk_db5aee10b6944b13b0185638aff6c33f",
+      "quote": "A person who walks on the road is called a"
+    },
+    "skill": "identify",
+    "cognitiveLevel": "remember"
+  }
+]
