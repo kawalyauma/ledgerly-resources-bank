@@ -1,4 +1,4 @@
-# Job ltsk_13a68ce1e98543dc98636571bdc297ab-0
+# Job ltsk_eb771336ba844b1fa7186e9142d52036-0
 
 You are the curriculum engine of Ledgerly AI for a Ugandan school.
 Work from the passages, page images and records given in this prompt. Do not invent facts, topics, notes, examples, activities, questions, answers or names: every one of them is taken from the passages. You choose, order, tidy and format the material; you never make it up.
@@ -6,29 +6,29 @@ If the material does not cover something, leave it out or set the field to null 
 Do not run commands, open files or browse. Everything you need is in this prompt.
 Reply with ONE JSON object only, exactly matching the requested shape. No prose before or after it.
 
-Task: write ALL 5 lesson(s) below of week 1 of the Science scheme for Primary One 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
+Task: write ALL 5 lesson(s) below of week 2 of the Science scheme for Primary One 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
 Return exactly one entry per lessonId, keeping each lessonId exactly. Write the lessons in order so they build on each other; a practice or review lesson works from the lessons before it in this week.
 Class-depth rule: P1: one 40-minute lesson: 1–2 small ideas; about 6–14 short points; very short words; concrete/local examples; 3–5 oral, matching, tracing or picture-led activities.
 
-lessonId=lles_b7aab464e8644f5ab9ce4559e322674e: lesson 1, Monday, 1 period(s), 40 minutes.
-  Unit: Transport (theme: Our Transport). Lesson: Meaning and types of transport — Meaning and types of transport.
-  Objectives: By the end of the lesson, learners should be able to tell the meaning of transport.; By the end of the lesson, learners should be able to name road, water, air and railway transport.
+lessonId=lles_3b7da4478f9c4cbc83151f59bbaa4a68: lesson 6, Monday, 1 period(s), 40 minutes.
+  Unit: Transport (theme: Our Transport). Lesson: Road transport — Road transport.
+  Objectives: By the end of the lesson, learners should be able to identify three means of road transport.; By the end of the lesson, learners should be able to name people who use the road.
 
-lessonId=lles_6b02e0a58f5b4a138b5affc7408d5c53: lesson 2, Tuesday, 1 period(s), 40 minutes.
-  Unit: Transport (theme: Our Transport). Lesson: Water transport — Water transport.
-  Objectives: By the end of the lesson, learners should be able to identify boats and ships as means of water transport.; By the end of the lesson, learners should be able to name a person who uses water transport.
+lessonId=lles_54b1c0a174c34ab78224133aa83083fa: lesson 7, Tuesday, 1 period(s), 40 minutes.
+  Unit: Transport (theme: Our Transport). Lesson: Road signs — Road signs.
+  Objectives: By the end of the lesson, learners should be able to tell the purpose of road signs.; By the end of the lesson, learners should be able to identify a school-ahead sign and a zebra crossing.
 
-lessonId=lles_5520b17c2f56433a966e47abd9364037: lesson 3, Wednesday, 1 period(s), 40 minutes.
-  Unit: Transport (theme: Our Transport). Lesson: Railway transport — Railway transport.
-  Objectives: By the end of the lesson, learners should be able to identify a train as a means of railway transport.; By the end of the lesson, learners should be able to draw a train on a railway.
+lessonId=lles_3ca30fd502674be8b1438afa50bd8538: lesson 8, Wednesday, 1 period(s), 40 minutes.
+  Unit: Transport (theme: Our Transport). Lesson: Traffic lights — Traffic lights.
+  Objectives: By the end of the lesson, learners should be able to name the three traffic-light colours.; By the end of the lesson, learners should be able to match each light to its meaning.
 
-lessonId=lles_d23789d554bc4c559b29f60d5acf581d: lesson 4, Thursday, 1 period(s), 40 minutes.
-  Unit: Transport (theme: Our Transport). Lesson: Air transport — Air transport.
-  Objectives: By the end of the lesson, learners should be able to name two means of air transport.; By the end of the lesson, learners should be able to name the person who flies an aeroplane.
+lessonId=lles_87404e1cc6ec4df5910469209dc9aa43: lesson 9, Thursday, 1 period(s), 40 minutes.
+  Unit: Transport (theme: Our Transport). Lesson: Safe ways of using the road — Safe ways of using the road.
+  Objectives: By the end of the lesson, learners should be able to state two safe ways of using a road.; By the end of the lesson, learners should be able to show the order of looking before crossing a road.
 
-lessonId=lles_a7f8b4b9fe7041fdada4b98af8927c60: lesson 5, Friday, 1 period(s), 40 minutes.
-  Unit: Transport (theme: Our Transport). Lesson: Week 1 review — Transport.
-  Objectives: Review this week's lessons: Meaning and types of transport; Water transport; Railway transport; Air transport
+lessonId=lles_7bc34c429f0c4d438a6b5a2abfe36485: lesson 10, Friday, 1 period(s), 40 minutes.
+  Unit: Transport (theme: Our Transport). Lesson: Week 2 review — Transport.
+  Objectives: Review this week's lessons: Road transport; Road signs; Traffic lights; Safe ways of using the road
   This is the FRIDAY REVIEW of this week's lessons (listed in the objectives). notes = a '### Summary' heading per lesson with its key points ('- ' points), then '### Exercise' with review questions taken from the passages. activities = those questions.
 
 Write, using ONLY the passages below. Passages from "NCDC" documents are the official base for what to teach; NCDC lower-primary thematic curricula put every learning area in columns separated by " | ": use only the Science column.
@@ -301,6 +301,228 @@ and road accidents.
 Examples
 </passage>
 
+<passage id="lchk_e3d07b1570aa426dbf34b81164b491c6" source="P I Literacy Scheme OF Work Term III" part="2">
+- Parking, traffic lights, No
+parking , school ahead, zebra
+crossing, round about, humps,
+a head, stop accident a head,
+railway crossing, bridge, a
+head, animals, crossing
+- Guided
+discussion
+- Guided
+discovery
+- Question
+and
+answer
+- Spellings
+- Reading
+- Writing
+- Drawing
+- A chart
+showing
+road
+signs
+- Effective
+communic
+ation
+- Patience
+- Responsib
+ility
+- Care
+Rs them lit I Bk I pg 106 & 107 Kobta lit Bk I
+PG 74
+4 Traffic
+lights
+- Identifies the three
+colours of the traffic
+lights and their
+meanings.
+- Spells, reads and
+pronounces the words
+correctly.
+- Draws and names the
+colours of the traffic
+lights.
+- Writes the correct
+spellings
+Traffic lights
+There are three colours of the
+traffic lights
+- Red
+- Orange
+- Green
+Means of traffic lights
+- Red – stop
+- Orange – get ready
+- Green – go
+5 - Identifies the safe ways
+of using the road
+- States the unsafe ways of
+using the road.
+- Spells, reads and
+pronounces words
+correctly
+- Writes correct spellings
+Safe ways if using the road
+- Use zebra crossing, it is a safe
+place to cross from.
+- Obey traffic lights.
+- Do not cross the roads while
+running
+- Follow the traffic lights
+- Walk in a single line on the
+road.
+- Look right, look left, look right
+again, then cross the road.
+- Use foot paths for pedestrians
+on the road.
+- - - -
+KOBTA Lit Bk I pg 75 – 76
+1 A learner
+- Identifies the dangerous
+things on the road
+- Spells, reads and
+pronounces words
+correctly.
+- Writes correctly
+Dangerous things on the
+road
+- Broken bottles
+- Broken electric wires
+- Over speeding cars
+- Falling trees
+- Pot holes
+- Nails
+- stones
+- Guided
+discussion
+- Guided
+discovery
+- Question
+and
+answer
+- Reading
+- Spelling
+- Writing
+- A chart
+showing
+dangerou
+s objects
+which
+cause
+accidents
+on the
+road
+- Conscious
+ness
+- Responsib
+ility
+- Care
+The
+metic
+Lit I
+Bk I
+Pg
+79
+2 - Identifies the cause of
+road accidents and how
+to control accidents.
+- Spells, reads and
+pronounces words
+correctly.
+- Writes the words
+correctly
+Causes of road accidents
+These are things that may lead
+to accidents on the road.
+Examples
+- Over loading/ bicycles/ motor
+cycles
+- Talking on phone while
+driving
+- Speeding drivers
+- Drunken drivers
+- Pot holes
+- Slippery roads
+- Bad weather
+- Driving vehicles in bad
+mechanical condition
+- Bad roads
+How to control accidents on
+the road
+- Cross on the zebra crossing
+- Follow road signs
+- Avoid playing on the road
+- Follow traffic rules
+- Proper disposal of broken
+bottle and glasses.
+- - - -
+3 - Identifies the most
+expensive, cheapest
+common and quickest
+type of transport.
+- States the importance of
+transport.
+- Spells, reads and
+pronounces the words
+correctly.
+- Writes the words
+correctly
+Importance of transport
+- Carrying people
+- Carrying animal
+- Carrying goods
+- Carrying water
+- People get jobs e.g taxi drivers,
+boda boda riders.
+Comparing types of
+transports
+- Most expensive – air transport
+- Cheapest – water transport
+- Commonest – road transport
+- Quickest – air transport
+- Guided
+discussion
+- Guided
+discovery
+- Question
+and
+answers
+- Spelling
+- Reading
+- Writing
+- A chart
+showing
+different
+means of
+transport
+- Care
+- Problem
+solving
+- Love
+Kobta Lit BK 1 pg 95
+4 Things we
+make
+Things we
+make at
+home
+- Identifies the things we
+make at home.
+- Spells, reads and
+pronounces words
+correctly.
+- Draws the things we
+make at home
+Things we make at home
+- Playing things: e.g balls,
+dolls, ropes, toy cars, kites,
+mats.
+- Kitchen tools: basket, plates,
+cups, pots, mortar, pestles,
+charcoal, stove, winnower,
+</passage>
+
 <passage id="lchk_0eef048d0d11478fabe8abe5478ec9b0" source="P I Literacy Lesson Notes Term III" part="2">
 9. What is food? ___________________
 Date Class L. Area No. of children Time
@@ -420,6 +642,129 @@ Exercise
 1. Name the road signs
 !
 2. Write any one importance of road signs to road users.
+</passage>
+
+<passage id="lchk_db5aee10b6944b13b0185638aff6c33f" source="P I Literacy Lesson Notes Term III" part="3">
+3. Listen and write
+4. Identify two domestic birds
+5. Write the name of your headteacher
+Date Class L. Area No. of children Time
+THEME : Transport
+SUBTHEME : Road safety
+COMPETENCES : A Learner
+- Identifies the threecolours of the traffic lights
+- Tells the meanings of the traffic lights
+- Mentions the safe and unsafe ways of using the road
+- Spells reads and pronounces words correctly
+METHODS : Guided discussion
+- Guided discovery
+- Question and answer
+CONTENT : Traffic lights
+There are three colours of the traffic lights
+ Red
+ Orange
+ Green
+Meaning of traffic lights
+ Red – stop
+ Orange – get ready
+ Green – go
+10
+Safe ways of using the road
+ Use zebra crossing, it is a safe place to cross from
+ Obey traffic rules
+ Do not cross the road while running
+ Following the traffic lights
+ Walk in a single line on the road
+ Look right, look left and look right again, the cross.
+ Use foot paths for pedestrians on the road
+Unsafe ways of using the road
+ Playing on the road
+ Grazing on the road
+ Over loading of cars
+ Over speeding of cars
+ Driving while drunk
+Exercise
+1. Name the three colours of the traffic lights
+2. Write the meaning of the traffic lights
+a) Read means __________
+b) Orange means __________
+c) Green means ____________
+3. Underline the safe ways of using the road
+a) Follow the traffic lights, over speeding
+b) Obey traffic rules
+4. Why is it good for you to follow road signs?
+5. A person who walks on the road is called a_____
+6. Why is it bad to run while crossing the road?
+7. Write the name of your school
+Date Class L. Area No. of children Time
+THEME : Transport
+SUBTHEME : Road safety
+COMPETENCES : A learner
+- Identifies the dangerous things on the road
+- Read , spell and pronounce the words correctly
+- Write the spellings correctly
+METHODS : Guided discussion
+- Guided discovery
+- Question and answer
+11
+CONTENT : Dangerous things on the road
+ Broken bottles
+ Broken electric wires
+ Over speeding cars
+ Falling trees
+ Pot holes
+ Nails
+ Stones
+ Snakes
+Exercise
+1. Identify four dangerous things on the road
+b) ________________ c) _______________
+c) _______________ d) _______________
+2. Draw these dangerous things on the road
+Nails Stones Broken bottles Cars
+3. Write down any two good ways of using the road.
+4. What is the meaning of the following road sign?
+5. Match food to their classes
+Maize body building food
+Mango energy giving food
+Eggs healthy giving food
+6. Draw these accidents
+Falls ___________ strings _________
+12
+Date Class L. Area No. of children Time
+THEME : Transport
+SUBTHEME : Road safety
+COMPETENCES : A learner
+- Identifies the causes of road accidents
+- Read the words correctly
+- Spell and pronounce the words correctly and control measures
+METHODS : Guided discovery
+- Question and answer
+CONTENT : causes of road accidents
+These are things that may lead to accidents on the road.
+Examples
+Over loading/ bicycles/ motorcycles.
+Talking on phone while driving
+Over speeding drivers
+Drunken drivers
+Pot holes
+Slippery roads
+Bad weather
+Driving vehicles in bad mechanical condition.
+Bad roads
+How to control accidents on road
+ Cross on the Zebra crossing
+ Follow the road signs
+ Avoid playing on the road
+ Follow traffic rules
+ Proper disposal of broken bottles and glasses
+Exercise
+1. Underline the causes of road accidents
+Drunken driver, following road signs ,
+pot holes
+2. Mention three accidents at home
+3. An ___________is a sudden happening that causes harm or
+injury to the body.
 </passage>
 
 <passage id="lchk_82c1a2885f414f588bf14de72f1767bd" source="P I Literacy Lesson Notes Term III" part="4">
@@ -550,353 +895,125 @@ A person who flies an aeroplane
 People who travels in a bus
 </passage>
 
-<passage id="lchk_933da9abb9964b45a40353e49b80f960" source="P I Literacy Lesson Notes Term III" part="1">
-1
-LESSON NOTES
-FOR P.1
-LITERACY
-TERM III
-2
-Date Class L. Area No. of children Time
-THEME : Transport
-SUBTHEME : Types of transport
-COMPETENCES : A learner
-- defines the term transport
-- identifies types of transport
-- reads, spells and pronounces the words correctly
-- draws the types of transport
-METHODS : Guided discovery
-- Observation
-- Question and answer
-CONTENT : Transport
-It is the movement of people with their goods from one place to another.
-Types of transport
-There are four types of transport.
- Road transport
- Water transport
- Railway transport
- Air transport
-Exercise
-1. _____is the movement of people and their goods from one place to another
-2. Mention four types of transport
-a) ______________ c) __________________
-b) _____________ d) _______________
-3. Draw the following types of transport
-Water Road Railway Air
-4. Listen and write
-3
-5. Who teaches pupils at school? __________
-6. Mention two people found at school
-Date Class L. Area No. of children Time
-THEME : Transport
-SUBTHEME : Types and their means (road)
-COMPETENCES : ALearner
-- defines road transport
-- identifies the means of road transport
-- reads, spells and pronounces the words correctly
-- draws and names means of road transport
-- state people who we road transport
-METHODS : Guided discovery
-- Guided discussion
-- Question and answer
-CONTENT : Road Transport
-- This is the movement of people with their goods on land.
-- Most common type of transport.
-Types of roads
- Tarmac roads
- Murram roads
-Thematic book pg 96 x 99
-Text book teaching kobta
-Means of road transport
- Bus, bicycle, car, lorry, motorcycle, horse, camel, donkey,
-carts, foot
-People who use road transport
- Pedestrians, drivers motorists, passengers, cyclists / riders
-Exercise
-1. __________transport is the movement of people and goods on land.
-2. Write four means of road transport
-a) _________________ c) _________________
-b) _________________ d) _________________
-4
-3. Draw these means of road transport
-Bus car
-bicycle lorry
-4. Listen and write
-5. Circle common diseases
-flu TB malaria cough causer
-6. Why do we eat food?
-Date Class L. Area No. of children Time
-THEME : Transport
-SUBTHEME : Types and means of transport
-COMPETENCES : A learner
-- defines water transport
-- states the means used on water transport
-- read, spell and pronounce the words correctly
-- draws means of water transport
-- states people who use water transport
-METHODS : Explanation
-- Observation
-- Question and answer
-Text book teaching
-CONTENT : Water Transport
-- Is the movement of people with their goods on water
-- This is the slowest type of transport
-- It is the cheapest types of transport
-- It is used to transport heavy things like machines
-Mean of water transport
- Boats, ferries, yacht, canoes, ships
-People who use water transport
- Sailors, captain, navigators
- Captain – operates a ship.
- Sailor – sails a boat
-5
- Navigators – people who travel by water
-Problems faced by people who use water transport
- Bad weather
- Dangerous animals e.g. crocodiles
-Exercise
-1. Write the means of transport for the following types of transport
-2. Water transport : _______________ _______________
-3. Road transport :_______________ _______________
-4. A person who sails a ship is a _______________
-5. A person who sails a boat is a _______________
-6. Write two people who use water transport
-7. Draw these means of water transport
-Boat ship
-8. Draw these energy giving food
-Cassava _______ yam _______ maize
-_______
-</passage>
+<passage id="lchk_7bc4fd2bd1b14712a8cb85dfd8e5e3f4" source="NCDC P1 Curriculum TG" part="170">
+Sub-theme 9.1: Types and Means of Transport
 
-<passage id="lchk_9d42c810e7424069a48b2320429ce25f" source="NCDC P1 Curriculum" part="25">
- | Importance of keeping | present tense.
-food safe, e.g.:
-avoid | WRITING / TACTILE
-- | contamination |  Writing patterns
-- | rotting |  Writing simple words
-- | bad smell |  Writing short sentences in present
-- | diseases | tense
+Materials
+Wall chart showing types and means of transport
+Counters
+Word cards
+Number cards
 
-Assessment Guidelines for Theme 8
+Preparation
+Prepare rhymes and songs for the day's lessons
 
-Learning Area | Competences that can be Assessed
-Mathematics |  Count 1-80
- Recognise and write number symbols to 80
- Writing number names to 30
- Add vertically, numbers whose sum is less than 70
- Subtract up to 30, no borrowing
- Make drawings to show quarters
- Use containers and estimate capacity
-Literacy |  Talk about ways of keeping foods safe
- Talk about reasons for keeping foods safe
- Recite rhymes / poems
- Tell and re-tell stories related to food and nutrition with confidence
- Assemble graded jigsaws with at least 4 pieces
- Read 8-15 words related to food
- Write 3 short sentences about good feeding
- Read sentences in present tense
-Creative |  Print creatively using potatoes, leaves, fibre stalk
-Performing Arts |  Draw and colour at least 3 pictures of different foods
- Sing songs correctly
- Play simple percussion instruments
- Dance / move to the rhythm
- Model at least one food container
-English |  Recite a poem / rhyme correctly
- Name at least 5 foods
- Say what foods they like and do not like
- Say what they eat at home
+News
+• | Ask learners to tell you their news. Discuss what transport they use when coming to school.
+• | Recite a known rhyme
 
-TERM 3
-TERM 3
-Theme 9: Our Transport
-Expected Learning Outcomes: The learner is able to differentiate types and means of transport, appreciate their importance and related measures.
+Literacy I
+• Identify and describe types of transport
+• Reading words related to transport
+• Matching words to pictures
+• Asking and answering questions
 
-SUB-THEME / CONTENT | MATHEMATICS | LITERACY COMPETENCES | ENGLISH (NON-MEDIUM) | CREATIVE PERFORMING ARTS | LIFE SKILLS AND VALUES
-COMPETENCES | COMPETENCES
-9.1 TYPES AND MEANS OF |  Counting 1-90 | LISTENING AND | VOCABULARY |  | Role-playing |  | Self-awareness
-TRANSPORT |  Writing number symbols | SPEAKING |  Naming types and means |  | Singing / signing songs and |  | Effective communication
-81-90 |  Describing different | of transport e.g. road, | lullabies |  | Assertiveness
- | Types |  Writing number names | types of transport | water, air, railway car, bus, |  | Dancing |  | Decision-making
-- | rail | 31-35 |  Telling / re-telling / | bicycle, motorcycle, |  | Coping with emotions.
-- | water |  Matching number | signing stories using | donkey, camel, horse, boat, |  | Making models |  | Orientation and mobility
-- | air | symbols to number | past tense form of | ship, lorry |  | Drawing | (SNE)
-- | road | names | speech |  | Colouring |  | Critical thinking
- Telling number of days |  Naming different means | USING STRUCTURES |  | Painting |  | Creative thinking
- | Means | in a month | of transport and places |  „What‟s this/ that?‟ |  | Constructing
-car, bus, bicycle motorcycle, |  Multiplying by 3 using | where they are found, |  „This/that is …‟ |  | Patience
-donkey, camel, horse, ship, boat, | repeated addition | e.g. bus park, taxi-park, |  „What are these / those?‟ |  | Responsibility
-aeroplane, train, helicopter |  Classifying means of | airport, railway station |  „These/Those are…‟ |  | Sharing
-transport according to |  Saying tongue-twisters |  „Where is the …?‟ |  | Appreciation
-sizes, colour, types |  Reciting riddles and |  „It‟s …‟ |  | Co-operation
-rhymes |  „Here is the …‟ |  | Perseverance
- „What‟s he/she doing?‟
-READING /TACTILE |  „He/She is …‟
- Matching words of |  „Who is on …?‟
-different means of |  „… is on the …‟
-</passage>
+Literacy II
+• Prepare learners for writing through finger exercises.
+• Learners write patterns and letters h, a ha ha
+• Learners write words: water, road, air, and railway.
+• They recite a known rhyme.
+• Write short sentences.
 
-<passage id="lchk_27001e67ba0047ebbc354fff4844fc7d" source="P1 Curriculum" part="23">
-keeping
-food safe,
-e.g.:
-- covering
-- washing
-- smoking
-- salting
-- cooking
-- refrigerating
-- sun drying
-- storing
- Importance of keeping
-food safe, e.g.:
-avoid
-- contamination
-- rotting
-- bad smell
-- diseases
- Grouping
- Counting (71-80)
- Recognising shapes of
-food containers
- Multiplication by 3 using
-repeated addition.
- Identifying quarters to
-make a half and a whole.
-LISTENING AND SPEAKING
- Talking about how to keep food
-safe
- Telling news
- Reciting rhymes
- Identifying edible and non-edible
-items
- Talking about importance of
-keeping food safe
-READING / BRAILLING
- Matching
- Reading words
- Fitting jigsaws
- Reading short sentences in
-present tense.
-WRITING / TACTILE
- Writing patterns
- Writing simple words
- Writing short sentences in present
-tense
-VOCABULARY:
-Naming ways and
-importance of keeping food
-safe e.g.: clean, cover,
-cook, salt, sun dry, wash,
-store
-USING STRUCTURES
- „What are they …ing?‟
- „They are …ing‟
- „What are we …ing?‟
- „We are …ing‟
- „What is he/she
-doing…?‟
- „He/she is …‟
- Singing / signing songs
- Reciting rhymes / poems
- Movement
- Playing simple
-percussion Instruments
-e.g. rattles, shakers,
-clappers
- Role-playing
- Listening
- Colouring
- Printing using e.g.
-banana fibre stalk,
-leaves, potatoes
- Drawing
- Effective communication
- Self-awareness
- Critical thinking
- Decision-making
- Interpersonal relationships
- Creative thinking
- Orientation and mobility
-(SNE)
- Self-esteem
- Caring
- Responsibility
- Honesty
- Respect
-38
-38
-Assessment Guidelines for Theme 8
-Learning Area Competences that can be Assessed
-Mathematics  Count 1-80
- Recognise and write number symbols to 80
- Writing number names to 30
- Add vertically, numbers whose sum is less than 70
- Subtract up to 30, no borrowing
- Make drawings to show quarters
- Use containers and estimate capacity
-Literacy  Talk about ways of keeping foods safe
- Talk about reasons for keeping foods safe
- Recite rhymes / poems
- Tell and re-tell stories related to food and nutrition with confidence
- Assemble graded jigsaws with at least 4 pieces
- Read 8-15 words related to food
- Write 3 short sentences about good feeding
- Read sentences in present tense
-Creative
-Performing Arts
- Print creatively using potatoes, leaves, fibre stalk
- Draw and colour at least 3 pictures of different foods
- Sing songs correctly
- Play simple percussion instruments
- Dance / move to the rhythm
- Model at least one food container
-English  Recite a poem / rhyme correctly
- Name at least 5 foods
- Say what foods they like and do not like
- Say what they eat at home
-39 39
-TERM 3
-Theme 9: Our Transport
-Expected Learning Outcomes: The learner is able to differentiate types and means of transport, appreciate their importance and related measures.
-SUB-THEME / CONTENT MATHEMATICS
-COMPETENCES
-LITERACY COMPETENCES ENGLISH (NON-MEDIUM)
-COMPETENCES
-CREATIVE PERFORMING ARTS LIFE SKILLS AND VALUES
-9.1 TYPES AND MEANS OF
-TRANSPORT
- Types
-- rail
-- water
-- air
-- road
- Means
-car, bus, bicycle motorcycle,
-donkey, camel, horse, ship, boat,
-aeroplane, train, helicopter
- Counting 1-90
- Writing number symbols
-81-90
- Writing number names
-31-35
- Matching number
-symbols to number
-names
- Telling number of days
-in a month
- Multiplying by 3 using
-repeated addition
- Classifying means of
-transport according to
-sizes, colour, types
-LISTENING AND
-SPEAKING
- Describing different
-types of transport
- Telling / re-telling /
-signing stories using
-past tense form of
-speech
+Mathematics
+• Learners count round the class from 1 to 90.
+• Continue then from 81-90.
+• Learners count in 10s together - 10, 20, 30, 40 etc to 90.
+• Learners write number symbols 71-80.
+• End with a known counting song.
+
+English
+• Teach them new vocabulary "road, water, railway" using the following structures
+- What is this? This/That is a . . .
+- Where is the . . . . . . ? Here is the . . . . . .
+
+PE
+Experience with body and space awareness (Refer to Curriculum)
+
+RE
+IRE: | Reading the Quran: Surat Annas (Refer to Curriculum)
+Reciting the Surat
+CRE: | Plow??? Jesus expressed friendship among people e.g. lonely
+
+Creative Performing Arts (Music)
+• Teach a song related to types of transport.
+• As learners sing let them move according to the rhythm of the song.
+
+Primary School Curriculum , Teacher’s Guide- Primary 1
+
+9.1. | Types and Means of Transport
+
+Materials
+Wall chart showing different means of transport
+Number chart
+Picture cards
+Musical instruments
+Abacus
+Word cards
+Calendar
+
+Preparation
+Prepare all the materials above beforehand e.g. picture of cars with number plates.
+
+PE
+Experiences with body and space (Refer to Curriculum).
+
+Mathematics
+• Learners count 1-90
+• Learners name the months of the year
+• Using a calendar let learners tell the days of each month, January to June
+• They write the month of the year (ordinal numbers e.g. 1st, 2nd, 3rd).
+
+Literacy 1
+• Learners name common places related to types and means of transport e.g. bus park, taxi park, bus
+stop. Identify where these are if they are near the school and where they can catch a bus, taxi or
+bicycle, (borda borda)
+• Using a wallchart learners identify means of transport related to common places.
+• Learners read words from word cards related to common places and means of transport
+
+Literacy II
+• Learners write patterns and letters aha | aha and letters ah, a.
+• Learners write words and sentences.
+
+English
+• Revise the vocabulary for the previous English lesson (road, water, railway)
+• Using a wall chart teach the new vocabulary (i.e. car, bus, and bicycle) | using the following
+structures:
+- What is this/that? | This is/that is a ...
+- What are these/those? | These/those are ...
+
+News
+• | Learners tell news related to means of transport.
+• | Learners draw their news
+• | Learners display and talk about their work.
+
+RE
+IRE: Reading the Quran: Annas (Refer to Curriculum)
+Importance of Surat Al-Lahab
+CRE: What each member of the family contributes to the home.
+
+Creative Performing Arts (Music)
+• Learners sing a known song.
+• Learners play instruments to accompany the song.
+• Learners dance according to the rhythm of the song.
+
+National Curriculum Development Centre
+
+9.1. Types and Means of Transport
+
+Materials
+A wall chart showing types of transport
+Number cards
+Word cards
 </passage>
 
 <passage id="lchk_667831c292434e649f00424515ed96c9" source="P 1 Literacy 1" part="6">

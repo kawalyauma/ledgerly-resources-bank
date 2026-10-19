@@ -1,0 +1,72 @@
+{
+  "job": "ltsk_eb771336ba844b1fa7186e9142d52036-0",
+  "task": "ltsk_eb771336ba844b1fa7186e9142d52036",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 56,
+  "school": "sch-7207f9",
+  "class": "P1",
+  "classLevel": 1,
+  "subject": "Science",
+  "term": "2026-T3",
+  "week": 2,
+  "weeks": 10,
+  "periodsPerWeek": 5,
+  "lessons": [
+    {
+      "id": "lles_3b7da4478f9c4cbc83151f59bbaa4a68",
+      "kind": "teach",
+      "week": 2,
+      "title": "Road transport",
+      "periods": 1,
+      "subtopic": "Road transport"
+    },
+    {
+      "id": "lles_54b1c0a174c34ab78224133aa83083fa",
+      "kind": "teach",
+      "week": 2,
+      "title": "Road signs",
+      "periods": 1,
+      "subtopic": "Road signs"
+    },
+    {
+      "id": "lles_3ca30fd502674be8b1438afa50bd8538",
+      "kind": "teach",
+      "week": 2,
+      "title": "Traffic lights",
+      "periods": 1,
+      "subtopic": "Traffic lights"
+    },
+    {
+      "id": "lles_87404e1cc6ec4df5910469209dc9aa43",
+      "kind": "teach",
+      "week": 2,
+      "title": "Safe ways of using the road",
+      "periods": 1,
+      "subtopic": "Safe ways of using the road"
+    },
+    {
+      "id": "lles_7bc34c429f0c4d438a6b5a2abfe36485",
+      "kind": "review",
+      "week": 2,
+      "title": "Week 2 review",
+      "periods": 1,
+      "subtopic": "Transport"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P1/science",
+  "passages": [
+    "lchk_bc264fd781ad4bb08d611f7b2f3f85f3",
+    "lchk_e3d07b1570aa426dbf34b81164b491c6",
+    "lchk_0eef048d0d11478fabe8abe5478ec9b0",
+    "lchk_db5aee10b6944b13b0185638aff6c33f",
+    "lchk_82c1a2885f414f588bf14de72f1767bd",
+    "lchk_7bc4fd2bd1b14712a8cb85dfd8e5e3f4",
+    "lchk_667831c292434e649f00424515ed96c9",
+    "lchk_958907ace9f1495ba1d97d1185c14578"
+  ],
+  "created": "2026-10-19T08:07:33.227Z"
+}

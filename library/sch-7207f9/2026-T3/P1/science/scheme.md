@@ -2,16 +2,16 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Transport | Meaning and types of transport — Meaning and types of transport | writing |
-| 2 | 1 | teach | Transport | Water transport — Water transport | writing |
-| 3 | 1 | teach | Transport | Railway transport — Railway transport | writing |
-| 4 | 1 | teach | Transport | Air transport — Air transport | writing |
-| 5 | 1 | review | Transport | Week 1 review — Transport | writing |
-| 6 | 2 | teach | Transport | Road transport — Road transport | pending |
-| 7 | 2 | teach | Transport | Road signs — Road signs | pending |
-| 8 | 2 | teach | Transport | Traffic lights — Traffic lights | pending |
-| 9 | 2 | teach | Transport | Safe ways of using the road — Safe ways of using the road | pending |
-| 10 | 2 | review | Transport | Week 2 review — Transport | pending |
+| 1 | 1 | teach | Transport | Meaning and types of transport — Meaning and types of transport | written |
+| 2 | 1 | teach | Transport | Water transport — Water transport | written |
+| 3 | 1 | teach | Transport | Railway transport — Railway transport | written |
+| 4 | 1 | teach | Transport | Air transport — Air transport | written |
+| 5 | 1 | review | Transport | Week 1 review — Transport | written |
+| 6 | 2 | teach | Transport | Road transport — Road transport | writing |
+| 7 | 2 | teach | Transport | Road signs — Road signs | writing |
+| 8 | 2 | teach | Transport | Traffic lights — Traffic lights | writing |
+| 9 | 2 | teach | Transport | Safe ways of using the road — Safe ways of using the road | writing |
+| 10 | 2 | review | Transport | Week 2 review — Transport | writing |
 | 11 | 3 | teach | Transport | Dangerous things on the road — Dangerous things on the road | pending |
 | 12 | 3 | teach | Transport | Causes and control of road accidents — Causes and control of road accidents | pending |
 | 13 | 3 | teach | Things we make and communication | Things we make at home — Things we make at home | pending |
