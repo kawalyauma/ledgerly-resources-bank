@@ -1,0 +1,775 @@
+{
+  "title": "Primary One Science \u2014 Term 3 scheme of work",
+  "summary": "Ten teaching weeks, five 40-minute periods each week. The school literacy scheme supplies the sequence: transport; things we make and communication; environment; peace and security. Forty small teaching lessons leave the weekly review and final assessment periods to Ledgerly. Environment receives the greatest share because its school subtopics include animals, birds, plants and insects.",
+  "units": [
+    {
+      "title": "Transport",
+      "theme": "Our Transport",
+      "weekFrom": 1,
+      "weekTo": 3,
+      "competences": "The learner identifies means of transport, recognises road signs, and describes safe ways of using roads.",
+      "sources": [
+        {
+          "source": "lchk_bc264fd781ad4bb08d611f7b2f3f85f3",
+          "quote": "These are symbols put on roads to guide road users"
+        },
+        {
+          "source": "lchk_e3d07b1570aa426dbf34b81164b491c6",
+          "quote": "How to control accidents on the road"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning and types of transport",
+          "subtopic": "Meaning and types of transport",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to tell the meaning of transport.",
+            "By the end of the lesson, learners should be able to name road, water, air and railway transport."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bc264fd781ad4bb08d611f7b2f3f85f3",
+              "quote": "Transport is the movement of people and goods"
+            }
+          ]
+        },
+        {
+          "title": "Water transport",
+          "subtopic": "Water transport",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify boats and ships as means of water transport.",
+            "By the end of the lesson, learners should be able to name a person who uses water transport."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bc264fd781ad4bb08d611f7b2f3f85f3",
+              "quote": "Boats, ferries, yacht, canoes, ships"
+            }
+          ]
+        },
+        {
+          "title": "Railway transport",
+          "subtopic": "Railway transport",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify a train as a means of railway transport.",
+            "By the end of the lesson, learners should be able to draw a train on a railway."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bc264fd781ad4bb08d611f7b2f3f85f3",
+              "quote": "Draws the means of railway transport"
+            }
+          ]
+        },
+        {
+          "title": "Air transport",
+          "subtopic": "Air transport",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name two means of air transport.",
+            "By the end of the lesson, learners should be able to name the person who flies an aeroplane."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bc264fd781ad4bb08d611f7b2f3f85f3",
+              "quote": "Aeroplanes Helicopters"
+            }
+          ]
+        },
+        {
+          "title": "Road transport",
+          "subtopic": "Road transport",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify three means of road transport.",
+            "By the end of the lesson, learners should be able to name people who use the road."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bc264fd781ad4bb08d611f7b2f3f85f3",
+              "quote": "Bus - bicycle"
+            }
+          ]
+        },
+        {
+          "title": "Road signs",
+          "subtopic": "Road signs",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to tell the purpose of road signs.",
+            "By the end of the lesson, learners should be able to identify a school-ahead sign and a zebra crossing."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bc264fd781ad4bb08d611f7b2f3f85f3",
+              "quote": "These are symbols put on roads to guide road users"
+            }
+          ]
+        },
+        {
+          "title": "Traffic lights",
+          "subtopic": "Traffic lights",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name the three traffic-light colours.",
+            "By the end of the lesson, learners should be able to match each light to its meaning."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e3d07b1570aa426dbf34b81164b491c6",
+              "quote": "Red \u2013 stop Orange \u2013 get ready Green \u2013 go"
+            }
+          ]
+        },
+        {
+          "title": "Safe ways of using the road",
+          "subtopic": "Safe ways of using the road",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to state two safe ways of using a road.",
+            "By the end of the lesson, learners should be able to show the order of looking before crossing a road."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e3d07b1570aa426dbf34b81164b491c6",
+              "quote": "Use zebra crossing"
+            }
+          ]
+        },
+        {
+          "title": "Dangerous things on the road",
+          "subtopic": "Dangerous things on the road",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name three dangerous things on the road.",
+            "By the end of the lesson, learners should be able to identify a road hazard in a picture."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e3d07b1570aa426dbf34b81164b491c6",
+              "quote": "Broken bottles Broken electric wires"
+            }
+          ]
+        },
+        {
+          "title": "Causes and control of road accidents",
+          "subtopic": "Causes and control of road accidents",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify two causes of road accidents.",
+            "By the end of the lesson, learners should be able to state two ways of avoiding road accidents."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e3d07b1570aa426dbf34b81164b491c6",
+              "quote": "How to control accidents on the road"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Things we make and communication",
+      "theme": "Things We Make",
+      "weekFrom": 3,
+      "weekTo": 4,
+      "competences": "The learner names things made at home and school, identifies their materials and uses, and recognises familiar means of communication.",
+      "sources": [
+        {
+          "source": "lchk_e3d07b1570aa426dbf34b81164b491c6",
+          "quote": "Playing things: e.g balls, dolls, ropes"
+        },
+        {
+          "source": "lchk_c59083b188004ce194c13f539473b127",
+          "quote": "sisal - mud - clay - beads"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Things we make at home",
+          "subtopic": "Things we make at home",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name three things made at home.",
+            "By the end of the lesson, learners should be able to sort familiar things into playing things and kitchen tools."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e3d07b1570aa426dbf34b81164b491c6",
+              "quote": "Playing things: e.g balls, dolls, ropes"
+            }
+          ]
+        },
+        {
+          "title": "Means of communication",
+          "subtopic": "Means of communication",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify familiar means of communication.",
+            "By the end of the lesson, learners should be able to state a use of communication."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c59083b188004ce194c13f539473b127",
+              "quote": "Means of communication Uses of communication"
+            }
+          ]
+        },
+        {
+          "title": "Furniture and crafts",
+          "subtopic": "Furniture and crafts",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name three items of furniture.",
+            "By the end of the lesson, learners should be able to identify a craft made by hand."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c59083b188004ce194c13f539473b127",
+              "quote": "tables, chairs, beds cupboards"
+            }
+          ]
+        },
+        {
+          "title": "Clothes and tools we make",
+          "subtopic": "Clothes and tools we make",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name two clothes and two tools.",
+            "By the end of the lesson, learners should be able to identify familiar things made at school."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c59083b188004ce194c13f539473b127",
+              "quote": "hoes, slashers, knives, rakes"
+            }
+          ]
+        },
+        {
+          "title": "Uses of things we make",
+          "subtopic": "Uses of things we make",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to match a mat, ball and brick to their uses.",
+            "By the end of the lesson, learners should be able to state a use of a rope or chair."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c59083b188004ce194c13f539473b127",
+              "quote": "Mat \u2013 sitting on"
+            }
+          ]
+        },
+        {
+          "title": "Materials used to make things",
+          "subtopic": "Materials used to make things",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name three locally available materials.",
+            "By the end of the lesson, learners should be able to identify a familiar object made from local materials."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c59083b188004ce194c13f539473b127",
+              "quote": "sisal - mud - clay - beads"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Our environment: living things, plants and animals",
+      "theme": "Our Environment",
+      "weekFrom": 5,
+      "weekTo": 9,
+      "competences": "The learner identifies living and non-living things, names familiar animals and plants, matches animals to homes and young ones, and describes ways of caring for the environment.",
+      "sources": [
+        {
+          "source": "lchk_c59083b188004ce194c13f539473b127",
+          "quote": "Plants, animals, insects, birds"
+        },
+        {
+          "source": "lchk_daeee08ffe9b41b6a6c2f8a2e3e767cb",
+          "quote": "Cow calf Goat kid Cat kitten"
+        },
+        {
+          "source": "lchk_f4f327e562d447ebb5f6c5c94551a00f",
+          "quote": "These are birds kept at home"
+        },
+        {
+          "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+          "quote": "Planting trees Planting grass"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Components of our environment",
+          "subtopic": "Components of our environment",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to tell the meaning of environment.",
+            "By the end of the lesson, learners should be able to name four things found in the environment."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c59083b188004ce194c13f539473b127",
+              "quote": "Plants, animals, insects, birds"
+            }
+          ]
+        },
+        {
+          "title": "Living and non-living things",
+          "subtopic": "Living and non-living things",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify living and non-living things.",
+            "By the end of the lesson, learners should be able to state two characteristics of living things."
+          ],
+          "sources": [
+            {
+              "source": "lchk_daeee08ffe9b41b6a6c2f8a2e3e767cb",
+              "quote": "These are things which have life"
+            }
+          ]
+        },
+        {
+          "title": "Domestic animals and their uses",
+          "subtopic": "Domestic animals and their uses",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name three domestic animals.",
+            "By the end of the lesson, learners should be able to state two uses of domestic animals."
+          ],
+          "sources": [
+            {
+              "source": "lchk_daeee08ffe9b41b6a6c2f8a2e3e767cb",
+              "quote": "These are animals that are kept at home"
+            }
+          ]
+        },
+        {
+          "title": "Wild animals and where they live",
+          "subtopic": "Wild animals and where they live",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name three wild animals.",
+            "By the end of the lesson, learners should be able to identify places where wild animals live."
+          ],
+          "sources": [
+            {
+              "source": "lchk_daeee08ffe9b41b6a6c2f8a2e3e767cb",
+              "quote": "These are animals that live in the bush"
+            }
+          ]
+        },
+        {
+          "title": "Animal products and safe behaviour",
+          "subtopic": "Animal products and safe behaviour",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name two things made from animal skins.",
+            "By the end of the lesson, learners should be able to identify two dangers of wild animals."
+          ],
+          "sources": [
+            {
+              "source": "lchk_daeee08ffe9b41b6a6c2f8a2e3e767cb",
+              "quote": "Things we get from animal skins"
+            }
+          ]
+        },
+        {
+          "title": "Animals and their young ones",
+          "subtopic": "Animals and their young ones",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name the young ones of familiar animals.",
+            "By the end of the lesson, learners should be able to match animals to their young ones."
+          ],
+          "sources": [
+            {
+              "source": "lchk_daeee08ffe9b41b6a6c2f8a2e3e767cb",
+              "quote": "Cow calf Goat kid Cat kitten"
+            }
+          ]
+        },
+        {
+          "title": "Animals and their sounds",
+          "subtopic": "Animals and their sounds",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to match familiar animals to their sounds.",
+            "By the end of the lesson, learners should be able to name an animal from its sound."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f4f327e562d447ebb5f6c5c94551a00f",
+              "quote": "Cow \u2013 moos Goat \u2013 bleats"
+            }
+          ]
+        },
+        {
+          "title": "Animals and their homes",
+          "subtopic": "Animals and their homes",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name the homes of familiar animals.",
+            "By the end of the lesson, learners should be able to match animals to their homes."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f4f327e562d447ebb5f6c5c94551a00f",
+              "quote": "Cow \u2013 kraal Pig \u2013 sty"
+            }
+          ]
+        },
+        {
+          "title": "How and why animals move",
+          "subtopic": "How and why animals move",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify how familiar animals move.",
+            "By the end of the lesson, learners should be able to give two reasons why animals move."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f4f327e562d447ebb5f6c5c94551a00f",
+              "quote": "Looking for water Looking for food"
+            }
+          ]
+        },
+        {
+          "title": "How animals protect themselves",
+          "subtopic": "How animals protect themselves",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify the protective body parts of familiar animals.",
+            "By the end of the lesson, learners should be able to match a dog, cat and tortoise to their protection."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f4f327e562d447ebb5f6c5c94551a00f",
+              "quote": "animals use to protect themselves"
+            }
+          ]
+        },
+        {
+          "title": "Domestic birds",
+          "subtopic": "Domestic birds",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name familiar domestic birds.",
+            "By the end of the lesson, learners should be able to state two uses of domestic birds."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f4f327e562d447ebb5f6c5c94551a00f",
+              "quote": "These are birds kept at home"
+            }
+          ]
+        },
+        {
+          "title": "Wild birds",
+          "subtopic": "Wild birds",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name three wild birds.",
+            "By the end of the lesson, learners should be able to distinguish domestic birds from wild birds."
+          ],
+          "sources": [
+            {
+              "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+              "quote": "These are birds which stay in the bush or forest"
+            }
+          ]
+        },
+        {
+          "title": "Parts of a plant",
+          "subtopic": "Parts of a plant",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name the main parts of a flowering plant.",
+            "By the end of the lesson, learners should be able to identify plant parts on a real plant or chart."
+          ],
+          "sources": [
+            {
+              "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+              "quote": "leaf flower fruit stem roots"
+            }
+          ]
+        },
+        {
+          "title": "Food plants and fruit trees",
+          "subtopic": "Food plants and fruit trees",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name familiar food crops.",
+            "By the end of the lesson, learners should be able to identify two fruit trees."
+          ],
+          "sources": [
+            {
+              "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+              "quote": "These are crops grown for eating"
+            }
+          ]
+        },
+        {
+          "title": "Cash crops and useful plants",
+          "subtopic": "Cash crops and useful plants",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to tell the meaning of cash crops.",
+            "By the end of the lesson, learners should be able to name two uses of plants."
+          ],
+          "sources": [
+            {
+              "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+              "quote": "These are crops grown for sale"
+            }
+          ]
+        },
+        {
+          "title": "Caring for plants",
+          "subtopic": "Caring for plants",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify weeds as unwanted plants.",
+            "By the end of the lesson, learners should be able to state two ways of caring for plants."
+          ],
+          "sources": [
+            {
+              "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+              "quote": "By watering - By weeding"
+            }
+          ]
+        },
+        {
+          "title": "Useful and harmful insects",
+          "subtopic": "Useful and harmful insects",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name familiar useful and harmful insects.",
+            "By the end of the lesson, learners should be able to state a use of bees or grasshoppers."
+          ],
+          "sources": [
+            {
+              "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+              "quote": "Bees give us honey"
+            }
+          ]
+        },
+        {
+          "title": "Protecting our environment",
+          "subtopic": "Protecting our environment",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify two activities that damage the environment.",
+            "By the end of the lesson, learners should be able to state two ways of protecting the environment."
+          ],
+          "sources": [
+            {
+              "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+              "quote": "Planting trees Planting grass"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Peace and security",
+      "theme": "Peace and Security",
+      "weekFrom": 9,
+      "weekTo": 10,
+      "competences": "The learner recognises safe and unsafe situations, names trusted people who keep homes and schools safe, and describes peaceful behaviour.",
+      "sources": [
+        {
+          "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+          "quote": "people and their property are safe from danger"
+        },
+        {
+          "source": "lchk_908eff3c46cb4b858da6b5cdf3f9ad67",
+          "quote": "Things which are used to keep peace and security"
+        },
+        {
+          "source": "lchk_162c148ec3144be3871d0f1e01833182",
+          "quote": "It provides safety and protection to people"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning of peace and security",
+          "subtopic": "Meaning of peace and security",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to tell the meaning of security.",
+            "By the end of the lesson, learners should be able to identify people who keep the community safe."
+          ],
+          "sources": [
+            {
+              "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+              "quote": "people and their property are safe from danger"
+            }
+          ]
+        },
+        {
+          "title": "People who keep peace and security",
+          "subtopic": "People who keep peace and security",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name people who keep peace and security.",
+            "By the end of the lesson, learners should be able to state a role of the police or religious leaders."
+          ],
+          "sources": [
+            {
+              "source": "lchk_908eff3c46cb4b858da6b5cdf3f9ad67",
+              "quote": "Police man - Soldiers - Local council leaders"
+            }
+          ]
+        },
+        {
+          "title": "Keeping peace at school",
+          "subtopic": "Keeping peace at school",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to state three ways of keeping peace at school.",
+            "By the end of the lesson, learners should be able to identify behaviour that causes insecurity at school."
+          ],
+          "sources": [
+            {
+              "source": "lchk_908eff3c46cb4b858da6b5cdf3f9ad67",
+              "quote": "Obeying school rules and regulations"
+            }
+          ]
+        },
+        {
+          "title": "Keeping peace at home",
+          "subtopic": "Keeping peace at home",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name family members who help keep a home safe.",
+            "By the end of the lesson, learners should be able to state three ways of keeping peace at home."
+          ],
+          "sources": [
+            {
+              "source": "lchk_908eff3c46cb4b858da6b5cdf3f9ad67",
+              "quote": "Greeting one another"
+            }
+          ]
+        },
+        {
+          "title": "Things that can cause harm at home",
+          "subtopic": "Things that can cause harm at home",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify dangerous objects named in the source.",
+            "By the end of the lesson, learners should be able to identify people who protect children at home."
+          ],
+          "sources": [
+            {
+              "source": "lchk_908eff3c46cb4b858da6b5cdf3f9ad67",
+              "quote": "Things which are used to keep peace and security"
+            }
+          ]
+        },
+        {
+          "title": "Importance of peace and security",
+          "subtopic": "Importance of peace and security",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to state two reasons why peace and security are important.",
+            "By the end of the lesson, learners should be able to name people who promote good behaviour in the community."
+          ],
+          "sources": [
+            {
+              "source": "lchk_162c148ec3144be3871d0f1e01833182",
+              "quote": "It provides safety and protection to people"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": []
+}
