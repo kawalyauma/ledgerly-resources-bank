@@ -1,4 +1,4 @@
-# Job ltsk_c3058a71397d4055b8ae10ac200c35a1-0
+# Job ltsk_47ee2b40223e43a785eb371dd62e928d-0
 
 You are the curriculum engine of Ledgerly AI for a Ugandan school.
 Work from the passages, page images and records given in this prompt. Do not invent facts, topics, notes, examples, activities, questions, answers or names: every one of them is taken from the passages. You choose, order, tidy and format the material; you never make it up.
@@ -6,33 +6,33 @@ If the material does not cover something, leave it out or set the field to null 
 Do not run commands, open files or browse. Everything you need is in this prompt.
 Reply with ONE JSON object only, exactly matching the requested shape. No prose before or after it.
 
-Task: write ALL 6 lesson(s) below of week 1 of the English scheme for Primary Four 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
+Task: write ALL 6 lesson(s) below of week 2 of the English scheme for Primary Four 2026, Term 3, in ONE reply: for each lesson its chalkboard notes AND its lesson plan.
 Return exactly one entry per lessonId, keeping each lessonId exactly. Write the lessons in order so they build on each other; a practice or review lesson works from the lessons before it in this week.
 Class-depth rule: P4: one 40-minute lesson: 2–4 sections; about 12–24 points; meanings, examples and uses; 5–7 activities.
 
-lessonId=lles_ab709c243769477f9d5dc2457c5186ff: lesson 1, Monday, 1 period(s), 40 minutes.
-  Unit: Time and expression of the future — week 1 (theme: Expression of the future and Time). Lesson: Using if — Using if.
-  Objectives: By the end of the lesson, learners should be able to use if to express a condition and punctuate a conditional sentence.
+lessonId=lles_a1389d206da249cebbb742b03b620d79: lesson 7, Monday, 1 period(s), 40 minutes.
+  Unit: Time and expression of the future — week 2 (theme: Expression of the future and Time). Lesson: Using for — Using for.
+  Objectives: By the end of the lesson, learners should be able to use for to express duration.
 
-lessonId=lles_d82dbb9eddac46a5aedebb8cbba94210: lesson 2, Tuesday, 1 period(s), 40 minutes.
-  Unit: Time and expression of the future — week 1 (theme: Expression of the future and Time). Lesson: Using unless — Using unless.
-  Objectives: By the end of the lesson, learners should be able to use unless to express a negative condition.
+lessonId=lles_ef97d1dc02904f08a4e724c4aa5f279a: lesson 8, Tuesday, 1 period(s), 40 minutes.
+  Unit: Time and expression of the future — week 2 (theme: Expression of the future and Time). Lesson: Using before — Using before.
+  Objectives: By the end of the lesson, learners should be able to use before to order actions.
 
-lessonId=lles_158a41b592ad4482a3e12f50d5b2571d: lesson 3, Wednesday, 1 period(s), 40 minutes.
-  Unit: Time and expression of the future — week 1 (theme: Expression of the future and Time). Lesson: Using since — Using since.
-  Objectives: By the end of the lesson, learners should be able to use since with a starting point in time.
+lessonId=lles_7a85983cf8674af9b5f7fb617bc50a6b: lesson 9, Wednesday, 1 period(s), 40 minutes.
+  Unit: Time and expression of the future — week 2 (theme: Expression of the future and Time). Lesson: Using after — Using after.
+  Objectives: By the end of the lesson, learners should be able to join actions using after.
 
-lessonId=lles_d8040a8a9b59412a8235b83012670960: lesson 4, Thursday, 1 period(s), 40 minutes.
-  Unit: Time and expression of the future — week 1 (theme: Expression of the future and Time). Lesson: Future-time vocabulary — Future-time vocabulary.
-  Objectives: By the end of the lesson, learners should be able to read and spell future-time words.
+lessonId=lles_6d6d944a939e4dd992274981c5b43b9c: lesson 10, Thursday, 1 period(s), 40 minutes.
+  Unit: Time and expression of the future — week 2 (theme: Expression of the future and Time). Lesson: Reading: Namata’s work plan — Reading: Namata’s work plan.
+  Objectives: By the end of the lesson, learners should be able to interpret a weekly work plan and answer in full sentences.
 
-lessonId=lles_80e2c6fa87b046f099f6f57f37931828: lesson 5, Friday, 1 period(s), 40 minutes.
-  Unit: Time and expression of the future — week 1 (theme: Expression of the future and Time). Lesson: Using will and shall — Using will and shall.
-  Objectives: By the end of the lesson, learners should be able to form affirmative and negative future sentences.
+lessonId=lles_f159b2f7f0bc40f9861254e99aa84c88: lesson 11, Friday, 1 period(s), 40 minutes.
+  Unit: Time and expression of the future — week 2 (theme: Expression of the future and Time). Lesson: Reading: Amanya’s diary — Reading: Amanya’s diary.
+  Objectives: By the end of the lesson, learners should be able to read a diary and identify dates and events.
 
-lessonId=lles_ef59331003f94be28160c04dfdb1ac62: lesson 6, Friday, 1 period(s), 40 minutes.
-  Unit: Time and expression of the future — week 1 (theme: Expression of the future and Time). Lesson: Reading: Akot’s plan to go to the zoo — Reading: Akot’s plan to go to the zoo.
-  Objectives: By the end of the lesson, learners should be able to read a future-time passage and answer comprehension questions.
+lessonId=lles_89ae109bbfd045b882c32a6ab644f787: lesson 12, Friday, 1 period(s), 40 minutes.
+  Unit: Time and expression of the future — week 2 (theme: Expression of the future and Time). Lesson: Reading: Mukaga’s daily plan — Reading: Mukaga’s daily plan.
+  Objectives: By the end of the lesson, learners should be able to read a timed plan and answer questions.
 
 Write, using ONLY the passages below. Passages from "NCDC" documents are the official base for what to teach; NCDC lower-primary thematic curricula put every learning area in columns separated by " | ": use only the English column.
 For EACH lesson:
@@ -747,921 +747,773 @@ Page | 4
 Activity 4.
 </passage>
 
-<passage id="lchk_ffbd8d2a243242b78590b9329650b56a" source="P 4 Composition Scheme" part="1">
-ENGLISH SCHEME OF WORK; CLASS: P.4
-SUBJECT: COMPOSITION TERM: THREE, YEAR:2023
-W
-K
-PD TOPIC ASPECT COMPETENCES METHO
-DS
-SKILLS L/AIDS ACTIVITIE
-S
-VALUES LIFE SKILLS REF
-1 1&
-2
-Express
-ion of
-the
-Future
--
-Vocabulary:
-tomorrow,
-shall, will,
-next,
--construct
-sentences
-using the
-above
-words.
-- Punctuation
-capital
-letters.
-- Jumbled
-ideas.
--Guided
-composition
-swimming
-gala
--Free
-composition.
-The learner :
--spells &
-pronounces the
-words correctly.
--uses the new
-words correctly.
--punctuates
-correctly
--rearranges to
-form correct
-sentences.
--fills in with
-correct words.
--Writes a
-descriptive
-composition.
-Class
+<passage id="lchk_a8b51257a7204350820a66c1c782842d" source="P 4 ENG & SST Lesson Notes Term III 2023" part="2">
+Study Amanya’s Diary and answer the questions about it.
+Questions:-
+1. Whose diary is this?
+2. On which day of the week did this month begin?
+3. What did Amanya do on the first Wednesday of this month?
+4. When did Amanya send the invitation card to her uncle?
+5. What did Amanya’s father buy for her ?
+6. Who baked Amanya’s birthday cake?
+7. On which day did Amanya celebrate her birthday?
+8. When did the month end?
+9. When did Amanya attend thanks giving service?
+10.Who bought Amanya a new dress?
+Activity 5.
+Written Exercise
+Study Kivi’s activity plan for a whole week and answer questions that follow in
+full.
+October Morning Afternoon
+Sunday, 13 th Prayers Ironing clothes
+Monday, 14 th Reciting a poem Singing
+Tuesday, 15 th Spellings and dictation Computer lessons
+Wednesday, 16 th Writing a composition Drawing and painting
+Thursday, 17 th Debating Swimming lessons
+Friday, 18 th Attending school
+assembly
+Doing mixed work
+Saturday, 19 th Helps mother with
+domestic work
+Visits his friend in Kansanga.
+Questions:-
+1. When will Kivi go for prayers?
+2. What will Kivi do on Sunday afternoon?
+3. What will Kivi do on Monday, 14 th ?
+4. When will Kivi go for computer lessons ?
+5. Apart from drawing, what else does Kivi do on Wednesday?
+6. What does Kivi do on Thursday morning ?
+7. At what time of the day will Kivi attend the school assembly?
+8. Whom will Kivi help on Saturday?
+9. What kind of work will Kivi help his mother?
+10. Whom will Kivi visit on Saturday?
+11. Where does Kivi’s friend stay?
+Page | 5
+TOPI 1 C: USING STUDY TIME.
+Vocabulary
+1. borrow 6. usually
+2. lend 7. return
+3. library 8. notes
+4. librarian 9. notebook
+5. revise 10. textbooks
+Activity II
+Use the vocabulary above to construct sentences.
+Activity III
+Use the words in the box to fill in the gaps correctly.
+1. We write ………………in our exercise books.
+2. It is very important to …………………for end of term exams.
+3. A ………………works in a library.
+4. A ………………..is a collection of books.
+5. He told me to …………………….. him my jacket.
+Activity IV
+Study Mukaga’s plan for tomorrow and answer the questions that follow in
+full sentences.
+8:00 a.m Having breakfast at Doso’s restaurant.
+8:30 a.m Boarding a vehicle to Entebbe with friends.
+10:30 a.m Getting special hire taxi to the zoo.
+11:00 a.m Looking at different animals and birds.
+12:30p.m Taking photographs at the zoo.
+I:00 p.m Having lunch with my friends.
+2:00 p.m Swimming with my friends.
+2:45 p.m Boarding a vehicle back to Jinja.
+Questions
+1.Where will Mukaga go tomorrow?
+2.Where will he have breakfast from?
+3.For how long will he have his breakfast?
+4.With whom is he going to Entebbe?
+5.What will Mukaga do at 11:00 a.m?
+6.What will he do after looking at the animals?
+librarian
+lend
+library
+notes
+revise
+Page | 6
+7.At what time will he have lunch?
+8.What means of transport will he use to go to the zoo?
+9.Where does Mukaga stay?
+10.Write in full:
+(a) a.m
+(b)p.m
+Written Exercise
+Study Nanono’s timetable and answer questions that follow in full.
+9:00a.
+10.00a.m
+10:00a.m
+11:00a.m
+11:00a.m
+12:00p.m
+12:00p.m
+1:00p.m
+1:00p.m
+2:00p.m
+2:00p.m
+3:00p.m
+3:00p.m
+4:00p.m
+Math English Art L S.S.T Science
+Sci Maths S.ST Eng Music
+Maths Reading
 and
-group
-discussio
-ns
--
-listening
-.
--
-speakin
-g.
--
-reading
--writing.
--handouts
--
-chalkboar
-d
--
-textbooks
--reading
--spelling
--making
-sentences
--
-rearrangin
-g ideas
--filling in
-correctly
--story
-writing.
--
-cooperatio
-n
--
-appreciati
-on
--effective
-communicat
-ion
--decision
-making
-St.
-Bernard
-Bk4
-page
-152.
-Model
-compositi
-ons.
-Essential
-English
-workboo
-k.
-Trs.
-Collectio
-n.
-Christmas Dictionar
-y
-2 1&
-2
-Keepin
-g a
-Diary
--Vocabulary
-practice
-diary, date,
-time, note.
--matching
-words to
-their
-meanings
-- Structures
-What / very.
--Jumbled
-ideas.
-The learner :
--spells &
-pronounces the
-words correctly.
--matches the
-words to their
-meanings
-correctly.
--punctuates
-correctly
--rearranges to
-Class
-and
-group
-discussio
-ns
--
-listening
-.
--
-speakin
-g.
--
-reading
--writing.
--handouts
--
-chalkboar
-d
--
-textbooks
--a diary
--reading
--spelling
--making
-sentences
--
-rearrangin
-g
-sentences.
--filling in
-correctly.
--values
--co-
-operation
--
-appreciati
-on
--effective
-communicat
-ion
--decision
-making
-St.
-Bernard
-Bk4
-page
-160.
-Model
-compositi
-ons.
-Essential
-English
-- Revision
-( opposites)
-- Guided
-composition.
-(Kenya’s
-Diary)
-form good
-stories.
--gives opposites
-of words.
--fills in with the
-correct words.
--forming
-opposite
-words
-workboo
-k.
-Trs.
-Collectio
-n.
-Dictionar
-y
-3 1&
-2
-Using
-study
-time.
-- Vocabulary
-practice:
-library,
-borrow, lend,
-notes.
-- Structures
-.. usually..
-..sometimes..
-- Jumbled
-ideas.
--
-Revision (usin
-g correct
-forms)
--Jumbled
-composition:
-(Our time
-table).
-The learner :
--spells &
-pronounces the
-words correctly.
--uses the new
-words correctly.
--punctuates
-correctly.
--rearranges to
-form good
-stories.
--uses correct
-forms of words.
--Makes a good
-composition
-from the
-jumbled ideas.
-Class
-and
-group
-discussio
-ns
--
-listening
-.
--
-speakin
-g.
--
-reading
--writing.
--handouts
--
-chalkboar
-d
--
-textbooks
-- copies
-of the
-class
-timetable
-reading
--spelling
--making
-sentences
--
-completing
-sentences.
--arranging
--filling in
-correctly.
--values
--co-
-operation
--
-appreciati
-on
--effective
-communicat
-ion
--decision
-making
-St.
-Bernard
-Bk4
-page
-169.
-Model
-compositi
-ons.
-Essential
-English
-workboo
-k.
-Trs.
-Collectio
-n.
-Dictionar
-y
-4 1&
-2
-Games
-and
-Sports.
-- Vocabulary
-practice:
-run, jump,
-skip, throw.
-- Structures
-but /
-although
-- Punctuation
-- Jumbled
-ideas.
-- Revision
-…so….that
-…
-- Free
-composition.
-(Sports
-Bonanza.)
-The learner :
--spells &
-pronounces the
-words correctly.
--uses the new
-words correctly.
--punctuates
-correctly
--rearranges to
-form good
-stories.
--writes a
-narrative
-composition.
-Class
-and
-group
-discussio
-ns
--
-listening
-.
--
-speakin
-g.
--
-reading
--writing
--handouts
--
-chalkboar
-d
--
-textbooks
--pictures
-reading
--spelling
--making
-sentences
--arranging
--filling in
-correctly.
--
-cooperatio
-n
--
-appreciati
-on
--
-endurance
--joy
--patience
--honesty
--love
--self
-esteem
--
-assertivene
-ss
--conflict
-resolution
--empathy
-St.
-Bernard
-Bk4
-page
-176.
-Model
-compositi
-ons.
-Essential
-English
-workboo
-k.
-Trs.
-Collectio
-n.
+Writing
+Sci P.E R.E
+Eng Maths Computers Debate S.ST
+Assembly S.ST Eng Swimming Sci
+Questions
+1. Whose timetable is written above?
+2. What subject is taught after maths on Monday?
+3. What subject is taught on Tuesday after break?
+4. At what time does Nanono go for break?
+5. On which day is music taught?
 </passage>
 
-<passage id="lchk_66e2ee5447794359a38eab8dca9d1b53" source="P 4 ENG Grammar Scheme 2023" part="2">
-those used
-for asking
-questions
-Examples:
-Who, whom,
-whose etc.
-e.g.
-(1)Who are
-you?
-(2) Whom do
-you want?
-Construc
-ting
-sentenc
-es orally
-using
-interroga
-tive
-pronoun
-s.
-Filling in
-an
-exercise
-with
-suitable
-interroga
-tive
-pronoun
-s.
-4 1
--Do-
--Do- Listen
-ing
-Spea
-king
-Readi
-ng
-writin
-g
-Reflexi
-ve
-prono
-uns.
-Use reflexive
-pronouns
-correctly.
-Construct
-sentences
-using reflexive
-pronouns
-correctly.
-Write a filling-
-in-exercise
-using reflexive
-pronouns
-correctly
-Pronouns use
-“self” in
-singular and
-“selves” in
-plural
-Examples
-Myself –
-ourselves
-Himself-
-themselves
-Explan
-ation
-Guided
-Discove
-ry
-Look,
-say and
-use
-(LSU)
-Whole
-class
-discussi
-on.
+<passage id="lchk_9736199ab4a342ea936fa6d345b01be4" source="P 4 ENG Grammar Scheme 2023" part="1">
+P.4 ENGLISH GRAMMAR SCHEME OF WORK FOR
+TERM III 2023.
+WK PD TOPIC SUB-TOPIC SKILLS ASPEC
+T
+COMPE
+TENCE
+S
+CONTE
+NT
+METH
+ODS
+ACTIVITIES
+1 1
+to
+3
+GOING
+THROUG
+H
+HOLIDAY
+WORK
+HOLIDAY
+WORK
 Reading
-words
-and
-sentenc
-es
-Construc
-ting
-sentenc
-es orally
+&
+listening
+Speaking
 Writing
-and
-completi
-ng a
-filling-in-
-exercise.
-Life
-skills:
-Self
-Esteem
-Assertive
-ness
-Values
-Cooperat
-ion
-Appreciat
-ion
-Enduranc
-e
-Jot
-patience
-Honesty
-Love.
-Hando
-uts
-Textbo
-oks
-High
-school
-Eng.
-Gram,
-pgs
-43-44,
-MK
-Precis
-e
-Eng.
-Gram,
-pgs
-34-36
-2
--do-
-COND
-ITION
-AL
-CLAU
-SES
-IF
-CLAU
-SE (1)
-expressing
-“self” and
-others using “if
-1” correctly
-punctuate
-sentences
-correctly
-complete
-sentences
-correctly using
-given words
-complete
-sentences in
-different ways
-Conditional
-clause
-contain the
-words “if” or
-“unless”.
-Note :
-put a comma
-if the “if”
-clause comes
-first
-use a future
-simple tense
-in the “main
-clause”; and
-the present
-simple tense
-in the “if”
-clauses.
-If I pass
-exams, I will
-fly to London.
+- Reading
+- Answering orally
+- Writing corrections
+2 - Writing and completing e
+1 EXPRESSION
+OF THE
+FUTURE
+EXPRESSION
+OF THE
+FUTURE
+Listening
+Speaking
 Reading
-sentenc
-es
-Completi
-ng
+Writing
+The
+future
+simple
+tense.
+Vocabu
+lary
+“will”
+and
+“shall”
+They
+should
+be able
+to
+• U
+se the
+future
+simple
+tense
+correctl
+y
+• U
+se will
+• T
+he
+tense
+used
+when
+thinkin
+g or
+imagini
+ng an
+action
+or
+event
+that
+• Expla
+nation
+s
+• Guide
+d
+disco
+very
+• Whol
+e
+class
+discu
+ssion
+Reading words and senten
+future simple tense
+Writing and completing s
+exercise
+and
+shall in
+senten
+ces
+correctl
+y
+• P
+unctuat
+e
+joined
+senten
+ces
+correctl
+y
+• W
+rite
+and
+comple
+tely
+senten
+ces
+correctl
+y. With
+“will”
+and
+“shall”.
+will
+take
+place
+in
+future.
+• H
+elping
+verbs,
+used
+“will” &
+“shall”
+He
+She
++
+will
+They
+It
+I + shall
+We
+2
+EXPRESSION OF THE FUTURE
+EXPRESSION OF THE FUTURE
+Listening
+Speaking
+Reading
+writing
+Comple
+ting
+senten
+ces
+with
+“will”
+and
+“shall:
+with
+given
+verbs.
+• Compl
+ete
+senten
+ces
+with
+either
+“will”
+or
+“shall”
+with
+given
+verbs
+correct
+ly
+• Compl
+eting
 sentenc
 es with
-given
-words.
-Writing
+will and
+shall,
 and
-completi
-ng
-sentenc
-es in
-different
-ways
-Jnr
-Eng.
-Comp
-&
-Gram;
-pgs
-37-38
-MK
-Englis
-h
-Hand
-outs,
-M.o.O
-, PGS
-56-57.
-MK
-Precis
-e Eng.
-Gram,
-pgs
-146-
-147.
-3 Listen
-ing
-Spea
-king
-Readi
-ng
-writin
+given
+verbs.
+• Exam
+ples
+Julian –
+a prize
+next
+year –
+(get)
+Julian
+will get
+a prize
+next
+year
+• Expl
+anati
+on
+• Guid
+ed
+disco
+very
+Reading sentence
+Writing and completing sent
+3 The
+future
+continu
+ous
+tense
+• Use
+the
+futur
+e
+conti
+nuo
+us
+tens
+e
+corr
+• Used
+when
+sayin
+g or
+talkin
 g
-Condit
-ional
-clause
-2
-If (2)
+about
+an
+event
+that is
+-do-
+ectly
+.
+• Writ
+e
+and
+com
+plet
+e
+sent
+enc
+es in
+the
+futur
+e
+conti
+nuo
+us
+tens
+e
+corr
+ectly
+taking
+place
+for a
+perio
+d of
+time
+in the
+future
+• Helpi
+ng
+verb
+s
+Will be
++verb
+Shall be
+ending
+In- ing
+3 1
+EXPRESSION OF THE FUTURE
+The
+Passiv
+e in
+the
+future
+simple
+Vocab
+ulary
 Expressing
 “self” and
-“others” using
-If (2) correctly
-Punctuate the
-sentences
-correctly.
-Complete
-sentences
-using given
-words
-correctly.
-Complete
-sentences in
-different ways
-correctly.
-Conditional
-sentence or
-clause (2) is
-used to
-express a
-condition
-which is
-impossible
-The condition
-can’t be
-fulfilled at all
-e.g.
-If I was God, I
-would leave
-man to live
-for ever.
-The past
+others in the
+future simple
+tense correctly.
+Change the
+given
+sentences from
+the active to
+passive voice
+in the future
 simple tense
+correctly
+Re-write the
+given
+sentences
+correctly.
+The passive
+voice in the
+future simple
 is used in the
-if clause and
-the present
-tense in the
-main clause.
-Explan
-ation
+order below.
+Will be
+past
+Shall be
+participle
+Form of the
+verb.
+Examples:
+The woman
+will dig the
+garden
+tomorrow
+(active)
+The garden
+will be dug by
+the woman.
+(passive)
+Guided
+discove
+ry
 Discuss
 ion
 Whole
 class
 discussi
 on
-Guided
-discove
-ry
 Reading
-and
-construc
-ting
+the
+given
 sentenc
 es
-Completi
-ng
-sentenc
-es with
+Re-
+writing
+the
 given
-words
+sentenc
+es in the
+passive
+of the
+future
+simple
+tense
 Effective
 communi
-cation in
-fluency,
-Accuracy
-,
-Confiden
-ce
+cation
+(Accurac
+y, verbal
+expressio
+n)
 Values
-Patience
-Co-
-operation
-Appreciat
+Honesty
+Concern
+Cooperat
 ion
-Chart
 Hando
 uts
-Jnr.
-Eng.
-Comp
-&
-Gram,
-pgs
-39-41
 MK
 Precis
 e Eng.
 Gram,
 pgs
-147-
-149.
-MK.
-Eng.
-Hand
-book
-for
-P.5-7,
-by
-M.O.
-O pgs
-56-58.
-5 1 -do- Unless Using “unless”
-correctly in
-sentences
-Re-write
-sentences with
-unless
-correctly.
-Punctuate
-sentences
-correctly.
-Complete
-sentences in
-different ways.
-“Unless”
-means “if not”
-A comma is
-needed when
-unless begins
-a sentences;
-but it is not
-required
-when unless
-appears in
-the middle
-e.g
-If you don’t
-go to bed
-early, you will
-feel tired.
-Unless you
-go to bed
-early, you will
-get tired. (1
-&2) almost
-have the
-same
-meaning).
-Reading
-sentenc
-es
-Re-write
-sentenc
-es
-beginnin
-g with
-unless.
-Writing
-and
-completi
-ng
-sentenc
-es in
-ways as
-guided.
-Eng.
-Gram
-&
-exerci
-ses 3,
-pgs
-79-81
-Jnr.
-Eng.
-Comp
-&
-Gram
-MK
-Precis
-e Eng.
-Gram,
-pgs
-146-
-147
-2 NOUN
-S
+92-
+101
+2
+DEMOCRACY
+Electio
+ns
 Listen
 ing
 Spea
 king
 Readi
 ng
-Writin
+writin
 g
-Comm
-on
-Nouns
-Define the term
-“noun”
-Mention the
-classes of
-nouns.
-Giving
-examples of
-common nouns
-Identifying
-common nouns
-in given words.
+Relativ
+e
+prono
+uns.
+Using
+appropriate
+language in
+convincing
+others.
+Use relative
+pronouns
+correctly.
 Completing
 sentences
-selecting
-common nouns
-from given
-words.
-A noun is a
-naming word;
-used to name
-persons,
-animals,
+choosing the
+correct relative
+pronoun.
+Joining
+sentences
+correctly using
+relative
+pronouns
+Definition of a
+relative
+pronoun
+Examples:
+Who, whom,
+that, which,
+whose etc.
+Guided
+discove
+ry
+Whole
+class
+discussi
+on
+Construc
+ting
+sentenc
+es using
+relative
+pronoun
+s
+Joining
+sentenc
+es
+Writing a
+filling in
+exercise
+Values
+Cooperat
+ion
+Joy
+Enduranc
+e
+Appreciat
+ion
+Life
+skills
+Self
+Esteem
+Assertive
+ness
+Volunteer
+ing
+Peer
+resistanc
+e
+Textbo
+oks
+Hando
+uts
+Revisi
+on
+Englis
+h by
+Ronal
+d
+Forest
+, pgs
+91-92
+MK
+Precis
+e Eng.
+Gram.
+Pgs
+32-34
+High
+school
+Eng.
+Gram,
+pgs
+56-57.
+3 Interro
+gative
+prono
+uns
+Use
+interrogative
+pronouns in
+asking
+questions
+correctly.
+Use suitable
+pronouns to
+complete the
+given exercise.
+Interrogative
+pronouns are
 </passage>
 
-<passage id="lchk_502bab9a89e844fb8fffbee567c30d73" source="NCDC P4 ENGLISH SYLLABUS" part="5">
-The syllabus for P.4 has been arranged in matrix. The scope and sequence has been organized in eight topics. Each topic has sub-topics
-with subject competences to be developed using suggested learning activities. Each sub-topic has specific content of vocabulary and
-structures.
+<passage id="lchk_ac900ec3a1984e52b584e352e119d4ab" source="NCDC P4 ENGLISH SYLLABUS" part="15">
+• | Reads texts related to future activities and study time
+• | Writes personal diary and study timetable.
+• | Writes texts in the future tense.
+• | Uses a personal diary and study time table.
 
-Methodolog
-The recommended teaching methodology emphasizes active participation and performance of children in their own learning. Since P.4 is a
-transitional class, learners should be given more time to practice the structures learnt and vocabulary orally. Reading and writing should be
-enhanced through reading texts and a variety of writing exercises. The teacher is expected to use generic methods like demonstration, role
-play, creative writing and reporting.
+TOPIC 8: DEMOCRACY
+General background
+This topic will enable learners to develop vocabulary and structures related to democratic activities. This will enable learners to express
+themselves using appropriate language in different situations. The teacher should use demonstrations, discussions, dialogues and story
+telling to develop the required competences.
 
-ǀŝŝNational Curriculum Development Centre
-P4 English Syllabus, | vii
+Learning Outcome Learners will be able to use appropriate language to express themselves accurately and fluently when expressing
+appreciation, making comments, noting main points and answering questions in order to live harmoniously in society.
 
-Teaching Procedures
-TP1: Presenting vocabulary
-Steps to follow when teaching vocabulary
-Step 1 | Revise any learnt words and the structure learnt that you will need to use with the new words.
-Step 2 | Present the new words using objects/pictures/by demonstrating. Hold up the object/picture and say/sign the word
-several times.
-Step 3 | Learners repeat the word several times as you point to the object, picture, as a class, in pairs/groups or individually and
-emphasize correct pronunciation and intonation.
-Step 4 | Construct sentences using a known structure.
-Step 5 | Learners practice constructing sentences using the learnt words in pairs or individually.
-Step 6 | Learners write sentences, draw a picture, and play games using the structure and vocabulary learnt.
+Life skills and indicators.
+Self esteem
+Ǧ | Appreciating oneself.
 
-TP2: Presenting Structures
-Steps top follow when teaching structures
-Step 1 | Revise relevant previous vocabulary and any related structures(s)
-Step 2 | Present the new structure using known vocabulary and illustrate the meaning by miming or in context.
-Step 3 | Learners repeat the new structure with emphasis on correct pronunciation and intonation.
-Step 4 | Construct sentences using the structure.
-Step 5 | Learners practice asking and answering questions in groups or pairs.
-Step 6 | Learners describe pictures and write sentences using the structure learnt where appropriate.
+Assertiveness
+Ǧ | Being open
+Ǧ | Listening to and valuing what others say
+Ǧ | Volunteering
+Ǧ | Standing for one’s right
+Ǧ | Giving reasons for actions taken.
+Ǧ | Peer resistance
+Ǧ | Defending one’s decisions
 
-TP4 Teaching Through a Dialogue
-Steps to follow when using a dialogue
-Step 1 | Revise the structure and vocabulary previously learnt. Make sure everyone understands the meaning.
-Step 2 | Say the dialogue as learners listen.
-Step 3 | Learners repeat after you several times.
-Step 4 | Divide the class into two groups, let them say with each group take on one part.
-Step 5 | Learners practice in pairs or in chain drill One or two pairs demonstrate.
-Step 6 | Let pairs demonstrate to the rest of the class.
+ϮϭNational Curriculum Development Centre
+P4 English Syllabus, | 21
 
-viii | ǀŝŝŝ
-P4 English Syllabus, National Curriculum Development Centre
+Non – violent conflict resolution
+• Negotiating
+• Accepting defeat
+• Use of appropriate body language
 
-TP5: Teaching Through Games
-Step 1 | Teach or revise any new words they will need in the game.
-Step 2 | Explain how the game will be played. Give clear instructions in English.
-Step 3 | Demonstrate the game to the children
-Step 4 | Encourage volunteers who may have understood the game to demonstrate to the class.
-Step 5 | Children play the game. It can be outside the class.
+Empathy
+• Supporting others
+• Listening to others
 
-TP6: Teaching Through Role-play and Acting
-Use the same procedures as for dialogue (TP4 above). When learners have developed more vocabulary, you will be able to use a much freer
-approach to acting/role-playing.
+Values
+• | Co-operation | • | Honesty
+• | Appreciation | • | Love
+• | Endurance | • | Joy
+• | Patience
 
-Instructional Materials
+SUB-TOPIC 8.1: GAMES AND SPORTS
+
+Subject competences | Content | Suggested activities
+• Using vocabulary and structures to construct
+The learner: | Vocabulary | meaningful statements.
+• Identifies games and sports | run, jump, play, football, netball, skip, race, throw | • Role playing different games and sports
+played | high, long, kick, player, lose, win, happy. clap, shout, | events.
+• Uses appropriate vocabulary | game, support, slow, ordinal numbers, fast, quickly | • Conducting simple conversations on games
+and structures when | and sports.
+volleyball, watch, coach, umpire, referee.
+describing games and sports. | • Listening to and answering questions about
+• Gives and follows simple | radio sports programmes.
+Grammar
+instructions in a given game | • Reading stories related to sports
+and sport | • Use of adjectives
+• Reading simple articles and adverts on games
+• Sustains simple | and sports.
+Language Structures
+conversations | • Reading and interpreting information on a
+• Reads simple articles on | • | What will …. do? | score board.
+sports and games | • Writing guided compositions.
+• | e.g. what will Akello do?
+• Reads and interprets points | • Writing simple instructions
+• | … will …
+22 | ϮϮNational Curriculum Development Centre
+P4 English Syllabus,
+
+on a score board. | • | Akello will play football. | • Writing simple articles on games and sports.
+• Writes simple descriptions on | • | Who was the ……. (first, second)? | •  Writing descriptions of selected games and
+a given game or sport. | • | …. was …. the ……. | sports.
+
+Subject competences | Content | Suggested activities
+• | Writes simple articles | • | E..g. who was the first? | • Rearranging sentences related to sports
+related to games and | • | E.g. Opendu was the first | and games events in a logical flow.
+sports. | Why was …… the ……..
+• E.g. why was Delia the last?
+• ….. was the ……. because…………
+• E.g. Delia was the last because she was slow
+• ……want(s) to …… when …….
+• I want to play volley ball when I join Primary Five
+
+SUB – TOPIC 8.2: MUSIC, DANCE AND DRAMA
+</passage>
+
+<passage id="lchk_43d1a5388030467d8aa5d3bd64890a2a" source="NCDC P4 ENGLISH SYLLABUS" part="14">
+The learner: | Vocabulary | and structures in
+• Talks about future | • tomorrow, next Monday next week, next month, next year, shall not, | meaningful statements.
+events | will not, arrive,
+• | Acting dialogues
+• Explains what will | Grammar: | /conservations related to
+happen | • Use shall and will when expressing the future. | future events
+• Responds to questions | • NB. I/we are used with shall | • | Asking and answering
+appropriately. | • You/she/he/they used with will. | questions in the future
+• Narrates events related | • Use of ‘will not’ | tense.
+to future happenings. | • | Talking about events
+Language Structures
+• Read plans written by | related to the future
+• I/we shall … You/she/he/they will …
+their peers. | • … will…. | events.
+• Writes personal plans. | • E.g. Alice will go to school tomorrow. | • | Reading simple texts
+• … shall … | describing future events
+• E.g. I shall eat a mango tomorrow | • | Reading plans of other
+• … shall not … | learners.
+• We shall not go to school next Monday. Shall we ……. tomorrow/next | • | Writing sentences and
+week? | short texts in the future
+• Yes, we shall …… No, we shall not … | tense.
+• … will not …. | • | Formulating sentences
+• E.g. Masaba will not come for the meeting tomorrow. | from substitution tables.
+• Will …? | • | Writing guided composition.
+• E.g. Will Masaba/he/she …… tomorrow? Yes, /she/Masaba will…….. | • | Writing personal plans.
+• No, he/she will not………
+
+ϭϵNational Curriculum Development Centre
+P4 English Syllabus, | 19
+
+Sub-topic 7.B: Keeping a diary
+
+Subject competences | Content | Suggested activities
+• Using vocabulary and
+The learner: | Vocabulary | structures related to keeping
+• Talks about activities in a • | diary, read, note, date, day, month, year, calendar time | a diary.
+diary | • Acting dialogues related to
+• Reads events in a diary | Language Structures
+keeping a diary.
+• Records events in a diary | • …… will …. on ….
+• Reading and interpreting
+• e.g. Miriam will visit her grandmother on 25th August. Revise then,
+• Keeps a personal diary | information in a diary.
+where and what time. Will … ?
+• No… will … Yes … will …. | • Recording events in a
+• e.g. Will Apio go to the market on Monday? | personal diary.
+Ǧ No, she will not | • Keeping a class diary.
+Ǧ No, she will go to the market on Sunday Yes she will go to the market
+on Monday Yes,
+• she will.
+
+Sub-topic 7.C: Using study time
+
+Subject competences | Content | Suggested activities
+• Using given vocabulary and structures
+The learner: | Vocabulary | correctly to construct sentences.
+• Explains activities done | • borrow, lend, library, revise, note(s), notebook. | • Studying and answering questions about
+during study time. | textbook. | a study time table.
+• Reads a study timetable | • Formulating sentences using a study
+Grammar | timetable.
+• Writes a personal study
+• Use of “usually”, “sometimes” | • Telling activities done during study time.
+timetable.
+• Language structures. | • Reading and interpreting a study time
+• Uses the study time | • ….. “usually”…… | table.
+effectively | • e.g. The teacher usually lends us books to read at | • Writing compositions about study time.
+• Follows a study time | home | • Writing and acting conversations about
+table. | • … “sometimes”…… | study time.
+• e.g. I sometimes write down notes after reading a textbook.
+
+20 | ϮϬNational Curriculum Development Centre
+P4 English Syllabus,
+
+Suggested Assessment Competences
+• | Talks about future events
 </passage>
 
 <passage id="lchk_11d1b263ed194f0dbe2283cd505309d9" source="P4 English End Of Term III 2023" part="1">
@@ -1746,89 +1598,6 @@ In questions 16 and 17, arrange the given words in alphabetical order.
 ………………………………………………………………………………..……………………………….
 17. pull, pineapple, pears, pawpaw
 ………………………………………………………………………………..……………………………….
-</passage>
-
-<passage id="lchk_6ada0a6682ac4826817cae5ee2fc04b1" source="P4 English End Of Term III 2023" part="5">
-Because my daddy died!
-But she comforts me totally.
-As we laugh and smile
-STANDARD KOLFRAM P4 ENGLISH END OF TERM III EXAMINATION 2023
-A product of Kolfram Educational Services Kampala 0777886622/ 0784044408/ 0756821512/0786941943/ 0777292922
-For the best and improved holistic learning, always use Kolfram Educational Services products
-53. The table below shows the election result for Benita Primary School.
-Study it carefully and answer in full sentences, the questions that
-follow.
-Candidate’s
-name
-P.4 P.5 P.6 Total vote
-Boys Girls Boys Girls Boys Girls Boys Girls
-Tendo 13 16 20 21 10 22 43 59
-Ezati 15 14 14 26 20 16 49 56
-Hussein 19 19 16 09 - 03 35 31
-Total number of
-pupils per class 96 106 71 127 146
-Questions
-(a) Who won the election?
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-(b) Which class had the highest number of voters?
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-(c) Which class had the most female voters?
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-(d) How many boys voted?
-……………………………………………………………………………………………………………
-(e) How many candidates stood for the election?
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-(f) In whose school were the above elections conducted?
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-(g) Do you think prefects are needed in a school?
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-(h) What is the above table about?
-……………………………………………………………………………………………………………
-(i) Write the opposite of the following
-a) Female : …………………………………………………………………………………………..
-b) Above : …………………………………………………………………………………………….
-55. There are two stories A and B. In each story, the sentences are not
-arranged in order. Re-arrange them to make good stories.
-A
-a. Suddenly a swarm of bees flew out of the mango tree and attacked him.
-b. On his way he saw ripe mangoes on a tree.
-c. One day Okello was going home from school.
-d. Okello ran fast and entered a nearby house.
-e. He picked stones and started throwing at the ripe mangoes.
-STANDARD KOLFRAM P4 ENGLISH END OF TERM III EXAMINATION 2023
-A product of Kolfram Educational Services Kampala 0777886622/ 0784044408/ 0756821512/0786941943/ 0777292922
-For the best and improved holistic learning, always use Kolfram Educational Services products
-Good story
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-B
-(a) He then joins the pieces to make good tables, beds, etc
-(b) He loads his timber on a pick-up track and heads to his workshop.
-(c) Mr. Sendi is a hardworking carpenter.
-(d) He wakes up very early morning to buy timber.
-(e) At the workshop he cuts the timber into pieces.
-Good story
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-54. Read the composition using the given words correctly
 </passage>
 </passages>
 

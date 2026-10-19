@@ -2,18 +2,18 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Time and expression of the future — week 1 | Using if — Using if | writing |
-| 2 | 1 | teach | Time and expression of the future — week 1 | Using unless — Using unless | writing |
-| 3 | 1 | teach | Time and expression of the future — week 1 | Using since — Using since | writing |
-| 4 | 1 | teach | Time and expression of the future — week 1 | Future-time vocabulary — Future-time vocabulary | writing |
-| 5 | 1 | teach | Time and expression of the future — week 1 | Using will and shall — Using will and shall | writing |
-| 6 | 1 | teach | Time and expression of the future — week 1 | Reading: Akot’s plan to go to the zoo — Reading: Akot’s plan to go to the zoo | writing |
-| 7 | 2 | teach | Time and expression of the future — week 2 | Using for — Using for | pending |
-| 8 | 2 | teach | Time and expression of the future — week 2 | Using before — Using before | pending |
-| 9 | 2 | teach | Time and expression of the future — week 2 | Using after — Using after | pending |
-| 10 | 2 | teach | Time and expression of the future — week 2 | Reading: Namata’s work plan — Reading: Namata’s work plan | pending |
-| 11 | 2 | teach | Time and expression of the future — week 2 | Reading: Amanya’s diary — Reading: Amanya’s diary | pending |
-| 12 | 2 | teach | Time and expression of the future — week 2 | Reading: Mukaga’s daily plan — Reading: Mukaga’s daily plan | pending |
+| 1 | 1 | teach | Time and expression of the future — week 1 | Using if — Using if | written |
+| 2 | 1 | teach | Time and expression of the future — week 1 | Using unless — Using unless | written |
+| 3 | 1 | teach | Time and expression of the future — week 1 | Using since — Using since | written |
+| 4 | 1 | teach | Time and expression of the future — week 1 | Future-time vocabulary — Future-time vocabulary | written |
+| 5 | 1 | teach | Time and expression of the future — week 1 | Using will and shall — Using will and shall | written |
+| 6 | 1 | teach | Time and expression of the future — week 1 | Reading: Akot’s plan to go to the zoo — Reading: Akot’s plan to go to the zoo | written |
+| 7 | 2 | teach | Time and expression of the future — week 2 | Using for — Using for | writing |
+| 8 | 2 | teach | Time and expression of the future — week 2 | Using before — Using before | writing |
+| 9 | 2 | teach | Time and expression of the future — week 2 | Using after — Using after | writing |
+| 10 | 2 | teach | Time and expression of the future — week 2 | Reading: Namata’s work plan — Reading: Namata’s work plan | writing |
+| 11 | 2 | teach | Time and expression of the future — week 2 | Reading: Amanya’s diary — Reading: Amanya’s diary | writing |
+| 12 | 2 | teach | Time and expression of the future — week 2 | Reading: Mukaga’s daily plan — Reading: Mukaga’s daily plan | writing |
 | 13 | 3 | teach | Time and expression of the future — week 3 | Present simple passive — Present simple passive | pending |
 | 14 | 3 | teach | Time and expression of the future — week 3 | Present continuous passive — Present continuous passive | pending |
 | 15 | 3 | teach | Time and expression of the future — week 3 | Present perfect passive — Present perfect passive | pending |

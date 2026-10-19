@@ -1,0 +1,80 @@
+{
+  "job": "ltsk_47ee2b40223e43a785eb371dd62e928d-0",
+  "task": "ltsk_47ee2b40223e43a785eb371dd62e928d",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 57,
+  "school": "sch-7207f9",
+  "class": "P4",
+  "classLevel": 4,
+  "subject": "English",
+  "term": "2026-T3",
+  "week": 2,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [
+    {
+      "id": "lles_a1389d206da249cebbb742b03b620d79",
+      "kind": "teach",
+      "week": 2,
+      "title": "Using for",
+      "periods": 1,
+      "subtopic": "Using for"
+    },
+    {
+      "id": "lles_ef97d1dc02904f08a4e724c4aa5f279a",
+      "kind": "teach",
+      "week": 2,
+      "title": "Using before",
+      "periods": 1,
+      "subtopic": "Using before"
+    },
+    {
+      "id": "lles_7a85983cf8674af9b5f7fb617bc50a6b",
+      "kind": "teach",
+      "week": 2,
+      "title": "Using after",
+      "periods": 1,
+      "subtopic": "Using after"
+    },
+    {
+      "id": "lles_6d6d944a939e4dd992274981c5b43b9c",
+      "kind": "teach",
+      "week": 2,
+      "title": "Reading: Namata’s work plan",
+      "periods": 1,
+      "subtopic": "Reading: Namata’s work plan"
+    },
+    {
+      "id": "lles_f159b2f7f0bc40f9861254e99aa84c88",
+      "kind": "teach",
+      "week": 2,
+      "title": "Reading: Amanya’s diary",
+      "periods": 1,
+      "subtopic": "Reading: Amanya’s diary"
+    },
+    {
+      "id": "lles_89ae109bbfd045b882c32a6ab644f787",
+      "kind": "teach",
+      "week": 2,
+      "title": "Reading: Mukaga’s daily plan",
+      "periods": 1,
+      "subtopic": "Reading: Mukaga’s daily plan"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P4/english",
+  "passages": [
+    "lchk_52d32128a6914ca8ae03917f25c7b78f",
+    "lchk_f716af72c8cc4a5a82acd048b8952822",
+    "lchk_7685308ccbde482cb6da1bdbb89736ea",
+    "lchk_a8b51257a7204350820a66c1c782842d",
+    "lchk_9736199ab4a342ea936fa6d345b01be4",
+    "lchk_ac900ec3a1984e52b584e352e119d4ab",
+    "lchk_43d1a5388030467d8aa5d3bd64890a2a",
+    "lchk_11d1b263ed194f0dbe2283cd505309d9"
+  ],
+  "created": "2026-10-19T13:13:48.500Z"
+}
