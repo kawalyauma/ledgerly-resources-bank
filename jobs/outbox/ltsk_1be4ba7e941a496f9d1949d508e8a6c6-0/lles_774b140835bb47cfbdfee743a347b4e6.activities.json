@@ -1,0 +1,67 @@
+[
+  {
+    "question": "Triangle ABD has BD = 12 cm, height AC = 10 cm and height BE = 8 cm to base AD. Find AD.",
+    "answer": "\u00bd \u00d7 AD \u00d7 8 = \u00bd \u00d7 12 \u00d7 10; AD = 15 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+      "quote": "Find the length of AD"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "In triangle PQR, PQ = 8 cm, RT = 4 cm and PS = 2 cm. RT is perpendicular to PQ and PS to QR. Find QR.",
+    "answer": "\u00bd \u00d7 8 \u00d7 4 = \u00bd \u00d7 QR \u00d7 2; QR = 16 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_6a71c8bb4c5c46c59a2956830a6a01d9",
+      "quote": "PQ = 8cm, RT = 4cm and PS = 2cm"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Find the base of a triangle with area 15 square centimetres and height 5 cm.",
+    "answer": "2 \u00d7 15 \u00f7 5 = 6 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_22932c39e53641f59019ad7af8ce184b",
+      "quote": "Find the base of the triangle whose area is 15 cm 2"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "A triangle has area 24 square centimetres and height 6 cm. Find its base.",
+    "answer": "2 \u00d7 24 \u00f7 6 = 8 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_4e59606446fa425f9a1258ed2530fa71",
+      "quote": "The area of the triangle below is 24cm 2"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Find the base of a triangle with area 60 square centimetres and height 12 cm.",
+    "answer": "2 \u00d7 60 \u00f7 12 = 10 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+      "quote": "Find the base of a triangle whose area is 60cm 2"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  }
+]

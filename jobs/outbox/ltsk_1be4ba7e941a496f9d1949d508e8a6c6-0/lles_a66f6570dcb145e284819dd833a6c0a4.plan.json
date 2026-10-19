@@ -1,0 +1,112 @@
+{
+  "competences": [
+    "The learner identify a base and its perpendicular height.",
+    "The learner calculate triangle areas including a split base."
+  ],
+  "languageCompetence": "Reads, pronounces, spells and correctly uses: triangle, base, height, perpendicular, area.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to identify a base and its perpendicular height.",
+    "By the end of the lesson, learners should be able to calculate triangle areas including a split base."
+  ],
+  "priorKnowledge": "Learners find areas of rectangles and can halve a product.",
+  "methods": [
+    "Demonstration",
+    "Guided discovery",
+    "Question and answer"
+  ],
+  "materials": [
+    "Triangle diagrams showing perpendicular heights and bases",
+    "Rectangle cut into two equal triangles and ruler"
+  ],
+  "references": [
+    "Lesson Notes P6 Term III MTC VOL 2 (2021)",
+    "P 6 MTC Notes Final 123kqk",
+    "MATH P.6 TERM III"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Learners find areas of rectangles and can halve a product. Starter: Find the area of a triangle with base 25 cm and height 30 cm.",
+      "teacherActivity": "The teacher displays triangle diagrams showing perpendicular heights and bases, reviews the prior skill, and asks: \"Find the area of a triangle with base 25 cm and height 30 cm.\" The teacher records learners\u2019 methods and connects them to area of triangles.",
+      "learnerActivity": "Learners recall the previous skill, read the starter question, and explain which measurements or operations they would use.",
+      "source": {
+        "source": "lchk_a9614f08ac544e419e398c3d3e90c819",
+        "quote": "Find the area of a triangle whose base is 25cm and height is 30cm"
+      }
+    },
+    {
+      "stage": "Development: Area of a triangle",
+      "minutes": 5,
+      "content": "Area of a triangle: The height is perpendicular to the base. $\\text{Area}=\\frac12\\times\\text{base}\\times\\text{height}$. A triangle can be completed to form a rectangle or parallelogram. Its area is half the completed rectangle or parallelogram.",
+      "teacherActivity": "The teacher writes and explains the following worked content: The height is perpendicular to the base. $\\text{Area}=\\frac12\\times\\text{base}\\times\\text{height}$. A triangle can be completed to form a rectangle or parallelogram. Its area is half the completed rectangle or parallelogram. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_2408b1cb359d4a089e04e6861f07b0f5",
+        "quote": "The height is always perpendicular to the base"
+      }
+    },
+    {
+      "stage": "Development: Example: base four centimetres",
+      "minutes": 5,
+      "content": "Example: base four centimetres: A triangle has base $4\\text{ cm}$ and height $3\\text{ cm}$. $A=\\frac12\\times4\\text{ cm}\\times3\\text{ cm}$. $A=2\\times3=6\\text{ cm}^2$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: A triangle has base $4\\text{ cm}$ and height $3\\text{ cm}$. $A=\\frac12\\times4\\text{ cm}\\times3\\text{ cm}$. $A=2\\times3=6\\text{ cm}^2$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_e78a1f0811b0450c9eb130ef61dba87e",
+        "quote": "Find the area of the triangle below"
+      }
+    },
+    {
+      "stage": "Development: Example: base ten centimetres",
+      "minutes": 5,
+      "content": "Example: base ten centimetres: A triangle has base $10\\text{ cm}$ and height $6\\text{ cm}$. $A=\\frac12\\times10\\text{ cm}\\times6\\text{ cm}$. $A=5\\times6=30\\text{ cm}^2$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: A triangle has base $10\\text{ cm}$ and height $6\\text{ cm}$. $A=\\frac12\\times10\\text{ cm}\\times6\\text{ cm}$. $A=5\\times6=30\\text{ cm}^2$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_e78a1f0811b0450c9eb130ef61dba87e",
+        "quote": "Complete the triangle to form either a rectangle or a parallelogram"
+      }
+    },
+    {
+      "stage": "Development: Example: base in two parts",
+      "minutes": 5,
+      "content": "Example: base in two parts: The base consists of $4\\text{ cm}$ and $2\\text{ cm}$. $\\text{Base}=4+2=6\\text{ cm}$. The perpendicular height is $8\\text{ cm}$. $A=\\frac12\\times6\\text{ cm}\\times8\\text{ cm}$. $A=3\\times8=24\\text{ cm}^2$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: The base consists of $4\\text{ cm}$ and $2\\text{ cm}$. $\\text{Base}=4+2=6\\text{ cm}$. The perpendicular height is $8\\text{ cm}$. $A=\\frac12\\times6\\text{ cm}\\times8\\text{ cm}$. $A=3\\times8=24\\text{ cm}^2$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_2408b1cb359d4a089e04e6861f07b0f5",
+        "quote": "b = 4cm + 2cm"
+      }
+    },
+    {
+      "stage": "Practice and marking",
+      "minutes": 10,
+      "content": "Find the area of a triangle with base 25 cm and height 30 cm. Find the area of a triangle with base 16 cm and height 4 cm. Find the area of a triangle with base 12 cm and height 8 cm. Two adjacent triangles have common height 6 cm and bases 4 cm and 5 cm. Find the area of the triangle with base 4 cm. For the same adjacent triangles, calculate the area of the whole figure.",
+      "teacherActivity": "The teacher sets these questions: Find the area of a triangle with base 25 cm and height 30 cm. Find the area of a triangle with base 16 cm and height 4 cm. Find the area of a triangle with base 12 cm and height 8 cm. Two adjacent triangles have common height 6 cm and bases 4 cm and 5 cm. Find the area of the triangle with base 4 cm. For the same adjacent triangles, calculate the area of the whole figure. The teacher checks each learner\u2019s working, marks against these computed answers: \u00bd \u00d7 25 \u00d7 30 = 375 cm\u00b2. \u00bd \u00d7 16 \u00d7 4 = 32 cm\u00b2. \u00bd \u00d7 12 \u00d7 8 = 48 cm\u00b2. \u00bd \u00d7 4 \u00d7 6 = 12 cm\u00b2. \u00bd \u00d7 (4 + 5) \u00d7 6 = 27 cm\u00b2. and supports learners who confuse lengths, areas or units.",
+      "learnerActivity": "Learners solve the questions individually, show each calculation, compare marked answers, and correct any errors in substitution or units.",
+      "source": {
+        "source": "lchk_a9614f08ac544e419e398c3d3e90c819",
+        "quote": "Find the area of a triangle whose base is 25cm and height is 30cm"
+      }
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 5,
+      "content": "\u00bd \u00d7 25 \u00d7 30 = 375 cm\u00b2. \u00bd \u00d7 16 \u00d7 4 = 32 cm\u00b2. \u00bd \u00d7 12 \u00d7 8 = 48 cm\u00b2. \u00bd \u00d7 4 \u00d7 6 = 12 cm\u00b2. \u00bd \u00d7 (4 + 5) \u00d7 6 = 27 cm\u00b2.",
+      "teacherActivity": "The teacher asks learners to explain their solutions to these questions: Find the area of a triangle with base 25 cm and height 30 cm. Find the area of a triangle with base 16 cm and height 4 cm. Find the area of a triangle with base 12 cm and height 8 cm. Two adjacent triangles have common height 6 cm and bases 4 cm and 5 cm. Find the area of the triangle with base 4 cm. For the same adjacent triangles, calculate the area of the whole figure. The teacher checks the lesson objectives against the written work and assigns correction of the final exercise item.",
+      "learnerActivity": "Learners explain their calculation methods, state the correct units, and correct the final exercise item after receiving feedback.",
+      "source": {
+        "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+        "quote": "Calculate the area of the whole figure"
+      }
+    }
+  ],
+  "assessment": "Mark the written working for these questions: Find the area of a triangle with base 25 cm and height 30 cm. Find the area of a triangle with base 16 cm and height 4 cm. Find the area of a triangle with base 12 cm and height 8 cm. Two adjacent triangles have common height 6 cm and bases 4 cm and 5 cm. Find the area of the triangle with base 4 cm. For the same adjacent triangles, calculate the area of the whole figure. Check the stated measurements, operations, final answers and units against the answer key.",
+  "homework": "Correct and fully work this exercise item: For the same adjacent triangles, calculate the area of the whole figure.",
+  "lifeSkills": [
+    "Problem solving",
+    "Critical thinking",
+    "Effective communication"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "job": "ltsk_1be4ba7e941a496f9d1949d508e8a6c6-0",
+  "attempt": 1,
+  "agent": "codex-direct-p1-p4",
+  "model": "GPT-6",
+  "gaps": {},
+  "reviewerNotes": "P6 Mathematics Term 3, first two weeks only. Every question and numerical example is sourced; worked answers recomputed independently. Corrected source typos: area units are squared; 90 \u2212 24 = 66; rectangles have equal opposite sides. Incorrect border-perimeter subtraction is omitted. Diagrams use only supplied dimensions and are not to scale. Classroom demonstration and guided discovery follow the school scheme. No invented replacement questions or dimensions."
+}

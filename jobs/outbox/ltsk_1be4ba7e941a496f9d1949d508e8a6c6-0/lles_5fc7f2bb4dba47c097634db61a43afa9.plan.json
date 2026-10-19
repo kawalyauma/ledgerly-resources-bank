@@ -1,0 +1,113 @@
+{
+  "competences": [
+    "The learner identify parallel sides and perpendicular height.",
+    "The learner calculate trapezium areas and an unknown parallel side."
+  ],
+  "languageCompetence": "Reads, pronounces, spells and correctly uses: trapezium, parallel sides, perpendicular height, area.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to identify parallel sides and perpendicular height.",
+    "By the end of the lesson, learners should be able to calculate trapezium areas and an unknown parallel side."
+  ],
+  "priorKnowledge": "Learners know triangle areas and can solve simple equations.",
+  "methods": [
+    "Demonstration",
+    "Guided discovery",
+    "Question and answer"
+  ],
+  "materials": [
+    "Trapezium chart labelled with parallel sides and perpendicular height",
+    "Ruler and paper trapezium cut-outs"
+  ],
+  "references": [
+    "MATH P.6 TERM III",
+    "P 6 Primary SIX MTC Notes Docx (ecolebooks Com)",
+    "P.6 PRIMARY SIX MTC NOTES.docx TEACHER.AC",
+    "P 6 MTC Notes Final 123kqk"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Learners know triangle areas and can solve simple equations. Starter: Find the area of a trapezium with parallel sides 8 cm and 10 cm and perpendicular height 7 cm.",
+      "teacherActivity": "The teacher displays trapezium chart labelled with parallel sides and perpendicular height, reviews the prior skill, and asks: \"Find the area of a trapezium with parallel sides 8 cm and 10 cm and perpendicular height 7 cm.\" The teacher records learners\u2019 methods and connects them to area of a trapezium.",
+      "learnerActivity": "Learners recall the previous skill, read the starter question, and explain which measurements or operations they would use.",
+      "source": {
+        "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+        "quote": "Find the area of the trapezium below"
+      }
+    },
+    {
+      "stage": "Development: Area of a trapezium",
+      "minutes": 5,
+      "content": "Area of a trapezium: A trapezium has two parallel sides. $A=\\frac12h(a+b)$. $a$ and $b$ are the parallel sides. $h$ is the perpendicular height.",
+      "teacherActivity": "The teacher writes and explains the following worked content: A trapezium has two parallel sides. $A=\\frac12h(a+b)$. $a$ and $b$ are the parallel sides. $h$ is the perpendicular height. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_22932c39e53641f59019ad7af8ce184b",
+        "quote": "Area of trapezium"
+      }
+    },
+    {
+      "stage": "Development: Example: parallel sides eight and ten centimetres",
+      "minutes": 5,
+      "content": "Example: parallel sides eight and ten centimetres: Parallel sides are $8\\text{ cm}$ and $10\\text{ cm}$; height is $7\\text{ cm}$. $A=\\frac12\\times7(8+10)$. $A=\\frac12\\times7\\times18$. $A=7\\times9=63\\text{ cm}^2$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Parallel sides are $8\\text{ cm}$ and $10\\text{ cm}$; height is $7\\text{ cm}$. $A=\\frac12\\times7(8+10)$. $A=\\frac12\\times7\\times18$. $A=7\\times9=63\\text{ cm}^2$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+        "quote": "Area = \u00bd h (a + b)"
+      }
+    },
+    {
+      "stage": "Development: Example: parallel sides seven and ten centimetres",
+      "minutes": 5,
+      "content": "Example: parallel sides seven and ten centimetres: Parallel sides are $7\\text{ cm}$ and $10\\text{ cm}$; height is $4\\text{ cm}$. $A=\\frac12\\times4(7+10)$. $A=2\\times17=34\\text{ cm}^2$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Parallel sides are $7\\text{ cm}$ and $10\\text{ cm}$; height is $4\\text{ cm}$. $A=\\frac12\\times4(7+10)$. $A=2\\times17=34\\text{ cm}^2$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_22932c39e53641f59019ad7af8ce184b",
+        "quote": "A = \u00bd x 4cm (7cm + 10cm)"
+      }
+    },
+    {
+      "stage": "Development: Example: finding the second parallel side",
+      "minutes": 5,
+      "content": "Example: finding the second parallel side: Area is $60\\text{ cm}^2$, height is $4\\text{ cm}$ and one parallel side is $10\\text{ cm}$. $\\frac12\\times4(a+10)=60$. $2(a+10)=60$. $2a+20=60$. $2a=40$. $a=20\\text{ cm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Area is $60\\text{ cm}^2$, height is $4\\text{ cm}$ and one parallel side is $10\\text{ cm}$. $\\frac12\\times4(a+10)=60$. $2(a+10)=60$. $2a+20=60$. $2a=40$. $a=20\\text{ cm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_65d14d7e2ff941319a4fe9589925e1b2",
+        "quote": "The area of a trapezium is 60cm 2"
+      }
+    },
+    {
+      "stage": "Practice and marking",
+      "minutes": 10,
+      "content": "Find the area of a trapezium with parallel sides 8 cm and 10 cm and perpendicular height 7 cm. Find the area of a trapezium with parallel sides 7 cm and 10 cm and perpendicular height 4 cm. A trapezium has area 60 square centimetres, height 4 cm and one parallel side 10 cm. Find the second parallel side. Find the area of a trapezium with parallel sides 12 dm and 18 dm and height 8 dm. Find the area of a trapezium with parallel sides 8 cm and 12 cm and height 3 cm.",
+      "teacherActivity": "The teacher sets these questions: Find the area of a trapezium with parallel sides 8 cm and 10 cm and perpendicular height 7 cm. Find the area of a trapezium with parallel sides 7 cm and 10 cm and perpendicular height 4 cm. A trapezium has area 60 square centimetres, height 4 cm and one parallel side 10 cm. Find the second parallel side. Find the area of a trapezium with parallel sides 12 dm and 18 dm and height 8 dm. Find the area of a trapezium with parallel sides 8 cm and 12 cm and height 3 cm. The teacher checks each learner\u2019s working, marks against these computed answers: \u00bd \u00d7 7 \u00d7 (8 + 10) = 63 cm\u00b2. \u00bd \u00d7 4 \u00d7 (7 + 10) = 34 cm\u00b2. \u00bd \u00d7 4 \u00d7 (a + 10) = 60; a = 20 cm. \u00bd \u00d7 8 \u00d7 (12 + 18) = 120 dm\u00b2. \u00bd \u00d7 3 \u00d7 (8 + 12) = 30 cm\u00b2. and supports learners who confuse lengths, areas or units.",
+      "learnerActivity": "Learners solve the questions individually, show each calculation, compare marked answers, and correct any errors in substitution or units.",
+      "source": {
+        "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+        "quote": "Find the area of the trapezium below"
+      }
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 5,
+      "content": "\u00bd \u00d7 7 \u00d7 (8 + 10) = 63 cm\u00b2. \u00bd \u00d7 4 \u00d7 (7 + 10) = 34 cm\u00b2. \u00bd \u00d7 4 \u00d7 (a + 10) = 60; a = 20 cm. \u00bd \u00d7 8 \u00d7 (12 + 18) = 120 dm\u00b2. \u00bd \u00d7 3 \u00d7 (8 + 12) = 30 cm\u00b2.",
+      "teacherActivity": "The teacher asks learners to explain their solutions to these questions: Find the area of a trapezium with parallel sides 8 cm and 10 cm and perpendicular height 7 cm. Find the area of a trapezium with parallel sides 7 cm and 10 cm and perpendicular height 4 cm. A trapezium has area 60 square centimetres, height 4 cm and one parallel side 10 cm. Find the second parallel side. Find the area of a trapezium with parallel sides 12 dm and 18 dm and height 8 dm. Find the area of a trapezium with parallel sides 8 cm and 12 cm and height 3 cm. The teacher checks the lesson objectives against the written work and assigns correction of the final exercise item.",
+      "learnerActivity": "Learners explain their calculation methods, state the correct units, and correct the final exercise item after receiving feedback.",
+      "source": {
+        "source": "lchk_22932c39e53641f59019ad7af8ce184b",
+        "quote": "A = \u00bd x 3cm x 20cm"
+      }
+    }
+  ],
+  "assessment": "Mark the written working for these questions: Find the area of a trapezium with parallel sides 8 cm and 10 cm and perpendicular height 7 cm. Find the area of a trapezium with parallel sides 7 cm and 10 cm and perpendicular height 4 cm. A trapezium has area 60 square centimetres, height 4 cm and one parallel side 10 cm. Find the second parallel side. Find the area of a trapezium with parallel sides 12 dm and 18 dm and height 8 dm. Find the area of a trapezium with parallel sides 8 cm and 12 cm and height 3 cm. Check the stated measurements, operations, final answers and units against the answer key.",
+  "homework": "Correct and fully work this exercise item: Find the area of a trapezium with parallel sides 8 cm and 12 cm and height 3 cm.",
+  "lifeSkills": [
+    "Problem solving",
+    "Critical thinking",
+    "Effective communication"
+  ]
+}

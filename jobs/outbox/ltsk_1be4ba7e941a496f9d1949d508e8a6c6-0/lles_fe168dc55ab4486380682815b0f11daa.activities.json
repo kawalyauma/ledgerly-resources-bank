@@ -1,0 +1,67 @@
+[
+  {
+    "question": "In triangle UVW, UV = 12 cm, perpendicular height WY = 8 cm, and WV = 24 cm. Find perpendicular height UX to WV.",
+    "answer": "\u00bd \u00d7 24 \u00d7 UX = \u00bd \u00d7 12 \u00d7 8; UX = 4 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_6a71c8bb4c5c46c59a2956830a6a01d9",
+      "quote": "Find the length UX"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "In triangle ABC, BC = 100 cm, AC = 86 cm and BD = 10 cm. BD is perpendicular to AC; AE is perpendicular to BC. Find AE.",
+    "answer": "\u00bd \u00d7 100 \u00d7 AE = \u00bd \u00d7 86 \u00d7 10; AE = 8.6 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_6a71c8bb4c5c46c59a2956830a6a01d9",
+      "quote": "Find the value of \u201cy\u201d if BC = 100cm"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Find the height of a triangle with area 144 square centimetres and base 24 cm.",
+    "answer": "2 \u00d7 144 \u00f7 24 = 12 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_4e59606446fa425f9a1258ed2530fa71",
+      "quote": "Find the height of the triangle below if its area is 144cm 2"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "A triangle has area 28 square centimetres and base 14 cm. Find its height h.",
+    "answer": "2 \u00d7 28 \u00f7 14 = 4 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_22932c39e53641f59019ad7af8ce184b",
+      "quote": "Find the value of h"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Find the height of a triangle with area 30 square centimetres and base 12 cm.",
+    "answer": "2 \u00d7 30 \u00f7 12 = 5 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_c4287e2236664f34876c77b8819206e1",
+      "quote": "Find the height of a triangle whose area is 30cm 2"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  }
+]

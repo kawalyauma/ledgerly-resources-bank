@@ -1,0 +1,112 @@
+{
+  "competences": [
+    "The learner equate two expressions for a triangle\u2019s area.",
+    "The learner solve for an unknown base."
+  ],
+  "languageCompetence": "Reads, pronounces, spells and correctly uses: equal area, base, height, equation.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to equate two expressions for a triangle\u2019s area.",
+    "By the end of the lesson, learners should be able to solve for an unknown base."
+  ],
+  "priorKnowledge": "Learners calculate triangle areas using a base and its perpendicular height.",
+  "methods": [
+    "Demonstration",
+    "Guided discovery",
+    "Question and answer"
+  ],
+  "materials": [
+    "Triangle ABD chart with BD, AC and BE labelled",
+    "Triangle PQR chart showing the two perpendicular heights"
+  ],
+  "references": [
+    "Lesson Notes P6 Term III MTC VOL 2 (2021)",
+    "P 6 Primary SIX MTC Notes Docx (ecolebooks Com)",
+    "MATH P.6 TERM III"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Learners calculate triangle areas using a base and its perpendicular height. Starter: Triangle ABD has BD = 12 cm, height AC = 10 cm and height BE = 8 cm to base AD. Find AD.",
+      "teacherActivity": "The teacher displays triangle abd chart with bd, ac and be labelled, reviews the prior skill, and asks: \"Triangle ABD has BD = 12 cm, height AC = 10 cm and height BE = 8 cm to base AD. Find AD.\" The teacher records learners\u2019 methods and connects them to comparing areas: finding a base.",
+      "learnerActivity": "Learners recall the previous skill, read the starter question, and explain which measurements or operations they would use.",
+      "source": {
+        "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+        "quote": "Find the length of AD"
+      }
+    },
+    {
+      "stage": "Development: Comparing areas",
+      "minutes": 5,
+      "content": "Comparing areas: Equal areas may have different bases and heights. $\\frac12 b_1h_1=\\frac12 b_2h_2$. $\\text{Base}=2\\times\\text{area}\\div\\text{height}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Equal areas may have different bases and heights. $\\frac12 b_1h_1=\\frac12 b_2h_2$. $\\text{Base}=2\\times\\text{area}\\div\\text{height}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_6a71c8bb4c5c46c59a2956830a6a01d9",
+        "quote": "two triangles occupying the same area"
+      }
+    },
+    {
+      "stage": "Development: Example: two bases of one triangle",
+      "minutes": 5,
+      "content": "Example: two bases of one triangle: Triangle ABD has base $BD=12\\text{ cm}$ and height $AC=10\\text{ cm}$. Its height to base AD is $BE=8\\text{ cm}$. Find AD. $\\frac12\\times AD\\times8=\\frac12\\times12\\times10$. $4AD=60$. $AD=60\\div4=15\\text{ cm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Triangle ABD has base $BD=12\\text{ cm}$ and height $AC=10\\text{ cm}$. Its height to base AD is $BE=8\\text{ cm}$. Find AD. $\\frac12\\times AD\\times8=\\frac12\\times12\\times10$. $4AD=60$. $AD=60\\div4=15\\text{ cm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+        "quote": "Find the length of AD"
+      }
+    },
+    {
+      "stage": "Development: Example: base from a known area",
+      "minutes": 5,
+      "content": "Example: base from a known area: Find the base of a triangle with area $60\\text{ cm}^2$ and height $12\\text{ cm}$. $\\frac12\\times b\\times12=60$. $6b=60$. $b=60\\div6=10\\text{ cm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Find the base of a triangle with area $60\\text{ cm}^2$ and height $12\\text{ cm}$. $\\frac12\\times b\\times12=60$. $6b=60$. $b=60\\div6=10\\text{ cm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+        "quote": "Find the base of a triangle whose area is 60cm 2"
+      }
+    },
+    {
+      "stage": "Development: Example: base from twenty-four square centimetres",
+      "minutes": 5,
+      "content": "Example: base from twenty-four square centimetres: A triangle has area $24\\text{ cm}^2$ and height $6\\text{ cm}$. Find its base. $\\frac12\\times b\\times6=24$. $3b=24$. $b=24\\div3=8\\text{ cm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: A triangle has area $24\\text{ cm}^2$ and height $6\\text{ cm}$. Find its base. $\\frac12\\times b\\times6=24$. $3b=24$. $b=24\\div3=8\\text{ cm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_4e59606446fa425f9a1258ed2530fa71",
+        "quote": "The area of the triangle below is 24cm 2"
+      }
+    },
+    {
+      "stage": "Practice and marking",
+      "minutes": 10,
+      "content": "Triangle ABD has BD = 12 cm, height AC = 10 cm and height BE = 8 cm to base AD. Find AD. In triangle PQR, PQ = 8 cm, RT = 4 cm and PS = 2 cm. RT is perpendicular to PQ and PS to QR. Find QR. Find the base of a triangle with area 15 square centimetres and height 5 cm. A triangle has area 24 square centimetres and height 6 cm. Find its base. Find the base of a triangle with area 60 square centimetres and height 12 cm.",
+      "teacherActivity": "The teacher sets these questions: Triangle ABD has BD = 12 cm, height AC = 10 cm and height BE = 8 cm to base AD. Find AD. In triangle PQR, PQ = 8 cm, RT = 4 cm and PS = 2 cm. RT is perpendicular to PQ and PS to QR. Find QR. Find the base of a triangle with area 15 square centimetres and height 5 cm. A triangle has area 24 square centimetres and height 6 cm. Find its base. Find the base of a triangle with area 60 square centimetres and height 12 cm. The teacher checks each learner\u2019s working, marks against these computed answers: \u00bd \u00d7 AD \u00d7 8 = \u00bd \u00d7 12 \u00d7 10; AD = 15 cm. \u00bd \u00d7 8 \u00d7 4 = \u00bd \u00d7 QR \u00d7 2; QR = 16 cm. 2 \u00d7 15 \u00f7 5 = 6 cm. 2 \u00d7 24 \u00f7 6 = 8 cm. 2 \u00d7 60 \u00f7 12 = 10 cm. and supports learners who confuse lengths, areas or units.",
+      "learnerActivity": "Learners solve the questions individually, show each calculation, compare marked answers, and correct any errors in substitution or units.",
+      "source": {
+        "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+        "quote": "Find the length of AD"
+      }
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 5,
+      "content": "\u00bd \u00d7 AD \u00d7 8 = \u00bd \u00d7 12 \u00d7 10; AD = 15 cm. \u00bd \u00d7 8 \u00d7 4 = \u00bd \u00d7 QR \u00d7 2; QR = 16 cm. 2 \u00d7 15 \u00f7 5 = 6 cm. 2 \u00d7 24 \u00f7 6 = 8 cm. 2 \u00d7 60 \u00f7 12 = 10 cm.",
+      "teacherActivity": "The teacher asks learners to explain their solutions to these questions: Triangle ABD has BD = 12 cm, height AC = 10 cm and height BE = 8 cm to base AD. Find AD. In triangle PQR, PQ = 8 cm, RT = 4 cm and PS = 2 cm. RT is perpendicular to PQ and PS to QR. Find QR. Find the base of a triangle with area 15 square centimetres and height 5 cm. A triangle has area 24 square centimetres and height 6 cm. Find its base. Find the base of a triangle with area 60 square centimetres and height 12 cm. The teacher checks the lesson objectives against the written work and assigns correction of the final exercise item.",
+      "learnerActivity": "Learners explain their calculation methods, state the correct units, and correct the final exercise item after receiving feedback.",
+      "source": {
+        "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+        "quote": "Find the base of a triangle whose area is 60cm 2"
+      }
+    }
+  ],
+  "assessment": "Mark the written working for these questions: Triangle ABD has BD = 12 cm, height AC = 10 cm and height BE = 8 cm to base AD. Find AD. In triangle PQR, PQ = 8 cm, RT = 4 cm and PS = 2 cm. RT is perpendicular to PQ and PS to QR. Find QR. Find the base of a triangle with area 15 square centimetres and height 5 cm. A triangle has area 24 square centimetres and height 6 cm. Find its base. Find the base of a triangle with area 60 square centimetres and height 12 cm. Check the stated measurements, operations, final answers and units against the answer key.",
+  "homework": "Correct and fully work this exercise item: Find the base of a triangle with area 60 square centimetres and height 12 cm.",
+  "lifeSkills": [
+    "Problem solving",
+    "Critical thinking",
+    "Effective communication"
+  ]
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "question": "An inner rectangle is 8 cm long and 5 cm wide, with a 2 cm border on each side. Find the outer length.",
+    "answer": "8 + 2 + 2 = 12 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+      "quote": "Length of outer rectangle"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "For the same 2 cm border, find the outer width.",
+    "answer": "5 + 2 + 2 = 9 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+      "quote": "Width of outer rectangle"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "For the same 2 cm border, find the shaded area.",
+    "answer": "12 \u00d7 9 \u2212 8 \u00d7 5 = 108 \u2212 40 = 68 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+      "quote": "Find area of shaded part"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "An inner rectangle is 5 cm by 4 cm, with a 3 cm border on each side. Find the outer length and width.",
+    "answer": "Length = 5 + 3 + 3 = 11 cm; width = 4 + 3 + 3 = 10 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+      "quote": "Find the length and width of the outer figure"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "For the same 3 cm border, calculate the area outside the inner rectangle.",
+    "answer": "11 \u00d7 10 \u2212 5 \u00d7 4 = 110 \u2212 20 = 90 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+      "quote": "Calculate the area of the un-shaded part"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "key": "p6-w2-p2",
+  "lesson": "lles_838d9e8d0c71458f82eb3247a93738f1",
+  "title": "Area of rectangular borders",
+  "caption": "Schematic; not drawn to scale.",
+  "method": "svg",
+  "parts": [
+    "8 + 2 + 2 cm",
+    "5 + 2 + 2 cm",
+    "8 cm",
+    "5 cm"
+  ],
+  "source": {
+    "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+    "quote": "Length of outer rectangle"
+  }
+}

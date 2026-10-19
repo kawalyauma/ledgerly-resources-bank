@@ -1,0 +1,101 @@
+{
+  "competences": [
+    "The learner calculate inner and outer rectangle areas.",
+    "The learner subtract areas to find a shaded region."
+  ],
+  "languageCompetence": "Reads, pronounces, spells and correctly uses: outer rectangle, inner rectangle, shaded area, square units.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to calculate inner and outer rectangle areas.",
+    "By the end of the lesson, learners should be able to subtract areas to find a shaded region."
+  ],
+  "priorKnowledge": "Learners can find rectangle areas and subtract whole numbers.",
+  "methods": [
+    "Demonstration",
+    "Guided discovery",
+    "Question and answer"
+  ],
+  "materials": [
+    "Diagram of a 10 cm by 9 cm frame with a 6 cm by 4 cm opening",
+    "Squared paper and ruler"
+  ],
+  "references": [
+    "MATH P.6 TERM III",
+    "P 6 Primary SIX MTC Notes Docx (ecolebooks Com)",
+    "P 6 MTC Notes Final 123kqk"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Learners can find rectangle areas and subtract whole numbers. Starter: For the first frame, calculate the outer area: length 10 cm and width 9 cm.",
+      "teacherActivity": "The teacher displays diagram of a 10 cm by 9 cm frame with a 6 cm by 4 cm opening, reviews the prior skill, and asks: \"For the first frame, calculate the outer area: length 10 cm and width 9 cm.\" The teacher records learners\u2019 methods and connects them to area of shaded rectangles.",
+      "learnerActivity": "Learners recall the previous skill, read the starter question, and explain which measurements or operations they would use.",
+      "source": {
+        "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+        "quote": "Area of outer rectangle"
+      }
+    },
+    {
+      "stage": "Development: Area of a shaded rectangle",
+      "minutes": 7,
+      "content": "Area of a shaded rectangle: $\\text{Rectangle area}=\\text{length}\\times\\text{width}$. $\\text{Shaded area}=\\text{outer area}-\\text{inner area}$. Area is measured in square units.",
+      "teacherActivity": "The teacher writes and explains the following worked content: $\\text{Rectangle area}=\\text{length}\\times\\text{width}$. $\\text{Shaded area}=\\text{outer area}-\\text{inner area}$. Area is measured in square units. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+        "quote": "Area of shaded part"
+      }
+    },
+    {
+      "stage": "Development: Example: outer and inner areas",
+      "minutes": 7,
+      "content": "Example: outer and inner areas: The outer rectangle measures $10\\text{ cm}$ by $9\\text{ cm}$. The inner rectangle measures $6\\text{ cm}$ by $4\\text{ cm}$. $\\text{Outer area}=10\\times9=90\\text{ cm}^2$. $\\text{Inner area}=6\\times4=24\\text{ cm}^2$. $\\text{Shaded area}=90-24=66\\text{ cm}^2$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: The outer rectangle measures $10\\text{ cm}$ by $9\\text{ cm}$. The inner rectangle measures $6\\text{ cm}$ by $4\\text{ cm}$. $\\text{Outer area}=10\\times9=90\\text{ cm}^2$. $\\text{Inner area}=6\\times4=24\\text{ cm}^2$. $\\text{Shaded area}=90-24=66\\text{ cm}^2$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+        "quote": "Area of shaded part = 90cm 2"
+      }
+    },
+    {
+      "stage": "Development: Example: a larger rectangular frame",
+      "minutes": 6,
+      "content": "Example: a larger rectangular frame: The outer rectangle measures $60\\text{ cm}$ by $50\\text{ cm}$. The inner rectangle measures $40\\text{ cm}$ by $35\\text{ cm}$. $\\text{Outer area}=60\\times50=3000\\text{ cm}^2$. $\\text{Inner area}=40\\times35=1400\\text{ cm}^2$. $\\text{Shaded area}=3000-1400=1600\\text{ cm}^2$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: The outer rectangle measures $60\\text{ cm}$ by $50\\text{ cm}$. The inner rectangle measures $40\\text{ cm}$ by $35\\text{ cm}$. $\\text{Outer area}=60\\times50=3000\\text{ cm}^2$. $\\text{Inner area}=40\\times35=1400\\text{ cm}^2$. $\\text{Shaded area}=3000-1400=1600\\text{ cm}^2$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_e998caec583b4c3d93bcff918a82b2c9",
+        "quote": "SUB TOPIC: Finding shaded area"
+      }
+    },
+    {
+      "stage": "Practice and marking",
+      "minutes": 10,
+      "content": "For the first frame, calculate the outer area: length 10 cm and width 9 cm. For the first frame, calculate the inner area: length 6 cm and width 4 cm. Find the shaded area between the 10 cm by 9 cm rectangle and its inner 6 cm by 4 cm rectangle. Find the shaded area between the outer 60 cm by 50 cm rectangle and inner 40 cm by 35 cm rectangle. For the frame with inner length 8 cm, inner width 5 cm and a 2 cm border, find the shaded area.",
+      "teacherActivity": "The teacher sets these questions: For the first frame, calculate the outer area: length 10 cm and width 9 cm. For the first frame, calculate the inner area: length 6 cm and width 4 cm. Find the shaded area between the 10 cm by 9 cm rectangle and its inner 6 cm by 4 cm rectangle. Find the shaded area between the outer 60 cm by 50 cm rectangle and inner 40 cm by 35 cm rectangle. For the frame with inner length 8 cm, inner width 5 cm and a 2 cm border, find the shaded area. The teacher checks each learner\u2019s working, marks against these computed answers: 10 \u00d7 9 = 90 cm\u00b2. 6 \u00d7 4 = 24 cm\u00b2. 90 \u2212 24 = 66 cm\u00b2. 60 \u00d7 50 \u2212 40 \u00d7 35 = 3000 \u2212 1400 = 1600 cm\u00b2. Outer dimensions = 12 cm by 9 cm; 108 \u2212 40 = 68 cm\u00b2. and supports learners who confuse lengths, areas or units.",
+      "learnerActivity": "Learners solve the questions individually, show each calculation, compare marked answers, and correct any errors in substitution or units.",
+      "source": {
+        "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+        "quote": "Area of outer rectangle"
+      }
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 5,
+      "content": "10 \u00d7 9 = 90 cm\u00b2. 6 \u00d7 4 = 24 cm\u00b2. 90 \u2212 24 = 66 cm\u00b2. 60 \u00d7 50 \u2212 40 \u00d7 35 = 3000 \u2212 1400 = 1600 cm\u00b2. Outer dimensions = 12 cm by 9 cm; 108 \u2212 40 = 68 cm\u00b2.",
+      "teacherActivity": "The teacher asks learners to explain their solutions to these questions: For the first frame, calculate the outer area: length 10 cm and width 9 cm. For the first frame, calculate the inner area: length 6 cm and width 4 cm. Find the shaded area between the 10 cm by 9 cm rectangle and its inner 6 cm by 4 cm rectangle. Find the shaded area between the outer 60 cm by 50 cm rectangle and inner 40 cm by 35 cm rectangle. For the frame with inner length 8 cm, inner width 5 cm and a 2 cm border, find the shaded area. The teacher checks the lesson objectives against the written work and assigns correction of the final exercise item.",
+      "learnerActivity": "Learners explain their calculation methods, state the correct units, and correct the final exercise item after receiving feedback.",
+      "source": {
+        "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+        "quote": "Find area of shaded part"
+      }
+    }
+  ],
+  "assessment": "Mark the written working for these questions: For the first frame, calculate the outer area: length 10 cm and width 9 cm. For the first frame, calculate the inner area: length 6 cm and width 4 cm. Find the shaded area between the 10 cm by 9 cm rectangle and its inner 6 cm by 4 cm rectangle. Find the shaded area between the outer 60 cm by 50 cm rectangle and inner 40 cm by 35 cm rectangle. For the frame with inner length 8 cm, inner width 5 cm and a 2 cm border, find the shaded area. Check the stated measurements, operations, final answers and units against the answer key.",
+  "homework": "Correct and fully work this exercise item: For the frame with inner length 8 cm, inner width 5 cm and a 2 cm border, find the shaded area.",
+  "lifeSkills": [
+    "Problem solving",
+    "Critical thinking",
+    "Effective communication"
+  ]
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "question": "Find the area of a trapezium with parallel sides 8 cm and 10 cm and perpendicular height 7 cm.",
+    "answer": "\u00bd \u00d7 7 \u00d7 (8 + 10) = 63 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+      "quote": "Find the area of the trapezium below"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Find the area of a trapezium with parallel sides 7 cm and 10 cm and perpendicular height 4 cm.",
+    "answer": "\u00bd \u00d7 4 \u00d7 (7 + 10) = 34 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_22932c39e53641f59019ad7af8ce184b",
+      "quote": "A = \u00bd x 4cm (7cm + 10cm)"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "A trapezium has area 60 square centimetres, height 4 cm and one parallel side 10 cm. Find the second parallel side.",
+    "answer": "\u00bd \u00d7 4 \u00d7 (a + 10) = 60; a = 20 cm.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_65d14d7e2ff941319a4fe9589925e1b2",
+      "quote": "find the length of the second parallel side"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Find the area of a trapezium with parallel sides 12 dm and 18 dm and height 8 dm.",
+    "answer": "\u00bd \u00d7 8 \u00d7 (12 + 18) = 120 dm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a9614f08ac544e419e398c3d3e90c819",
+      "quote": "SUB TOPIC: Finding area of a Trapezium"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Find the area of a trapezium with parallel sides 8 cm and 12 cm and height 3 cm.",
+    "answer": "\u00bd \u00d7 3 \u00d7 (8 + 12) = 30 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_22932c39e53641f59019ad7af8ce184b",
+      "quote": "A = \u00bd x 3cm x 20cm"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  }
+]

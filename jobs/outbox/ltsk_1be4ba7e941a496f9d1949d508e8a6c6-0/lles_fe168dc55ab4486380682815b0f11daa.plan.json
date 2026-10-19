@@ -1,0 +1,112 @@
+{
+  "competences": [
+    "The learner compare two base-height products for equal areas.",
+    "The learner solve for a triangle\u2019s missing perpendicular height."
+  ],
+  "languageCompetence": "Reads, pronounces, spells and correctly uses: height, perpendicular, equal area, unknown.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to compare two base-height products for equal areas.",
+    "By the end of the lesson, learners should be able to solve for a triangle\u2019s missing perpendicular height."
+  ],
+  "priorKnowledge": "Learners can equate triangle areas and solve for an unknown base.",
+  "methods": [
+    "Demonstration",
+    "Guided discovery",
+    "Question and answer"
+  ],
+  "materials": [
+    "Triangle UVW diagram with the two base-height pairs",
+    "Triangle ABC chart showing BD perpendicular to AC and AE perpendicular to BC"
+  ],
+  "references": [
+    "Lesson Notes P6 Term III MTC VOL 2 (2021)",
+    "MATH P.6 TERM III",
+    "P.6 MTC term 3"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Learners can equate triangle areas and solve for an unknown base. Starter: In triangle UVW, UV = 12 cm, perpendicular height WY = 8 cm, and WV = 24 cm. Find perpendicular height UX to WV.",
+      "teacherActivity": "The teacher displays triangle uvw diagram with the two base-height pairs, reviews the prior skill, and asks: \"In triangle UVW, UV = 12 cm, perpendicular height WY = 8 cm, and WV = 24 cm. Find perpendicular height UX to WV.\" The teacher records learners\u2019 methods and connects them to comparing areas: finding a height.",
+      "learnerActivity": "Learners recall the previous skill, read the starter question, and explain which measurements or operations they would use.",
+      "source": {
+        "source": "lchk_6a71c8bb4c5c46c59a2956830a6a01d9",
+        "quote": "Find the length UX"
+      }
+    },
+    {
+      "stage": "Development: Finding a height",
+      "minutes": 5,
+      "content": "Finding a height: $\\text{Area}=\\frac12\\times\\text{base}\\times\\text{height}$. $\\text{Height}=2\\times\\text{area}\\div\\text{base}$. Two expressions for the same triangle\u2019s area are equal.",
+      "teacherActivity": "The teacher writes and explains the following worked content: $\\text{Area}=\\frac12\\times\\text{base}\\times\\text{height}$. $\\text{Height}=2\\times\\text{area}\\div\\text{base}$. Two expressions for the same triangle\u2019s area are equal. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_6a71c8bb4c5c46c59a2956830a6a01d9",
+        "quote": "Equate the area"
+      }
+    },
+    {
+      "stage": "Development: Example: height from two expressions for area",
+      "minutes": 5,
+      "content": "Example: height from two expressions for area: In triangle UVW, $UV=12\\text{ cm}$, $WY=8\\text{ cm}$ and $WV=24\\text{ cm}$. WY is perpendicular to UV; UX is perpendicular to WV. $\\frac12\\times24\\times UX=\\frac12\\times12\\times8$. $12UX=48$. $UX=48\\div12=4\\text{ cm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: In triangle UVW, $UV=12\\text{ cm}$, $WY=8\\text{ cm}$ and $WV=24\\text{ cm}$. WY is perpendicular to UV; UX is perpendicular to WV. $\\frac12\\times24\\times UX=\\frac12\\times12\\times8$. $12UX=48$. $UX=48\\div12=4\\text{ cm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_6a71c8bb4c5c46c59a2956830a6a01d9",
+        "quote": "Below is a triangle UVW in which UV = 12cm"
+      }
+    },
+    {
+      "stage": "Development: Example: another pair of heights",
+      "minutes": 5,
+      "content": "Example: another pair of heights: In triangle ABC, $BC=100\\text{ cm}$, $AC=86\\text{ cm}$, $BD=10\\text{ cm}$ and $AE=y$. BD is perpendicular to AC; AE is perpendicular to BC. $\\frac12\\times100\\times y=\\frac12\\times86\\times10$. $50y=430$. $y=430\\div50=8.6\\text{ cm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: In triangle ABC, $BC=100\\text{ cm}$, $AC=86\\text{ cm}$, $BD=10\\text{ cm}$ and $AE=y$. BD is perpendicular to AC; AE is perpendicular to BC. $\\frac12\\times100\\times y=\\frac12\\times86\\times10$. $50y=430$. $y=430\\div50=8.6\\text{ cm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_6a71c8bb4c5c46c59a2956830a6a01d9",
+        "quote": "Find the value of \u201cy\u201d if BC = 100cm"
+      }
+    },
+    {
+      "stage": "Development: Example: height from area",
+      "minutes": 5,
+      "content": "Example: height from area: A triangle has area $144\\text{ cm}^2$ and base $24\\text{ cm}$. $\\frac12\\times24\\times h=144$. $12h=144$. $h=144\\div12=12\\text{ cm}$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: A triangle has area $144\\text{ cm}^2$ and base $24\\text{ cm}$. $\\frac12\\times24\\times h=144$. $12h=144$. $h=144\\div12=12\\text{ cm}$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_4e59606446fa425f9a1258ed2530fa71",
+        "quote": "Find the height of the triangle below if its area is 144cm 2"
+      }
+    },
+    {
+      "stage": "Practice and marking",
+      "minutes": 10,
+      "content": "In triangle UVW, UV = 12 cm, perpendicular height WY = 8 cm, and WV = 24 cm. Find perpendicular height UX to WV. In triangle ABC, BC = 100 cm, AC = 86 cm and BD = 10 cm. BD is perpendicular to AC; AE is perpendicular to BC. Find AE. Find the height of a triangle with area 144 square centimetres and base 24 cm. A triangle has area 28 square centimetres and base 14 cm. Find its height h. Find the height of a triangle with area 30 square centimetres and base 12 cm.",
+      "teacherActivity": "The teacher sets these questions: In triangle UVW, UV = 12 cm, perpendicular height WY = 8 cm, and WV = 24 cm. Find perpendicular height UX to WV. In triangle ABC, BC = 100 cm, AC = 86 cm and BD = 10 cm. BD is perpendicular to AC; AE is perpendicular to BC. Find AE. Find the height of a triangle with area 144 square centimetres and base 24 cm. A triangle has area 28 square centimetres and base 14 cm. Find its height h. Find the height of a triangle with area 30 square centimetres and base 12 cm. The teacher checks each learner\u2019s working, marks against these computed answers: \u00bd \u00d7 24 \u00d7 UX = \u00bd \u00d7 12 \u00d7 8; UX = 4 cm. \u00bd \u00d7 100 \u00d7 AE = \u00bd \u00d7 86 \u00d7 10; AE = 8.6 cm. 2 \u00d7 144 \u00f7 24 = 12 cm. 2 \u00d7 28 \u00f7 14 = 4 cm. 2 \u00d7 30 \u00f7 12 = 5 cm. and supports learners who confuse lengths, areas or units.",
+      "learnerActivity": "Learners solve the questions individually, show each calculation, compare marked answers, and correct any errors in substitution or units.",
+      "source": {
+        "source": "lchk_6a71c8bb4c5c46c59a2956830a6a01d9",
+        "quote": "Find the length UX"
+      }
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 5,
+      "content": "\u00bd \u00d7 24 \u00d7 UX = \u00bd \u00d7 12 \u00d7 8; UX = 4 cm. \u00bd \u00d7 100 \u00d7 AE = \u00bd \u00d7 86 \u00d7 10; AE = 8.6 cm. 2 \u00d7 144 \u00f7 24 = 12 cm. 2 \u00d7 28 \u00f7 14 = 4 cm. 2 \u00d7 30 \u00f7 12 = 5 cm.",
+      "teacherActivity": "The teacher asks learners to explain their solutions to these questions: In triangle UVW, UV = 12 cm, perpendicular height WY = 8 cm, and WV = 24 cm. Find perpendicular height UX to WV. In triangle ABC, BC = 100 cm, AC = 86 cm and BD = 10 cm. BD is perpendicular to AC; AE is perpendicular to BC. Find AE. Find the height of a triangle with area 144 square centimetres and base 24 cm. A triangle has area 28 square centimetres and base 14 cm. Find its height h. Find the height of a triangle with area 30 square centimetres and base 12 cm. The teacher checks the lesson objectives against the written work and assigns correction of the final exercise item.",
+      "learnerActivity": "Learners explain their calculation methods, state the correct units, and correct the final exercise item after receiving feedback.",
+      "source": {
+        "source": "lchk_c4287e2236664f34876c77b8819206e1",
+        "quote": "Find the height of a triangle whose area is 30cm 2"
+      }
+    }
+  ],
+  "assessment": "Mark the written working for these questions: In triangle UVW, UV = 12 cm, perpendicular height WY = 8 cm, and WV = 24 cm. Find perpendicular height UX to WV. In triangle ABC, BC = 100 cm, AC = 86 cm and BD = 10 cm. BD is perpendicular to AC; AE is perpendicular to BC. Find AE. Find the height of a triangle with area 144 square centimetres and base 24 cm. A triangle has area 28 square centimetres and base 14 cm. Find its height h. Find the height of a triangle with area 30 square centimetres and base 12 cm. Check the stated measurements, operations, final answers and units against the answer key.",
+  "homework": "Correct and fully work this exercise item: Find the height of a triangle with area 30 square centimetres and base 12 cm.",
+  "lifeSkills": [
+    "Problem solving",
+    "Critical thinking",
+    "Effective communication"
+  ]
+}

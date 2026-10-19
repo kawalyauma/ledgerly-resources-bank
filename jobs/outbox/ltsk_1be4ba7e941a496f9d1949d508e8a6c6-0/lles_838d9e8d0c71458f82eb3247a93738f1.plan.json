@@ -1,0 +1,100 @@
+{
+  "competences": [
+    "The learner find outer dimensions from inner dimensions and border widths.",
+    "The learner calculate the area of a rectangular border."
+  ],
+  "languageCompetence": "Reads, pronounces, spells and correctly uses: border, outer length, outer width, inner area.",
+  "objectives": [
+    "By the end of the lesson, learners should be able to find outer dimensions from inner dimensions and border widths.",
+    "By the end of the lesson, learners should be able to calculate the area of a rectangular border."
+  ],
+  "priorKnowledge": "Learners can subtract inner rectangle area from outer rectangle area.",
+  "methods": [
+    "Demonstration",
+    "Guided discovery",
+    "Question and answer"
+  ],
+  "materials": [
+    "Two border diagrams labelled with inner lengths and border widths",
+    "Ruler and squared paper"
+  ],
+  "references": [
+    "MATH P.6 TERM III",
+    "P 6 Primary SIX MTC Notes Docx (ecolebooks Com)"
+  ],
+  "steps": [
+    {
+      "stage": "Introduction",
+      "minutes": 5,
+      "content": "Learners can subtract inner rectangle area from outer rectangle area. Starter: An inner rectangle is 8 cm long and 5 cm wide, with a 2 cm border on each side. Find the outer length.",
+      "teacherActivity": "The teacher displays two border diagrams labelled with inner lengths and border widths, reviews the prior skill, and asks: \"An inner rectangle is 8 cm long and 5 cm wide, with a 2 cm border on each side. Find the outer length.\" The teacher records learners\u2019 methods and connects them to area of rectangular borders.",
+      "learnerActivity": "Learners recall the previous skill, read the starter question, and explain which measurements or operations they would use.",
+      "source": {
+        "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+        "quote": "Length of outer rectangle"
+      }
+    },
+    {
+      "stage": "Development: Rectangular borders",
+      "minutes": 7,
+      "content": "Rectangular borders: $\\text{Shaded area}=\\text{outer area}-\\text{inner area}$. Area is measured in square units.",
+      "teacherActivity": "The teacher writes and explains the following worked content: $\\text{Shaded area}=\\text{outer area}-\\text{inner area}$. Area is measured in square units. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+        "quote": "Un-shaded area"
+      }
+    },
+    {
+      "stage": "Development: Example: a two-centimetre border",
+      "minutes": 7,
+      "content": "Example: a two-centimetre border: Inner length is $8\\text{ cm}$ and inner width is $5\\text{ cm}$. The border is $2\\text{ cm}$ wide on every side. $\\text{Outer length}=8+2+2=12\\text{ cm}$. $\\text{Outer width}=5+2+2=9\\text{ cm}$. $\\text{Outer area}=12\\times9=108\\text{ cm}^2$. $\\text{Inner area}=8\\times5=40\\text{ cm}^2$. $\\text{Border area}=108-40=68\\text{ cm}^2$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Inner length is $8\\text{ cm}$ and inner width is $5\\text{ cm}$. The border is $2\\text{ cm}$ wide on every side. $\\text{Outer length}=8+2+2=12\\text{ cm}$. $\\text{Outer width}=5+2+2=9\\text{ cm}$. $\\text{Outer area}=12\\times9=108\\text{ cm}^2$. $\\text{Inner area}=8\\times5=40\\text{ cm}^2$. $\\text{Border area}=108-40=68\\text{ cm}^2$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+        "quote": "Length of outer rectangle"
+      }
+    },
+    {
+      "stage": "Development: Example: a three-centimetre border",
+      "minutes": 6,
+      "content": "Example: a three-centimetre border: Inner length is $5\\text{ cm}$ and inner width is $4\\text{ cm}$. The border is $3\\text{ cm}$ wide on every side. $\\text{Outer length}=5+3+3=11\\text{ cm}$. $\\text{Outer width}=4+3+3=10\\text{ cm}$. $\\text{Outer area}=11\\times10=110\\text{ cm}^2$. $\\text{Inner area}=5\\times4=20\\text{ cm}^2$. $\\text{Border area}=110-20=90\\text{ cm}^2$.",
+      "teacherActivity": "The teacher writes and explains the following worked content: Inner length is $5\\text{ cm}$ and inner width is $4\\text{ cm}$. The border is $3\\text{ cm}$ wide on every side. $\\text{Outer length}=5+3+3=11\\text{ cm}$. $\\text{Outer width}=4+3+3=10\\text{ cm}$. $\\text{Outer area}=11\\times10=110\\text{ cm}^2$. $\\text{Inner area}=5\\times4=20\\text{ cm}^2$. $\\text{Border area}=110-20=90\\text{ cm}^2$. The teacher demonstrates each substitution or operation, asks learners to explain the units, and checks individual working before moving to the next step.",
+      "learnerActivity": "Learners read the given measurements, copy the calculation steps, explain the operation used, and check that the answer carries the correct units.",
+      "source": {
+        "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+        "quote": "Length = 5cm +(3cm + 3cm)"
+      }
+    },
+    {
+      "stage": "Practice and marking",
+      "minutes": 10,
+      "content": "An inner rectangle is 8 cm long and 5 cm wide, with a 2 cm border on each side. Find the outer length. For the same 2 cm border, find the outer width. For the same 2 cm border, find the shaded area. An inner rectangle is 5 cm by 4 cm, with a 3 cm border on each side. Find the outer length and width. For the same 3 cm border, calculate the area outside the inner rectangle.",
+      "teacherActivity": "The teacher sets these questions: An inner rectangle is 8 cm long and 5 cm wide, with a 2 cm border on each side. Find the outer length. For the same 2 cm border, find the outer width. For the same 2 cm border, find the shaded area. An inner rectangle is 5 cm by 4 cm, with a 3 cm border on each side. Find the outer length and width. For the same 3 cm border, calculate the area outside the inner rectangle. The teacher checks each learner\u2019s working, marks against these computed answers: 8 + 2 + 2 = 12 cm. 5 + 2 + 2 = 9 cm. 12 \u00d7 9 \u2212 8 \u00d7 5 = 108 \u2212 40 = 68 cm\u00b2. Length = 5 + 3 + 3 = 11 cm; width = 4 + 3 + 3 = 10 cm. 11 \u00d7 10 \u2212 5 \u00d7 4 = 110 \u2212 20 = 90 cm\u00b2. and supports learners who confuse lengths, areas or units.",
+      "learnerActivity": "Learners solve the questions individually, show each calculation, compare marked answers, and correct any errors in substitution or units.",
+      "source": {
+        "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+        "quote": "Length of outer rectangle"
+      }
+    },
+    {
+      "stage": "Conclusion and evaluation",
+      "minutes": 5,
+      "content": "8 + 2 + 2 = 12 cm. 5 + 2 + 2 = 9 cm. 12 \u00d7 9 \u2212 8 \u00d7 5 = 108 \u2212 40 = 68 cm\u00b2. Length = 5 + 3 + 3 = 11 cm; width = 4 + 3 + 3 = 10 cm. 11 \u00d7 10 \u2212 5 \u00d7 4 = 110 \u2212 20 = 90 cm\u00b2.",
+      "teacherActivity": "The teacher asks learners to explain their solutions to these questions: An inner rectangle is 8 cm long and 5 cm wide, with a 2 cm border on each side. Find the outer length. For the same 2 cm border, find the outer width. For the same 2 cm border, find the shaded area. An inner rectangle is 5 cm by 4 cm, with a 3 cm border on each side. Find the outer length and width. For the same 3 cm border, calculate the area outside the inner rectangle. The teacher checks the lesson objectives against the written work and assigns correction of the final exercise item.",
+      "learnerActivity": "Learners explain their calculation methods, state the correct units, and correct the final exercise item after receiving feedback.",
+      "source": {
+        "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+        "quote": "Calculate the area of the un-shaded part"
+      }
+    }
+  ],
+  "assessment": "Mark the written working for these questions: An inner rectangle is 8 cm long and 5 cm wide, with a 2 cm border on each side. Find the outer length. For the same 2 cm border, find the outer width. For the same 2 cm border, find the shaded area. An inner rectangle is 5 cm by 4 cm, with a 3 cm border on each side. Find the outer length and width. For the same 3 cm border, calculate the area outside the inner rectangle. Check the stated measurements, operations, final answers and units against the answer key.",
+  "homework": "Correct and fully work this exercise item: For the same 3 cm border, calculate the area outside the inner rectangle.",
+  "lifeSkills": [
+    "Problem solving",
+    "Critical thinking",
+    "Effective communication"
+  ]
+}

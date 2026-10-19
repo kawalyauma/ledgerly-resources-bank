@@ -1,0 +1,67 @@
+[
+  {
+    "question": "Find the area of a triangle with base 25 cm and height 30 cm.",
+    "answer": "\u00bd \u00d7 25 \u00d7 30 = 375 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_a9614f08ac544e419e398c3d3e90c819",
+      "quote": "Find the area of a triangle whose base is 25cm and height is 30cm"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Find the area of a triangle with base 16 cm and height 4 cm.",
+    "answer": "\u00bd \u00d7 16 \u00d7 4 = 32 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_2408b1cb359d4a089e04e6861f07b0f5",
+      "quote": "EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE 3"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Find the area of a triangle with base 12 cm and height 8 cm.",
+    "answer": "\u00bd \u00d7 12 \u00d7 8 = 48 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+      "quote": "What is the area of the figure shown below"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Two adjacent triangles have common height 6 cm and bases 4 cm and 5 cm. Find the area of the triangle with base 4 cm.",
+    "answer": "\u00bd \u00d7 4 \u00d7 6 = 12 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+      "quote": "Find the area of the shaded triangle"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "For the same adjacent triangles, calculate the area of the whole figure.",
+    "answer": "\u00bd \u00d7 (4 + 5) \u00d7 6 = 27 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+      "quote": "Calculate the area of the whole figure"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  }
+]

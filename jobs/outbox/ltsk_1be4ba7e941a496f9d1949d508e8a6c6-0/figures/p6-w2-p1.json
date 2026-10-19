@@ -1,0 +1,17 @@
+{
+  "key": "p6-w2-p1",
+  "lesson": "lles_e81e19a4354c4e14b6a560b74910d5a4",
+  "title": "Area of shaded rectangles",
+  "caption": "Schematic; not drawn to scale.",
+  "method": "svg",
+  "parts": [
+    "10 cm",
+    "9 cm",
+    "6 cm",
+    "4 cm"
+  ],
+  "source": {
+    "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+    "quote": "Area of shaded part = 90cm 2"
+  }
+}

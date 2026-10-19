@@ -1,0 +1,67 @@
+[
+  {
+    "question": "For the first frame, calculate the outer area: length 10 cm and width 9 cm.",
+    "answer": "10 \u00d7 9 = 90 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+      "quote": "Area of outer rectangle"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "For the first frame, calculate the inner area: length 6 cm and width 4 cm.",
+    "answer": "6 \u00d7 4 = 24 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_fe78f42f00684caa943bea35cdbfc4d2",
+      "quote": "Area of inner rectangle"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Find the shaded area between the 10 cm by 9 cm rectangle and its inner 6 cm by 4 cm rectangle.",
+    "answer": "90 \u2212 24 = 66 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+      "quote": "Find the area of the shaded part"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "Find the shaded area between the outer 60 cm by 50 cm rectangle and inner 40 cm by 35 cm rectangle.",
+    "answer": "60 \u00d7 50 \u2212 40 \u00d7 35 = 3000 \u2212 1400 = 1600 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_e998caec583b4c3d93bcff918a82b2c9",
+      "quote": "Study the figure below and find the shaded area"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  },
+  {
+    "question": "For the frame with inner length 8 cm, inner width 5 cm and a 2 cm border, find the shaded area.",
+    "answer": "Outer dimensions = 12 cm by 9 cm; 108 \u2212 40 = 68 cm\u00b2.",
+    "answerOrigin": "worked",
+    "kind": "computation",
+    "difficulty": 2,
+    "source": {
+      "source": "lchk_35e370d976c340a69e206bdcaf99d939",
+      "quote": "Find area of shaded part"
+    },
+    "skill": "calculate",
+    "cognitiveLevel": "apply"
+  }
+]
