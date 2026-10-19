@@ -1,0 +1,654 @@
+{
+  "units": [
+    {
+      "title": "Time and expression of the future — week 1",
+      "theme": "Expression of the future and Time",
+      "weekFrom": 1,
+      "weekTo": 10
+    },
+    {
+      "title": "Time and expression of the future — week 2",
+      "theme": "Expression of the future and Time",
+      "weekFrom": 2,
+      "weekTo": 10
+    },
+    {
+      "title": "Time and expression of the future — week 3",
+      "theme": "Expression of the future and Time",
+      "weekFrom": 3,
+      "weekTo": 10
+    },
+    {
+      "title": "Democracy — week 4",
+      "theme": "Democracy: games, sports, music, drama and elections",
+      "weekFrom": 4,
+      "weekTo": 9
+    },
+    {
+      "title": "Democracy — week 5",
+      "theme": "Democracy: games, sports, music, drama and elections",
+      "weekFrom": 5,
+      "weekTo": 9
+    },
+    {
+      "title": "Democracy — week 6",
+      "theme": "Democracy: games, sports, music, drama and elections",
+      "weekFrom": 6,
+      "weekTo": 9
+    },
+    {
+      "title": "Democracy — week 7",
+      "theme": "Democracy: games, sports, music, drama and elections",
+      "weekFrom": 7,
+      "weekTo": 10
+    },
+    {
+      "title": "Democracy — week 8",
+      "theme": "Democracy: games, sports, music, drama and elections",
+      "weekFrom": 8,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_ab709c243769477f9d5dc2457c5186ff",
+      "seq": 1,
+      "week": 1,
+      "title": "Using if",
+      "subtopic": "Using if",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Time and expression of the future — week 1"
+    },
+    {
+      "id": "lles_d82dbb9eddac46a5aedebb8cbba94210",
+      "seq": 2,
+      "week": 1,
+      "title": "Using unless",
+      "subtopic": "Using unless",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Time and expression of the future — week 1"
+    },
+    {
+      "id": "lles_158a41b592ad4482a3e12f50d5b2571d",
+      "seq": 3,
+      "week": 1,
+      "title": "Using since",
+      "subtopic": "Using since",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Time and expression of the future — week 1"
+    },
+    {
+      "id": "lles_d8040a8a9b59412a8235b83012670960",
+      "seq": 4,
+      "week": 1,
+      "title": "Future-time vocabulary",
+      "subtopic": "Future-time vocabulary",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Time and expression of the future — week 1"
+    },
+    {
+      "id": "lles_80e2c6fa87b046f099f6f57f37931828",
+      "seq": 5,
+      "week": 1,
+      "title": "Using will and shall",
+      "subtopic": "Using will and shall",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Time and expression of the future — week 1"
+    },
+    {
+      "id": "lles_ef59331003f94be28160c04dfdb1ac62",
+      "seq": 6,
+      "week": 1,
+      "title": "Reading: Akot’s plan to go to the zoo",
+      "subtopic": "Reading: Akot’s plan to go to the zoo",
+      "kind": "teach",
+      "status": "writing",
+      "unit": "Time and expression of the future — week 1"
+    },
+    {
+      "id": "lles_a1389d206da249cebbb742b03b620d79",
+      "seq": 7,
+      "week": 2,
+      "title": "Using for",
+      "subtopic": "Using for",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 2"
+    },
+    {
+      "id": "lles_ef97d1dc02904f08a4e724c4aa5f279a",
+      "seq": 8,
+      "week": 2,
+      "title": "Using before",
+      "subtopic": "Using before",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 2"
+    },
+    {
+      "id": "lles_7a85983cf8674af9b5f7fb617bc50a6b",
+      "seq": 9,
+      "week": 2,
+      "title": "Using after",
+      "subtopic": "Using after",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 2"
+    },
+    {
+      "id": "lles_6d6d944a939e4dd992274981c5b43b9c",
+      "seq": 10,
+      "week": 2,
+      "title": "Reading: Namata’s work plan",
+      "subtopic": "Reading: Namata’s work plan",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 2"
+    },
+    {
+      "id": "lles_f159b2f7f0bc40f9861254e99aa84c88",
+      "seq": 11,
+      "week": 2,
+      "title": "Reading: Amanya’s diary",
+      "subtopic": "Reading: Amanya’s diary",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 2"
+    },
+    {
+      "id": "lles_89ae109bbfd045b882c32a6ab644f787",
+      "seq": 12,
+      "week": 2,
+      "title": "Reading: Mukaga’s daily plan",
+      "subtopic": "Reading: Mukaga’s daily plan",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 2"
+    },
+    {
+      "id": "lles_044b9e77614e4566b40391d702faf87f",
+      "seq": 13,
+      "week": 3,
+      "title": "Present simple passive",
+      "subtopic": "Present simple passive",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 3"
+    },
+    {
+      "id": "lles_f2ea383810e941a4b6d321caa4402168",
+      "seq": 14,
+      "week": 3,
+      "title": "Present continuous passive",
+      "subtopic": "Present continuous passive",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 3"
+    },
+    {
+      "id": "lles_46d2c92a552c40b6835632961cf218c2",
+      "seq": 15,
+      "week": 3,
+      "title": "Present perfect passive",
+      "subtopic": "Present perfect passive",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 3"
+    },
+    {
+      "id": "lles_f5bdf3c1e6794cfc851fa8a2d6327075",
+      "seq": 16,
+      "week": 3,
+      "title": "Diary vocabulary",
+      "subtopic": "Diary vocabulary",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 3"
+    },
+    {
+      "id": "lles_b5dcb73bdd02466cb1cfc676c370c52c",
+      "seq": 17,
+      "week": 3,
+      "title": "A daily routine",
+      "subtopic": "A daily routine",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 3"
+    },
+    {
+      "id": "lles_fee076ad985144628d098f56c76087f4",
+      "seq": 18,
+      "week": 3,
+      "title": "Reading a timetable",
+      "subtopic": "Reading a timetable",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 3"
+    },
+    {
+      "id": "lles_3134d044ab804a5c91bf0497ffa9a42b",
+      "seq": 19,
+      "week": 4,
+      "title": "Past simple passive",
+      "subtopic": "Past simple passive",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 4"
+    },
+    {
+      "id": "lles_fe49e40bd78b4424bc2bfef9fe32c318",
+      "seq": 20,
+      "week": 4,
+      "title": "Past continuous passive",
+      "subtopic": "Past continuous passive",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 4"
+    },
+    {
+      "id": "lles_559a6b048dc54c3f8e3cd36e9d71064d",
+      "seq": 21,
+      "week": 4,
+      "title": "Future simple passive",
+      "subtopic": "Future simple passive",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 4"
+    },
+    {
+      "id": "lles_5887f62d38094fdc8bfa5374733dbc95",
+      "seq": 22,
+      "week": 4,
+      "title": "Games and sports vocabulary",
+      "subtopic": "Games and sports vocabulary",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 4"
+    },
+    {
+      "id": "lles_f81b4d5323634036864a731babb23632",
+      "seq": 23,
+      "week": 4,
+      "title": "Future actions in sports",
+      "subtopic": "Future actions in sports",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 4"
+    },
+    {
+      "id": "lles_b179f55d96df431689839ea5a768596e",
+      "seq": 24,
+      "week": 4,
+      "title": "Sportspeople vocabulary",
+      "subtopic": "Sportspeople vocabulary",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 4"
+    },
+    {
+      "id": "lles_a132ee8e953646409b0e0d51c3918960",
+      "seq": 25,
+      "week": 5,
+      "title": "Not as … as",
+      "subtopic": "Not as … as",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 5"
+    },
+    {
+      "id": "lles_c38eed95cf4e427f86e978298b381804",
+      "seq": 26,
+      "week": 5,
+      "title": "Double comparatives",
+      "subtopic": "Double comparatives",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 5"
+    },
+    {
+      "id": "lles_a39db9181f284f788a9541231a82e4b3",
+      "seq": 27,
+      "week": 5,
+      "title": "Order of adjectives",
+      "subtopic": "Order of adjectives",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 5"
+    },
+    {
+      "id": "lles_5687d2014f1642d1a22ecd0124de7353",
+      "seq": 28,
+      "week": 5,
+      "title": "Ordinal numbers",
+      "subtopic": "Ordinal numbers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 5"
+    },
+    {
+      "id": "lles_330953041aff46bd824863b9d3857ee2",
+      "seq": 29,
+      "week": 5,
+      "title": "Using when in sports sentences",
+      "subtopic": "Using when in sports sentences",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 5"
+    },
+    {
+      "id": "lles_9b86f8bbdd984ee88cad84c39abc4861",
+      "seq": 30,
+      "week": 5,
+      "title": "Reading: Yellow is my team",
+      "subtopic": "Reading: Yellow is my team",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 5"
+    },
+    {
+      "id": "lles_25884d5244ae48af8483c7369e8f6c47",
+      "seq": 31,
+      "week": 6,
+      "title": "Proper adjectives",
+      "subtopic": "Proper adjectives",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 6"
+    },
+    {
+      "id": "lles_10f1fa65704e4f5dbfbc0fe3684d1cee",
+      "seq": 32,
+      "week": 6,
+      "title": "Using hope",
+      "subtopic": "Using hope",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 6"
+    },
+    {
+      "id": "lles_b286e72ed5114a32842a5df6bfed74a6",
+      "seq": 33,
+      "week": 6,
+      "title": "Looking forward to",
+      "subtopic": "Looking forward to",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 6"
+    },
+    {
+      "id": "lles_b238c66f1b064e64ae413feb653c3f73",
+      "seq": 34,
+      "week": 6,
+      "title": "Reading a scoreboard",
+      "subtopic": "Reading a scoreboard",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 6"
+    },
+    {
+      "id": "lles_bde5a31679fe4cf59de5c0a1edab468e",
+      "seq": 35,
+      "week": 6,
+      "title": "Sports dialogue practice",
+      "subtopic": "Sports dialogue practice",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 6"
+    },
+    {
+      "id": "lles_7c77224d11e94b7fb65f22adaf08a68e",
+      "seq": 36,
+      "week": 6,
+      "title": "Music and drama vocabulary",
+      "subtopic": "Music and drama vocabulary",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 6"
+    },
+    {
+      "id": "lles_7d970cd2253b4283b4bed88e02fdbe33",
+      "seq": 37,
+      "week": 7,
+      "title": "Using because",
+      "subtopic": "Using because",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 7"
+    },
+    {
+      "id": "lles_33e3828d6a1d4602b8d1c9cb795f8e53",
+      "seq": 38,
+      "week": 7,
+      "title": "Neither … nor",
+      "subtopic": "Neither … nor",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 7"
+    },
+    {
+      "id": "lles_1e4d9d32605843ada5b29d2b2582a41b",
+      "seq": 39,
+      "week": 7,
+      "title": "And neither",
+      "subtopic": "And neither",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 7"
+    },
+    {
+      "id": "lles_19808003d17543af832252fb79a66c39",
+      "seq": 40,
+      "week": 7,
+      "title": "Using when in event sentences",
+      "subtopic": "Using when in event sentences",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 7"
+    },
+    {
+      "id": "lles_d325172581de4c90864466043093d897",
+      "seq": 41,
+      "week": 7,
+      "title": "Speech day conversation",
+      "subtopic": "Speech day conversation",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 7"
+    },
+    {
+      "id": "lles_00841546378a45fcb4bd117d06624989",
+      "seq": 42,
+      "week": 7,
+      "title": "Composition: a function attended",
+      "subtopic": "Composition: a function attended",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 7"
+    },
+    {
+      "id": "lles_8a5118f1926b4bc983dc76f88370db7d",
+      "seq": 43,
+      "week": 8,
+      "title": "Either … or",
+      "subtopic": "Either … or",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 8"
+    },
+    {
+      "id": "lles_416ed9f13cad4f9cbe13f9ad8a4a9a03",
+      "seq": 44,
+      "week": 8,
+      "title": "Either and both",
+      "subtopic": "Either and both",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 8"
+    },
+    {
+      "id": "lles_20c7a1977b1444109b8c7c56822203ec",
+      "seq": 45,
+      "week": 8,
+      "title": "Compound nouns and plurals",
+      "subtopic": "Compound nouns and plurals",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 8"
+    },
+    {
+      "id": "lles_45d7c975fd3d4531b6e6a334ab6b21c6",
+      "seq": 46,
+      "week": 8,
+      "title": "Election vocabulary",
+      "subtopic": "Election vocabulary",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 8"
+    },
+    {
+      "id": "lles_aec3d24301334f2a8dae603d80e8e194",
+      "seq": 47,
+      "week": 8,
+      "title": "Relative clauses with who",
+      "subtopic": "Relative clauses with who",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 8"
+    },
+    {
+      "id": "lles_ae8a48c96a0a435ea97ba6278e27de49",
+      "seq": 48,
+      "week": 8,
+      "title": "Reading election results",
+      "subtopic": "Reading election results",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Democracy — week 8"
+    },
+    {
+      "id": "lles_79b464eeea20495284f3904460ddbb32",
+      "seq": 49,
+      "week": 9,
+      "title": "Revision: Time and expression of the future — week 1",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 1"
+    },
+    {
+      "id": "lles_9e39b2981ef8470c83403f91e3719aeb",
+      "seq": 50,
+      "week": 9,
+      "title": "Revision: Time and expression of the future — week 2",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 2"
+    },
+    {
+      "id": "lles_dcb4e38fa6844bf3bac2082d094257a3",
+      "seq": 51,
+      "week": 9,
+      "title": "Revision: Time and expression of the future — week 3",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 3"
+    },
+    {
+      "id": "lles_4dfda4e9a924430eb8b73e08b2e3fcb5",
+      "seq": 52,
+      "week": 9,
+      "title": "Revision: Democracy — week 4",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Democracy — week 4"
+    },
+    {
+      "id": "lles_e23f3b2f7ab94878a89adaac89591004",
+      "seq": 53,
+      "week": 9,
+      "title": "Revision: Democracy — week 5",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Democracy — week 5"
+    },
+    {
+      "id": "lles_e643564ea45f4c3e810652a4f8958883",
+      "seq": 54,
+      "week": 9,
+      "title": "Revision: Democracy — week 6",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Democracy — week 6"
+    },
+    {
+      "id": "lles_8fa04fe2e6aa4237a52dbcba7a743dfc",
+      "seq": 55,
+      "week": 10,
+      "title": "Revision: Democracy — week 7",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Democracy — week 7"
+    },
+    {
+      "id": "lles_80c0ec7da5e54fdebdf44971b2befdad",
+      "seq": 56,
+      "week": 10,
+      "title": "Revision: Democracy — week 8",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Democracy — week 8"
+    },
+    {
+      "id": "lles_289d5d3d899a4945b76b9942918432ac",
+      "seq": 57,
+      "week": 10,
+      "title": "Term revision 1: Time and expression of the future — week 1, Time and expression of the future — week 2, Time and expression of the future — week 3, Democracy — week 4, Democracy — week 5, Democracy — week 6, Democracy — week 7, Democracy — week 8",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 1"
+    },
+    {
+      "id": "lles_83857342e4554591b4187a8a17ce5cb0",
+      "seq": 58,
+      "week": 10,
+      "title": "Term revision 2: Time and expression of the future — week 1, Time and expression of the future — week 2, Time and expression of the future — week 3, Democracy — week 4, Democracy — week 5, Democracy — week 6, Democracy — week 7, Democracy — week 8",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 2"
+    },
+    {
+      "id": "lles_3b9cb85690874d49992b8e5835a8dc82",
+      "seq": 59,
+      "week": 10,
+      "title": "Term revision 3: Time and expression of the future — week 1, Time and expression of the future — week 2, Time and expression of the future — week 3, Democracy — week 4, Democracy — week 5, Democracy — week 6, Democracy — week 7, Democracy — week 8",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 3"
+    },
+    {
+      "id": "lles_260455568a5f4a3f8324398d04db3848",
+      "seq": 60,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Time and expression of the future — week 1, Time and expression of the future — week 2, Time and expression of the future — week 3, Democracy — week 4, Democracy — week 5, Democracy — week 6, Democracy — week 7, Democracy — week 8",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Time and expression of the future — week 3"
+    }
+  ]
+}

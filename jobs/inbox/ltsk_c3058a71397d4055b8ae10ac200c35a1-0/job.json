@@ -1,0 +1,80 @@
+{
+  "job": "ltsk_c3058a71397d4055b8ae10ac200c35a1-0",
+  "task": "ltsk_c3058a71397d4055b8ae10ac200c35a1",
+  "call": 0,
+  "kind": "lesson.write",
+  "status": "open",
+  "attempt": 1,
+  "priority": 51,
+  "school": "sch-7207f9",
+  "class": "P4",
+  "classLevel": 4,
+  "subject": "English",
+  "term": "2026-T3",
+  "week": 1,
+  "weeks": 10,
+  "periodsPerWeek": 6,
+  "lessons": [
+    {
+      "id": "lles_ab709c243769477f9d5dc2457c5186ff",
+      "kind": "teach",
+      "week": 1,
+      "title": "Using if",
+      "periods": 1,
+      "subtopic": "Using if"
+    },
+    {
+      "id": "lles_d82dbb9eddac46a5aedebb8cbba94210",
+      "kind": "teach",
+      "week": 1,
+      "title": "Using unless",
+      "periods": 1,
+      "subtopic": "Using unless"
+    },
+    {
+      "id": "lles_158a41b592ad4482a3e12f50d5b2571d",
+      "kind": "teach",
+      "week": 1,
+      "title": "Using since",
+      "periods": 1,
+      "subtopic": "Using since"
+    },
+    {
+      "id": "lles_d8040a8a9b59412a8235b83012670960",
+      "kind": "teach",
+      "week": 1,
+      "title": "Future-time vocabulary",
+      "periods": 1,
+      "subtopic": "Future-time vocabulary"
+    },
+    {
+      "id": "lles_80e2c6fa87b046f099f6f57f37931828",
+      "kind": "teach",
+      "week": 1,
+      "title": "Using will and shall",
+      "periods": 1,
+      "subtopic": "Using will and shall"
+    },
+    {
+      "id": "lles_ef59331003f94be28160c04dfdb1ac62",
+      "kind": "teach",
+      "week": 1,
+      "title": "Reading: Akot’s plan to go to the zoo",
+      "periods": 1,
+      "subtopic": "Reading: Akot’s plan to go to the zoo"
+    }
+  ],
+  "repair": false,
+  "pack": "library/sch-7207f9/2026-T3/P4/english",
+  "passages": [
+    "lchk_52d32128a6914ca8ae03917f25c7b78f",
+    "lchk_f716af72c8cc4a5a82acd048b8952822",
+    "lchk_7685308ccbde482cb6da1bdbb89736ea",
+    "lchk_ffbd8d2a243242b78590b9329650b56a",
+    "lchk_66e2ee5447794359a38eab8dca9d1b53",
+    "lchk_502bab9a89e844fb8fffbee567c30d73",
+    "lchk_11d1b263ed194f0dbe2283cd505309d9",
+    "lchk_6ada0a6682ac4826817cae5ee2fc04b1"
+  ],
+  "created": "2026-10-19T13:10:53.457Z"
+}
