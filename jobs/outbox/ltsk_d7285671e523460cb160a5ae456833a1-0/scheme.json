@@ -1,0 +1,605 @@
+{
+  "title": "Primary One Social Studies \u2014 Term 3 scheme of work",
+  "summary": "Ten weeks with four 40-minute periods each week: thirty teaching lessons plus the weekly reviews and final assessment inserted by Ledgerly. The school Literacy I scheme provides the sequence. SST emphasises transport users, local occupations, things made in the community, environmental features, and peaceful relationships.",
+  "units": [
+    {
+      "title": "Transport",
+      "theme": "Our Transport",
+      "weekFrom": 1,
+      "weekTo": 3,
+      "competences": "The learner identifies types and means of transport, the people who use them, safe road behaviour and the importance of transport to the community.",
+      "sources": [
+        {
+          "source": "lchk_bc264fd781ad4bb08d611f7b2f3f85f3",
+          "quote": "Pedestrians, passengers"
+        },
+        {
+          "source": "lchk_e3d07b1570aa426dbf34b81164b491c6",
+          "quote": "People get jobs e.g taxi drivers"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning and types of transport",
+          "subtopic": "Meaning and types of transport",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to tell the meaning of transport.",
+            "By the end of the lesson, learners should be able to name four types of transport."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bc264fd781ad4bb08d611f7b2f3f85f3",
+              "quote": "Transport is the movement of people and goods"
+            }
+          ]
+        },
+        {
+          "title": "Water transport and the people who use it",
+          "subtopic": "Water transport and the people who use it",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name two means of water transport.",
+            "By the end of the lesson, learners should be able to match a sailor and a captain to their work."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bc264fd781ad4bb08d611f7b2f3f85f3",
+              "quote": "Sailors \u2013 boat, captains \u2013 ship"
+            }
+          ]
+        },
+        {
+          "title": "Railway transport and railway stations",
+          "subtopic": "Railway transport and railway stations",
+          "week": 1,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name the means of railway transport.",
+            "By the end of the lesson, learners should be able to identify a railway station."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bc264fd781ad4bb08d611f7b2f3f85f3",
+              "quote": "Draws the means of railway transport"
+            }
+          ]
+        },
+        {
+          "title": "Air transport and people who use it",
+          "subtopic": "Air transport and people who use it",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name two means of air transport.",
+            "By the end of the lesson, learners should be able to identify a pilot and passengers."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bc264fd781ad4bb08d611f7b2f3f85f3",
+              "quote": "People who fly aeroplanes are called pilots"
+            }
+          ]
+        },
+        {
+          "title": "Road transport and road users",
+          "subtopic": "Road transport and road users",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name familiar means of road transport.",
+            "By the end of the lesson, learners should be able to identify people who use roads."
+          ],
+          "sources": [
+            {
+              "source": "lchk_bc264fd781ad4bb08d611f7b2f3f85f3",
+              "quote": "Pedestrians, passengers"
+            }
+          ]
+        },
+        {
+          "title": "Road signs and traffic lights",
+          "subtopic": "Road signs and traffic lights",
+          "week": 2,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify familiar road signs on a chart.",
+            "By the end of the lesson, learners should be able to match traffic-light colours to their meanings."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e3d07b1570aa426dbf34b81164b491c6",
+              "quote": "Red \u2013 stop Orange \u2013 get ready Green \u2013 go"
+            }
+          ]
+        },
+        {
+          "title": "Safe road use and avoiding accidents",
+          "subtopic": "Safe road use and avoiding accidents",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to state safe ways of using roads.",
+            "By the end of the lesson, learners should be able to identify actions that cause road accidents."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e3d07b1570aa426dbf34b81164b491c6",
+              "quote": "How to control accidents on the road"
+            }
+          ]
+        },
+        {
+          "title": "Importance of transport and transport work",
+          "subtopic": "Importance of transport and transport work",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to state two uses of transport.",
+            "By the end of the lesson, learners should be able to name two people who work in transport."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e3d07b1570aa426dbf34b81164b491c6",
+              "quote": "People get jobs e.g taxi drivers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Things we make and communication",
+      "theme": "Things We Make",
+      "weekFrom": 3,
+      "weekTo": 5,
+      "competences": "The learner identifies locally made things, their uses and materials, the people who make them, and familiar means of communication.",
+      "sources": [
+        {
+          "source": "lchk_e3d07b1570aa426dbf34b81164b491c6",
+          "quote": "Playing things: e.g balls, dolls, ropes"
+        },
+        {
+          "source": "lchk_c59083b188004ce194c13f539473b127",
+          "quote": "Tailors, potter, carpenter"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Things we make at home",
+          "subtopic": "Things we make at home",
+          "week": 3,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name familiar things made at home.",
+            "By the end of the lesson, learners should be able to identify playing things and kitchen tools."
+          ],
+          "sources": [
+            {
+              "source": "lchk_e3d07b1570aa426dbf34b81164b491c6",
+              "quote": "Playing things: e.g balls, dolls, ropes"
+            }
+          ]
+        },
+        {
+          "title": "Means and uses of communication",
+          "subtopic": "Means and uses of communication",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify familiar means of communication.",
+            "By the end of the lesson, learners should be able to state a use of communication."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c59083b188004ce194c13f539473b127",
+              "quote": "Means of communication Uses of communication"
+            }
+          ]
+        },
+        {
+          "title": "Furniture and crafts",
+          "subtopic": "Furniture and crafts",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name items of furniture.",
+            "By the end of the lesson, learners should be able to identify crafts made from local materials."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c59083b188004ce194c13f539473b127",
+              "quote": "tables, chairs, beds cupboards"
+            }
+          ]
+        },
+        {
+          "title": "Clothes and tools we make",
+          "subtopic": "Clothes and tools we make",
+          "week": 4,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name two clothes people make.",
+            "By the end of the lesson, learners should be able to identify tools made at home."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c59083b188004ce194c13f539473b127",
+              "quote": "hoes, slashers, knives, rakes"
+            }
+          ]
+        },
+        {
+          "title": "Uses and materials of things we make",
+          "subtopic": "Uses and materials of things we make",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to match familiar things to their uses.",
+            "By the end of the lesson, learners should be able to name locally available materials used to make things."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c59083b188004ce194c13f539473b127",
+              "quote": "Materials used for things we make"
+            }
+          ]
+        },
+        {
+          "title": "People who make things",
+          "subtopic": "People who make things",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify a tailor, potter and carpenter.",
+            "By the end of the lesson, learners should be able to match these people to things they make."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c59083b188004ce194c13f539473b127",
+              "quote": "Tailors, potter, carpenter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Our environment",
+      "theme": "Our Environment",
+      "weekFrom": 5,
+      "weekTo": 8,
+      "competences": "The learner identifies familiar living things and physical features, explains simple uses of the environment, and names ways of caring for it.",
+      "sources": [
+        {
+          "source": "lchk_c59083b188004ce194c13f539473b127",
+          "quote": "soil, hills, mountains, swamps, rivers, valleys"
+        },
+        {
+          "source": "lchk_daeee08ffe9b41b6a6c2f8a2e3e767cb",
+          "quote": "These are animals that are kept at home"
+        },
+        {
+          "source": "lchk_f4f327e562d447ebb5f6c5c94551a00f",
+          "quote": "Animal homes Cow \u2013 kraal"
+        },
+        {
+          "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+          "quote": "Ways of protecting our environment"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Components of our environment",
+          "subtopic": "Components of our environment",
+          "week": 5,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to tell the meaning of environment.",
+            "By the end of the lesson, learners should be able to name familiar components of the environment."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c59083b188004ce194c13f539473b127",
+              "quote": "soil, hills, mountains, swamps"
+            }
+          ]
+        },
+        {
+          "title": "Living and non-living things",
+          "subtopic": "Living and non-living things",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify living things.",
+            "By the end of the lesson, learners should be able to identify non-living things."
+          ],
+          "sources": [
+            {
+              "source": "lchk_daeee08ffe9b41b6a6c2f8a2e3e767cb",
+              "quote": "These are things which have life"
+            }
+          ]
+        },
+        {
+          "title": "Domestic and wild animals",
+          "subtopic": "Domestic and wild animals",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name familiar domestic and wild animals.",
+            "By the end of the lesson, learners should be able to identify where domestic and wild animals are found."
+          ],
+          "sources": [
+            {
+              "source": "lchk_daeee08ffe9b41b6a6c2f8a2e3e767cb",
+              "quote": "These are animals that are kept at home"
+            }
+          ]
+        },
+        {
+          "title": "Animal homes and young ones",
+          "subtopic": "Animal homes and young ones",
+          "week": 6,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to match familiar animals to their homes.",
+            "By the end of the lesson, learners should be able to name the young ones of familiar animals."
+          ],
+          "sources": [
+            {
+              "source": "lchk_f4f327e562d447ebb5f6c5c94551a00f",
+              "quote": "Animal homes Cow \u2013 kraal"
+            }
+          ]
+        },
+        {
+          "title": "Food crops, cash crops and fruit trees",
+          "subtopic": "Food crops, cash crops and fruit trees",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name familiar food crops.",
+            "By the end of the lesson, learners should be able to identify fruit trees and crops grown for sale."
+          ],
+          "sources": [
+            {
+              "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+              "quote": "These are crops grown for eating"
+            }
+          ]
+        },
+        {
+          "title": "Physical features around us",
+          "subtopic": "Physical features around us",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify hills, mountains, valleys, rivers and lakes.",
+            "By the end of the lesson, learners should be able to name features found around the community."
+          ],
+          "sources": [
+            {
+              "source": "lchk_c59083b188004ce194c13f539473b127",
+              "quote": "soil, hills, mountains, swamps, rivers, valleys"
+            }
+          ]
+        },
+        {
+          "title": "Useful and harmful insects",
+          "subtopic": "Useful and harmful insects",
+          "week": 7,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name familiar useful and harmful insects.",
+            "By the end of the lesson, learners should be able to state one use of useful insects."
+          ],
+          "sources": [
+            {
+              "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+              "quote": "Bees give us honey"
+            }
+          ]
+        },
+        {
+          "title": "Protecting our environment",
+          "subtopic": "Protecting our environment",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify activities that damage the environment.",
+            "By the end of the lesson, learners should be able to state ways of caring for the environment."
+          ],
+          "sources": [
+            {
+              "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+              "quote": "Ways of protecting our environment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Peace and security",
+      "theme": "Peace and Security",
+      "weekFrom": 8,
+      "weekTo": 10,
+      "competences": "The learner identifies people who keep homes, schools and communities safe, describes their work, and practises respectful and peaceful relationships.",
+      "sources": [
+        {
+          "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+          "quote": "people and their property are safe from danger"
+        },
+        {
+          "source": "lchk_908eff3c46cb4b858da6b5cdf3f9ad67",
+          "quote": "Taking other people\u2019s things"
+        },
+        {
+          "source": "lchk_162c148ec3144be3871d0f1e01833182",
+          "quote": "It provides safety and protection to people"
+        }
+      ],
+      "lessons": [
+        {
+          "title": "Meaning of peace and security",
+          "subtopic": "Meaning of peace and security",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to tell the meaning of security.",
+            "By the end of the lesson, learners should be able to identify a peaceful situation."
+          ],
+          "sources": [
+            {
+              "source": "lchk_5a73ef477f3b48958b7ae689e13ac487",
+              "quote": "people and their property are safe from danger"
+            }
+          ]
+        },
+        {
+          "title": "People who keep peace in the community",
+          "subtopic": "People who keep peace in the community",
+          "week": 8,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name community members who keep peace and security.",
+            "By the end of the lesson, learners should be able to identify religious and local council leaders."
+          ],
+          "sources": [
+            {
+              "source": "lchk_908eff3c46cb4b858da6b5cdf3f9ad67",
+              "quote": "Police man - Soldiers - Local council leaders"
+            }
+          ]
+        },
+        {
+          "title": "Work of people who keep peace and security",
+          "subtopic": "Work of people who keep peace and security",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to state the work of the police.",
+            "By the end of the lesson, learners should be able to state a role of soldiers or religious leaders."
+          ],
+          "sources": [
+            {
+              "source": "lchk_162c148ec3144be3871d0f1e01833182",
+              "quote": "Police \u2013 enforces law and order"
+            }
+          ]
+        },
+        {
+          "title": "People who keep peace at school",
+          "subtopic": "People who keep peace at school",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name people who keep the school safe.",
+            "By the end of the lesson, learners should be able to identify their roles in keeping peace."
+          ],
+          "sources": [
+            {
+              "source": "lchk_908eff3c46cb4b858da6b5cdf3f9ad67",
+              "quote": "The teachers Head teacher Director"
+            }
+          ]
+        },
+        {
+          "title": "Keeping peace at school",
+          "subtopic": "Keeping peace at school",
+          "week": 9,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to state ways of keeping peace at school.",
+            "By the end of the lesson, learners should be able to identify behaviours that cause insecurity at school."
+          ],
+          "sources": [
+            {
+              "source": "lchk_908eff3c46cb4b858da6b5cdf3f9ad67",
+              "quote": "Obeying school rules and regulations"
+            }
+          ]
+        },
+        {
+          "title": "Peace and security at home",
+          "subtopic": "Peace and security at home",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to name people who keep peace at home.",
+            "By the end of the lesson, learners should be able to state ways of promoting peace at home."
+          ],
+          "sources": [
+            {
+              "source": "lchk_908eff3c46cb4b858da6b5cdf3f9ad67",
+              "quote": "Greeting one another"
+            }
+          ]
+        },
+        {
+          "title": "Causes of insecurity at home and school",
+          "subtopic": "Causes of insecurity at home and school",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to identify actions that make home or school unsafe.",
+            "By the end of the lesson, learners should be able to state peaceful behaviour that prevents those actions."
+          ],
+          "sources": [
+            {
+              "source": "lchk_908eff3c46cb4b858da6b5cdf3f9ad67",
+              "quote": "Taking other people\u2019s things"
+            }
+          ]
+        },
+        {
+          "title": "Importance of peace and security",
+          "subtopic": "Importance of peace and security",
+          "week": 10,
+          "periods": 1,
+          "kind": "teach",
+          "objectives": [
+            "By the end of the lesson, learners should be able to state two benefits of peace and security.",
+            "By the end of the lesson, learners should be able to identify ways to show care and respect for others."
+          ],
+          "sources": [
+            {
+              "source": "lchk_162c148ec3144be3871d0f1e01833182",
+              "quote": "It provides safety and protection to people"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": []
+}
