@@ -1,0 +1,630 @@
+{
+  "units": [
+    {
+      "title": "Letter writing",
+      "theme": null,
+      "weekFrom": 1,
+      "weekTo": 10
+    },
+    {
+      "title": "Tenses",
+      "theme": null,
+      "weekFrom": 2,
+      "weekTo": 10
+    },
+    {
+      "title": "Necessity and obligation (modal verbs)",
+      "theme": null,
+      "weekFrom": 3,
+      "weekTo": 10
+    },
+    {
+      "title": "Adverbial clauses",
+      "theme": null,
+      "weekFrom": 4,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_9587d826f2a44df08cbdff417f352a84",
+      "seq": 1,
+      "week": 1,
+      "title": "Informal letter vocabulary and parts",
+      "subtopic": "Informal letter",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Letter writing"
+    },
+    {
+      "id": "lles_fa1e17cf0def456c9121459d57c4bb75",
+      "seq": 2,
+      "week": 1,
+      "title": "Writing an informal letter",
+      "subtopic": "Informal letter",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Letter writing"
+    },
+    {
+      "id": "lles_098df55c9ffc4a5d82196f3f5b2906e2",
+      "seq": 3,
+      "week": 1,
+      "title": "Parts of a formal letter",
+      "subtopic": "Formal letter",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Letter writing"
+    },
+    {
+      "id": "lles_698ae74e832245ca9d0239bc6f7631fe",
+      "seq": 4,
+      "week": 1,
+      "title": "Writing a formal letter",
+      "subtopic": "Formal letter",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Letter writing"
+    },
+    {
+      "id": "lles_179615ea70ff4154b1d93ec5c0127106",
+      "seq": 5,
+      "week": 1,
+      "title": "Formal-letter passages, notices and advertisements",
+      "subtopic": "Formal letter",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Letter writing"
+    },
+    {
+      "id": "lles_cc01db2ab922426bb64e6b8c29b563f4",
+      "seq": 6,
+      "week": 1,
+      "title": "Guided compositions",
+      "subtopic": "Formal letter",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Letter writing"
+    },
+    {
+      "id": "lles_561a60af85f34207bc47c186b82590c4",
+      "seq": 7,
+      "week": 2,
+      "title": "Regular and irregular verbs",
+      "subtopic": "Kinds of verbs",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Tenses"
+    },
+    {
+      "id": "lles_62ffc77f61f5407796fcb12ac6070618",
+      "seq": 8,
+      "week": 2,
+      "title": "Forming verb forms",
+      "subtopic": "Kinds of verbs",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Tenses"
+    },
+    {
+      "id": "lles_dec4904380d04b5ea9a7de918bb7e6ec",
+      "seq": 9,
+      "week": 2,
+      "title": "Present continuous: main and helping verbs",
+      "subtopic": "Present continuous",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Tenses"
+    },
+    {
+      "id": "lles_1f35f1dfa8754b769f7b080eeb8470e8",
+      "seq": 10,
+      "week": 2,
+      "title": "Present continuous verb formation",
+      "subtopic": "Present continuous",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Tenses"
+    },
+    {
+      "id": "lles_c9c2e940c03042739db0195e96683183",
+      "seq": 11,
+      "week": 2,
+      "title": "Present simple tense",
+      "subtopic": "The present simple tense",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Tenses"
+    },
+    {
+      "id": "lles_a5d33a04cfab4584bcc6cc7763782321",
+      "seq": 12,
+      "week": 2,
+      "title": "Active and passive voice in the present simple",
+      "subtopic": "Passive of the present simple tense",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Tenses"
+    },
+    {
+      "id": "lles_e8dadc3f69c54ea1882c249587fd1373",
+      "seq": 13,
+      "week": 3,
+      "title": "Need, needn't and necessary",
+      "subtopic": "The use of need, needn't and necessary",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Necessity and obligation (modal verbs)"
+    },
+    {
+      "id": "lles_3f4672a4349e42f6ac97ab940daeceeb",
+      "seq": 14,
+      "week": 3,
+      "title": "Should, shouldn't, ought and oughtn't",
+      "subtopic": "The use of should, shouldn't, ought and oughtn't",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Necessity and obligation (modal verbs)"
+    },
+    {
+      "id": "lles_c6c5e14342d34c9aa35552f6c228c22a",
+      "seq": 15,
+      "week": 3,
+      "title": "May and might",
+      "subtopic": "The use of may and might",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Necessity and obligation (modal verbs)"
+    },
+    {
+      "id": "lles_60c496ec25ec4e41add9fa11fc1b8b6e",
+      "seq": 16,
+      "week": 3,
+      "title": "Must, has to and have to",
+      "subtopic": "The use of must, has to and have to",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Necessity and obligation (modal verbs)"
+    },
+    {
+      "id": "lles_6c5e298174f64413ac80ca60f6c9481b",
+      "seq": 17,
+      "week": 3,
+      "title": "Can and able to",
+      "subtopic": "The use of can and able to",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Necessity and obligation (modal verbs)"
+    },
+    {
+      "id": "lles_28ba9874c95b476d95a7b3b78603abc6",
+      "seq": 18,
+      "week": 3,
+      "title": "Capable of and ability to",
+      "subtopic": "The use of capable of and ability to",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Necessity and obligation (modal verbs)"
+    },
+    {
+      "id": "lles_7f8b0daec5664942be6d186c92d0b345",
+      "seq": 19,
+      "week": 4,
+      "title": "No sooner and immediately",
+      "subtopic": "The use of no sooner and immediately",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Adverbial clauses"
+    },
+    {
+      "id": "lles_c5adad1663ee48f3984b8e2fbafeab03",
+      "seq": 20,
+      "week": 4,
+      "title": "As soon as and just as",
+      "subtopic": "The use of as soon as and just as",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Adverbial clauses"
+    },
+    {
+      "id": "lles_95c910bd25b044cbb237b4cf72669c3c",
+      "seq": 21,
+      "week": 4,
+      "title": "In spite of and despite",
+      "subtopic": "The use of in spite of and despite",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Adverbial clauses"
+    },
+    {
+      "id": "lles_9e09c0da5c6443a180ace31aa850dbdf",
+      "seq": 22,
+      "week": 4,
+      "title": "Even though, though and although",
+      "subtopic": "The use of even though, though and although",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Adverbial clauses"
+    },
+    {
+      "id": "lles_aeb5f5846f634e5699a0eefa15013784",
+      "seq": 23,
+      "week": 4,
+      "title": "Nevertheless, nonetheless, however and not only ... but also",
+      "subtopic": "The use of nevertheless, nonetheless, however and not only ... but also",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Adverbial clauses"
+    },
+    {
+      "id": "lles_36b147547089443ca65c365c61067983",
+      "seq": 24,
+      "week": 4,
+      "title": "Revision: Letter writing",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Letter writing"
+    },
+    {
+      "id": "lles_3a4338abe70944b889bf54cd1945dfbf",
+      "seq": 25,
+      "week": 5,
+      "title": "Revision: Tenses",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Tenses"
+    },
+    {
+      "id": "lles_feb868f2229a42a18e3b9d2d6411a3db",
+      "seq": 26,
+      "week": 5,
+      "title": "Revision: Necessity and obligation (modal verbs)",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Necessity and obligation (modal verbs)"
+    },
+    {
+      "id": "lles_7016845d7ac0441783c9591b9b42a2e6",
+      "seq": 27,
+      "week": 5,
+      "title": "Revision: Adverbial clauses",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Adverbial clauses"
+    },
+    {
+      "id": "lles_d5e7b16f7ce34b35b2f146b6a3009a26",
+      "seq": 28,
+      "week": 5,
+      "title": "Term revision 1: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Letter writing"
+    },
+    {
+      "id": "lles_801f4c36a4f1437295c8d0ab5bc88d13",
+      "seq": 29,
+      "week": 5,
+      "title": "Term revision 2: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Tenses"
+    },
+    {
+      "id": "lles_01ff7adc1dc74bcfa4243ccd2dca68fe",
+      "seq": 30,
+      "week": 5,
+      "title": "Term revision 3: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Necessity and obligation (modal verbs)"
+    },
+    {
+      "id": "lles_d6389bbca1b04d82b67f856923161c16",
+      "seq": 31,
+      "week": 6,
+      "title": "Term revision 4: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Adverbial clauses"
+    },
+    {
+      "id": "lles_402d86f00d2e4b3fa58a0faa9d0c8a3a",
+      "seq": 32,
+      "week": 6,
+      "title": "Term revision 5: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Letter writing"
+    },
+    {
+      "id": "lles_440040fb356f4acd9bfbf32ef22c727c",
+      "seq": 33,
+      "week": 6,
+      "title": "Term revision 6: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Tenses"
+    },
+    {
+      "id": "lles_0a7dfa6d35964302a62be8c3c174299a",
+      "seq": 34,
+      "week": 6,
+      "title": "Term revision 7: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Necessity and obligation (modal verbs)"
+    },
+    {
+      "id": "lles_3e6af24ae4c64cabaac18aac4db8d165",
+      "seq": 35,
+      "week": 6,
+      "title": "Term revision 8: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Adverbial clauses"
+    },
+    {
+      "id": "lles_268248845a00411f8f0463dcdc17f46d",
+      "seq": 36,
+      "week": 6,
+      "title": "Term revision 9: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Letter writing"
+    },
+    {
+      "id": "lles_0967dec482da4f128d4488563a664c84",
+      "seq": 37,
+      "week": 7,
+      "title": "Term revision 10: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Tenses"
+    },
+    {
+      "id": "lles_b443190f27044cf9a7df383508a4154e",
+      "seq": 38,
+      "week": 7,
+      "title": "Term revision 11: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Necessity and obligation (modal verbs)"
+    },
+    {
+      "id": "lles_123ce802cd844f71b95fb21b98446ebd",
+      "seq": 39,
+      "week": 7,
+      "title": "Term revision 12: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Adverbial clauses"
+    },
+    {
+      "id": "lles_4759c9a4f1be44719c64cb08b9c6a205",
+      "seq": 40,
+      "week": 7,
+      "title": "Term revision 13: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Letter writing"
+    },
+    {
+      "id": "lles_d5f75ef4cafc46d78a222872722d31a3",
+      "seq": 41,
+      "week": 7,
+      "title": "Term revision 14: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Tenses"
+    },
+    {
+      "id": "lles_de564f2a978a4575855a2abff36d839c",
+      "seq": 42,
+      "week": 7,
+      "title": "Term revision 15: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Necessity and obligation (modal verbs)"
+    },
+    {
+      "id": "lles_f1d3aa2f21e14ab99e2d829cab7f35c4",
+      "seq": 43,
+      "week": 8,
+      "title": "Term revision 16: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Adverbial clauses"
+    },
+    {
+      "id": "lles_730b9747cd4a41aabcdf71ee7d7ba3c7",
+      "seq": 44,
+      "week": 8,
+      "title": "Term revision 17: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Letter writing"
+    },
+    {
+      "id": "lles_d53766d3e0124d9c881f49b7ad0d2865",
+      "seq": 45,
+      "week": 8,
+      "title": "Term revision 18: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Tenses"
+    },
+    {
+      "id": "lles_9d918ea6894441029ad74c4c9446c3bb",
+      "seq": 46,
+      "week": 8,
+      "title": "Term revision 19: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Necessity and obligation (modal verbs)"
+    },
+    {
+      "id": "lles_08b723f47080438f9613124d821222d8",
+      "seq": 47,
+      "week": 8,
+      "title": "Term revision 20: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Adverbial clauses"
+    },
+    {
+      "id": "lles_8b2b35f23b694feb9c955a8e6ccfbcfc",
+      "seq": 48,
+      "week": 8,
+      "title": "Term revision 21: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Letter writing"
+    },
+    {
+      "id": "lles_754a67bd3a1746e79c664cab59efb463",
+      "seq": 49,
+      "week": 9,
+      "title": "Term revision 22: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Tenses"
+    },
+    {
+      "id": "lles_fc63fe507a024f26b3b8fd9593c9f90f",
+      "seq": 50,
+      "week": 9,
+      "title": "Term revision 23: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Necessity and obligation (modal verbs)"
+    },
+    {
+      "id": "lles_59b648b3fd95426fb28d34b1e14ca444",
+      "seq": 51,
+      "week": 9,
+      "title": "Term revision 24: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Adverbial clauses"
+    },
+    {
+      "id": "lles_9f6c98b1cedc4bba895bbf09dd5cd55a",
+      "seq": 52,
+      "week": 9,
+      "title": "Term revision 25: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Letter writing"
+    },
+    {
+      "id": "lles_ffc9777d34d14635b5713d9f40e399ad",
+      "seq": 53,
+      "week": 9,
+      "title": "Term revision 26: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Tenses"
+    },
+    {
+      "id": "lles_87e56858b89e4e5b939bd525a88f9425",
+      "seq": 54,
+      "week": 9,
+      "title": "Term revision 27: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Necessity and obligation (modal verbs)"
+    },
+    {
+      "id": "lles_52c3e856d87c4ad39a2b204d978d6295",
+      "seq": 55,
+      "week": 10,
+      "title": "Term revision 28: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Adverbial clauses"
+    },
+    {
+      "id": "lles_cda27bb17329441caeae58ea1bb7529b",
+      "seq": 56,
+      "week": 10,
+      "title": "Term revision 29: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Letter writing"
+    },
+    {
+      "id": "lles_e07a6d932014469190a0174a09011240",
+      "seq": 57,
+      "week": 10,
+      "title": "Term revision 30: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Tenses"
+    },
+    {
+      "id": "lles_3eb9f2b2c00548db86b08dd1165ce937",
+      "seq": 58,
+      "week": 10,
+      "title": "Term revision 31: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Necessity and obligation (modal verbs)"
+    },
+    {
+      "id": "lles_064f706911114fd7b5eeef2bc59766c8",
+      "seq": 59,
+      "week": 10,
+      "title": "Term revision 32: Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Adverbial clauses"
+    },
+    {
+      "id": "lles_7e5ac0a1e667463b99465ba748c880ff",
+      "seq": 60,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Letter writing, Tenses, Necessity and obligation (modal verbs), Adverbial clauses",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Adverbial clauses"
+    }
+  ]
+}
