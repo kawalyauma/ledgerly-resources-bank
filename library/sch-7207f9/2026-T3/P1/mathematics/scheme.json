@@ -1,0 +1,736 @@
+{
+  "units": [
+    {
+      "title": "Number patterns and sequence",
+      "theme": "9. Our Transport",
+      "weekFrom": 1,
+      "weekTo": 10
+    },
+    {
+      "title": "Operation on numbers",
+      "theme": "9. Our Transport",
+      "weekFrom": 2,
+      "weekTo": 10
+    },
+    {
+      "title": "10. Things We Make",
+      "theme": "10. Things We Make",
+      "weekFrom": 3,
+      "weekTo": 10
+    },
+    {
+      "title": "11. Our Environment",
+      "theme": "11. Our Environment",
+      "weekFrom": 4,
+      "weekTo": 10
+    },
+    {
+      "title": "12. Peace and Security",
+      "theme": "12. Peace and Security",
+      "weekFrom": 6,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_b88636d4c4ff43e5a4de642c95c1dbdc",
+      "seq": 1,
+      "week": 1,
+      "title": "Counting and writing number names 1–10",
+      "subtopic": "Counting and writing number names 1–10",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Number patterns and sequence"
+    },
+    {
+      "id": "lles_13996bd1935f4459987401cb238d2133",
+      "seq": 2,
+      "week": 1,
+      "title": "Reading and spelling number names 1–10",
+      "subtopic": "Counting and writing number names 1–10",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Number patterns and sequence"
+    },
+    {
+      "id": "lles_4845b3df02fb460b8ae4010924b979ad",
+      "seq": 3,
+      "week": 1,
+      "title": "Counting to 90 and writing number symbols up to 80",
+      "subtopic": "Counting and writing number symbols",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Number patterns and sequence"
+    },
+    {
+      "id": "lles_0179aa5de2984e2890dff70ed44ace1e",
+      "seq": 4,
+      "week": 1,
+      "title": "Filling in missing number symbols",
+      "subtopic": "Counting and writing number symbols",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Number patterns and sequence"
+    },
+    {
+      "id": "lles_d9cb266911e6482e925eb0cd86f3df43",
+      "seq": 5,
+      "week": 1,
+      "title": "Writing number names up to 40",
+      "subtopic": "Writing and matching number names up to 40",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Number patterns and sequence"
+    },
+    {
+      "id": "lles_c8329d7148c24bc2a58a07d128302119",
+      "seq": 6,
+      "week": 1,
+      "title": "Matching number symbols to number names",
+      "subtopic": "Writing and matching number names up to 40",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Number patterns and sequence"
+    },
+    {
+      "id": "lles_6083bc056b08473f87c43cb178c15b36",
+      "seq": 7,
+      "week": 1,
+      "title": "Week 1 review",
+      "subtopic": "Number patterns and sequence",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Number patterns and sequence"
+    },
+    {
+      "id": "lles_6ff127e627764630b703ac961e508955",
+      "seq": 8,
+      "week": 2,
+      "title": "Multiplying by 2",
+      "subtopic": "Multiplying by 2",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Operation on numbers"
+    },
+    {
+      "id": "lles_7321f6065c6547809a402180649aa3d9",
+      "seq": 9,
+      "week": 2,
+      "title": "Counting in twos and multiplying by 2",
+      "subtopic": "Multiplying by 2",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Operation on numbers"
+    },
+    {
+      "id": "lles_b331aa1b250643eb9619dbfea4e310d2",
+      "seq": 10,
+      "week": 2,
+      "title": "Multiplying by 3 using repeated addition",
+      "subtopic": "Multiplying by 3",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Operation on numbers"
+    },
+    {
+      "id": "lles_d57558e5fabb4c34b3082b8519134a52",
+      "seq": 11,
+      "week": 2,
+      "title": "Counting in threes and multiplying by 3",
+      "subtopic": "Multiplying by 3",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Operation on numbers"
+    },
+    {
+      "id": "lles_b33af11ad77c4afab5d2fec515b29731",
+      "seq": 12,
+      "week": 2,
+      "title": "Vertical subtraction to 40",
+      "subtopic": "Subtracting vertically to 40 without borrowing",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Operation on numbers"
+    },
+    {
+      "id": "lles_f05b02d8f67f417d9aa09d41c8f96502",
+      "seq": 13,
+      "week": 2,
+      "title": "Subtraction practice to 40",
+      "subtopic": "Subtracting vertically to 40 without borrowing",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Operation on numbers"
+    },
+    {
+      "id": "lles_347a57eb55264a99b0972096ee7b9f6d",
+      "seq": 14,
+      "week": 2,
+      "title": "Week 2 review",
+      "subtopic": "Operation on numbers",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Operation on numbers"
+    },
+    {
+      "id": "lles_5be4ca365f25477ab7cdfc68c3776265",
+      "seq": 15,
+      "week": 3,
+      "title": "Writing number symbols 0–90",
+      "subtopic": "Number patterns and sequence: number symbols 0–90",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "10. Things We Make"
+    },
+    {
+      "id": "lles_6fcc37d01c704b9b87c9029d3b3dbe6c",
+      "seq": 16,
+      "week": 3,
+      "title": "Number-symbol writing practice",
+      "subtopic": "Number patterns and sequence: number symbols 0–90",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "10. Things We Make"
+    },
+    {
+      "id": "lles_3c1b90026d8345da9d7dbf7dd40b2b96",
+      "seq": 17,
+      "week": 3,
+      "title": "Writing number names 0–60",
+      "subtopic": "Number patterns and sequence: number names 0–60",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "10. Things We Make"
+    },
+    {
+      "id": "lles_f286416e61ba4ec7a48f7c1039a4b12b",
+      "seq": 18,
+      "week": 3,
+      "title": "Matching names and number symbols",
+      "subtopic": "Number patterns and sequence: number names 0–60",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "10. Things We Make"
+    },
+    {
+      "id": "lles_73dbc5c7fafd46d3b950474086d75c8c",
+      "seq": 19,
+      "week": 3,
+      "title": "Addition with sums less than 80",
+      "subtopic": "Operation on numbers: addition without carrying",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "10. Things We Make"
+    },
+    {
+      "id": "lles_522e9a5e67df40e6bfa934d24f69c0ce",
+      "seq": 20,
+      "week": 3,
+      "title": "Addition exercises with sums less than 80",
+      "subtopic": "Operation on numbers: addition without carrying",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "10. Things We Make"
+    },
+    {
+      "id": "lles_3639c730578b43bc9acd606d538f91f0",
+      "seq": 21,
+      "week": 3,
+      "title": "Week 3 review",
+      "subtopic": "10. Things We Make",
+      "kind": "review",
+      "status": "pending",
+      "unit": "10. Things We Make"
+    },
+    {
+      "id": "lles_b53fe29b6a17406288e5002bee773c71",
+      "seq": 22,
+      "week": 4,
+      "title": "Subtraction up to 80",
+      "subtopic": "Operation on numbers: subtraction without borrowing",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "10. Things We Make"
+    },
+    {
+      "id": "lles_55a6292ff93f4524ab9588d19bfd1243",
+      "seq": 23,
+      "week": 4,
+      "title": "Subtraction exercises up to 80",
+      "subtopic": "Operation on numbers: subtraction without borrowing",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "10. Things We Make"
+    },
+    {
+      "id": "lles_8548859eee6c4dbdb2a2af0be8b5e030",
+      "seq": 24,
+      "week": 4,
+      "title": "Counting and writing number symbols up to 99",
+      "subtopic": "Number patterns and sequence: numbers up to 99",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_7e448098843a4b45a6a04b5051bd87e8",
+      "seq": 25,
+      "week": 4,
+      "title": "Missing numbers in sequences",
+      "subtopic": "Number patterns and sequence: numbers up to 99",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_2be4132661fe44acb7fa29c735c5f94d",
+      "seq": 26,
+      "week": 4,
+      "title": "Writing number names up to 99",
+      "subtopic": "Number patterns and sequence: number names up to 99",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_157ac83ff1bd4e9184f9f2c5f193a2a4",
+      "seq": 27,
+      "week": 4,
+      "title": "Number-name writing practice",
+      "subtopic": "Number patterns and sequence: number names up to 99",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_74a7c9ebafd140499e0b1d7157dcd700",
+      "seq": 28,
+      "week": 4,
+      "title": "Week 4 review",
+      "subtopic": "10. Things We Make, 11. Our Environment",
+      "kind": "review",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_b46b58a9466b45959bd457484739da2b",
+      "seq": 29,
+      "week": 5,
+      "title": "Vertical addition to 99",
+      "subtopic": "Operation on numbers: vertical addition without carrying",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_f25bcab758ae43ddb1688913c4ac5c27",
+      "seq": 30,
+      "week": 5,
+      "title": "Vertical addition practice",
+      "subtopic": "Operation on numbers: vertical addition without carrying",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_06bb6de12f4046fc899ab1da993f3206",
+      "seq": 31,
+      "week": 5,
+      "title": "Vertical subtraction to 99",
+      "subtopic": "Operation on numbers: vertical subtraction without borrowing",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_2ca2a78cf66f4bce89a7105a9de8dca8",
+      "seq": 32,
+      "week": 5,
+      "title": "Vertical subtraction practice",
+      "subtopic": "Operation on numbers: vertical subtraction without borrowing",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_d775f61d68d6421bad25bcee5a8082d7",
+      "seq": 33,
+      "week": 5,
+      "title": "Multiplying by 10",
+      "subtopic": "Operation on numbers: multiplying by 10",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_25808dad6a5e4b2c8c3dc7371d6095d5",
+      "seq": 34,
+      "week": 5,
+      "title": "Multiplication by 10 practice",
+      "subtopic": "Operation on numbers: multiplying by 10",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_e0109158a07f48d3894288061b881126",
+      "seq": 35,
+      "week": 5,
+      "title": "Week 5 review",
+      "subtopic": "11. Our Environment",
+      "kind": "review",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_1472f85ba5c1467b8926500ce69f04c3",
+      "seq": 36,
+      "week": 6,
+      "title": "Representing information in pictures",
+      "subtopic": "Representing information in pictorial form",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_37e3ad6098b44130879bd8d87d4f5226",
+      "seq": 37,
+      "week": 6,
+      "title": "Drawing objects to represent a number",
+      "subtopic": "Representing information in pictorial form",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_58275bada83b4fe398bf6f620cf850b3",
+      "seq": 38,
+      "week": 6,
+      "title": "Number symbols and names up to 99",
+      "subtopic": "Number patterns and sequence: matching symbols and names",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "12. Peace and Security"
+    },
+    {
+      "id": "lles_c2cb7cf63f67481e97dc5071ac67678e",
+      "seq": 39,
+      "week": 6,
+      "title": "Matching number symbols and words",
+      "subtopic": "Number patterns and sequence: matching symbols and names",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "12. Peace and Security"
+    },
+    {
+      "id": "lles_8f94a437ccdf4507a8ca8377f640c57d",
+      "seq": 40,
+      "week": 6,
+      "title": "Interpreting pictorial information",
+      "subtopic": "Interpreting information in pictorial form",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "12. Peace and Security"
+    },
+    {
+      "id": "lles_f3e57802f66a4362bd1e17359fae8132",
+      "seq": 41,
+      "week": 6,
+      "title": "Pictorial interpretation practice",
+      "subtopic": "Interpreting information in pictorial form",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "12. Peace and Security"
+    },
+    {
+      "id": "lles_531cb82b3c9e406bb520ab0223c89f4e",
+      "seq": 42,
+      "week": 6,
+      "title": "Week 6 review",
+      "subtopic": "11. Our Environment, 12. Peace and Security",
+      "kind": "review",
+      "status": "pending",
+      "unit": "12. Peace and Security"
+    },
+    {
+      "id": "lles_4a45d6ea19294bc8b9566b50e64a974e",
+      "seq": 43,
+      "week": 7,
+      "title": "Comparing weight",
+      "subtopic": "Comparing the weight of objects",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "12. Peace and Security"
+    },
+    {
+      "id": "lles_18d65b3d83c244c6aad0abc15e256f52",
+      "seq": 44,
+      "week": 7,
+      "title": "Weight comparison practice",
+      "subtopic": "Comparing the weight of objects",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "12. Peace and Security"
+    },
+    {
+      "id": "lles_898a594c5dac49e089be10fee7ea35a7",
+      "seq": 45,
+      "week": 7,
+      "title": "Comparing length",
+      "subtopic": "Comparing the length of objects",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "12. Peace and Security"
+    },
+    {
+      "id": "lles_8bda0b465d2647cc80da0f819b11e73e",
+      "seq": 46,
+      "week": 7,
+      "title": "Length comparison practice",
+      "subtopic": "Comparing the length of objects",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "12. Peace and Security"
+    },
+    {
+      "id": "lles_428cd4b705fc467891f56c289022f4ae",
+      "seq": 47,
+      "week": 7,
+      "title": "Missing numbers in addition and subtraction",
+      "subtopic": "Operation on numbers: addition and subtraction up to 99 without carrying or borrowing",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "12. Peace and Security"
+    },
+    {
+      "id": "lles_10a63513c7004cf6976d1adbc90512de",
+      "seq": 48,
+      "week": 7,
+      "title": "End of term assessment: addition and subtraction",
+      "subtopic": "Operation on numbers: addition and subtraction up to 99 without carrying or borrowing",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "12. Peace and Security"
+    },
+    {
+      "id": "lles_8d278028a6804767b8989e8575579fbc",
+      "seq": 49,
+      "week": 7,
+      "title": "Week 7 review",
+      "subtopic": "12. Peace and Security",
+      "kind": "review",
+      "status": "pending",
+      "unit": "12. Peace and Security"
+    },
+    {
+      "id": "lles_12deed87c21e4d12bd70ce7ab43f1bce",
+      "seq": 50,
+      "week": 8,
+      "title": "Revision: Number patterns and sequence",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Number patterns and sequence"
+    },
+    {
+      "id": "lles_3639ca4473264350abf108167733ac06",
+      "seq": 51,
+      "week": 8,
+      "title": "Revision: Operation on numbers",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Operation on numbers"
+    },
+    {
+      "id": "lles_95a1a4d0005445929e34b46e7ba5679c",
+      "seq": 52,
+      "week": 8,
+      "title": "Revision: 10. Things We Make",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "10. Things We Make"
+    },
+    {
+      "id": "lles_f53988864abf47b586310981679ff86b",
+      "seq": 53,
+      "week": 8,
+      "title": "Revision: 11. Our Environment",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_76f15a05b5a34b0485580857ad82f376",
+      "seq": 54,
+      "week": 8,
+      "title": "Revision: 12. Peace and Security",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "12. Peace and Security"
+    },
+    {
+      "id": "lles_c4d60b4a564f4d2f8f7b51fbd40c08e0",
+      "seq": 55,
+      "week": 8,
+      "title": "Term revision 1: Number patterns and sequence, Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Number patterns and sequence"
+    },
+    {
+      "id": "lles_3a08c20ee2274d2ea341254498b114f3",
+      "seq": 56,
+      "week": 8,
+      "title": "Week 8 review",
+      "subtopic": "Number patterns and sequence, Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Number patterns and sequence"
+    },
+    {
+      "id": "lles_af7ffb9c8da3461fb667d328a2b336fe",
+      "seq": 57,
+      "week": 9,
+      "title": "Term revision 2: Number patterns and sequence, Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Operation on numbers"
+    },
+    {
+      "id": "lles_c29ce9bf55ef40c5842bfc97246d1054",
+      "seq": 58,
+      "week": 9,
+      "title": "Term revision 3: Number patterns and sequence, Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "10. Things We Make"
+    },
+    {
+      "id": "lles_e3193c38bff1419eb4c0d3daea8ec1a5",
+      "seq": 59,
+      "week": 9,
+      "title": "Term revision 4: Number patterns and sequence, Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_822d1acaa69c477da50d2184ce0d1e51",
+      "seq": 60,
+      "week": 9,
+      "title": "Term revision 5: Number patterns and sequence, Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "12. Peace and Security"
+    },
+    {
+      "id": "lles_18c718159ceb4895a61841ba2a9828a9",
+      "seq": 61,
+      "week": 9,
+      "title": "Term revision 6: Number patterns and sequence, Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Number patterns and sequence"
+    },
+    {
+      "id": "lles_6c8a5060e1714e9ebae07cc7cd694d9c",
+      "seq": 62,
+      "week": 9,
+      "title": "Term revision 7: Number patterns and sequence, Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Operation on numbers"
+    },
+    {
+      "id": "lles_483570c875c54c00b0de3ec8a9523763",
+      "seq": 63,
+      "week": 9,
+      "title": "Week 9 review",
+      "subtopic": "Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security, Number patterns and sequence",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Operation on numbers"
+    },
+    {
+      "id": "lles_bf28c5abdf19435aa389673a4b2da6f0",
+      "seq": 64,
+      "week": 10,
+      "title": "Term revision 8: Number patterns and sequence, Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "10. Things We Make"
+    },
+    {
+      "id": "lles_1d3f62649ab544b099b3964c1fe3f312",
+      "seq": 65,
+      "week": 10,
+      "title": "Term revision 9: Number patterns and sequence, Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "11. Our Environment"
+    },
+    {
+      "id": "lles_2b0ca0e08267432987375bc308a95562",
+      "seq": 66,
+      "week": 10,
+      "title": "Term revision 10: Number patterns and sequence, Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "12. Peace and Security"
+    },
+    {
+      "id": "lles_7cc6d43bcbfe4bb48da58d82d766f8ca",
+      "seq": 67,
+      "week": 10,
+      "title": "Term revision 11: Number patterns and sequence, Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Number patterns and sequence"
+    },
+    {
+      "id": "lles_ce80f97a974e421f84894309cc1f5b97",
+      "seq": 68,
+      "week": 10,
+      "title": "Term revision 12: Number patterns and sequence, Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Operation on numbers"
+    },
+    {
+      "id": "lles_f3ff2eaf5c72402b9984ab0d80cf1651",
+      "seq": 69,
+      "week": 10,
+      "title": "Term revision 13: Number patterns and sequence, Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "10. Things We Make"
+    },
+    {
+      "id": "lles_568606dcd6f34def89e81d597438d5bc",
+      "seq": 70,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Number patterns and sequence, Operation on numbers, 10. Things We Make, 11. Our Environment, 12. Peace and Security",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "10. Things We Make"
+    }
+  ]
+}
