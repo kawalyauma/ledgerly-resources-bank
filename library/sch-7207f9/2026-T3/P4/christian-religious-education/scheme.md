@@ -2,12 +2,12 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Reconciliation | Christian ways of reconciling with God — Christian ways of reconciling with God | writing |
-| 2 | 1 | Part B | Reconciliation | Practice: Christian ways of reconciling with God — Christian ways of reconciling with God | writing |
-| 3 | 1 | review | Reconciliation | Week 1 review — Reconciliation | writing |
-| 4 | 2 | teach | Things God promised us if we live according to his commandments | God’s promises to people who live according to his commandments — God’s promises | pending |
-| 5 | 2 | Part B | Things God promised us if we live according to his commandments | Practice: God’s promises — God’s promises | pending |
-| 6 | 2 | review | Things God promised us if we live according to his commandments | Week 2 review — Things God promised us if we live according to his commandments | pending |
+| 1 | 1 | teach | Reconciliation | Christian ways of reconciling with God — Christian ways of reconciling with God | written |
+| 2 | 1 | Part B | Reconciliation | Practice: Christian ways of reconciling with God — Christian ways of reconciling with God | written |
+| 3 | 1 | review | Reconciliation | Week 1 review — Reconciliation | written |
+| 4 | 2 | teach | Things God promised us if we live according to his commandments | God’s promises to people who live according to his commandments — God’s promises | writing |
+| 5 | 2 | Part B | Things God promised us if we live according to his commandments | Practice: God’s promises — God’s promises | writing |
+| 6 | 2 | review | Things God promised us if we live according to his commandments | Week 2 review — Things God promised us if we live according to his commandments | writing |
 | 7 | 3 | revision | Reconciliation | Revision: Reconciliation — Revision and practice | pending |
 | 8 | 3 | revision | Things God promised us if we live according to his commandments | Revision: Things God promised us if we live according to his commandments — Revision and practice | pending |
 | 9 | 3 | review | Things God promised us if we live according to his commandments | Week 3 review — Reconciliation, Things God promised us if we live according to his commandments | pending |
