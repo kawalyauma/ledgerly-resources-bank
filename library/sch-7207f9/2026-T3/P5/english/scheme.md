@@ -2,18 +2,18 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Peace and Security | Peace and security vocabulary — Statement, cell, counter, offence and barracks | writing |
-| 2 | 1 | teach | Peace and Security | Distinguishing related vocabulary — Cell, sale, sell, court and coat | writing |
-| 3 | 1 | teach | Peace and Security | Using was/were … by — Past simple passive voice | writing |
-| 4 | 1 | Part B | Peace and Security | Changing statements into passive voice — Past simple passive voice | writing |
-| 5 | 1 | teach | Peace and Security | Using so … that — Joining sentences using so … that | writing |
-| 6 | 1 | Part B | Peace and Security | Sentence joining practice — Joining sentences using so … that | writing |
-| 7 | 2 | teach | Peace and Security | Ndayidde and the police constable — Conversation comprehension | pending |
-| 8 | 2 | Part B | Peace and Security | Acting the conversation — Conversation comprehension | pending |
-| 9 | 2 | teach | Peace and Security | What the Police Does — Poem comprehension | pending |
-| 10 | 2 | teach | Peace and Security | The New Vision article — Newspaper article comprehension | pending |
-| 11 | 2 | teach | Peace and Security | Our village: oral sentence construction — Guided composition about our village | pending |
-| 12 | 2 | Part B | Peace and Security | Our village: guided writing — Guided composition about our village | pending |
+| 1 | 1 | teach | Peace and Security | Peace and security vocabulary — Statement, cell, counter, offence and barracks | failed |
+| 2 | 1 | teach | Peace and Security | Distinguishing related vocabulary — Cell, sale, sell, court and coat | failed |
+| 3 | 1 | teach | Peace and Security | Using was/were … by — Past simple passive voice | failed |
+| 4 | 1 | Part B | Peace and Security | Changing statements into passive voice — Past simple passive voice | written |
+| 5 | 1 | teach | Peace and Security | Using so … that — Joining sentences using so … that | written |
+| 6 | 1 | Part B | Peace and Security | Sentence joining practice — Joining sentences using so … that | written |
+| 7 | 2 | teach | Peace and Security | Ndayidde and the police constable — Conversation comprehension | writing |
+| 8 | 2 | Part B | Peace and Security | Acting the conversation — Conversation comprehension | writing |
+| 9 | 2 | teach | Peace and Security | What the Police Does — Poem comprehension | writing |
+| 10 | 2 | teach | Peace and Security | The New Vision article — Newspaper article comprehension | writing |
+| 11 | 2 | teach | Peace and Security | Our village: oral sentence construction — Guided composition about our village | writing |
+| 12 | 2 | Part B | Peace and Security | Our village: guided writing — Guided composition about our village | writing |
 | 13 | 3 | teach | Peace and Security | Reading a peace and security passage — Passage comprehension | pending |
 | 14 | 3 | teach | Peace and Security | Mob justice vocabulary — Mob, offender, handcuffed, harmony and property | pending |
 | 15 | 3 | teach | Peace and Security | Completing sentences with correct word forms — Correct forms of words | pending |
