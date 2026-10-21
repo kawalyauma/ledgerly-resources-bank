@@ -1,0 +1,642 @@
+{
+  "units": [
+    {
+      "title": "Punctuation",
+      "theme": "Punctuation marks",
+      "weekFrom": 1,
+      "weekTo": 10
+    },
+    {
+      "title": "Comprehension: Safety on the Road",
+      "theme": "Traffic dangers",
+      "weekFrom": 1,
+      "weekTo": 9
+    },
+    {
+      "title": "Comprehension",
+      "theme": "Traffic dangers and a visit by the traffic officer",
+      "weekFrom": 2,
+      "weekTo": 10
+    },
+    {
+      "title": "Nouns",
+      "theme": "Types of nouns; singulars and plurals",
+      "weekFrom": 3,
+      "weekTo": 10
+    },
+    {
+      "title": "Hotels",
+      "theme": "Hotel language and structural patterns",
+      "weekFrom": 4,
+      "weekTo": 10
+    },
+    {
+      "title": "Using a Dictionary",
+      "theme": "Alphabetical order",
+      "weekFrom": 5,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_f1e92ea99d604aa88c20405a5a7661ee",
+      "seq": 1,
+      "week": 1,
+      "title": "Capital letters and full stops",
+      "subtopic": "Capital letters and full stops",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Punctuation"
+    },
+    {
+      "id": "lles_540492c0767046bcbcf43989fbbfaf6c",
+      "seq": 2,
+      "week": 1,
+      "title": "Question marks and exclamation marks",
+      "subtopic": "Question marks and exclamation marks",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Punctuation"
+    },
+    {
+      "id": "lles_7a0667634ad14f5d85cc6300567c0cae",
+      "seq": 3,
+      "week": 1,
+      "title": "Apostrophes and commas",
+      "subtopic": "Apostrophes and commas",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Punctuation"
+    },
+    {
+      "id": "lles_7dcc2b11e3b34295a2b3fb8072e65431",
+      "seq": 4,
+      "week": 1,
+      "title": "Semicolons and hyphens",
+      "subtopic": "Semicolons and hyphens",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Punctuation"
+    },
+    {
+      "id": "lles_3c59fa00a8b543c385c71fd59bfd87aa",
+      "seq": 5,
+      "week": 1,
+      "title": "Quotation marks",
+      "subtopic": "Quotation marks",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Punctuation"
+    },
+    {
+      "id": "lles_99b7ecc1b65c404188aa1e2608fdb534",
+      "seq": 6,
+      "week": 1,
+      "title": "Traffic dangers vocabulary",
+      "subtopic": "Road safety vocabulary",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Comprehension: Safety on the Road"
+    },
+    {
+      "id": "lles_22dfb7e5ae6e4edab9cf58fa617ead46",
+      "seq": 7,
+      "week": 2,
+      "title": "Road safety structural patterns",
+      "subtopic": "As soon as; because; must; Where must; should not",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Comprehension: Safety on the Road"
+    },
+    {
+      "id": "lles_162c254ae9f548ecb764ae44df681610",
+      "seq": 8,
+      "week": 2,
+      "title": "Crossing the road and Safety on the road",
+      "subtopic": "Dialogue and poem",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Comprehension: Safety on the Road"
+    },
+    {
+      "id": "lles_69f7514480d64ce28f93717d8a497cf3",
+      "seq": 9,
+      "week": 2,
+      "title": "Traffic dangers: A visit by the traffic officer",
+      "subtopic": "Reading comprehension",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Comprehension"
+    },
+    {
+      "id": "lles_020714a354e74059b0442d7211b56ae3",
+      "seq": 10,
+      "week": 2,
+      "title": "Guided composition",
+      "subtopic": "Writing sentences about pictures",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Comprehension"
+    },
+    {
+      "id": "lles_5fbb226e75c24f5cb5a4786f3856a6f6",
+      "seq": 11,
+      "week": 2,
+      "title": "Composition writing about road accidents",
+      "subtopic": "A letter to the traffic officer",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Comprehension"
+    },
+    {
+      "id": "lles_b350adcef4bf46bb96d670a22950c5c2",
+      "seq": 12,
+      "week": 2,
+      "title": "Traffic dangers and Narrow escape",
+      "subtopic": "Poem and passage comprehension",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Comprehension"
+    },
+    {
+      "id": "lles_449899f5956f4b3b82b5c606202ae2da",
+      "seq": 13,
+      "week": 3,
+      "title": "Proper and common nouns",
+      "subtopic": "Types of nouns",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Nouns"
+    },
+    {
+      "id": "lles_8d9e027f9f144811893790f974ac070d",
+      "seq": 14,
+      "week": 3,
+      "title": "Collective nouns",
+      "subtopic": "Collective nouns",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Nouns"
+    },
+    {
+      "id": "lles_9299321198c942f4a442dfc4dfb126f9",
+      "seq": 15,
+      "week": 3,
+      "title": "Abstract nouns",
+      "subtopic": "Abstract nouns",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Nouns"
+    },
+    {
+      "id": "lles_bf0c3e1efb56437387c4cb3749d03984",
+      "seq": 16,
+      "week": 3,
+      "title": "Formation of abstract nouns",
+      "subtopic": "Formation of abstract nouns",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Nouns"
+    },
+    {
+      "id": "lles_327356e7c50544ff906cca0f0f7e77f4",
+      "seq": 17,
+      "week": 3,
+      "title": "Singulars and plurals: Regular formations",
+      "subtopic": "Adding s, es and ies; changing f to v and adding es",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Nouns"
+    },
+    {
+      "id": "lles_9864f109a5e546bda8d355557e45c998",
+      "seq": 18,
+      "week": 3,
+      "title": "Other noun forms",
+      "subtopic": "Unchanged plurals, irregular formations, compound nouns and uncountable nouns",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Nouns"
+    },
+    {
+      "id": "lles_d8e16426a1c64b85b8e3633fc9d0d9e7",
+      "seq": 19,
+      "week": 4,
+      "title": "May I …, please?",
+      "subtopic": "Requests using May I …, please?",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hotels"
+    },
+    {
+      "id": "lles_e5e0b1d8ca0e4830b98762a52f3693d3",
+      "seq": 20,
+      "week": 4,
+      "title": "Practising May I …, please?",
+      "subtopic": "Requests using May I …, please?",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Hotels"
+    },
+    {
+      "id": "lles_0a57862443f247e79b49c05d63a5f99f",
+      "seq": 21,
+      "week": 4,
+      "title": "Using may",
+      "subtopic": "May in sentences",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hotels"
+    },
+    {
+      "id": "lles_25bcbe66cb7f481fbb552f70973f2ed7",
+      "seq": 22,
+      "week": 4,
+      "title": "Practising may",
+      "subtopic": "May in sentences",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Hotels"
+    },
+    {
+      "id": "lles_e2a9feda41be4cc7a6913ca6b4fbef32",
+      "seq": 23,
+      "week": 4,
+      "title": "No sooner … than",
+      "subtopic": "No sooner with did and had",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hotels"
+    },
+    {
+      "id": "lles_4d4e4130c93f419ea79be860ed67e5d6",
+      "seq": 24,
+      "week": 4,
+      "title": "Practising No sooner … than",
+      "subtopic": "No sooner with did and had",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Hotels"
+    },
+    {
+      "id": "lles_3e0932d1938e4069996f67207cd44532",
+      "seq": 25,
+      "week": 5,
+      "title": "Hardly, barely and scarcely",
+      "subtopic": "Hardly, barely and scarcely with when",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Hotels"
+    },
+    {
+      "id": "lles_e57fbb53c76144cbbd915e33c6141340",
+      "seq": 26,
+      "week": 5,
+      "title": "Practising hardly and scarcely",
+      "subtopic": "Hardly, barely and scarcely with when",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Hotels"
+    },
+    {
+      "id": "lles_c67eded2fcd4400fa010a4beb87e0269",
+      "seq": 27,
+      "week": 5,
+      "title": "Alphabetical order",
+      "subtopic": "Arranging words alphabetically",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Using a Dictionary"
+    },
+    {
+      "id": "lles_55d3903384914b23b799124460a1f8c0",
+      "seq": 28,
+      "week": 5,
+      "title": "Alphabetical ordering practice",
+      "subtopic": "Arranging words alphabetically",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Using a Dictionary"
+    },
+    {
+      "id": "lles_25ea4d1828b6443f9a2fda25af2c78b1",
+      "seq": 29,
+      "week": 5,
+      "title": "Revision: Punctuation",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Punctuation"
+    },
+    {
+      "id": "lles_eb667f7154ac444bb42d02fee9f61834",
+      "seq": 30,
+      "week": 5,
+      "title": "Revision: Comprehension: Safety on the Road",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Comprehension: Safety on the Road"
+    },
+    {
+      "id": "lles_c6446b603de5448b837bea3dc77d8c71",
+      "seq": 31,
+      "week": 6,
+      "title": "Revision: Comprehension",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Comprehension"
+    },
+    {
+      "id": "lles_a8909ed406e34104a97e40c5444fe672",
+      "seq": 32,
+      "week": 6,
+      "title": "Revision: Nouns",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Nouns"
+    },
+    {
+      "id": "lles_31839d1940224a1eba8ba378041ade1b",
+      "seq": 33,
+      "week": 6,
+      "title": "Revision: Hotels",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Hotels"
+    },
+    {
+      "id": "lles_ef7fc72c1fba4591ba7acedf559bf105",
+      "seq": 34,
+      "week": 6,
+      "title": "Revision: Using a Dictionary",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Using a Dictionary"
+    },
+    {
+      "id": "lles_b458c3acc8234a6ca23aa52e02bc7cd0",
+      "seq": 35,
+      "week": 6,
+      "title": "Term revision 1: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Punctuation"
+    },
+    {
+      "id": "lles_05c542afdf2f4c3980f3abecba7e73fd",
+      "seq": 36,
+      "week": 6,
+      "title": "Term revision 2: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Comprehension: Safety on the Road"
+    },
+    {
+      "id": "lles_7e1c3956ba8e4b42a21e92530fd1b911",
+      "seq": 37,
+      "week": 7,
+      "title": "Term revision 3: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Comprehension"
+    },
+    {
+      "id": "lles_7236ef0fedac4c67b8484ec95cdaa110",
+      "seq": 38,
+      "week": 7,
+      "title": "Term revision 4: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Nouns"
+    },
+    {
+      "id": "lles_53becd911b9244feb713efe8272e45f3",
+      "seq": 39,
+      "week": 7,
+      "title": "Term revision 5: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Hotels"
+    },
+    {
+      "id": "lles_1231d8dd0f0d40f799dad0113598e87b",
+      "seq": 40,
+      "week": 7,
+      "title": "Term revision 6: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Using a Dictionary"
+    },
+    {
+      "id": "lles_7de4da811f20496d9d6fb08ee4d3264a",
+      "seq": 41,
+      "week": 7,
+      "title": "Term revision 7: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Punctuation"
+    },
+    {
+      "id": "lles_b7c5ac7bc4554964ab405789e06f7bfe",
+      "seq": 42,
+      "week": 7,
+      "title": "Term revision 8: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Comprehension: Safety on the Road"
+    },
+    {
+      "id": "lles_ee80dfdf7a0646cfbab3ca69852b46dd",
+      "seq": 43,
+      "week": 8,
+      "title": "Term revision 9: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Comprehension"
+    },
+    {
+      "id": "lles_58ef0f9d88d64ddca8c17372a8566ec2",
+      "seq": 44,
+      "week": 8,
+      "title": "Term revision 10: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Nouns"
+    },
+    {
+      "id": "lles_51f6fdab1d7a4049814f71068004eb57",
+      "seq": 45,
+      "week": 8,
+      "title": "Term revision 11: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Hotels"
+    },
+    {
+      "id": "lles_e400dd84803d476e8e53122328d9adb9",
+      "seq": 46,
+      "week": 8,
+      "title": "Term revision 12: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Using a Dictionary"
+    },
+    {
+      "id": "lles_3f1f367bea8f49398609db376aeef82f",
+      "seq": 47,
+      "week": 8,
+      "title": "Term revision 13: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Punctuation"
+    },
+    {
+      "id": "lles_504699b353b7403e89aade79c35fd689",
+      "seq": 48,
+      "week": 8,
+      "title": "Term revision 14: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Comprehension: Safety on the Road"
+    },
+    {
+      "id": "lles_4ec8e8d54b06470f9d422f9d07ca6067",
+      "seq": 49,
+      "week": 9,
+      "title": "Term revision 15: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Comprehension"
+    },
+    {
+      "id": "lles_5bc3c24d014a4a39a49dc8f0079859f5",
+      "seq": 50,
+      "week": 9,
+      "title": "Term revision 16: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Nouns"
+    },
+    {
+      "id": "lles_220cc93e247841479aea828056b05b09",
+      "seq": 51,
+      "week": 9,
+      "title": "Term revision 17: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Hotels"
+    },
+    {
+      "id": "lles_8b12db1bd7bc49349b01e5722a4ab6e3",
+      "seq": 52,
+      "week": 9,
+      "title": "Term revision 18: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Using a Dictionary"
+    },
+    {
+      "id": "lles_76b97978fe23430389286bf7c79d465f",
+      "seq": 53,
+      "week": 9,
+      "title": "Term revision 19: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Punctuation"
+    },
+    {
+      "id": "lles_194ce5c45f9b4ce48a9e92b2a9cac86e",
+      "seq": 54,
+      "week": 9,
+      "title": "Term revision 20: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Comprehension: Safety on the Road"
+    },
+    {
+      "id": "lles_bff08c72060d468e90a2d896e1fd734f",
+      "seq": 55,
+      "week": 10,
+      "title": "Term revision 21: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Comprehension"
+    },
+    {
+      "id": "lles_aaa0abe5e20b46fc8626f1ad08ee5032",
+      "seq": 56,
+      "week": 10,
+      "title": "Term revision 22: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Nouns"
+    },
+    {
+      "id": "lles_571c8a651e4a463eb3f9e95432709d79",
+      "seq": 57,
+      "week": 10,
+      "title": "Term revision 23: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Hotels"
+    },
+    {
+      "id": "lles_d7ba9c656aae451fb53a8dd069deafa3",
+      "seq": 58,
+      "week": 10,
+      "title": "Term revision 24: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Using a Dictionary"
+    },
+    {
+      "id": "lles_2696cc477edd42e0ac162b78c1b2ed61",
+      "seq": 59,
+      "week": 10,
+      "title": "Term revision 25: Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Punctuation"
+    },
+    {
+      "id": "lles_95ee49c8811c46b9a731e37214867e9d",
+      "seq": 60,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Punctuation, Comprehension: Safety on the Road, Comprehension, Nouns, Hotels, Using a Dictionary",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Punctuation"
+    }
+  ]
+}
