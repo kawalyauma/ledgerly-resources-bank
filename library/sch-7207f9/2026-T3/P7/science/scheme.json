@@ -1,0 +1,624 @@
+{
+  "units": [
+    {
+      "title": "Muscular-Skeletal System",
+      "theme": "Human Body",
+      "weekFrom": 1,
+      "weekTo": 10
+    },
+    {
+      "title": "Electricity and Magnetism",
+      "theme": "Matter and Energy",
+      "weekFrom": 3,
+      "weekTo": 10
+    },
+    {
+      "title": "Population and Health",
+      "theme": null,
+      "weekFrom": 3,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_93d5a921ba8f4b83a345a00594d66ee2",
+      "seq": 1,
+      "week": 1,
+      "title": "The skeleton: meaning and types",
+      "subtopic": "The structure of the human skeleton",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_f7e9c5d7e9844bef9a44a2b673363992",
+      "seq": 2,
+      "week": 1,
+      "title": "Structure and importance of the skeleton",
+      "subtopic": "The structure of the human skeleton",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_272cd69e10364d539d6bfce60b9a6046",
+      "seq": 3,
+      "week": 1,
+      "title": "Drawing and labelling the skeleton",
+      "subtopic": "The structure of the human skeleton",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_53220919ba024452abcbfeee2c4f1ada",
+      "seq": 4,
+      "week": 1,
+      "title": "Names and classes of bones",
+      "subtopic": "Names of different bones",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_02c0130fa9e8406bb92fdc7d8a5b4d93",
+      "seq": 5,
+      "week": 1,
+      "title": "Types and uses of joints",
+      "subtopic": "Joints",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_6bacb14c97b94aec8e21f589d21881cc",
+      "seq": 6,
+      "week": 1,
+      "title": "Ligaments and tendons",
+      "subtopic": "Joints",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_082fed22979b4542bd6aeec7460f51f5",
+      "seq": 7,
+      "week": 2,
+      "title": "Meaning and types of muscles",
+      "subtopic": "Muscles",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_b8db18d930e84ae4a99111f9ef6f4962",
+      "seq": 8,
+      "week": 2,
+      "title": "How muscles work and their importance",
+      "subtopic": "Muscles",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_86e305426c2d43a5b2ac705a7ebec46c",
+      "seq": 9,
+      "week": 2,
+      "title": "Diseases and disorders of the system",
+      "subtopic": "Diseases and disorders of the muscular-skeletal system",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_29a1a622c08f42be8ed8b3457c1c9088",
+      "seq": 10,
+      "week": 2,
+      "title": "Prevention of diseases and disorders",
+      "subtopic": "Prevention of muscular and skeletal diseases",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_c631b03f9b1c4c5bb624953c3631cd3e",
+      "seq": 11,
+      "week": 2,
+      "title": "Posture and its importance",
+      "subtopic": "Posture",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_d0c9945cecc34c5a89d14fdab29b43d7",
+      "seq": 12,
+      "week": 2,
+      "title": "Demonstrating correct posture",
+      "subtopic": "Posture",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_cffdbca1dc0d4e3ca3a5c47c01069ead",
+      "seq": 13,
+      "week": 3,
+      "title": "Keeping the muscular-skeletal system healthy",
+      "subtopic": "Health habits for the muscular-skeletal system",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_c1ac57d6050e40c58286b9cd02de857c",
+      "seq": 14,
+      "week": 3,
+      "title": "Electricity and its types",
+      "subtopic": "Types of electricity",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Electricity and Magnetism"
+    },
+    {
+      "id": "lles_6079d10260fa44668e6182a7a6db20b0",
+      "seq": 15,
+      "week": 3,
+      "title": "Generating static electricity",
+      "subtopic": "Types of electricity",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Electricity and Magnetism"
+    },
+    {
+      "id": "lles_6d4e16041a964627aa91a87988cc2415",
+      "seq": 16,
+      "week": 3,
+      "title": "Sources of electricity",
+      "subtopic": "Sources of electricity",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Electricity and Magnetism"
+    },
+    {
+      "id": "lles_262fad96269145b9b1cc6900376f4876",
+      "seq": 17,
+      "week": 3,
+      "title": "Cells and the structure of a dry cell",
+      "subtopic": "Cells",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Electricity and Magnetism"
+    },
+    {
+      "id": "lles_a7062c3ff08641a7ba50fbb8ca983255",
+      "seq": 18,
+      "week": 3,
+      "title": "Sicknesses in homes and the community",
+      "subtopic": "Sicknesses in a home and community",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_cdc0b964103c4ba0bd23a1ac9a4593db",
+      "seq": 19,
+      "week": 4,
+      "title": "Anti-social behaviour and sexual deviations",
+      "subtopic": "Anti-social behaviour and sexual deviations",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_0749b3d941914fcd8e40974641fb2a53",
+      "seq": 20,
+      "week": 4,
+      "title": "Collecting population and health information",
+      "subtopic": "Population surveys",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_dba5ebf56a244f2d93074feb4a982ea5",
+      "seq": 21,
+      "week": 4,
+      "title": "Population survey practice",
+      "subtopic": "Population surveys",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_d53494bbbabf46bc96e1cc2fc0941d1a",
+      "seq": 22,
+      "week": 4,
+      "title": "Organising and interpreting survey data",
+      "subtopic": "Population and health survey reports",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_d473d50f0a8a4c4db84a95b73c9a958e",
+      "seq": 23,
+      "week": 4,
+      "title": "Preparing and sharing a survey report",
+      "subtopic": "Population and health survey reports",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_026a7544c81b452eb89e3b1b7c947fe0",
+      "seq": 24,
+      "week": 4,
+      "title": "Planning population-related health activities",
+      "subtopic": "Population-related health activities",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_9b061bf0c30d4f56b60c9b2f9c373ce9",
+      "seq": 25,
+      "week": 5,
+      "title": "Evaluating health club activities",
+      "subtopic": "Health clubs",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_33e33f54b30e41df82c5c0b37350ba16",
+      "seq": 26,
+      "week": 5,
+      "title": "Revision: Muscular-Skeletal System",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_8cef1e0305e24beea628983ed668843e",
+      "seq": 27,
+      "week": 5,
+      "title": "Revision: Electricity and Magnetism",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Electricity and Magnetism"
+    },
+    {
+      "id": "lles_07634512f8d84e3a97c1ef64157827da",
+      "seq": 28,
+      "week": 5,
+      "title": "Revision: Population and Health",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_9bb5168498684c2e91d5f2c3842315f9",
+      "seq": 29,
+      "week": 5,
+      "title": "Term revision 1: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_3f96ddfc07334418b587f76c1973ee14",
+      "seq": 30,
+      "week": 5,
+      "title": "Term revision 2: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Electricity and Magnetism"
+    },
+    {
+      "id": "lles_42a0d1725a094e98b9c2ac3cd2ca3da8",
+      "seq": 31,
+      "week": 6,
+      "title": "Term revision 3: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_6232cfd33a894216be9d73cb1f788eaa",
+      "seq": 32,
+      "week": 6,
+      "title": "Term revision 4: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_04b4cbe5c85943cd83121a63ba3f634c",
+      "seq": 33,
+      "week": 6,
+      "title": "Term revision 5: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Electricity and Magnetism"
+    },
+    {
+      "id": "lles_9258986976024041aba96f2a96f4fea9",
+      "seq": 34,
+      "week": 6,
+      "title": "Term revision 6: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_304417e2e7284a589ca50676ab84f010",
+      "seq": 35,
+      "week": 6,
+      "title": "Term revision 7: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_02dde33644754b4aa939569255a46efd",
+      "seq": 36,
+      "week": 6,
+      "title": "Term revision 8: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Electricity and Magnetism"
+    },
+    {
+      "id": "lles_ce94708f8c4e46e7963d3a7ff309e98a",
+      "seq": 37,
+      "week": 7,
+      "title": "Term revision 9: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_980bde8c2ddc4bd7b574efe309d45d85",
+      "seq": 38,
+      "week": 7,
+      "title": "Term revision 10: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_b61a8d7bbc1b4ef98006de59d1274349",
+      "seq": 39,
+      "week": 7,
+      "title": "Term revision 11: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Electricity and Magnetism"
+    },
+    {
+      "id": "lles_c940275de6734ee5aa4f2b3d2bd22c07",
+      "seq": 40,
+      "week": 7,
+      "title": "Term revision 12: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_3c97c1f8dc2a401b989ad1af403606b6",
+      "seq": 41,
+      "week": 7,
+      "title": "Term revision 13: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_2e46510db054427ba9ef33fa3db519c9",
+      "seq": 42,
+      "week": 7,
+      "title": "Term revision 14: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Electricity and Magnetism"
+    },
+    {
+      "id": "lles_45dff4dd225c4ad7a5e7e9499947153c",
+      "seq": 43,
+      "week": 8,
+      "title": "Term revision 15: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_770290081dea4ebdb630b1b772d54689",
+      "seq": 44,
+      "week": 8,
+      "title": "Term revision 16: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_bedb600666cd43239f3984a9d286f47b",
+      "seq": 45,
+      "week": 8,
+      "title": "Term revision 17: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Electricity and Magnetism"
+    },
+    {
+      "id": "lles_bee0871b82f74375ad4cc90fb365a3e2",
+      "seq": 46,
+      "week": 8,
+      "title": "Term revision 18: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_f7a9a1ff395147aa9917b262f9ddd754",
+      "seq": 47,
+      "week": 8,
+      "title": "Term revision 19: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_96f1de2939a44f90b3f713753060b407",
+      "seq": 48,
+      "week": 8,
+      "title": "Term revision 20: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Electricity and Magnetism"
+    },
+    {
+      "id": "lles_ba3b8d111c3e4215b09e4aecbd805c9d",
+      "seq": 49,
+      "week": 9,
+      "title": "Term revision 21: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_48493195e929407d8cd7a753f92399bc",
+      "seq": 50,
+      "week": 9,
+      "title": "Term revision 22: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_607322c48eac4a48a4f45e609e69bd02",
+      "seq": 51,
+      "week": 9,
+      "title": "Term revision 23: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Electricity and Magnetism"
+    },
+    {
+      "id": "lles_8bd5bb23eb3f44cf90ce4776352a742d",
+      "seq": 52,
+      "week": 9,
+      "title": "Term revision 24: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_f0b5f3ce6e2c496bab92183ee8810ee2",
+      "seq": 53,
+      "week": 9,
+      "title": "Term revision 25: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_f1a7fb53638049569d8dddd54d888c7d",
+      "seq": 54,
+      "week": 9,
+      "title": "Term revision 26: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Electricity and Magnetism"
+    },
+    {
+      "id": "lles_2b8e0e8082234d68823610629d03994c",
+      "seq": 55,
+      "week": 10,
+      "title": "Term revision 27: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_d0890d558eb847f1a8477c5015d6d88f",
+      "seq": 56,
+      "week": 10,
+      "title": "Term revision 28: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_372cec0dd8674f4e89a24264b9567d95",
+      "seq": 57,
+      "week": 10,
+      "title": "Term revision 29: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Electricity and Magnetism"
+    },
+    {
+      "id": "lles_6e1b057bc47c4a25bd82cc1dc0cb821d",
+      "seq": 58,
+      "week": 10,
+      "title": "Term revision 30: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Population and Health"
+    },
+    {
+      "id": "lles_afa0fb6c7db7443ea7a655287c59ec64",
+      "seq": 59,
+      "week": 10,
+      "title": "Term revision 31: Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    },
+    {
+      "id": "lles_d45c2312d440450ebe06dbcdd12b8e84",
+      "seq": 60,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Muscular-Skeletal System, Electricity and Magnetism, Population and Health",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Muscular-Skeletal System"
+    }
+  ]
+}
