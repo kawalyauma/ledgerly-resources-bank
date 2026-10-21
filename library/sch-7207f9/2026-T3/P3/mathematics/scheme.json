@@ -1,0 +1,730 @@
+{
+  "units": [
+    {
+      "title": "Holiday work",
+      "theme": null,
+      "weekFrom": 1,
+      "weekTo": 10
+    },
+    {
+      "title": "Measures",
+      "theme": "Culture and gender in our sub county",
+      "weekFrom": 1,
+      "weekTo": 10
+    },
+    {
+      "title": "Length",
+      "theme": "Basic Technology",
+      "weekFrom": 3,
+      "weekTo": 10
+    },
+    {
+      "title": "Mass",
+      "theme": "Basic Technology",
+      "weekFrom": 5,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_4735b7ae242943ee914a5ca6bb68a76f",
+      "seq": 1,
+      "week": 1,
+      "title": "Holiday-work corrections",
+      "subtopic": "Correcting holiday work",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Holiday work"
+    },
+    {
+      "id": "lles_4a89365bf5144bd783b35c8a6810928b",
+      "seq": 2,
+      "week": 1,
+      "title": "Practising holiday-work corrections",
+      "subtopic": "Correcting holiday work",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Holiday work"
+    },
+    {
+      "id": "lles_d5ec05811f7f4fcc8dc065fa9aaa1cac",
+      "seq": 3,
+      "week": 1,
+      "title": "Days of the week",
+      "subtopic": "Time: days of the week",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_6f993b5625a04aefab3e3f4c6058e8e8",
+      "seq": 4,
+      "week": 1,
+      "title": "Reading, spelling and ordering days",
+      "subtopic": "Time: days of the week",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_51261d4f25104ed8980744d3573ec6f0",
+      "seq": 5,
+      "week": 1,
+      "title": "Changing weeks to days",
+      "subtopic": "Time: converting weeks to days",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_904d5f932ae2498bbe04b6130567e915",
+      "seq": 6,
+      "week": 1,
+      "title": "Practising weeks-to-days conversions",
+      "subtopic": "Time: converting weeks to days",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_536a3b65d3ce443c831fd5ce7ded7f7f",
+      "seq": 7,
+      "week": 1,
+      "title": "Week 1 review",
+      "subtopic": "Holiday work, Measures",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_d3ccbaeadf3c4646802436a1503c1aef",
+      "seq": 8,
+      "week": 2,
+      "title": "Changing days to weeks",
+      "subtopic": "Time: converting days to weeks and completing tables",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_4415591971694797a814871dfd5f0085",
+      "seq": 9,
+      "week": 2,
+      "title": "Completing weeks-and-days tables",
+      "subtopic": "Time: converting days to weeks and completing tables",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_705c70a855d94e729c77dbcbe9dcbb6b",
+      "seq": 10,
+      "week": 2,
+      "title": "Adding weeks and days",
+      "subtopic": "Time: addition of weeks and days",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_d08880db5b5f44d4a55f4544f7b8168b",
+      "seq": 11,
+      "week": 2,
+      "title": "Addition of weeks and days in a word application",
+      "subtopic": "Time: addition of weeks and days",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_33e45ef81dd64b9bbb2b72cc32cf01d8",
+      "seq": 12,
+      "week": 2,
+      "title": "Subtracting weeks and days",
+      "subtopic": "Time: subtraction of weeks and days",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_8a5906e729ef4b4ebd6a5affe98c1281",
+      "seq": 13,
+      "week": 2,
+      "title": "Practising subtraction of weeks and days",
+      "subtopic": "Time: subtraction of weeks and days",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_26fbae4ed49d42b2be16eb09440e490a",
+      "seq": 14,
+      "week": 2,
+      "title": "Week 2 review",
+      "subtopic": "Measures",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_b7539a483ca948db896dca1f7bea4072",
+      "seq": 15,
+      "week": 3,
+      "title": "Months of the year",
+      "subtopic": "Time: months of the year",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_2d97d343de9844d98c82c77ce52d8219",
+      "seq": 16,
+      "week": 3,
+      "title": "Reading, spelling and writing months",
+      "subtopic": "Time: months of the year",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_c2eeca4fbe994c3181772719a90fe606",
+      "seq": 17,
+      "week": 3,
+      "title": "Changing years to months",
+      "subtopic": "Time: converting years to months",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_5695cbd97f204c69a5d23e87be0c3259",
+      "seq": 18,
+      "week": 3,
+      "title": "Practising years-to-months conversions",
+      "subtopic": "Time: converting years to months",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_0c10a349f06043c59552a0a983f0fe43",
+      "seq": 19,
+      "week": 3,
+      "title": "Length and its units",
+      "subtopic": "Meaning and measurement of length",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_47d7baeb33bf4a3a9716a29fe7578181",
+      "seq": 20,
+      "week": 3,
+      "title": "Measuring classroom objects",
+      "subtopic": "Meaning and measurement of length",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_ae29dfd5486f4b01a4118e8c7e74ea32",
+      "seq": 21,
+      "week": 3,
+      "title": "Week 3 review",
+      "subtopic": "Measures, Length",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_2ec5dd6ed74d4db9a6d6cc76e234059d",
+      "seq": 22,
+      "week": 4,
+      "title": "Changing metres and centimetres",
+      "subtopic": "Converting units of length",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_900dd3ada705425a805395b03641b2a5",
+      "seq": 23,
+      "week": 4,
+      "title": "Practising length conversions",
+      "subtopic": "Converting units of length",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_d3a4cac0436c419b93f915affe128edb",
+      "seq": 24,
+      "week": 4,
+      "title": "Adding lengths",
+      "subtopic": "Addition of length",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_9a73efb5f1044ef9a7eaee787b4ad4fd",
+      "seq": 25,
+      "week": 4,
+      "title": "Practising addition of length",
+      "subtopic": "Addition of length",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_276febbc975f4e36a2b8b9a9447e6e33",
+      "seq": 26,
+      "week": 4,
+      "title": "Subtracting lengths",
+      "subtopic": "Subtraction of length",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_ee3dd7fb3f9448c79497505bc3732c29",
+      "seq": 27,
+      "week": 4,
+      "title": "Practising subtraction of length",
+      "subtopic": "Subtraction of length",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_ca1eaf53fcbc4964bbb1bcd5380347fa",
+      "seq": 28,
+      "week": 4,
+      "title": "Week 4 review",
+      "subtopic": "Length",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_93a470ff9d83449b8033501e401ca025",
+      "seq": 29,
+      "week": 5,
+      "title": "Mass and its units",
+      "subtopic": "Meaning and measurement of mass",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Mass"
+    },
+    {
+      "id": "lles_5f203cc263594d7682ac3801c09f28d4",
+      "seq": 30,
+      "week": 5,
+      "title": "Measuring masses of objects",
+      "subtopic": "Meaning and measurement of mass",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Mass"
+    },
+    {
+      "id": "lles_f350ecc6c7f94a1ab76f1ef5c287b610",
+      "seq": 31,
+      "week": 5,
+      "title": "Changing kilograms and grams",
+      "subtopic": "Converting kilograms and grams",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Mass"
+    },
+    {
+      "id": "lles_d30a661a6b6d4c9892835aeb31af2815",
+      "seq": 32,
+      "week": 5,
+      "title": "End-of-term assessment: kilograms and grams",
+      "subtopic": "Converting kilograms and grams",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Mass"
+    },
+    {
+      "id": "lles_c5bcda33eee6441e8c6c5d52fb4fbd31",
+      "seq": 33,
+      "week": 5,
+      "title": "Revision: Holiday work",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Holiday work"
+    },
+    {
+      "id": "lles_2234b99acaa34f8289b0b6bfd334bf17",
+      "seq": 34,
+      "week": 5,
+      "title": "Revision: Measures",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_250195bdaae141e7b4507e9e2ce14140",
+      "seq": 35,
+      "week": 5,
+      "title": "Week 5 review",
+      "subtopic": "Mass, Holiday work, Measures",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_d3af4017dd5b452ba07084593d902487",
+      "seq": 36,
+      "week": 6,
+      "title": "Revision: Length",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_ac2acac259394c7ca4328a00edec1b35",
+      "seq": 37,
+      "week": 6,
+      "title": "Revision: Mass",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Mass"
+    },
+    {
+      "id": "lles_f156fbd109084a41b4d1d45c37b57c09",
+      "seq": 38,
+      "week": 6,
+      "title": "Term revision 1: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Holiday work"
+    },
+    {
+      "id": "lles_973c1a5b8135402d8d2ee5092bc3436a",
+      "seq": 39,
+      "week": 6,
+      "title": "Term revision 2: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_4f78557409d347a6862f51725ac32053",
+      "seq": 40,
+      "week": 6,
+      "title": "Term revision 3: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_92c41fc04d1e4f85bc6a04b9057f8deb",
+      "seq": 41,
+      "week": 6,
+      "title": "Term revision 4: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Mass"
+    },
+    {
+      "id": "lles_9fe4fe6a79b64913976b7cf05987bbc2",
+      "seq": 42,
+      "week": 6,
+      "title": "Week 6 review",
+      "subtopic": "Length, Mass, Holiday work, Measures",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Mass"
+    },
+    {
+      "id": "lles_9fd8ea0f2109420aa7c6c9a8c99d6f00",
+      "seq": 43,
+      "week": 7,
+      "title": "Term revision 5: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Holiday work"
+    },
+    {
+      "id": "lles_d66194bc8baf476d9b129d373eb3e9b4",
+      "seq": 44,
+      "week": 7,
+      "title": "Term revision 6: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_9ee5efcd6d0e47ceaead87b127833efe",
+      "seq": 45,
+      "week": 7,
+      "title": "Term revision 7: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_0428e6c524e14d3a981e4d14020f6285",
+      "seq": 46,
+      "week": 7,
+      "title": "Term revision 8: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Mass"
+    },
+    {
+      "id": "lles_d257f73cdfd14d6abc98ffcea1e2e49e",
+      "seq": 47,
+      "week": 7,
+      "title": "Term revision 9: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Holiday work"
+    },
+    {
+      "id": "lles_e47ad6f91e1b452bb01272f045e3506a",
+      "seq": 48,
+      "week": 7,
+      "title": "Term revision 10: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_dc8dad33127c4b4ba6792ee6103f69c5",
+      "seq": 49,
+      "week": 7,
+      "title": "Week 7 review",
+      "subtopic": "Holiday work, Measures, Length, Mass",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_f23eff6f41494007a6ed1a304ac86c59",
+      "seq": 50,
+      "week": 8,
+      "title": "Term revision 11: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_83adbda93ad34e0aa6d32d0b9d7b3c6c",
+      "seq": 51,
+      "week": 8,
+      "title": "Term revision 12: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Mass"
+    },
+    {
+      "id": "lles_c59e0b3f2bb64d669cf91d9f63ed18c0",
+      "seq": 52,
+      "week": 8,
+      "title": "Term revision 13: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Holiday work"
+    },
+    {
+      "id": "lles_7fe6f7975dac4862b7c30f012f7b4662",
+      "seq": 53,
+      "week": 8,
+      "title": "Term revision 14: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_9760eb0b0fd94c329866432da89685dc",
+      "seq": 54,
+      "week": 8,
+      "title": "Term revision 15: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_52704db2609540f7babece022a7186c3",
+      "seq": 55,
+      "week": 8,
+      "title": "Term revision 16: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Mass"
+    },
+    {
+      "id": "lles_b1f1d591d38f4be7b70cedb8f99be96b",
+      "seq": 56,
+      "week": 8,
+      "title": "Week 8 review",
+      "subtopic": "Length, Mass, Holiday work, Measures",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Mass"
+    },
+    {
+      "id": "lles_2623d954cf44481782fab8d9c520de1e",
+      "seq": 57,
+      "week": 9,
+      "title": "Term revision 17: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Holiday work"
+    },
+    {
+      "id": "lles_442f9b1b7b544cedb1c1960ad6827bc5",
+      "seq": 58,
+      "week": 9,
+      "title": "Term revision 18: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_3be64892d5934586a776f6a808ced83e",
+      "seq": 59,
+      "week": 9,
+      "title": "Term revision 19: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_f115c840af184b8e85e1a1446b7e56c0",
+      "seq": 60,
+      "week": 9,
+      "title": "Term revision 20: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Mass"
+    },
+    {
+      "id": "lles_0b90d1cdbbca415da116163ffb6c1b6f",
+      "seq": 61,
+      "week": 9,
+      "title": "Term revision 21: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Holiday work"
+    },
+    {
+      "id": "lles_5de8052c2b714ea48c7ddfda14488d2a",
+      "seq": 62,
+      "week": 9,
+      "title": "Term revision 22: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_cd2a1bb25ee24b038c89fe3f3cb54605",
+      "seq": 63,
+      "week": 9,
+      "title": "Week 9 review",
+      "subtopic": "Holiday work, Measures, Length, Mass",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_fcec766c22644768b9882fc23d21dae2",
+      "seq": 64,
+      "week": 10,
+      "title": "Term revision 23: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_9c43c2f947a14a538b93ee0a9200330b",
+      "seq": 65,
+      "week": 10,
+      "title": "Term revision 24: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Mass"
+    },
+    {
+      "id": "lles_c4684433358740afbbf9f981314d3800",
+      "seq": 66,
+      "week": 10,
+      "title": "Term revision 25: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Holiday work"
+    },
+    {
+      "id": "lles_1bb9692ff2574bc797762c7c4a68298d",
+      "seq": 67,
+      "week": 10,
+      "title": "Term revision 26: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Measures"
+    },
+    {
+      "id": "lles_cfc2fcafac064e699d6e1367f9e74db9",
+      "seq": 68,
+      "week": 10,
+      "title": "Term revision 27: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Length"
+    },
+    {
+      "id": "lles_9a3d04898993400aab1a2000dc6f491e",
+      "seq": 69,
+      "week": 10,
+      "title": "Term revision 28: Holiday work, Measures, Length, Mass",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Mass"
+    },
+    {
+      "id": "lles_552fd4ce4b754acdbdab44c59e03f877",
+      "seq": 70,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Holiday work, Measures, Length, Mass",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Mass"
+    }
+  ]
+}
