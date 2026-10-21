@@ -1,0 +1,530 @@
+{
+  "units": [
+    {
+      "title": "The Road to independence in East Africa",
+      "theme": "Foreign influence in East Africa",
+      "weekFrom": 1,
+      "weekTo": 10
+    },
+    {
+      "title": "Missionaries",
+      "theme": "The road to independence in East Africa",
+      "weekFrom": 3,
+      "weekTo": 10
+    },
+    {
+      "title": "The Road to independence in East Africa",
+      "theme": "Colonial rule and African resistance",
+      "weekFrom": 3,
+      "weekTo": 10
+    },
+    {
+      "title": "Responsible Living in the East",
+      "theme": "Desirable values and life skills for living with others",
+      "weekFrom": 6,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_a32209b4fa5a481ba1bc9a63fd35cbfb",
+      "seq": 1,
+      "week": 1,
+      "title": "Foreigners and foreign influence",
+      "subtopic": "Foreign influence in East Africa",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_6ace8128194249dd9fe48b56e847cfb3",
+      "seq": 2,
+      "week": 1,
+      "title": "Arab traders and coastal settlement",
+      "subtopic": "Foreign influence in East Africa",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_5e0b2cccdf424eed9f0d846b54a2508f",
+      "seq": 3,
+      "week": 1,
+      "title": "Slave trade and slavery",
+      "subtopic": "Effects of Arab settlement",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_739c90c97f19422ca1b0a1d15e6098d0",
+      "seq": 4,
+      "week": 1,
+      "title": "Effects of slave trade and Arab settlement",
+      "subtopic": "Effects of Arab settlement",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_e8b47542a147440b950213799a7b22de",
+      "seq": 5,
+      "week": 1,
+      "title": "Abolition of slave trade",
+      "subtopic": "Effects of Arab settlement",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_145bf91299ff49f7bfe7fcbc73695d29",
+      "seq": 6,
+      "week": 2,
+      "title": "European exploration and Vasco Da Gama's journey",
+      "subtopic": "The explorers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_df1a3b44747b4fc889867031629162b2",
+      "seq": 7,
+      "week": 2,
+      "title": "Portuguese conquest and settlement",
+      "subtopic": "Portuguese conquest of East African Coast",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_d89b60af3ec74d4fb7f3c6d958530a94",
+      "seq": 8,
+      "week": 2,
+      "title": "Fort Jesus and the collapse of Portuguese rule",
+      "subtopic": "Portuguese conquest of East African Coast",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_7ccac82ddd174a5196cda51a4098e73e",
+      "seq": 9,
+      "week": 2,
+      "title": "Explorers and their journeys",
+      "subtopic": "The explorers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_4ab2869ea9cb4c5196dd3c5c6495e7b1",
+      "seq": 10,
+      "week": 2,
+      "title": "Explorers' contributions and discoveries",
+      "subtopic": "The explorers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_fab9930656564d79af7743ee66a91abe",
+      "seq": 11,
+      "week": 3,
+      "title": "Problems faced by explorers and effects of exploration",
+      "subtopic": "The explorers",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_1f3fc1f11ad14d1eb3cc2080248e0ad9",
+      "seq": 12,
+      "week": 3,
+      "title": "Missionaries and reasons for their coming",
+      "subtopic": "Missionaries in East Africa",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Missionaries"
+    },
+    {
+      "id": "lles_1b86ca4b81754bdba39fc63007d08f0c",
+      "seq": 13,
+      "week": 3,
+      "title": "Missionary work and its impact",
+      "subtopic": "Missionaries in East Africa",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Missionaries"
+    },
+    {
+      "id": "lles_fa6ebf468f944c968e0c20aba276a53c",
+      "seq": 14,
+      "week": 3,
+      "title": "Colonialists and Egypt's attempt to colonise Uganda",
+      "subtopic": "The colonialists",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_78bce6315ca347d6aaded9e3f5548c14",
+      "seq": 15,
+      "week": 3,
+      "title": "European interests and the Berlin conference",
+      "subtopic": "The colonialists: scramble and partition",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_8a473c81e67e4c829be0d5b29a56cdc2",
+      "seq": 16,
+      "week": 4,
+      "title": "Colonial agreements and establishment of colonial rule",
+      "subtopic": "The colonialists: scramble and partition",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_d2c8cba94aeb4b0fa090df45cabd23de",
+      "seq": 17,
+      "week": 4,
+      "title": "Direct rule",
+      "subtopic": "Establishment and administration of colonial rule",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_14f047948d604bf7bcb30f2c1f2bcd92",
+      "seq": 18,
+      "week": 4,
+      "title": "Indirect rule",
+      "subtopic": "Establishment and administration of colonial rule",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_3d0898203fa24e38b676df4bef75c581",
+      "seq": 19,
+      "week": 4,
+      "title": "European settlers in East Africa",
+      "subtopic": "Establishment and administration of colonial rule",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_86e1327b94be4e1b8104fdb6d31f127e",
+      "seq": 20,
+      "week": 4,
+      "title": "The Maji-Maji rebellion",
+      "subtopic": "African reaction to colonial rule",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_e4bc2cd3935547ab86c8921988fac26a",
+      "seq": 21,
+      "week": 5,
+      "title": "The Hehe, Chaga and Nyamwezi rebellions",
+      "subtopic": "African reaction to colonial rule",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_a0fc5eeed4624eb6b41b0a1a8be303aa",
+      "seq": 22,
+      "week": 5,
+      "title": "The Sudanese Mutiny",
+      "subtopic": "Resistance to colonial rule in Kenya and Uganda",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_dd27d85e663143e297e878f41a68c41b",
+      "seq": 23,
+      "week": 5,
+      "title": "The Lamogi and Nyangire rebellions",
+      "subtopic": "Resistance to colonial rule in Kenya and Uganda",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_17838914d82c40dcac849ce517d040b7",
+      "seq": 24,
+      "week": 5,
+      "title": "The Nandi resistance and Mau-Mau rebellion",
+      "subtopic": "Resistance to colonial rule in Kenya and Uganda",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_ec54470362f94a1c9a76199bacf32559",
+      "seq": 25,
+      "week": 5,
+      "title": "Reasons for African resistance and defeat",
+      "subtopic": "Resistance to colonial rule in Kenya and Uganda",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_7979f7dc4c5040c3ac856c02f1290495",
+      "seq": 26,
+      "week": 6,
+      "title": "Respect for others and empathy",
+      "subtopic": "Values and skills for living with others",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Responsible Living in the East"
+    },
+    {
+      "id": "lles_6c840bd237774d7b957289716600a8c2",
+      "seq": 27,
+      "week": 6,
+      "title": "Negotiation and non-violent conflict resolution",
+      "subtopic": "Values and skills for living with others",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Responsible Living in the East"
+    },
+    {
+      "id": "lles_9ab07d22248b48edaf7c4680b2d624f4",
+      "seq": 28,
+      "week": 6,
+      "title": "Revision: The Road to independence in East Africa",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_80870c48d16446f3853e4d9beaacc247",
+      "seq": 29,
+      "week": 6,
+      "title": "Revision: Missionaries",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Missionaries"
+    },
+    {
+      "id": "lles_1ef089635aab4591ae2dfacba708ca6d",
+      "seq": 30,
+      "week": 6,
+      "title": "Revision: The Road to independence in East Africa",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_55b7be6480da4af2b2d0ec4616ebbbb5",
+      "seq": 31,
+      "week": 7,
+      "title": "Revision: Responsible Living in the East",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Responsible Living in the East"
+    },
+    {
+      "id": "lles_8840f6ef06c3419e8cd5da9686890c3d",
+      "seq": 32,
+      "week": 7,
+      "title": "Term revision 1: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_cb703b585ba143958537c9a0f2f82c6e",
+      "seq": 33,
+      "week": 7,
+      "title": "Term revision 2: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Missionaries"
+    },
+    {
+      "id": "lles_80ff8f551540450eb8c6e4550fe43cb1",
+      "seq": 34,
+      "week": 7,
+      "title": "Term revision 3: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_de8eb33425e54d52842a3a0edcc96d1e",
+      "seq": 35,
+      "week": 7,
+      "title": "Term revision 4: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Responsible Living in the East"
+    },
+    {
+      "id": "lles_3e9e92b251a048a289389f5fc4018735",
+      "seq": 36,
+      "week": 8,
+      "title": "Term revision 5: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_c1d80127b27c411d82202a19086b0553",
+      "seq": 37,
+      "week": 8,
+      "title": "Term revision 6: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Missionaries"
+    },
+    {
+      "id": "lles_2c5aae088e5c409587f10c73deb9a020",
+      "seq": 38,
+      "week": 8,
+      "title": "Term revision 7: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_8c85faa119f64d919dd2b55a241e351c",
+      "seq": 39,
+      "week": 8,
+      "title": "Term revision 8: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Responsible Living in the East"
+    },
+    {
+      "id": "lles_a070a9155b154422856299af6833f381",
+      "seq": 40,
+      "week": 8,
+      "title": "Term revision 9: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_2e56f6b2460649439ef8e0b55f80a2d8",
+      "seq": 41,
+      "week": 9,
+      "title": "Term revision 10: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Missionaries"
+    },
+    {
+      "id": "lles_5b4688323f4f40278a0285c5c16209a5",
+      "seq": 42,
+      "week": 9,
+      "title": "Term revision 11: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_f71f64b902ca4586bcb488a73d33a5ca",
+      "seq": 43,
+      "week": 9,
+      "title": "Term revision 12: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Responsible Living in the East"
+    },
+    {
+      "id": "lles_e398ca31ba264c2ca0ca6be509d825ca",
+      "seq": 44,
+      "week": 9,
+      "title": "Term revision 13: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_634f9b9cecb849f89facf87d60ac9416",
+      "seq": 45,
+      "week": 9,
+      "title": "Term revision 14: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Missionaries"
+    },
+    {
+      "id": "lles_b0bdac37d48547d2ac6f717f651c2cf8",
+      "seq": 46,
+      "week": 10,
+      "title": "Term revision 15: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_b2e132dc4cbb4f0aa06fba9034489bdf",
+      "seq": 47,
+      "week": 10,
+      "title": "Term revision 16: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Responsible Living in the East"
+    },
+    {
+      "id": "lles_252b18bfbdab43f88fdbf2d4b5413367",
+      "seq": 48,
+      "week": 10,
+      "title": "Term revision 17: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "The Road to independence in East Africa"
+    },
+    {
+      "id": "lles_b522d92f6aa74539b30f397f1572db3f",
+      "seq": 49,
+      "week": 10,
+      "title": "Term revision 18: The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "subtopic": "Mixed revision of the term",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Missionaries"
+    },
+    {
+      "id": "lles_c414765a72e44857bb799faa86a87ad5",
+      "seq": 50,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "The Road to independence in East Africa, Missionaries, The Road to independence in East Africa, Responsible Living in the East",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Missionaries"
+    }
+  ]
+}
