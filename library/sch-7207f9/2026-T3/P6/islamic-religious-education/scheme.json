@@ -1,0 +1,324 @@
+{
+  "units": [
+    {
+      "title": "Friends on the way",
+      "theme": "Christians on the way",
+      "weekFrom": 1,
+      "weekTo": 10
+    },
+    {
+      "title": "Christian involvement in the world",
+      "theme": "Christians on the way",
+      "weekFrom": 3,
+      "weekTo": 10
+    },
+    {
+      "title": "Happiness on the way and travel",
+      "theme": "Happiness on the Way",
+      "weekFrom": 6,
+      "weekTo": 9
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_05c9e3c9f116484eacaa74961983f1a6",
+      "seq": 1,
+      "week": 1,
+      "title": "Meaning and importance of friendship",
+      "subtopic": "Friendship",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Friends on the way"
+    },
+    {
+      "id": "lles_6bab409bcdae40908fcbb663361dc63c",
+      "seq": 2,
+      "week": 1,
+      "title": "Qualities of a good friend",
+      "subtopic": "Qualities of true friends",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Friends on the way"
+    },
+    {
+      "id": "lles_098747f055fe4566ba578ecb1075642f",
+      "seq": 3,
+      "week": 1,
+      "title": "Week 1 review",
+      "subtopic": "Friends on the way",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Friends on the way"
+    },
+    {
+      "id": "lles_e06e9aaa81d74b10a140c4e2ee44e46f",
+      "seq": 4,
+      "week": 2,
+      "title": "Distinguishing between good and bad advice",
+      "subtopic": "How to distinguish between good and bad advice",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Friends on the way"
+    },
+    {
+      "id": "lles_49ad456dbd2d4c638c06d4bb8f2a2995",
+      "seq": 5,
+      "week": 2,
+      "title": "Importance of true friends",
+      "subtopic": "Importance of true friends",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Friends on the way"
+    },
+    {
+      "id": "lles_e0a85113ec2e424580b26a2a67332090",
+      "seq": 6,
+      "week": 2,
+      "title": "Week 2 review",
+      "subtopic": "Friends on the way",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Friends on the way"
+    },
+    {
+      "id": "lles_252c6b54baa04101898c78be7d993afa",
+      "seq": 7,
+      "week": 3,
+      "title": "The need to co-operate",
+      "subtopic": "The need to co-operate in order to make the world a better place",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Christian involvement in the world"
+    },
+    {
+      "id": "lles_78a6c560db9249bfb9e82df2c925fbb8",
+      "seq": 8,
+      "week": 3,
+      "title": "Discussing ways of working together",
+      "subtopic": "The need to co-operate in order to make the world a better place",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Christian involvement in the world"
+    },
+    {
+      "id": "lles_b9c00cc1e0334fdcbc6fa97025c85498",
+      "seq": 9,
+      "week": 3,
+      "title": "Week 3 review",
+      "subtopic": "Christian involvement in the world",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Christian involvement in the world"
+    },
+    {
+      "id": "lles_e5fb764c1ad24179931ebc4bbc027ae7",
+      "seq": 10,
+      "week": 4,
+      "title": "Christian voluntary organizations",
+      "subtopic": "Christian organization in developing the world",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Christian involvement in the world"
+    },
+    {
+      "id": "lles_769c33196cf745ce86bc5b9b2ce1e7fc",
+      "seq": 11,
+      "week": 4,
+      "title": "Naming voluntary organizations",
+      "subtopic": "Christian organization in developing the world",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Christian involvement in the world"
+    },
+    {
+      "id": "lles_263cddc408e14bbb8edf5efb1d07e249",
+      "seq": 12,
+      "week": 4,
+      "title": "Week 4 review",
+      "subtopic": "Christian involvement in the world",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Christian involvement in the world"
+    },
+    {
+      "id": "lles_00602e7df5c5481ab42fd34a3281c5d8",
+      "seq": 13,
+      "week": 5,
+      "title": "Contributions of science, technology and education",
+      "subtopic": "Contributions of science technology and education",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Christian involvement in the world"
+    },
+    {
+      "id": "lles_ffc93317b33241e5902f327ebccec17d",
+      "seq": 14,
+      "week": 5,
+      "title": "National laws and rules",
+      "subtopic": "National laws and rules",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Christian involvement in the world"
+    },
+    {
+      "id": "lles_29a616a5885f41bf9c2e84e32c995521",
+      "seq": 15,
+      "week": 5,
+      "title": "Week 5 review",
+      "subtopic": "Christian involvement in the world",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Christian involvement in the world"
+    },
+    {
+      "id": "lles_f89de910e35f40eda5572cd50f39108d",
+      "seq": 16,
+      "week": 6,
+      "title": "Doing God’s work",
+      "subtopic": "Ways of doing God’s work",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Happiness on the way and travel"
+    },
+    {
+      "id": "lles_d4bb3bfb88b54030be05275dc43d9eae",
+      "seq": 17,
+      "week": 6,
+      "title": "Stating ways of doing God’s work",
+      "subtopic": "Ways of doing God’s work",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Happiness on the way and travel"
+    },
+    {
+      "id": "lles_3af0983b7442420aa35bac286e1ef1c2",
+      "seq": 18,
+      "week": 6,
+      "title": "Week 6 review",
+      "subtopic": "Happiness on the way and travel",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Happiness on the way and travel"
+    },
+    {
+      "id": "lles_13b7ce412815416da0c1001c76b1eeac",
+      "seq": 19,
+      "week": 7,
+      "title": "How giving and receiving brings happiness",
+      "subtopic": "How giving and receiving brings happiness",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Happiness on the way and travel"
+    },
+    {
+      "id": "lles_29ca095fe8a54f279e856671c3a5a8f1",
+      "seq": 20,
+      "week": 7,
+      "title": "Giving, receiving and appreciating",
+      "subtopic": "How giving and receiving brings happiness",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Happiness on the way and travel"
+    },
+    {
+      "id": "lles_b9dbcdf124c3436281e854ef5affb26b",
+      "seq": 21,
+      "week": 7,
+      "title": "Week 7 review",
+      "subtopic": "Happiness on the way and travel",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Happiness on the way and travel"
+    },
+    {
+      "id": "lles_686a0afa2404415494c591693be52bff",
+      "seq": 22,
+      "week": 8,
+      "title": "Ways of keeping ourselves pure",
+      "subtopic": "Ways through which we can purify ourselves",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Happiness on the way and travel"
+    },
+    {
+      "id": "lles_7bb630a92475450ba7e3c21669bcfd8f",
+      "seq": 23,
+      "week": 8,
+      "title": "Discussing ways of keeping yourself pure",
+      "subtopic": "Ways through which we can purify ourselves",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Happiness on the way and travel"
+    },
+    {
+      "id": "lles_0c96fc007a6e4ac1b18c7417477a3f11",
+      "seq": 24,
+      "week": 8,
+      "title": "Week 8 review",
+      "subtopic": "Happiness on the way and travel",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Happiness on the way and travel"
+    },
+    {
+      "id": "lles_f7fdc99477d74416a2ba4f032372cc4e",
+      "seq": 25,
+      "week": 9,
+      "title": "The parable of the ten virgins",
+      "subtopic": "The parable of the ten virgins",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Happiness on the way and travel"
+    },
+    {
+      "id": "lles_20ea9d3e4c1b40b1a375d1733872a8c0",
+      "seq": 26,
+      "week": 9,
+      "title": "Keeping pure: lessons from the ten virgins",
+      "subtopic": "The parable of the ten virgins",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Happiness on the way and travel"
+    },
+    {
+      "id": "lles_07fd0b85456c4957b72977d7502cdb54",
+      "seq": 27,
+      "week": 9,
+      "title": "Week 9 review",
+      "subtopic": "Happiness on the way and travel",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Happiness on the way and travel"
+    },
+    {
+      "id": "lles_cec4218d725142fcacca37bb59ca3052",
+      "seq": 28,
+      "week": 10,
+      "title": "Revision: Friends on the way",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Friends on the way"
+    },
+    {
+      "id": "lles_65794ff8ad17474f92b5b49df4c07eb2",
+      "seq": 29,
+      "week": 10,
+      "title": "Revision: Christian involvement in the world",
+      "subtopic": "Revision and practice",
+      "kind": "revision",
+      "status": "pending",
+      "unit": "Christian involvement in the world"
+    },
+    {
+      "id": "lles_f0ff5fd5991d4d4393ea570b069ce952",
+      "seq": 30,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Friends on the way, Christian involvement in the world, Happiness on the way and travel",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Christian involvement in the world"
+    }
+  ]
+}
