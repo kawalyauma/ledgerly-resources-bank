@@ -2,12 +2,12 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Science at Home and in Our Community | Safe drinking water — Safe drinking water | writing |
-| 2 | 1 | teach | Science at Home and in Our Community | Water impurities — Water impurities | writing |
-| 3 | 1 | teach | Science at Home and in Our Community | Boiling water — Boiling water | writing |
-| 4 | 1 | teach | Science at Home and in Our Community | Filtering water — Filtering water | writing |
-| 5 | 1 | teach | Science at Home and in Our Community | Treating water — Treating water | writing |
-| 6 | 1 | teach | Science at Home and in Our Community | Distilling water — Distilling water | writing |
+| 1 | 1 | teach | Science at Home and in Our Community | Safe drinking water — Safe drinking water | failed |
+| 2 | 1 | teach | Science at Home and in Our Community | Water impurities — Water impurities | failed |
+| 3 | 1 | teach | Science at Home and in Our Community | Boiling water — Boiling water | failed |
+| 4 | 1 | teach | Science at Home and in Our Community | Filtering water — Filtering water | failed |
+| 5 | 1 | teach | Science at Home and in Our Community | Treating water — Treating water | failed |
+| 6 | 1 | teach | Science at Home and in Our Community | Distilling water — Distilling water | failed |
 | 7 | 2 | teach | Science at Home and in Our Community | Decanting water — Decanting water | writing |
 | 8 | 2 | teach | Science at Home and in Our Community | Sorting and soaking clothes — Sorting and soaking clothes | writing |
 | 9 | 2 | teach | Science at Home and in Our Community | Washing and rinsing clothes — Washing and rinsing clothes | writing |
@@ -26,12 +26,12 @@
 | 22 | 4 | teach | Accidents and First Aid | Foreign bodies in passages — Foreign bodies in passages | writing |
 | 23 | 4 | teach | Accidents and First Aid | Safety precautions — Safety precautions | writing |
 | 24 | 4 | teach | Accidents and First Aid | Practical first aid — Practical first aid | writing |
-| 25 | 5 | teach | Sanitation | Meaning of sanitation — Meaning of sanitation | pending |
-| 26 | 5 | teach | Sanitation | Toilets and latrines — Toilets and latrines | pending |
-| 27 | 5 | teach | Sanitation | Conventional latrines — Conventional latrines | pending |
-| 28 | 5 | teach | Sanitation | VIP latrines — VIP latrines | pending |
-| 29 | 5 | teach | Sanitation | Ecosan sanitation — Ecosan sanitation | pending |
-| 30 | 5 | teach | Sanitation | Water closet toilets — Water closet toilets | pending |
+| 25 | 5 | teach | Sanitation | Meaning of sanitation — Meaning of sanitation | writing |
+| 26 | 5 | teach | Sanitation | Toilets and latrines — Toilets and latrines | writing |
+| 27 | 5 | teach | Sanitation | Conventional latrines — Conventional latrines | writing |
+| 28 | 5 | teach | Sanitation | VIP latrines — VIP latrines | writing |
+| 29 | 5 | teach | Sanitation | Ecosan sanitation — Ecosan sanitation | writing |
+| 30 | 5 | teach | Sanitation | Water closet toilets — Water closet toilets | writing |
 | 31 | 6 | teach | Sanitation | Proper use of a potty — Proper use of a potty | pending |
 | 32 | 6 | teach | Sanitation | Comparing toilets and latrines — Comparing toilets and latrines | pending |
 | 33 | 6 | teach | Sanitation | Importance of toilets and latrines — Importance of toilets and latrines | pending |

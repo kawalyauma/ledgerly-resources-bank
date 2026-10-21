@@ -33,7 +33,7 @@
       "title": "Safe drinking water",
       "subtopic": "Safe drinking water",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Science at Home and in Our Community"
     },
     {
@@ -43,7 +43,7 @@
       "title": "Water impurities",
       "subtopic": "Water impurities",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Science at Home and in Our Community"
     },
     {
@@ -53,7 +53,7 @@
       "title": "Boiling water",
       "subtopic": "Boiling water",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Science at Home and in Our Community"
     },
     {
@@ -63,7 +63,7 @@
       "title": "Filtering water",
       "subtopic": "Filtering water",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Science at Home and in Our Community"
     },
     {
@@ -73,7 +73,7 @@
       "title": "Treating water",
       "subtopic": "Treating water",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Science at Home and in Our Community"
     },
     {
@@ -83,7 +83,7 @@
       "title": "Distilling water",
       "subtopic": "Distilling water",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Science at Home and in Our Community"
     },
     {
@@ -273,7 +273,7 @@
       "title": "Meaning of sanitation",
       "subtopic": "Meaning of sanitation",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Sanitation"
     },
     {
@@ -283,7 +283,7 @@
       "title": "Toilets and latrines",
       "subtopic": "Toilets and latrines",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Sanitation"
     },
     {
@@ -293,7 +293,7 @@
       "title": "Conventional latrines",
       "subtopic": "Conventional latrines",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Sanitation"
     },
     {
@@ -303,7 +303,7 @@
       "title": "VIP latrines",
       "subtopic": "VIP latrines",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Sanitation"
     },
     {
@@ -313,7 +313,7 @@
       "title": "Ecosan sanitation",
       "subtopic": "Ecosan sanitation",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Sanitation"
     },
     {
@@ -323,7 +323,7 @@
       "title": "Water closet toilets",
       "subtopic": "Water closet toilets",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Sanitation"
     },
     {
