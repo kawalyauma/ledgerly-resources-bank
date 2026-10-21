@@ -1,0 +1,708 @@
+{
+  "units": [
+    {
+      "title": "Length, Mass and Capacity",
+      "theme": "Length, Mass and Capacity",
+      "weekFrom": 1,
+      "weekTo": 1
+    },
+    {
+      "title": "Money",
+      "theme": null,
+      "weekFrom": 2,
+      "weekTo": 2
+    },
+    {
+      "title": "Perimeter",
+      "theme": "Length, Mass and Capacity",
+      "weekFrom": 2,
+      "weekTo": 3
+    },
+    {
+      "title": "Circumference of a Circle",
+      "theme": "Length, Mass and Capacity",
+      "weekFrom": 3,
+      "weekTo": 3
+    },
+    {
+      "title": "Finding Radius or Diameter Given Circumference",
+      "theme": "Length, Mass and Capacity",
+      "weekFrom": 3,
+      "weekTo": 3
+    },
+    {
+      "title": "Application of Circumference",
+      "theme": "Length, Mass and Capacity",
+      "weekFrom": 3,
+      "weekTo": 4
+    },
+    {
+      "title": "Areas",
+      "theme": "Length, Mass and Capacity",
+      "weekFrom": 4,
+      "weekTo": 5
+    },
+    {
+      "title": "Area of a Circle",
+      "theme": "Length, Mass and Capacity",
+      "weekFrom": 5,
+      "weekTo": 5
+    },
+    {
+      "title": "Area of Parts of a Circle",
+      "theme": "Length, Mass and Capacity",
+      "weekFrom": 6,
+      "weekTo": 6
+    },
+    {
+      "title": "Area of Combined Shapes of Circle",
+      "theme": "Length, Mass and Capacity",
+      "weekFrom": 6,
+      "weekTo": 6
+    },
+    {
+      "title": "Shaded Regions Involving Circle",
+      "theme": "Length, Mass and Capacity",
+      "weekFrom": 6,
+      "weekTo": 7
+    },
+    {
+      "title": "Application of Area of Circle",
+      "theme": "Length, Mass and Capacity",
+      "weekFrom": 7,
+      "weekTo": 7
+    },
+    {
+      "title": "Finding Radius or Diameter of a Circle Given Area",
+      "theme": "Length, Mass and Capacity",
+      "weekFrom": 7,
+      "weekTo": 7
+    },
+    {
+      "title": "Finding Circumference Given Area of a Circle",
+      "theme": "Length, Mass and Capacity",
+      "weekFrom": 7,
+      "weekTo": 7
+    },
+    {
+      "title": "Total Surface Area",
+      "theme": "Volume and Surface Area",
+      "weekFrom": 7,
+      "weekTo": 8
+    },
+    {
+      "title": "Volume and Capacity",
+      "theme": "Volume and Surface Area",
+      "weekFrom": 8,
+      "weekTo": 9
+    },
+    {
+      "title": "Algebra",
+      "theme": "Algebra",
+      "weekFrom": 9,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_697fd7ae868841169d8ab3dfe84efc82",
+      "seq": 1,
+      "week": 1,
+      "title": "Conversion of length units",
+      "subtopic": "Conversion of length",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length, Mass and Capacity"
+    },
+    {
+      "id": "lles_eaaedfd6911a4eeb99fb0196bb3444d3",
+      "seq": 2,
+      "week": 1,
+      "title": "Conversion of mass units",
+      "subtopic": "Conversion of mass",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length, Mass and Capacity"
+    },
+    {
+      "id": "lles_89893c19c23c4633b734642576e21b91",
+      "seq": 3,
+      "week": 1,
+      "title": "Conversion of capacity units",
+      "subtopic": "Conversion of capacity",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length, Mass and Capacity"
+    },
+    {
+      "id": "lles_98ae15ea694f4076b0b1ec3a529dcf04",
+      "seq": 4,
+      "week": 1,
+      "title": "Addition and subtraction of metric units",
+      "subtopic": "Operations on metric units",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length, Mass and Capacity"
+    },
+    {
+      "id": "lles_6caa34eab96c4509b9b218f7b29f5198",
+      "seq": 5,
+      "week": 1,
+      "title": "Multiplication of metric units",
+      "subtopic": "Multiplication of metric units",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length, Mass and Capacity"
+    },
+    {
+      "id": "lles_e32ac9f8acd94b749787c7a10e9e2716",
+      "seq": 6,
+      "week": 1,
+      "title": "Division of metric units",
+      "subtopic": "Division of metric units",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Length, Mass and Capacity"
+    },
+    {
+      "id": "lles_d52c815025ab4877b3982e306a3c2342",
+      "seq": 7,
+      "week": 2,
+      "title": "Shopping bills and bill tables",
+      "subtopic": "Shopping bills",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_aa87e125c6c541a28e86f75cc142dfc4",
+      "seq": 8,
+      "week": 2,
+      "title": "Currency notes",
+      "subtopic": "Currency notes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_7b01d2f307cf403ab86661024cce7f5d",
+      "seq": 9,
+      "week": 2,
+      "title": "Exchange rates",
+      "subtopic": "Foreign exchange",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Money"
+    },
+    {
+      "id": "lles_0f447c82c63f48df9e55801b08fc84c0",
+      "seq": 10,
+      "week": 2,
+      "title": "Perimeter of quadrilaterals",
+      "subtopic": "Perimeter of quadrilaterals",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Perimeter"
+    },
+    {
+      "id": "lles_f0de6423d4bd4c90b7cb4ec157c0e351",
+      "seq": 11,
+      "week": 2,
+      "title": "Perimeter of combined shapes",
+      "subtopic": "Perimeter of combined shapes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Perimeter"
+    },
+    {
+      "id": "lles_56b32f9d1aef45ed88e32a310983171d",
+      "seq": 12,
+      "week": 2,
+      "title": "Perimeter of regular polygons",
+      "subtopic": "Perimeter of regular polygons",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Perimeter"
+    },
+    {
+      "id": "lles_304562b5465e4e6a9d18bf96ce567067",
+      "seq": 13,
+      "week": 3,
+      "title": "Poles in a line and around closed fences",
+      "subtopic": "Number of poles",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Perimeter"
+    },
+    {
+      "id": "lles_778207e3c1474297b7589239d2522321",
+      "seq": 14,
+      "week": 3,
+      "title": "Circumference given radius",
+      "subtopic": "Circumference from radius",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Circumference of a Circle"
+    },
+    {
+      "id": "lles_37eb85f397eb48878062cf966dbcef7d",
+      "seq": 15,
+      "week": 3,
+      "title": "Circumference given diameter",
+      "subtopic": "Circumference from diameter",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Circumference of a Circle"
+    },
+    {
+      "id": "lles_bcd6eb9531ba4a8cb48c0da466aa13ce",
+      "seq": 16,
+      "week": 3,
+      "title": "Radius given circumference",
+      "subtopic": "Radius from circumference",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Finding Radius or Diameter Given Circumference"
+    },
+    {
+      "id": "lles_505dd5b111374566add4459ac9fe4439",
+      "seq": 17,
+      "week": 3,
+      "title": "Diameter given circumference",
+      "subtopic": "Diameter from circumference",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Finding Radius or Diameter Given Circumference"
+    },
+    {
+      "id": "lles_c456223305e14077bfc005698b67e8d1",
+      "seq": 18,
+      "week": 3,
+      "title": "Number of revolutions",
+      "subtopic": "Revolutions",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Application of Circumference"
+    },
+    {
+      "id": "lles_2835b185b35f45ae8398180211604b46",
+      "seq": 19,
+      "week": 4,
+      "title": "Length of a piece of wire",
+      "subtopic": "Wire length",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Application of Circumference"
+    },
+    {
+      "id": "lles_82239f4227ec49688804970f31951bc4",
+      "seq": 20,
+      "week": 4,
+      "title": "Diameter from a given wire length",
+      "subtopic": "Diameter from wire length",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Application of Circumference"
+    },
+    {
+      "id": "lles_1532731d24b04390b823ab950e38233c",
+      "seq": 21,
+      "week": 4,
+      "title": "Area of a triangle",
+      "subtopic": "Triangle area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Areas"
+    },
+    {
+      "id": "lles_4063d5387e5a4fa0b78544d95e1e3b4f",
+      "seq": 22,
+      "week": 4,
+      "title": "Missing triangle dimensions given area",
+      "subtopic": "Missing triangle dimensions",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Areas"
+    },
+    {
+      "id": "lles_850bd705e5fa46108ee08802b16b851b",
+      "seq": 23,
+      "week": 4,
+      "title": "Comparing triangle areas",
+      "subtopic": "Comparison of triangle areas",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Areas"
+    },
+    {
+      "id": "lles_94c234a9d03540ca8912206ceb8c48a3",
+      "seq": 24,
+      "week": 4,
+      "title": "Area of rectangles and squares",
+      "subtopic": "Rectangle and square areas",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Areas"
+    },
+    {
+      "id": "lles_fe96f6d72f2e4037a8d79726a4518267",
+      "seq": 25,
+      "week": 5,
+      "title": "Area of a rhombus",
+      "subtopic": "Rhombus area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Areas"
+    },
+    {
+      "id": "lles_26a0689615d84eeda61f01ba2433a496",
+      "seq": 26,
+      "week": 5,
+      "title": "Area of a parallelogram",
+      "subtopic": "Parallelogram area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Areas"
+    },
+    {
+      "id": "lles_e9f51c9977a0423594e0df0df27c5673",
+      "seq": 27,
+      "week": 5,
+      "title": "Area of a kite",
+      "subtopic": "Kite area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Areas"
+    },
+    {
+      "id": "lles_9c876b83b4d24df8867244f51faec5ba",
+      "seq": 28,
+      "week": 5,
+      "title": "Area of a trapezium",
+      "subtopic": "Trapezium area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Areas"
+    },
+    {
+      "id": "lles_0088d05a9e934d69a5b227db6d68453d",
+      "seq": 29,
+      "week": 5,
+      "title": "Finding the area of a circle",
+      "subtopic": "Circle area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Area of a Circle"
+    },
+    {
+      "id": "lles_eeabf1cc0b604154ad21ae5ef56479c9",
+      "seq": 30,
+      "week": 5,
+      "title": "Area given circumference",
+      "subtopic": "Circle area from circumference",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Area of a Circle"
+    },
+    {
+      "id": "lles_a0f2621e1928448fb795c48a5f32ae95",
+      "seq": 31,
+      "week": 6,
+      "title": "Area of a semicircle",
+      "subtopic": "Semicircle area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Area of Parts of a Circle"
+    },
+    {
+      "id": "lles_5ce2150388e142fb977458d784cc3a2a",
+      "seq": 32,
+      "week": 6,
+      "title": "Area of a quadrant",
+      "subtopic": "Quadrant area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Area of Parts of a Circle"
+    },
+    {
+      "id": "lles_bff399ba609a43d5872683a949eadd2b",
+      "seq": 33,
+      "week": 6,
+      "title": "Area of a sector",
+      "subtopic": "Sector area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Area of Parts of a Circle"
+    },
+    {
+      "id": "lles_f68dfab68fdc48fea4a50b06879f018f",
+      "seq": 34,
+      "week": 6,
+      "title": "Circles combined with rectangles and squares",
+      "subtopic": "Combined circle and quadrilateral areas",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Area of Combined Shapes of Circle"
+    },
+    {
+      "id": "lles_3b1eed9defa3452780d9ebc542f7e6c6",
+      "seq": 35,
+      "week": 6,
+      "title": "Circles combined with triangles and other regular polygons",
+      "subtopic": "Combined circle and polygon areas",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Area of Combined Shapes of Circle"
+    },
+    {
+      "id": "lles_6bb6ddf156064a4ab301f5e5f1734fcf",
+      "seq": 36,
+      "week": 6,
+      "title": "Shaded regions involving circles, rectangles and squares",
+      "subtopic": "Shaded circle and quadrilateral regions",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Shaded Regions Involving Circle"
+    },
+    {
+      "id": "lles_e587d4350d454ef8ab818568841ce8ed",
+      "seq": 37,
+      "week": 7,
+      "title": "Shaded regions involving circles and polygons",
+      "subtopic": "Shaded circle and polygon regions",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Shaded Regions Involving Circle"
+    },
+    {
+      "id": "lles_f9927e44baac474aabe8943d5f3e2d76",
+      "seq": 38,
+      "week": 7,
+      "title": "Circular pieces cut from cards and sheets",
+      "subtopic": "Application of circle area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Application of Area of Circle"
+    },
+    {
+      "id": "lles_b036b08de71e412690e619dcd8b68600",
+      "seq": 39,
+      "week": 7,
+      "title": "Radius given area",
+      "subtopic": "Radius from area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Finding Radius or Diameter of a Circle Given Area"
+    },
+    {
+      "id": "lles_8d464419cf3d4560941bef12dc58f4e8",
+      "seq": 40,
+      "week": 7,
+      "title": "Diameter given area",
+      "subtopic": "Diameter from area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Finding Radius or Diameter of a Circle Given Area"
+    },
+    {
+      "id": "lles_7ddc17a602d34d8297b116d85f1dc33b",
+      "seq": 41,
+      "week": 7,
+      "title": "Circumference given area",
+      "subtopic": "Circumference from area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Finding Circumference Given Area of a Circle"
+    },
+    {
+      "id": "lles_6c002a92f4d34470a826603f347540a2",
+      "seq": 42,
+      "week": 7,
+      "title": "Total surface area of a cuboid",
+      "subtopic": "Cuboid total surface area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Total Surface Area"
+    },
+    {
+      "id": "lles_a668b64c475240f197a28697cbaa9e9e",
+      "seq": 43,
+      "week": 8,
+      "title": "Total surface area of a cube",
+      "subtopic": "Cube total surface area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Total Surface Area"
+    },
+    {
+      "id": "lles_5635f0bae5434269abd10295b27e957e",
+      "seq": 44,
+      "week": 8,
+      "title": "Missing cube side given total surface area",
+      "subtopic": "Missing side from total surface area",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Total Surface Area"
+    },
+    {
+      "id": "lles_ff3b793cca214124a0d8419b4dcbefae",
+      "seq": 45,
+      "week": 8,
+      "title": "Volume and capacity of cylinders",
+      "subtopic": "Cylinder volume and capacity",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Volume and Capacity"
+    },
+    {
+      "id": "lles_9dddcee77bd6433cbd8b7641bc6bd846",
+      "seq": 46,
+      "week": 8,
+      "title": "Missing cylinder dimensions given volume",
+      "subtopic": "Missing cylinder dimensions",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Volume and Capacity"
+    },
+    {
+      "id": "lles_74dd37b68e6045caab2167e1d24493f6",
+      "seq": 47,
+      "week": 8,
+      "title": "Volume and capacity of triangular prisms",
+      "subtopic": "Triangular prism volume and capacity",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Volume and Capacity"
+    },
+    {
+      "id": "lles_f814194909824e6caa7b06dc92b4bdc5",
+      "seq": 48,
+      "week": 8,
+      "title": "Missing triangular prism dimensions given volume",
+      "subtopic": "Missing triangular prism dimensions",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Volume and Capacity"
+    },
+    {
+      "id": "lles_80fd121390d849388b7fd629df28808e",
+      "seq": 49,
+      "week": 9,
+      "title": "Volume and capacity of trapezoidal prisms",
+      "subtopic": "Trapezoidal prism volume and capacity",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Volume and Capacity"
+    },
+    {
+      "id": "lles_343f45b2678745b28a68bda76f691579",
+      "seq": 50,
+      "week": 9,
+      "title": "Substitution",
+      "subtopic": "Substitution",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_5fe3acd0e22d47d39ebac70d7cd39e37",
+      "seq": 51,
+      "week": 9,
+      "title": "Collecting like terms",
+      "subtopic": "Collecting like terms",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_27866f198d984a7aa870700a8bf5d6d6",
+      "seq": 52,
+      "week": 9,
+      "title": "Addition and subtraction of fractional algebraic terms",
+      "subtopic": "Addition and subtraction of fractional terms",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_b979477b2f9946759235864437e9e839",
+      "seq": 53,
+      "week": 9,
+      "title": "Multiplication and division of fractional algebraic terms",
+      "subtopic": "Multiplication and division of fractional terms",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_9e9b5368c6be45fe9265d06dd182cb44",
+      "seq": 54,
+      "week": 9,
+      "title": "Factorizing completely",
+      "subtopic": "Factorization",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_95dde8d54f8b4f648502007c6cd51022",
+      "seq": 55,
+      "week": 10,
+      "title": "Removing brackets",
+      "subtopic": "Removing brackets",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_e649b7ea94814a2d944596e51205f0af",
+      "seq": 56,
+      "week": 10,
+      "title": "Solving simple equations",
+      "subtopic": "Simple equations",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_a5b82f4145714855a89059f8b38267f8",
+      "seq": 57,
+      "week": 10,
+      "title": "Solving equations involving brackets",
+      "subtopic": "Equations involving brackets",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_c18bf68254f94ab39c1156f14c2aa1e5",
+      "seq": 58,
+      "week": 10,
+      "title": "Solving and writing solution sets",
+      "subtopic": "Solution sets",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_d6b507f330d2429b81c852775ec6e82c",
+      "seq": 59,
+      "week": 10,
+      "title": "Word problems involving inequalities",
+      "subtopic": "Word problems involving inequalities",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Algebra"
+    },
+    {
+      "id": "lles_b6a4310305a942668b078d34d76f16c4",
+      "seq": 60,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "Length, Mass and Capacity, Money, Perimeter, Circumference of a Circle, Finding Radius or Diameter Given Circumference, Application of Circumference, Areas, Area of a Circle, Area of Parts of a Circle, Area of Combined Shapes of Circle, Shaded Regions Involving Circle, Applicatio",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "Algebra"
+    }
+  ]
+}
