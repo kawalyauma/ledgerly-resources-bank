@@ -1,0 +1,330 @@
+{
+  "units": [
+    {
+      "title": "God's family with Jesus our friend",
+      "theme": "Discovering God's gift to me",
+      "weekFrom": 1,
+      "weekTo": 3
+    },
+    {
+      "title": "God's family and our concern for sharing",
+      "theme": "Discovering God's gift to me",
+      "weekFrom": 3,
+      "weekTo": 5
+    },
+    {
+      "title": "Interpersonal relationship in the home",
+      "theme": "Discovering God's gift to me",
+      "weekFrom": 6,
+      "weekTo": 8
+    },
+    {
+      "title": "God's family and his love",
+      "theme": "Discovering God's gift to me",
+      "weekFrom": 8,
+      "weekTo": 10
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lles_a7f50c4baed5429b8ab7dc3e34106ee9",
+      "seq": 1,
+      "week": 1,
+      "title": "Jesus expressed friendship",
+      "subtopic": "Jesus' friendship with the lonely, sick, young and old",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "God's family with Jesus our friend"
+    },
+    {
+      "id": "lles_483f852f364b4018a1c6a8cbdbc0231b",
+      "seq": 2,
+      "week": 1,
+      "title": "Identifying ways Jesus showed friendship",
+      "subtopic": "Jesus' friendship with the lonely, sick, young and old",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "God's family with Jesus our friend"
+    },
+    {
+      "id": "lles_dcc9d35a97174dfeabd0808a1f5f6dbb",
+      "seq": 3,
+      "week": 1,
+      "title": "Week 1 review",
+      "subtopic": "God's family with Jesus our friend",
+      "kind": "review",
+      "status": "pending",
+      "unit": "God's family with Jesus our friend"
+    },
+    {
+      "id": "lles_008bf9ad034c441e9bbd4d8782f13ec5",
+      "seq": 4,
+      "week": 2,
+      "title": "Responding to Jesus' friendship",
+      "subtopic": "Doing what is right: speaking the truth and assisting others",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "God's family with Jesus our friend"
+    },
+    {
+      "id": "lles_485808de28bb4996b15e68e7f4dc4506",
+      "seq": 5,
+      "week": 2,
+      "title": "Jesus' resurrection and his friends",
+      "subtopic": "The resurrection, the cross as a symbol of God's love, and songs of praise",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "God's family with Jesus our friend"
+    },
+    {
+      "id": "lles_fe203498a39e4161ba51e8ced9da1561",
+      "seq": 6,
+      "week": 2,
+      "title": "Week 2 review",
+      "subtopic": "God's family with Jesus our friend",
+      "kind": "review",
+      "status": "pending",
+      "unit": "God's family with Jesus our friend"
+    },
+    {
+      "id": "lles_d4f9e34d442b46d8b731b7b766328597",
+      "seq": 7,
+      "week": 3,
+      "title": "Talking about Jesus' resurrection",
+      "subtopic": "The resurrection, the cross as a symbol of God's love, and songs of praise",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "God's family with Jesus our friend"
+    },
+    {
+      "id": "lles_b52baabad07442e6bd53347930f956a2",
+      "seq": 8,
+      "week": 3,
+      "title": "People in the Bible had their needs met",
+      "subtopic": "How people's needs were met",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "God's family and our concern for sharing"
+    },
+    {
+      "id": "lles_d1651b0c7b9948f6af905d81a20e6a4f",
+      "seq": 9,
+      "week": 3,
+      "title": "Week 3 review",
+      "subtopic": "God's family with Jesus our friend, God's family and our concern for sharing",
+      "kind": "review",
+      "status": "pending",
+      "unit": "God's family and our concern for sharing"
+    },
+    {
+      "id": "lles_b49c8b08b0de4b1cb66f08a710f3f13c",
+      "seq": 10,
+      "week": 4,
+      "title": "Talking about people's needs being met",
+      "subtopic": "How people's needs were met",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "God's family and our concern for sharing"
+    },
+    {
+      "id": "lles_6a59c8d5046e44b2904bb5c14d06a018",
+      "seq": 11,
+      "week": 4,
+      "title": "The needs of people around us",
+      "subtopic": "Food, water, shelter and clothes",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "God's family and our concern for sharing"
+    },
+    {
+      "id": "lles_6d9efaa02de84c6cba680f5a8931005c",
+      "seq": 12,
+      "week": 4,
+      "title": "Week 4 review",
+      "subtopic": "God's family and our concern for sharing",
+      "kind": "review",
+      "status": "pending",
+      "unit": "God's family and our concern for sharing"
+    },
+    {
+      "id": "lles_cfeee60af55c4074ac65d57520d072cc",
+      "seq": 13,
+      "week": 5,
+      "title": "Jesus' concern and our concern for others",
+      "subtopic": "Showing concern and attending to others' needs",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "God's family and our concern for sharing"
+    },
+    {
+      "id": "lles_f9a1e3b6815647f5af9e41ea98719429",
+      "seq": 14,
+      "week": 5,
+      "title": "Talking about concern for others",
+      "subtopic": "Showing concern and attending to others' needs",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "God's family and our concern for sharing"
+    },
+    {
+      "id": "lles_39298fa58da84767ba4cff063ced1a3d",
+      "seq": 15,
+      "week": 5,
+      "title": "Week 5 review",
+      "subtopic": "God's family and our concern for sharing",
+      "kind": "review",
+      "status": "pending",
+      "unit": "God's family and our concern for sharing"
+    },
+    {
+      "id": "lles_50c7154c403843bd875c412eb3171ef7",
+      "seq": 16,
+      "week": 6,
+      "title": "Family members' contributions and mutual trust",
+      "subtopic": "Contributing to the home and being trustworthy",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Interpersonal relationship in the home"
+    },
+    {
+      "id": "lles_a03e57f6c11240498228f2d275099e1d",
+      "seq": 17,
+      "week": 6,
+      "title": "Talking about relationships and trust at home",
+      "subtopic": "Contributing to the home and being trustworthy",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Interpersonal relationship in the home"
+    },
+    {
+      "id": "lles_ee2373dd0d6c4bffb57eac8e2bc4c445",
+      "seq": 18,
+      "week": 6,
+      "title": "Week 6 review",
+      "subtopic": "Interpersonal relationship in the home",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Interpersonal relationship in the home"
+    },
+    {
+      "id": "lles_b0a8e34c050441a5aa0b83780aa08b99",
+      "seq": 19,
+      "week": 7,
+      "title": "Making thoughts, feelings and ideas known honestly",
+      "subtopic": "Honest communication and appropriate language",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Interpersonal relationship in the home"
+    },
+    {
+      "id": "lles_de94cd980f7547ff90bd6759d3ad0f31",
+      "seq": 20,
+      "week": 7,
+      "title": "Asking for forgiveness",
+      "subtopic": "Forgiveness, acceptance and trust",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "Interpersonal relationship in the home"
+    },
+    {
+      "id": "lles_784f07188f3a4738b3d733e23e21db81",
+      "seq": 21,
+      "week": 7,
+      "title": "Week 7 review",
+      "subtopic": "Interpersonal relationship in the home",
+      "kind": "review",
+      "status": "pending",
+      "unit": "Interpersonal relationship in the home"
+    },
+    {
+      "id": "lles_ab4fb7770c7447f0980770f6eed8d18c",
+      "seq": 22,
+      "week": 8,
+      "title": "Talking about forgiveness",
+      "subtopic": "Forgiveness, acceptance and trust",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "Interpersonal relationship in the home"
+    },
+    {
+      "id": "lles_0d768430c733490fa6c4765fc94f9a0f",
+      "seq": 23,
+      "week": 8,
+      "title": "God's gifts to us",
+      "subtopic": "Our bodies, people and other creation",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "God's family and his love"
+    },
+    {
+      "id": "lles_652d2d758d0943d3aed1a04f5c855faa",
+      "seq": 24,
+      "week": 8,
+      "title": "Week 8 review",
+      "subtopic": "Interpersonal relationship in the home, God's family and his love",
+      "kind": "review",
+      "status": "pending",
+      "unit": "God's family and his love"
+    },
+    {
+      "id": "lles_7936c28d3c2e44e6bec4ecc5ad794b5f",
+      "seq": 25,
+      "week": 9,
+      "title": "Telling God's gifts",
+      "subtopic": "Our bodies, people and other creation",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "God's family and his love"
+    },
+    {
+      "id": "lles_31276445cbd440d48cc64d5b04d9ecd2",
+      "seq": 26,
+      "week": 9,
+      "title": "Loving and caring for babies",
+      "subtopic": "Love and care for babies in a family",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "God's family and his love"
+    },
+    {
+      "id": "lles_ea27aaf5d661468c8a4ea8802ddf7cf1",
+      "seq": 27,
+      "week": 9,
+      "title": "Week 9 review",
+      "subtopic": "God's family and his love",
+      "kind": "review",
+      "status": "pending",
+      "unit": "God's family and his love"
+    },
+    {
+      "id": "lles_fa94153a4f7341179bc010120744aceb",
+      "seq": 28,
+      "week": 10,
+      "title": "Jesus' birth and preparing for Christmas",
+      "subtopic": "The birth of Jesus in Bethlehem and preparations for Christmas",
+      "kind": "teach",
+      "status": "pending",
+      "unit": "God's family and his love"
+    },
+    {
+      "id": "lles_fdce0da825f84b498b486a75f6ca3bcd",
+      "seq": 29,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "The birth of Jesus in Bethlehem and preparations for Christmas",
+      "kind": "practice",
+      "status": "pending",
+      "unit": "God's family and his love"
+    },
+    {
+      "id": "lles_630bc33844d0456e9d591d602e2fa24d",
+      "seq": 30,
+      "week": 10,
+      "title": "End of term assessment",
+      "subtopic": "God's family with Jesus our friend, God's family and our concern for sharing, Interpersonal relationship in the home, God's family and his love",
+      "kind": "assessment",
+      "status": "pending",
+      "unit": "God's family and his love"
+    }
+  ]
+}
