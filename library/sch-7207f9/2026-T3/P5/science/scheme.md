@@ -2,18 +2,18 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Types of Changes | Types of Changes in the Environment — Biological, chemical and physical changes | writing |
-| 2 | 1 | teach | Types of Changes | Biological Changes — Meaning, examples and characteristics of biological changes | writing |
-| 3 | 1 | Part B | Types of Changes | Observing Biological Changes — Meaning, examples and characteristics of biological changes | writing |
-| 4 | 1 | teach | Types of Changes | Effects of Biological Changes — Importance and dangers of biological changes | writing |
-| 5 | 1 | teach | Types of Changes | Chemical Changes — Meaning and examples of chemical changes | writing |
-| 6 | 1 | Part B | Types of Changes | Observing Chemical Changes — Meaning and examples of chemical changes | writing |
-| 7 | 2 | teach | Types of Changes | Physical Changes — Meaning and examples of physical changes | pending |
-| 8 | 2 | Part B | Types of Changes | Observing Changes of State — Meaning and examples of physical changes | pending |
-| 9 | 2 | teach | Types of Changes | Natural Changes and Their Effects — Natural changes | pending |
-| 10 | 2 | teach | Types of Changes | Human Activities and Environmental Changes — Managing changes in the environment | pending |
-| 11 | 2 | teach | Keeping Goats, Sheep and Pigs | External Parts of a Goat — External parts of a goat | pending |
-| 12 | 2 | Part B | Keeping Goats, Sheep and Pigs | Drawing a Goat — External parts of a goat | pending |
+| 1 | 1 | teach | Types of Changes | Types of Changes in the Environment — Biological, chemical and physical changes | failed |
+| 2 | 1 | teach | Types of Changes | Biological Changes — Meaning, examples and characteristics of biological changes | failed |
+| 3 | 1 | Part B | Types of Changes | Observing Biological Changes — Meaning, examples and characteristics of biological changes | failed |
+| 4 | 1 | teach | Types of Changes | Effects of Biological Changes — Importance and dangers of biological changes | failed |
+| 5 | 1 | teach | Types of Changes | Chemical Changes — Meaning and examples of chemical changes | failed |
+| 6 | 1 | Part B | Types of Changes | Observing Chemical Changes — Meaning and examples of chemical changes | failed |
+| 7 | 2 | teach | Types of Changes | Physical Changes — Meaning and examples of physical changes | writing |
+| 8 | 2 | Part B | Types of Changes | Observing Changes of State — Meaning and examples of physical changes | writing |
+| 9 | 2 | teach | Types of Changes | Natural Changes and Their Effects — Natural changes | writing |
+| 10 | 2 | teach | Types of Changes | Human Activities and Environmental Changes — Managing changes in the environment | writing |
+| 11 | 2 | teach | Keeping Goats, Sheep and Pigs | External Parts of a Goat — External parts of a goat | writing |
+| 12 | 2 | Part B | Keeping Goats, Sheep and Pigs | Drawing a Goat — External parts of a goat | writing |
 | 13 | 3 | teach | Keeping Goats, Sheep and Pigs | Reasons for Keeping Goats — Uses of goats | pending |
 | 14 | 3 | Part B | Keeping Goats, Sheep and Pigs | Listing Goat Products and Uses — Uses of goats | pending |
 | 15 | 3 | teach | Keeping Goats, Sheep and Pigs | Breeds of Goats — Local and exotic breeds of goats | pending |

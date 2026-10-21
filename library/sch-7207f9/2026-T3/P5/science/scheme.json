@@ -33,7 +33,7 @@
       "title": "Types of Changes in the Environment",
       "subtopic": "Biological, chemical and physical changes",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Types of Changes"
     },
     {
@@ -43,7 +43,7 @@
       "title": "Biological Changes",
       "subtopic": "Meaning, examples and characteristics of biological changes",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Types of Changes"
     },
     {
@@ -53,7 +53,7 @@
       "title": "Observing Biological Changes",
       "subtopic": "Meaning, examples and characteristics of biological changes",
       "kind": "practice",
-      "status": "writing",
+      "status": "failed",
       "unit": "Types of Changes"
     },
     {
@@ -63,7 +63,7 @@
       "title": "Effects of Biological Changes",
       "subtopic": "Importance and dangers of biological changes",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Types of Changes"
     },
     {
@@ -73,7 +73,7 @@
       "title": "Chemical Changes",
       "subtopic": "Meaning and examples of chemical changes",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Types of Changes"
     },
     {
@@ -83,7 +83,7 @@
       "title": "Observing Chemical Changes",
       "subtopic": "Meaning and examples of chemical changes",
       "kind": "practice",
-      "status": "writing",
+      "status": "failed",
       "unit": "Types of Changes"
     },
     {
@@ -93,7 +93,7 @@
       "title": "Physical Changes",
       "subtopic": "Meaning and examples of physical changes",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Types of Changes"
     },
     {
@@ -103,7 +103,7 @@
       "title": "Observing Changes of State",
       "subtopic": "Meaning and examples of physical changes",
       "kind": "practice",
-      "status": "pending",
+      "status": "writing",
       "unit": "Types of Changes"
     },
     {
@@ -113,7 +113,7 @@
       "title": "Natural Changes and Their Effects",
       "subtopic": "Natural changes",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Types of Changes"
     },
     {
@@ -123,7 +123,7 @@
       "title": "Human Activities and Environmental Changes",
       "subtopic": "Managing changes in the environment",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Types of Changes"
     },
     {
@@ -133,7 +133,7 @@
       "title": "External Parts of a Goat",
       "subtopic": "External parts of a goat",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Keeping Goats, Sheep and Pigs"
     },
     {
@@ -143,7 +143,7 @@
       "title": "Drawing a Goat",
       "subtopic": "External parts of a goat",
       "kind": "practice",
-      "status": "pending",
+      "status": "writing",
       "unit": "Keeping Goats, Sheep and Pigs"
     },
     {
