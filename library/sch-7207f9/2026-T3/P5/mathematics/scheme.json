@@ -69,7 +69,7 @@
       "title": "Simple rates",
       "subtopic": "Simple rates",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Money"
     },
     {
@@ -79,7 +79,7 @@
       "title": "Simple rates exercises",
       "subtopic": "Simple rates",
       "kind": "practice",
-      "status": "writing",
+      "status": "written",
       "unit": "Money"
     },
     {
@@ -89,7 +89,7 @@
       "title": "More about simple rates",
       "subtopic": "More about simple rates",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Money"
     },
     {
@@ -99,7 +99,7 @@
       "title": "More about simple rates exercises",
       "subtopic": "More about simple rates",
       "kind": "practice",
-      "status": "writing",
+      "status": "written",
       "unit": "Money"
     },
     {
@@ -109,7 +109,7 @@
       "title": "Shopping bills and change",
       "subtopic": "Shopping list",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Money"
     },
     {
@@ -119,7 +119,7 @@
       "title": "Buying and selling exercises",
       "subtopic": "Shopping list",
       "kind": "practice",
-      "status": "writing",
+      "status": "written",
       "unit": "Money"
     },
     {
@@ -129,7 +129,7 @@
       "title": "Completing bill tables",
       "subtopic": "Completing the bill",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Money"
     },
     {
@@ -139,7 +139,7 @@
       "title": "Filling in a shopping bill",
       "subtopic": "Completing the bill",
       "kind": "practice",
-      "status": "pending",
+      "status": "writing",
       "unit": "Money"
     },
     {
@@ -149,7 +149,7 @@
       "title": "Finding profit",
       "subtopic": "Profit",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Money"
     },
     {
@@ -159,7 +159,7 @@
       "title": "Profit oral work and calculation",
       "subtopic": "Profit",
       "kind": "practice",
-      "status": "pending",
+      "status": "writing",
       "unit": "Money"
     },
     {
@@ -169,7 +169,7 @@
       "title": "Finding loss",
       "subtopic": "Loss",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Money"
     },
     {
@@ -179,7 +179,7 @@
       "title": "Loss oral work and calculation",
       "subtopic": "Loss",
       "kind": "practice",
-      "status": "pending",
+      "status": "writing",
       "unit": "Money"
     },
     {

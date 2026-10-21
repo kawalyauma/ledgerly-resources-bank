@@ -2,18 +2,18 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Money | Simple rates — Simple rates | writing |
-| 2 | 1 | Part B | Money | Simple rates exercises — Simple rates | writing |
-| 3 | 1 | teach | Money | More about simple rates — More about simple rates | writing |
-| 4 | 1 | Part B | Money | More about simple rates exercises — More about simple rates | writing |
-| 5 | 1 | teach | Money | Shopping bills and change — Shopping list | writing |
-| 6 | 1 | Part B | Money | Buying and selling exercises — Shopping list | writing |
-| 7 | 2 | teach | Money | Completing bill tables — Completing the bill | pending |
-| 8 | 2 | Part B | Money | Filling in a shopping bill — Completing the bill | pending |
-| 9 | 2 | teach | Money | Finding profit — Profit | pending |
-| 10 | 2 | Part B | Money | Profit oral work and calculation — Profit | pending |
-| 11 | 2 | teach | Money | Finding loss — Loss | pending |
-| 12 | 2 | Part B | Money | Loss oral work and calculation — Loss | pending |
+| 1 | 1 | teach | Money | Simple rates — Simple rates | written |
+| 2 | 1 | Part B | Money | Simple rates exercises — Simple rates | written |
+| 3 | 1 | teach | Money | More about simple rates — More about simple rates | written |
+| 4 | 1 | Part B | Money | More about simple rates exercises — More about simple rates | written |
+| 5 | 1 | teach | Money | Shopping bills and change — Shopping list | written |
+| 6 | 1 | Part B | Money | Buying and selling exercises — Shopping list | written |
+| 7 | 2 | teach | Money | Completing bill tables — Completing the bill | writing |
+| 8 | 2 | Part B | Money | Filling in a shopping bill — Completing the bill | writing |
+| 9 | 2 | teach | Money | Finding profit — Profit | writing |
+| 10 | 2 | Part B | Money | Profit oral work and calculation — Profit | writing |
+| 11 | 2 | teach | Money | Finding loss — Loss | writing |
+| 12 | 2 | Part B | Money | Loss oral work and calculation — Loss | writing |
 | 13 | 3 | teach | Length, Mass and Capacity | Units used to measure length — Units of length | pending |
 | 14 | 3 | teach | Length, Mass and Capacity | Estimating length — Estimating length | pending |
 | 15 | 3 | teach | Length, Mass and Capacity | Measuring length — Measuring length of objects | pending |
