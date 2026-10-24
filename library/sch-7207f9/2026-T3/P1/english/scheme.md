@@ -2,20 +2,20 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Our Transport | Plurals taking s — Types and means of transport: plurals taking s | writing |
-| 2 | 1 | Part B | Our Transport | Reading and writing plurals taking s — Types and means of transport: plurals taking s | writing |
-| 3 | 1 | teach | Our Transport | The Traffic Light — Rhyme in relation to transport | writing |
-| 4 | 1 | Part B | Our Transport | Reciting and writing The Traffic Light — Rhyme in relation to transport | writing |
-| 5 | 1 | teach | Our Transport | My Father — A story related to transport | writing |
-| 6 | 1 | Part B | Our Transport | Completing My Father — A story related to transport | writing |
-| 7 | 1 | review | Our Transport | Week 1 review — Our Transport | writing |
-| 8 | 2 | teach | Our Transport | Plurals taking es — Plurals taking es | pending |
-| 9 | 2 | Part B | Our Transport | Writing plurals taking es — Plurals taking es | pending |
-| 10 | 2 | teach | Our Transport | Transport tongue twisters — Speech exercise and tongue twister | pending |
-| 11 | 2 | Part B | Our Transport | Reciting transport tongue twisters — Speech exercise and tongue twister | pending |
-| 12 | 2 | teach | Our Transport | My Home — A story related to measures and transport | pending |
-| 13 | 2 | Part B | Our Transport | Reading My Home — A story related to measures and transport | pending |
-| 14 | 2 | review | Our Transport | Week 2 review — Our Transport | pending |
+| 1 | 1 | teach | Our Transport | Plurals taking s — Types and means of transport: plurals taking s | failed |
+| 2 | 1 | Part B | Our Transport | Reading and writing plurals taking s — Types and means of transport: plurals taking s | failed |
+| 3 | 1 | teach | Our Transport | The Traffic Light — Rhyme in relation to transport | failed |
+| 4 | 1 | Part B | Our Transport | Reciting and writing The Traffic Light — Rhyme in relation to transport | failed |
+| 5 | 1 | teach | Our Transport | My Father — A story related to transport | failed |
+| 6 | 1 | Part B | Our Transport | Completing My Father — A story related to transport | failed |
+| 7 | 1 | review | Our Transport | Week 1 review — Our Transport | written |
+| 8 | 2 | teach | Our Transport | Plurals taking es — Plurals taking es | writing |
+| 9 | 2 | Part B | Our Transport | Writing plurals taking es — Plurals taking es | writing |
+| 10 | 2 | teach | Our Transport | Transport tongue twisters — Speech exercise and tongue twister | writing |
+| 11 | 2 | Part B | Our Transport | Reciting transport tongue twisters — Speech exercise and tongue twister | writing |
+| 12 | 2 | teach | Our Transport | My Home — A story related to measures and transport | writing |
+| 13 | 2 | Part B | Our Transport | Reading My Home — A story related to measures and transport | writing |
+| 14 | 2 | review | Our Transport | Week 2 review — Our Transport | writing |
 | 15 | 3 | teach | Our Transport | Plurals taking ies — Plurals taking ies | pending |
 | 16 | 3 | Part B | Our Transport | Writing plurals taking ies — Plurals taking ies | pending |
 | 17 | 3 | teach | Our Transport | Plurals taking ves — Plurals taking ves | pending |

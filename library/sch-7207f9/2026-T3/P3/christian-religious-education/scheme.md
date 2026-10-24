@@ -2,12 +2,12 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Forgiveness and Acceptance | Meaning of forgiveness — Forgiveness and acceptance | writing |
-| 2 | 1 | teach | Forgiveness and Acceptance | Traditional ways of encouraging forgiveness — Forgiveness and acceptance | writing |
-| 3 | 1 | review | Forgiveness and Acceptance | Week 1 review — Forgiveness and Acceptance | writing |
-| 4 | 2 | teach | Forgiveness and Acceptance | Reasons for forgiving others — Forgiveness and acceptance | pending |
-| 5 | 2 | teach | Forgiveness and Acceptance | Resolving disagreements without violence — Forgiveness and acceptance | pending |
-| 6 | 2 | review | Forgiveness and Acceptance | Week 2 review — Forgiveness and Acceptance | pending |
+| 1 | 1 | teach | Forgiveness and Acceptance | Meaning of forgiveness — Forgiveness and acceptance | failed |
+| 2 | 1 | teach | Forgiveness and Acceptance | Traditional ways of encouraging forgiveness — Forgiveness and acceptance | failed |
+| 3 | 1 | review | Forgiveness and Acceptance | Week 1 review — Forgiveness and Acceptance | failed |
+| 4 | 2 | teach | Forgiveness and Acceptance | Reasons for forgiving others — Forgiveness and acceptance | writing |
+| 5 | 2 | teach | Forgiveness and Acceptance | Resolving disagreements without violence — Forgiveness and acceptance | writing |
+| 6 | 2 | review | Forgiveness and Acceptance | Week 2 review — Forgiveness and Acceptance | writing |
 | 7 | 3 | teach | Forgiveness and Acceptance | Causes of conflict — Forgiveness and acceptance | pending |
 | 8 | 3 | teach | Forgiveness and Acceptance | Accepting and tolerating other people — Forgiveness and acceptance | pending |
 | 9 | 3 | review | Forgiveness and Acceptance | Week 3 review — Forgiveness and Acceptance | pending |
