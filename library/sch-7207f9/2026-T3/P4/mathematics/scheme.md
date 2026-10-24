@@ -2,18 +2,18 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Algebra | Using letters for numbers — Equations with and without letters | writing |
-| 2 | 1 | teach | Algebra | Adding letters and writing in short — Adding letters | writing |
-| 3 | 1 | Part B | Algebra | Writing in short: exercises — Adding letters | writing |
-| 4 | 1 | teach | Algebra | Finding perimeter using letters — Perimeter using letters for numbers | writing |
-| 5 | 1 | teach | Algebra | Subtracting letters — Subtracting letters | writing |
-| 6 | 1 | Part B | Algebra | Subtracting letters: exercises — Subtracting letters | writing |
-| 7 | 2 | teach | Algebra | Collecting like terms — Collecting like terms involving addition only | pending |
-| 8 | 2 | Part B | Algebra | Collecting like terms: exercises — Collecting like terms involving addition only | pending |
-| 9 | 2 | teach | Algebra | Substitution — Substitution | pending |
-| 10 | 2 | teach | Algebra | Solving addition equations — Equations of addition | pending |
-| 11 | 2 | Part B | Algebra | Addition equations: exercises — Equations of addition | pending |
-| 12 | 2 | teach | Algebra | Solving subtraction equations — Equations of subtraction | pending |
+| 1 | 1 | teach | Algebra | Using letters for numbers — Equations with and without letters | written |
+| 2 | 1 | teach | Algebra | Adding letters and writing in short — Adding letters | failed |
+| 3 | 1 | Part B | Algebra | Writing in short: exercises — Adding letters | failed |
+| 4 | 1 | teach | Algebra | Finding perimeter using letters — Perimeter using letters for numbers | failed |
+| 5 | 1 | teach | Algebra | Subtracting letters — Subtracting letters | failed |
+| 6 | 1 | Part B | Algebra | Subtracting letters: exercises — Subtracting letters | failed |
+| 7 | 2 | teach | Algebra | Collecting like terms — Collecting like terms involving addition only | writing |
+| 8 | 2 | Part B | Algebra | Collecting like terms: exercises — Collecting like terms involving addition only | writing |
+| 9 | 2 | teach | Algebra | Substitution — Substitution | writing |
+| 10 | 2 | teach | Algebra | Solving addition equations — Equations of addition | writing |
+| 11 | 2 | Part B | Algebra | Addition equations: exercises — Equations of addition | writing |
+| 12 | 2 | teach | Algebra | Solving subtraction equations — Equations of subtraction | writing |
 | 13 | 3 | teach | Algebra | Solving equations involving division — Equations of division | pending |
 | 14 | 3 | teach | Algebra | Forming addition and subtraction equations — Forming equations of addition and subtraction | pending |
 | 15 | 3 | teach | Money | Recognising coins and bank notes — Recognition of money | pending |
