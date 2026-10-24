@@ -393,7 +393,7 @@
       "title": "First aid kit",
       "subtopic": "First aid kit",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Accidents and First Aid"
     },
     {
@@ -403,7 +403,7 @@
       "title": "Fractures",
       "subtopic": "Fractures",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Accidents and First Aid"
     },
     {
@@ -413,7 +413,7 @@
       "title": "Burns and scalds",
       "subtopic": "Burns and scalds",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Accidents and First Aid"
     },
     {
@@ -423,7 +423,7 @@
       "title": "Sprains and strains",
       "subtopic": "Sprains and strains",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Accidents and First Aid"
     },
     {
@@ -433,7 +433,7 @@
       "title": "Dislocations",
       "subtopic": "Dislocations",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Accidents and First Aid"
     },
     {
@@ -443,7 +443,7 @@
       "title": "First aid for snake bites",
       "subtopic": "First aid for snake bites",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Accidents and First Aid"
     },
     {
@@ -453,7 +453,7 @@
       "title": "Poisoning",
       "subtopic": "Poisoning",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Accidents and First Aid"
     },
     {
@@ -463,7 +463,7 @@
       "title": "Preventing poisoning",
       "subtopic": "Preventing poisoning",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Accidents and First Aid"
     },
     {
@@ -473,7 +473,7 @@
       "title": "Meaning of rabbit keeping",
       "subtopic": "Meaning of rabbit keeping",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     },
     {
@@ -483,7 +483,7 @@
       "title": "External parts of a rabbit",
       "subtopic": "External parts of a rabbit",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     },
     {
@@ -493,7 +493,7 @@
       "title": "Rabbit products",
       "subtopic": "Rabbit products",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     },
     {
@@ -503,7 +503,7 @@
       "title": "Local breeds of rabbits",
       "subtopic": "Local breeds of rabbits",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     },
     {
@@ -513,7 +513,7 @@
       "title": "Exotic breeds of rabbits",
       "subtopic": "Exotic breeds of rabbits",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     },
     {
@@ -523,7 +523,7 @@
       "title": "Housing rabbits",
       "subtopic": "Housing rabbits",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     },
     {
@@ -533,7 +533,7 @@
       "title": "Qualities of a rabbit hutch",
       "subtopic": "Qualities of a rabbit hutch",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     },
     {
@@ -543,7 +543,7 @@
       "title": "Feeding rabbits",
       "subtopic": "Feeding rabbits",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     },
     {
@@ -553,7 +553,7 @@
       "title": "Breeding rabbits",
       "subtopic": "Breeding rabbits",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     },
     {
@@ -563,7 +563,7 @@
       "title": "Caring for young rabbits",
       "subtopic": "Caring for young rabbits",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     },
     {
@@ -573,7 +573,7 @@
       "title": "Keeping rabbits healthy",
       "subtopic": "Keeping rabbits healthy",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     },
     {
@@ -583,7 +583,7 @@
       "title": "Diseases of rabbits",
       "subtopic": "Diseases of rabbits",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     },
     {
@@ -593,7 +593,7 @@
       "title": "Rabbit parasites",
       "subtopic": "Rabbit parasites",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     },
     {
@@ -603,7 +603,7 @@
       "title": "Rabbit farm records and requirements",
       "subtopic": "Rabbit farm records and requirements",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     },
     {
@@ -613,7 +613,7 @@
       "title": "End-of-term assessment",
       "subtopic": "End-of-term assessment",
       "kind": "practice",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     },
     {
@@ -623,7 +623,7 @@
       "title": "End of term assessment",
       "subtopic": "Communicable Intestinal Diseases and Worm Infestation, Disease Vectors, Accidents and First Aid, Rabbit Keeping",
       "kind": "assessment",
-      "status": "writing",
+      "status": "failed",
       "unit": "Rabbit Keeping"
     }
   ]
