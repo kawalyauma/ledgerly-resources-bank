@@ -14,12 +14,12 @@
 | 10 | 2 | teach | Accidents and First Aid | Accidents and first aid — Accidents and first aid | written |
 | 11 | 2 | teach | Accidents and First Aid | Burns and scalds — Burns and scalds | written |
 | 12 | 2 | teach | Accidents and First Aid | Preventing burns — Preventing burns | written |
-| 13 | 3 | teach | Accidents and First Aid | First aid for burns — First aid for burns | writing |
-| 14 | 3 | teach | Accidents and First Aid | Fever and convulsions — Fever and convulsions | writing |
-| 15 | 3 | teach | Accidents and First Aid | Causes of fever — Causes of fever | writing |
-| 16 | 3 | teach | Accidents and First Aid | First aid for fever — First aid for fever | writing |
-| 17 | 3 | teach | Accidents and First Aid | Near drowning — Near drowning | writing |
-| 18 | 3 | teach | Accidents and First Aid | First aid for near drowning — First aid for near drowning | writing |
+| 13 | 3 | teach | Accidents and First Aid | First aid for burns — First aid for burns | written |
+| 14 | 3 | teach | Accidents and First Aid | Fever and convulsions — Fever and convulsions | written |
+| 15 | 3 | teach | Accidents and First Aid | Causes of fever — Causes of fever | written |
+| 16 | 3 | teach | Accidents and First Aid | First aid for fever — First aid for fever | written |
+| 17 | 3 | teach | Accidents and First Aid | Near drowning — Near drowning | failed |
+| 18 | 3 | teach | Accidents and First Aid | First aid for near drowning — First aid for near drowning | written |
 | 19 | 4 | teach | Accidents and First Aid | Fainting — Fainting | writing |
 | 20 | 4 | teach | Accidents and First Aid | Causes of fainting — Causes of fainting | writing |
 | 21 | 4 | teach | Accidents and First Aid | First aid for fainting — First aid for fainting | writing |
