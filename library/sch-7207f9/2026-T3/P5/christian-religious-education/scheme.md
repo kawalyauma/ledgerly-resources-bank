@@ -14,9 +14,9 @@
 | 10 | 4 | teach | Relationship with God | God the Father — God the Father | written |
 | 11 | 4 | teach | Relationship with God | God the Son — God the Son | written |
 | 12 | 4 | review | Relationship with God | Week 4 review — Relationship with God | written |
-| 13 | 5 | teach | Relationship with God | The Holy Spirit and the believer — The Holy Spirit and the believer | writing |
-| 14 | 5 | teach | Relationship with God | Baptism and the Christian — Baptism and the Christian | writing |
-| 15 | 5 | review | Relationship with God | Week 5 review — Relationship with God | writing |
+| 13 | 5 | teach | Relationship with God | The Holy Spirit and the believer — The Holy Spirit and the believer | written |
+| 14 | 5 | teach | Relationship with God | Baptism and the Christian — Baptism and the Christian | failed |
+| 15 | 5 | review | Relationship with God | Week 5 review — Relationship with God | written |
 | 16 | 6 | teach | Relationship with God | Confirmation — Confirmation | writing |
 | 17 | 6 | teach | Relationship with God | Christian prayer — Christian prayer | writing |
 | 18 | 6 | review | Relationship with God | Week 6 review — Relationship with God | writing |
