@@ -20,12 +20,12 @@
 | 16 | 3 | teach | Accidents and First Aid | First aid for fever — First aid for fever | written |
 | 17 | 3 | teach | Accidents and First Aid | Near drowning — Near drowning | failed |
 | 18 | 3 | teach | Accidents and First Aid | First aid for near drowning — First aid for near drowning | written |
-| 19 | 4 | teach | Accidents and First Aid | Fainting — Fainting | writing |
-| 20 | 4 | teach | Accidents and First Aid | Causes of fainting — Causes of fainting | writing |
-| 21 | 4 | teach | Accidents and First Aid | First aid for fainting — First aid for fainting | writing |
-| 22 | 4 | teach | Accidents and First Aid | Foreign bodies in passages — Foreign bodies in passages | writing |
-| 23 | 4 | teach | Accidents and First Aid | Safety precautions — Safety precautions | writing |
-| 24 | 4 | teach | Accidents and First Aid | Practical first aid — Practical first aid | writing |
+| 19 | 4 | teach | Accidents and First Aid | Fainting — Fainting | failed |
+| 20 | 4 | teach | Accidents and First Aid | Causes of fainting — Causes of fainting | failed |
+| 21 | 4 | teach | Accidents and First Aid | First aid for fainting — First aid for fainting | written |
+| 22 | 4 | teach | Accidents and First Aid | Foreign bodies in passages — Foreign bodies in passages | failed |
+| 23 | 4 | teach | Accidents and First Aid | Safety precautions — Safety precautions | failed |
+| 24 | 4 | teach | Accidents and First Aid | Practical first aid — Practical first aid | failed |
 | 25 | 5 | teach | Sanitation | Meaning of sanitation — Meaning of sanitation | writing |
 | 26 | 5 | teach | Sanitation | Toilets and latrines — Toilets and latrines | writing |
 | 27 | 5 | teach | Sanitation | Conventional latrines — Conventional latrines | writing |

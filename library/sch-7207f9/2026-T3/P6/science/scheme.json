@@ -213,7 +213,7 @@
       "title": "Fainting",
       "subtopic": "Fainting",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Accidents and First Aid"
     },
     {
@@ -223,7 +223,7 @@
       "title": "Causes of fainting",
       "subtopic": "Causes of fainting",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Accidents and First Aid"
     },
     {
@@ -233,7 +233,7 @@
       "title": "First aid for fainting",
       "subtopic": "First aid for fainting",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Accidents and First Aid"
     },
     {
@@ -243,7 +243,7 @@
       "title": "Foreign bodies in passages",
       "subtopic": "Foreign bodies in passages",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Accidents and First Aid"
     },
     {
@@ -253,7 +253,7 @@
       "title": "Safety precautions",
       "subtopic": "Safety precautions",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Accidents and First Aid"
     },
     {
@@ -263,7 +263,7 @@
       "title": "Practical first aid",
       "subtopic": "Practical first aid",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Accidents and First Aid"
     },
     {
