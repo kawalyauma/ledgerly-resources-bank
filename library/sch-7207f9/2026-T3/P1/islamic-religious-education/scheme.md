@@ -5,12 +5,12 @@
 | 1 | 1 | teach | Reading from the Qur'an — Surat An-Nas | Reciting Surat An-Nas — Surat An-Nas | written |
 | 2 | 1 | teach | Reading from the Qur'an — Surat An-Nas | Reading Surat An-Nas in Arabic — Surat An-Nas | written |
 | 3 | 1 | review | Reading from the Qur'an — Surat An-Nas | Week 1 review — Reading from the Qur'an — Surat An-Nas | written |
-| 4 | 2 | teach | Reading from the Qur'an — Surat An-Nas | Meaning of Surat An-Nas — Surat An-Nas | writing |
-| 5 | 2 | teach | Reading from the Qur'an — Surat An-Nas | Importance of Surat An-Nas — Surat An-Nas | writing |
-| 6 | 2 | review | Reading from the Qur'an — Surat An-Nas | Week 2 review — Reading from the Qur'an — Surat An-Nas | writing |
-| 7 | 3 | teach | Reading from the Qur'an — Surat An-Nas | Memorising Surat An-Nas — Surat An-Nas | pending |
-| 8 | 3 | teach | Reading from the Qur'an — Surat An-Nas | The revelation of Surat An-Nas — Surat An-Nas | pending |
-| 9 | 3 | review | Reading from the Qur'an — Surat An-Nas | Week 3 review — Reading from the Qur'an — Surat An-Nas | pending |
+| 4 | 2 | teach | Reading from the Qur'an — Surat An-Nas | Meaning of Surat An-Nas — Surat An-Nas | written |
+| 5 | 2 | teach | Reading from the Qur'an — Surat An-Nas | Importance of Surat An-Nas — Surat An-Nas | written |
+| 6 | 2 | review | Reading from the Qur'an — Surat An-Nas | Week 2 review — Reading from the Qur'an — Surat An-Nas | written |
+| 7 | 3 | teach | Reading from the Qur'an — Surat An-Nas | Memorising Surat An-Nas — Surat An-Nas | writing |
+| 8 | 3 | teach | Reading from the Qur'an — Surat An-Nas | The revelation of Surat An-Nas — Surat An-Nas | writing |
+| 9 | 3 | review | Reading from the Qur'an — Surat An-Nas | Week 3 review — Reading from the Qur'an — Surat An-Nas | writing |
 | 10 | 4 | teach | Tawhiid (Faith) — Allah and His Creation | Belief in the existence of Allah — Allah and His Creation | pending |
 | 11 | 4 | teach | Tawhiid (Faith) — Allah and His Creation | Signs of Allah's existence — Allah and His Creation | pending |
 | 12 | 4 | review | Tawhiid (Faith) — Allah and His Creation | Week 4 review — Tawhiid (Faith) — Allah and His Creation | pending |
