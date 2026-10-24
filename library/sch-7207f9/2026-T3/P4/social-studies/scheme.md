@@ -27,26 +27,26 @@
 | 23 | 5 | teach | OUR LEADERS IN THE DISTRICT | Community leadership elections — Community leadership elections | failed |
 | 24 | 5 | Part B | OUR LEADERS IN THE DISTRICT | Community leadership elections — Part B — Community leadership elections | failed |
 | 25 | 5 | teach | OUR LEADERS IN THE DISTRICT | District administrative structures — District administrative structures | failed |
-| 26 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Basic needs and luxuries — Basic needs and luxuries | writing |
-| 27 | 6 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Basic needs and luxuries — Part B — Basic needs and luxuries | writing |
-| 28 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social services in our district — Social services in our district | writing |
-| 29 | 6 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social services in our district — Part B — Social services in our district | writing |
-| 30 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social service centres — Social service centres | writing |
+| 26 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Basic needs and luxuries — Basic needs and luxuries | failed |
+| 27 | 6 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Basic needs and luxuries — Part B — Basic needs and luxuries | failed |
+| 28 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social services in our district — Social services in our district | failed |
+| 29 | 6 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social services in our district — Part B — Social services in our district | failed |
+| 30 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social service centres — Social service centres | failed |
 | 31 | 7 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social service centres — Part B — Social service centres | writing |
 | 32 | 7 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Service providers — Service providers | writing |
 | 33 | 7 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Service providers — Part B — Service providers | writing |
 | 34 | 7 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Types of education — Types of education | writing |
 | 35 | 7 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Types of education — Part B — Types of education | writing |
-| 36 | 8 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Formal and informal education — Formal and informal education | pending |
-| 37 | 8 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Formal and informal education — Part B — Formal and informal education | pending |
-| 38 | 8 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Importance of education — Importance of education | pending |
-| 39 | 8 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Importance of education — Part B — Importance of education | pending |
-| 40 | 8 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Universal Primary Education — Universal Primary Education | pending |
-| 41 | 9 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Universal Primary Education — Part B — Universal Primary Education | pending |
-| 42 | 9 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Problems facing UPE schools — Problems facing UPE schools | pending |
-| 43 | 9 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Problems facing UPE schools — Part B — Problems facing UPE schools | pending |
-| 44 | 9 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Problems in meeting people's needs — Problems in meeting people's needs | pending |
-| 45 | 9 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Problems in meeting people's needs — Part B — Problems in meeting people's needs | pending |
+| 36 | 8 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Formal and informal education — Formal and informal education | writing |
+| 37 | 8 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Formal and informal education — Part B — Formal and informal education | writing |
+| 38 | 8 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Importance of education — Importance of education | writing |
+| 39 | 8 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Importance of education — Part B — Importance of education | writing |
+| 40 | 8 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Universal Primary Education — Universal Primary Education | writing |
+| 41 | 9 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Universal Primary Education — Part B — Universal Primary Education | writing |
+| 42 | 9 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Problems facing UPE schools — Problems facing UPE schools | writing |
+| 43 | 9 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Problems facing UPE schools — Part B — Problems facing UPE schools | writing |
+| 44 | 9 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Problems in meeting people's needs — Problems in meeting people's needs | writing |
+| 45 | 9 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Problems in meeting people's needs — Part B — Problems in meeting people's needs | writing |
 | 46 | 10 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Solutions to district service problems — Solutions to district service problems | pending |
 | 47 | 10 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Solutions to district service problems — Part B — Solutions to district service problems | pending |
 | 48 | 10 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Caring for social service centres — Caring for social service centres | pending |

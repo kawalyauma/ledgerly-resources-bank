@@ -26,18 +26,18 @@
 | 22 | 4 | teach | Disease Vectors | Life cycle of mosquitoes — Life cycle of mosquitoes | failed |
 | 23 | 4 | teach | Disease Vectors | How malaria spreads — How malaria spreads | written |
 | 24 | 4 | teach | Disease Vectors | Tsetse flies — Tsetse flies | failed |
-| 25 | 5 | teach | Disease Vectors | Life cycle of tsetse flies — Life cycle of tsetse flies | writing |
-| 26 | 5 | teach | Disease Vectors | Sleeping sickness — Sleeping sickness | writing |
-| 27 | 5 | teach | Disease Vectors | Fleas — Fleas | writing |
-| 28 | 5 | teach | Disease Vectors | Itch mites — Itch mites | writing |
-| 29 | 5 | teach | Disease Vectors | Lice and their control — Lice and their control | writing |
-| 30 | 5 | teach | Disease Vectors | Water snails and bilharzia — Water snails and bilharzia | writing |
-| 31 | 6 | teach | Accidents and First Aid | Common accidents — Common accidents | writing |
-| 32 | 6 | teach | Accidents and First Aid | Causes of accidents — Causes of accidents | writing |
-| 33 | 6 | teach | Accidents and First Aid | Accidents at home and school — Accidents at home and school | writing |
-| 34 | 6 | teach | Accidents and First Aid | Road accidents — Road accidents | writing |
-| 35 | 6 | teach | Accidents and First Aid | Road safety and crossings — Road safety and crossings | writing |
-| 36 | 6 | teach | Accidents and First Aid | Meaning of first aid — Meaning of first aid | writing |
+| 25 | 5 | teach | Disease Vectors | Life cycle of tsetse flies — Life cycle of tsetse flies | failed |
+| 26 | 5 | teach | Disease Vectors | Sleeping sickness — Sleeping sickness | failed |
+| 27 | 5 | teach | Disease Vectors | Fleas — Fleas | failed |
+| 28 | 5 | teach | Disease Vectors | Itch mites — Itch mites | failed |
+| 29 | 5 | teach | Disease Vectors | Lice and their control — Lice and their control | failed |
+| 30 | 5 | teach | Disease Vectors | Water snails and bilharzia — Water snails and bilharzia | failed |
+| 31 | 6 | teach | Accidents and First Aid | Common accidents — Common accidents | failed |
+| 32 | 6 | teach | Accidents and First Aid | Causes of accidents — Causes of accidents | failed |
+| 33 | 6 | teach | Accidents and First Aid | Accidents at home and school — Accidents at home and school | failed |
+| 34 | 6 | teach | Accidents and First Aid | Road accidents — Road accidents | failed |
+| 35 | 6 | teach | Accidents and First Aid | Road safety and crossings — Road safety and crossings | failed |
+| 36 | 6 | teach | Accidents and First Aid | Meaning of first aid — Meaning of first aid | failed |
 | 37 | 7 | teach | Accidents and First Aid | First aid kit — First aid kit | writing |
 | 38 | 7 | teach | Accidents and First Aid | Fractures — Fractures | writing |
 | 39 | 7 | teach | Accidents and First Aid | Burns and scalds — Burns and scalds | writing |
