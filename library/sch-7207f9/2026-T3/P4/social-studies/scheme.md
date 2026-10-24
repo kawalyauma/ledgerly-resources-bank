@@ -22,21 +22,21 @@
 | 18 | 4 | Part B | OUR LEADERS IN THE DISTRICT | Ways of acquiring leadership — Part B — Ways of acquiring leadership | written |
 | 19 | 4 | teach | OUR LEADERS IN THE DISTRICT | Rights of district residents — Rights of district residents | written |
 | 20 | 4 | Part B | OUR LEADERS IN THE DISTRICT | Rights of district residents — Part B — Rights of district residents | written |
-| 21 | 5 | teach | OUR LEADERS IN THE DISTRICT | Responsibilities of district residents — Responsibilities of district residents | writing |
-| 22 | 5 | Part B | OUR LEADERS IN THE DISTRICT | Responsibilities of district residents — Part B — Responsibilities of district residents | writing |
-| 23 | 5 | teach | OUR LEADERS IN THE DISTRICT | Community leadership elections — Community leadership elections | writing |
-| 24 | 5 | Part B | OUR LEADERS IN THE DISTRICT | Community leadership elections — Part B — Community leadership elections | writing |
-| 25 | 5 | teach | OUR LEADERS IN THE DISTRICT | District administrative structures — District administrative structures | writing |
+| 21 | 5 | teach | OUR LEADERS IN THE DISTRICT | Responsibilities of district residents — Responsibilities of district residents | failed |
+| 22 | 5 | Part B | OUR LEADERS IN THE DISTRICT | Responsibilities of district residents — Part B — Responsibilities of district residents | failed |
+| 23 | 5 | teach | OUR LEADERS IN THE DISTRICT | Community leadership elections — Community leadership elections | failed |
+| 24 | 5 | Part B | OUR LEADERS IN THE DISTRICT | Community leadership elections — Part B — Community leadership elections | failed |
+| 25 | 5 | teach | OUR LEADERS IN THE DISTRICT | District administrative structures — District administrative structures | failed |
 | 26 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Basic needs and luxuries — Basic needs and luxuries | writing |
 | 27 | 6 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Basic needs and luxuries — Part B — Basic needs and luxuries | writing |
 | 28 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social services in our district — Social services in our district | writing |
 | 29 | 6 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social services in our district — Part B — Social services in our district | writing |
 | 30 | 6 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social service centres — Social service centres | writing |
-| 31 | 7 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social service centres — Part B — Social service centres | pending |
-| 32 | 7 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Service providers — Service providers | pending |
-| 33 | 7 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Service providers — Part B — Service providers | pending |
-| 34 | 7 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Types of education — Types of education | pending |
-| 35 | 7 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Types of education — Part B — Types of education | pending |
+| 31 | 7 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Social service centres — Part B — Social service centres | writing |
+| 32 | 7 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Service providers — Service providers | writing |
+| 33 | 7 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Service providers — Part B — Service providers | writing |
+| 34 | 7 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Types of education — Types of education | writing |
+| 35 | 7 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Types of education — Part B — Types of education | writing |
 | 36 | 8 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Formal and informal education — Formal and informal education | pending |
 | 37 | 8 | Part B | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Formal and informal education — Part B — Formal and informal education | pending |
 | 38 | 8 | teach | HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT | Importance of education — Importance of education | pending |

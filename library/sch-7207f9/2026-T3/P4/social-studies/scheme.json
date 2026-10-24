@@ -221,7 +221,7 @@
       "title": "Responsibilities of district residents",
       "subtopic": "Responsibilities of district residents",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "OUR LEADERS IN THE DISTRICT"
     },
     {
@@ -231,7 +231,7 @@
       "title": "Responsibilities of district residents — Part B",
       "subtopic": "Responsibilities of district residents",
       "kind": "practice",
-      "status": "writing",
+      "status": "failed",
       "unit": "OUR LEADERS IN THE DISTRICT"
     },
     {
@@ -241,7 +241,7 @@
       "title": "Community leadership elections",
       "subtopic": "Community leadership elections",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "OUR LEADERS IN THE DISTRICT"
     },
     {
@@ -251,7 +251,7 @@
       "title": "Community leadership elections — Part B",
       "subtopic": "Community leadership elections",
       "kind": "practice",
-      "status": "writing",
+      "status": "failed",
       "unit": "OUR LEADERS IN THE DISTRICT"
     },
     {
@@ -261,7 +261,7 @@
       "title": "District administrative structures",
       "subtopic": "District administrative structures",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "OUR LEADERS IN THE DISTRICT"
     },
     {
@@ -321,7 +321,7 @@
       "title": "Social service centres — Part B",
       "subtopic": "Social service centres",
       "kind": "practice",
-      "status": "pending",
+      "status": "writing",
       "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
     },
     {
@@ -331,7 +331,7 @@
       "title": "Service providers",
       "subtopic": "Service providers",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
     },
     {
@@ -341,7 +341,7 @@
       "title": "Service providers — Part B",
       "subtopic": "Service providers",
       "kind": "practice",
-      "status": "pending",
+      "status": "writing",
       "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
     },
     {
@@ -351,7 +351,7 @@
       "title": "Types of education",
       "subtopic": "Types of education",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
     },
     {
@@ -361,7 +361,7 @@
       "title": "Types of education — Part B",
       "subtopic": "Types of education",
       "kind": "practice",
-      "status": "pending",
+      "status": "writing",
       "unit": "HOW TO MEET PEOPLE’S NEEDS IN OUR DISTRICT"
     },
     {
