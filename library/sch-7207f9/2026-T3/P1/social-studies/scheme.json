@@ -33,7 +33,7 @@
       "title": "Meaning and types of transport",
       "subtopic": "Meaning and types of transport",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Transport"
     },
     {
@@ -43,7 +43,7 @@
       "title": "Water transport and the people who use it",
       "subtopic": "Water transport and the people who use it",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Transport"
     },
     {
@@ -53,7 +53,7 @@
       "title": "Railway transport and railway stations",
       "subtopic": "Railway transport and railway stations",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Transport"
     },
     {
@@ -63,7 +63,7 @@
       "title": "Week 1 review",
       "subtopic": "Transport",
       "kind": "review",
-      "status": "writing",
+      "status": "failed",
       "unit": "Transport"
     },
     {
@@ -73,7 +73,7 @@
       "title": "Air transport and people who use it",
       "subtopic": "Air transport and people who use it",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Transport"
     },
     {
@@ -83,7 +83,7 @@
       "title": "Road transport and road users",
       "subtopic": "Road transport and road users",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Transport"
     },
     {
@@ -93,7 +93,7 @@
       "title": "Road signs and traffic lights",
       "subtopic": "Road signs and traffic lights",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Transport"
     },
     {
@@ -103,7 +103,7 @@
       "title": "Week 2 review",
       "subtopic": "Transport",
       "kind": "review",
-      "status": "pending",
+      "status": "writing",
       "unit": "Transport"
     },
     {

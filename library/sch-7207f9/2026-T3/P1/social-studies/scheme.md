@@ -2,14 +2,14 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Transport | Meaning and types of transport — Meaning and types of transport | writing |
-| 2 | 1 | teach | Transport | Water transport and the people who use it — Water transport and the people who use it | writing |
-| 3 | 1 | teach | Transport | Railway transport and railway stations — Railway transport and railway stations | writing |
-| 4 | 1 | review | Transport | Week 1 review — Transport | writing |
-| 5 | 2 | teach | Transport | Air transport and people who use it — Air transport and people who use it | pending |
-| 6 | 2 | teach | Transport | Road transport and road users — Road transport and road users | pending |
-| 7 | 2 | teach | Transport | Road signs and traffic lights — Road signs and traffic lights | pending |
-| 8 | 2 | review | Transport | Week 2 review — Transport | pending |
+| 1 | 1 | teach | Transport | Meaning and types of transport — Meaning and types of transport | failed |
+| 2 | 1 | teach | Transport | Water transport and the people who use it — Water transport and the people who use it | failed |
+| 3 | 1 | teach | Transport | Railway transport and railway stations — Railway transport and railway stations | failed |
+| 4 | 1 | review | Transport | Week 1 review — Transport | failed |
+| 5 | 2 | teach | Transport | Air transport and people who use it — Air transport and people who use it | writing |
+| 6 | 2 | teach | Transport | Road transport and road users — Road transport and road users | writing |
+| 7 | 2 | teach | Transport | Road signs and traffic lights — Road signs and traffic lights | writing |
+| 8 | 2 | review | Transport | Week 2 review — Transport | writing |
 | 9 | 3 | teach | Transport | Safe road use and avoiding accidents — Safe road use and avoiding accidents | pending |
 | 10 | 3 | teach | Transport | Importance of transport and transport work — Importance of transport and transport work | pending |
 | 11 | 3 | teach | Things we make and communication | Things we make at home — Things we make at home | pending |
