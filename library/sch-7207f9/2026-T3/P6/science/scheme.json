@@ -93,7 +93,7 @@
       "title": "Decanting water",
       "subtopic": "Decanting water",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Science at Home and in Our Community"
     },
     {
@@ -103,7 +103,7 @@
       "title": "Sorting and soaking clothes",
       "subtopic": "Sorting and soaking clothes",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Science at Home and in Our Community"
     },
     {
@@ -113,7 +113,7 @@
       "title": "Washing and rinsing clothes",
       "subtopic": "Washing and rinsing clothes",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Science at Home and in Our Community"
     },
     {
@@ -123,7 +123,7 @@
       "title": "Accidents and first aid",
       "subtopic": "Accidents and first aid",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Accidents and First Aid"
     },
     {
@@ -133,7 +133,7 @@
       "title": "Burns and scalds",
       "subtopic": "Burns and scalds",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Accidents and First Aid"
     },
     {
@@ -143,7 +143,7 @@
       "title": "Preventing burns",
       "subtopic": "Preventing burns",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Accidents and First Aid"
     },
     {
@@ -333,7 +333,7 @@
       "title": "Proper use of a potty",
       "subtopic": "Proper use of a potty",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Sanitation"
     },
     {
@@ -343,7 +343,7 @@
       "title": "Comparing toilets and latrines",
       "subtopic": "Comparing toilets and latrines",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Sanitation"
     },
     {
@@ -353,7 +353,7 @@
       "title": "Importance of toilets and latrines",
       "subtopic": "Importance of toilets and latrines",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Sanitation"
     },
     {
@@ -363,7 +363,7 @@
       "title": "Sanitation and disease prevention",
       "subtopic": "Sanitation and disease prevention",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Sanitation"
     },
     {
@@ -373,7 +373,7 @@
       "title": "Proper use of latrines",
       "subtopic": "Proper use of latrines",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Sanitation"
     },
     {
@@ -383,7 +383,7 @@
       "title": "Cleaning toilets",
       "subtopic": "Cleaning toilets",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Sanitation"
     },
     {

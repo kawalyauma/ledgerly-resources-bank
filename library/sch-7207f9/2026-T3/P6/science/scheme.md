@@ -8,12 +8,12 @@
 | 4 | 1 | teach | Science at Home and in Our Community | Filtering water — Filtering water | failed |
 | 5 | 1 | teach | Science at Home and in Our Community | Treating water — Treating water | failed |
 | 6 | 1 | teach | Science at Home and in Our Community | Distilling water — Distilling water | failed |
-| 7 | 2 | teach | Science at Home and in Our Community | Decanting water — Decanting water | writing |
-| 8 | 2 | teach | Science at Home and in Our Community | Sorting and soaking clothes — Sorting and soaking clothes | writing |
-| 9 | 2 | teach | Science at Home and in Our Community | Washing and rinsing clothes — Washing and rinsing clothes | writing |
-| 10 | 2 | teach | Accidents and First Aid | Accidents and first aid — Accidents and first aid | writing |
-| 11 | 2 | teach | Accidents and First Aid | Burns and scalds — Burns and scalds | writing |
-| 12 | 2 | teach | Accidents and First Aid | Preventing burns — Preventing burns | writing |
+| 7 | 2 | teach | Science at Home and in Our Community | Decanting water — Decanting water | written |
+| 8 | 2 | teach | Science at Home and in Our Community | Sorting and soaking clothes — Sorting and soaking clothes | written |
+| 9 | 2 | teach | Science at Home and in Our Community | Washing and rinsing clothes — Washing and rinsing clothes | written |
+| 10 | 2 | teach | Accidents and First Aid | Accidents and first aid — Accidents and first aid | written |
+| 11 | 2 | teach | Accidents and First Aid | Burns and scalds — Burns and scalds | written |
+| 12 | 2 | teach | Accidents and First Aid | Preventing burns — Preventing burns | written |
 | 13 | 3 | teach | Accidents and First Aid | First aid for burns — First aid for burns | writing |
 | 14 | 3 | teach | Accidents and First Aid | Fever and convulsions — Fever and convulsions | writing |
 | 15 | 3 | teach | Accidents and First Aid | Causes of fever — Causes of fever | writing |
@@ -32,12 +32,12 @@
 | 28 | 5 | teach | Sanitation | VIP latrines — VIP latrines | writing |
 | 29 | 5 | teach | Sanitation | Ecosan sanitation — Ecosan sanitation | writing |
 | 30 | 5 | teach | Sanitation | Water closet toilets — Water closet toilets | writing |
-| 31 | 6 | teach | Sanitation | Proper use of a potty — Proper use of a potty | pending |
-| 32 | 6 | teach | Sanitation | Comparing toilets and latrines — Comparing toilets and latrines | pending |
-| 33 | 6 | teach | Sanitation | Importance of toilets and latrines — Importance of toilets and latrines | pending |
-| 34 | 6 | teach | Sanitation | Sanitation and disease prevention — Sanitation and disease prevention | pending |
-| 35 | 6 | teach | Sanitation | Proper use of latrines — Proper use of latrines | pending |
-| 36 | 6 | teach | Sanitation | Cleaning toilets — Cleaning toilets | pending |
+| 31 | 6 | teach | Sanitation | Proper use of a potty — Proper use of a potty | writing |
+| 32 | 6 | teach | Sanitation | Comparing toilets and latrines — Comparing toilets and latrines | writing |
+| 33 | 6 | teach | Sanitation | Importance of toilets and latrines — Importance of toilets and latrines | writing |
+| 34 | 6 | teach | Sanitation | Sanitation and disease prevention — Sanitation and disease prevention | writing |
+| 35 | 6 | teach | Sanitation | Proper use of latrines — Proper use of latrines | writing |
+| 36 | 6 | teach | Sanitation | Cleaning toilets — Cleaning toilets | writing |
 | 37 | 7 | teach | Sanitation | Maintaining latrines — Maintaining latrines | pending |
 | 38 | 7 | teach | Sanitation | Sanitation cleaning tools — Sanitation cleaning tools | pending |
 | 39 | 7 | teach | Sanitation | School sanitation activities — School sanitation activities | pending |
