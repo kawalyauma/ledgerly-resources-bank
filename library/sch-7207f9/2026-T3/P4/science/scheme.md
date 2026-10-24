@@ -8,12 +8,12 @@
 | 4 | 1 | teach | Communicable Intestinal Diseases and Worm Infestation | Dysentery and its causes — Dysentery and its causes | written |
 | 5 | 1 | teach | Communicable Intestinal Diseases and Worm Infestation | Cholera and its spread — Cholera and its spread | written |
 | 6 | 1 | teach | Communicable Intestinal Diseases and Worm Infestation | Typhoid and its prevention — Typhoid and its prevention | written |
-| 7 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Dehydration — Dehydration | writing |
-| 8 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Oral rehydration solution — Oral rehydration solution | writing |
-| 9 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Intestinal worm infestation — Intestinal worm infestation | writing |
-| 10 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Tapeworms — Tapeworms | writing |
-| 11 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Hookworms — Hookworms | writing |
-| 12 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Threadworms — Threadworms | writing |
+| 7 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Dehydration — Dehydration | written |
+| 8 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Oral rehydration solution — Oral rehydration solution | written |
+| 9 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Intestinal worm infestation — Intestinal worm infestation | written |
+| 10 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Tapeworms — Tapeworms | failed |
+| 11 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Hookworms — Hookworms | failed |
+| 12 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Threadworms — Threadworms | failed |
 | 13 | 3 | teach | Communicable Intestinal Diseases and Worm Infestation | Ascaris — Ascaris | writing |
 | 14 | 3 | teach | Communicable Intestinal Diseases and Worm Infestation | Preventing worm infestation — Preventing worm infestation | writing |
 | 15 | 3 | teach | Communicable Intestinal Diseases and Worm Infestation | Preparing oral rehydration solution — Preparing oral rehydration solution | writing |

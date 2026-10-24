@@ -93,7 +93,7 @@
       "title": "Dehydration",
       "subtopic": "Dehydration",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Communicable Intestinal Diseases and Worm Infestation"
     },
     {
@@ -103,7 +103,7 @@
       "title": "Oral rehydration solution",
       "subtopic": "Oral rehydration solution",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Communicable Intestinal Diseases and Worm Infestation"
     },
     {
@@ -113,7 +113,7 @@
       "title": "Intestinal worm infestation",
       "subtopic": "Intestinal worm infestation",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Communicable Intestinal Diseases and Worm Infestation"
     },
     {
@@ -123,7 +123,7 @@
       "title": "Tapeworms",
       "subtopic": "Tapeworms",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Communicable Intestinal Diseases and Worm Infestation"
     },
     {
@@ -133,7 +133,7 @@
       "title": "Hookworms",
       "subtopic": "Hookworms",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Communicable Intestinal Diseases and Worm Infestation"
     },
     {
@@ -143,7 +143,7 @@
       "title": "Threadworms",
       "subtopic": "Threadworms",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Communicable Intestinal Diseases and Worm Infestation"
     },
     {
