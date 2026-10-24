@@ -2,12 +2,12 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | Fiqh — Congregational Prayer and Conduct of Prayer | Requirements for congregational prayer — Congregational Prayer and Conduct of Prayer | writing |
-| 2 | 1 | teach | Fiqh — Congregational Prayer and Conduct of Prayer | Conduct of congregational prayer — Congregational Prayer and Conduct of Prayer | writing |
-| 3 | 1 | review | Fiqh — Congregational Prayer and Conduct of Prayer | Week 1 review — Fiqh — Congregational Prayer and Conduct of Prayer | writing |
-| 4 | 2 | teach | Hadith — Impurities | Reading and writing the hadith on impurities — Impurities | pending |
-| 5 | 2 | teach | Hadith — Impurities | Meaning of the hadith on impurities — Impurities | pending |
-| 6 | 2 | review | Hadith — Impurities | Week 2 review — Hadith — Impurities | pending |
+| 1 | 1 | teach | Fiqh — Congregational Prayer and Conduct of Prayer | Requirements for congregational prayer — Congregational Prayer and Conduct of Prayer | written |
+| 2 | 1 | teach | Fiqh — Congregational Prayer and Conduct of Prayer | Conduct of congregational prayer — Congregational Prayer and Conduct of Prayer | written |
+| 3 | 1 | review | Fiqh — Congregational Prayer and Conduct of Prayer | Week 1 review — Fiqh — Congregational Prayer and Conduct of Prayer | written |
+| 4 | 2 | teach | Hadith — Impurities | Reading and writing the hadith on impurities — Impurities | writing |
+| 5 | 2 | teach | Hadith — Impurities | Meaning of the hadith on impurities — Impurities | writing |
+| 6 | 2 | review | Hadith — Impurities | Week 2 review — Hadith — Impurities | writing |
 | 7 | 3 | teach | Hadith — Impurities | Lessons from the hadith on impurities — Impurities | pending |
 | 8 | 3 | teach | History of Islam — Early Converts | Beliefs of the early Muslim converts — Early Converts in Islam | pending |
 | 9 | 3 | review | History of Islam — Early Converts | Week 3 review — Hadith — Impurities, History of Islam — Early Converts | pending |
