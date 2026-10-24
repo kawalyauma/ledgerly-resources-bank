@@ -20,12 +20,12 @@
 | 16 | 3 | teach | Disease Vectors | Meaning and examples of vectors — Meaning and examples of vectors | failed |
 | 17 | 3 | teach | Disease Vectors | Cockroaches and their habitat — Cockroaches and their habitat | failed |
 | 18 | 3 | teach | Disease Vectors | Life cycle of cockroaches — Life cycle of cockroaches | failed |
-| 19 | 4 | teach | Disease Vectors | Houseflies — Houseflies | writing |
-| 20 | 4 | teach | Disease Vectors | Life cycle of houseflies — Life cycle of houseflies | writing |
-| 21 | 4 | teach | Disease Vectors | Mosquitoes and habitats — Mosquitoes and habitats | writing |
-| 22 | 4 | teach | Disease Vectors | Life cycle of mosquitoes — Life cycle of mosquitoes | writing |
-| 23 | 4 | teach | Disease Vectors | How malaria spreads — How malaria spreads | writing |
-| 24 | 4 | teach | Disease Vectors | Tsetse flies — Tsetse flies | writing |
+| 19 | 4 | teach | Disease Vectors | Houseflies — Houseflies | written |
+| 20 | 4 | teach | Disease Vectors | Life cycle of houseflies — Life cycle of houseflies | written |
+| 21 | 4 | teach | Disease Vectors | Mosquitoes and habitats — Mosquitoes and habitats | failed |
+| 22 | 4 | teach | Disease Vectors | Life cycle of mosquitoes — Life cycle of mosquitoes | failed |
+| 23 | 4 | teach | Disease Vectors | How malaria spreads — How malaria spreads | written |
+| 24 | 4 | teach | Disease Vectors | Tsetse flies — Tsetse flies | failed |
 | 25 | 5 | teach | Disease Vectors | Life cycle of tsetse flies — Life cycle of tsetse flies | writing |
 | 26 | 5 | teach | Disease Vectors | Sleeping sickness — Sleeping sickness | writing |
 | 27 | 5 | teach | Disease Vectors | Fleas — Fleas | writing |

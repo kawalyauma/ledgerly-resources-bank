@@ -213,7 +213,7 @@
       "title": "Houseflies",
       "subtopic": "Houseflies",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Disease Vectors"
     },
     {
@@ -223,7 +223,7 @@
       "title": "Life cycle of houseflies",
       "subtopic": "Life cycle of houseflies",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Disease Vectors"
     },
     {
@@ -233,7 +233,7 @@
       "title": "Mosquitoes and habitats",
       "subtopic": "Mosquitoes and habitats",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Disease Vectors"
     },
     {
@@ -243,7 +243,7 @@
       "title": "Life cycle of mosquitoes",
       "subtopic": "Life cycle of mosquitoes",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Disease Vectors"
     },
     {
@@ -253,7 +253,7 @@
       "title": "How malaria spreads",
       "subtopic": "How malaria spreads",
       "kind": "teach",
-      "status": "writing",
+      "status": "written",
       "unit": "Disease Vectors"
     },
     {
@@ -263,7 +263,7 @@
       "title": "Tsetse flies",
       "subtopic": "Tsetse flies",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Disease Vectors"
     },
     {
