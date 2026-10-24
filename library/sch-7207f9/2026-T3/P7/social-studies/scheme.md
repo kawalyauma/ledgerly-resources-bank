@@ -7,21 +7,21 @@
 | 3 | 1 | teach | Economic Developments in Africa | Mineral resources — Mineral resources | failed |
 | 4 | 1 | teach | Economic Developments in Africa | Animals as resources — Animals as resources | failed |
 | 5 | 1 | teach | Economic Developments in Africa | People as resources — People as resources | failed |
-| 6 | 2 | teach | Economic Developments in Africa | Vegetation resources — Vegetation resources | writing |
-| 7 | 2 | teach | Economic Developments in Africa | Climate as a resource — Climate as a resource | writing |
-| 8 | 2 | teach | Economic Developments in Africa | Water resources — Water resources | writing |
-| 9 | 2 | teach | Economic Developments in Africa | Problems in using resources — Problems in using resources | writing |
-| 10 | 2 | teach | Economic Developments in Africa | Caring for resources — Caring for resources | writing |
+| 6 | 2 | teach | Economic Developments in Africa | Vegetation resources — Vegetation resources | failed |
+| 7 | 2 | teach | Economic Developments in Africa | Climate as a resource — Climate as a resource | failed |
+| 8 | 2 | teach | Economic Developments in Africa | Water resources — Water resources | failed |
+| 9 | 2 | teach | Economic Developments in Africa | Problems in using resources — Problems in using resources | failed |
+| 10 | 2 | teach | Economic Developments in Africa | Caring for resources — Caring for resources | failed |
 | 11 | 3 | teach | Economic Developments in Africa | Nigeria: climate and oil — Nigeria: climate and oil | writing |
 | 12 | 3 | teach | Economic Developments in Africa | Nigeria: farming and nomadism — Nigeria: farming and nomadism | writing |
 | 13 | 3 | teach | Economic Developments in Africa | Nigeria: hydropower and transport — Nigeria: hydropower and transport | writing |
 | 14 | 3 | teach | Economic Developments in Africa | Sudan: Gezira irrigation — Sudan: Gezira irrigation | writing |
 | 15 | 3 | teach | Economic Developments in Africa | Sudan: the Nile Valley — Sudan: the Nile Valley | writing |
-| 16 | 4 | teach | Economic Developments in Africa | Libya: climate and oil — Libya: climate and oil | pending |
-| 17 | 4 | teach | Economic Developments in Africa | Libya: irrigation and tourism — Libya: irrigation and tourism | pending |
-| 18 | 4 | teach | Economic Developments in Africa | South Africa: mining and farming — South Africa: mining and farming | pending |
-| 19 | 4 | teach | Economic Developments in Africa | South Africa: industry and trade — South Africa: industry and trade | pending |
-| 20 | 4 | teach | Economic Developments in Africa | DR Congo: mining — DR Congo: mining | pending |
+| 16 | 4 | teach | Economic Developments in Africa | Libya: climate and oil — Libya: climate and oil | writing |
+| 17 | 4 | teach | Economic Developments in Africa | Libya: irrigation and tourism — Libya: irrigation and tourism | writing |
+| 18 | 4 | teach | Economic Developments in Africa | South Africa: mining and farming — South Africa: mining and farming | writing |
+| 19 | 4 | teach | Economic Developments in Africa | South Africa: industry and trade — South Africa: industry and trade | writing |
+| 20 | 4 | teach | Economic Developments in Africa | DR Congo: mining — DR Congo: mining | writing |
 | 21 | 5 | teach | Economic Developments in Africa | DR Congo: farming and lumbering — DR Congo: farming and lumbering | pending |
 | 22 | 5 | teach | Economic Developments in Africa | Uganda: farming and mining — Uganda: farming and mining | pending |
 | 23 | 5 | teach | Economic Developments in Africa | Uganda: irrigation and pastoralism — Uganda: irrigation and pastoralism | pending |
