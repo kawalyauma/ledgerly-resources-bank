@@ -14,12 +14,12 @@
 | 10 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Tapeworms — Tapeworms | failed |
 | 11 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Hookworms — Hookworms | failed |
 | 12 | 2 | teach | Communicable Intestinal Diseases and Worm Infestation | Threadworms — Threadworms | failed |
-| 13 | 3 | teach | Communicable Intestinal Diseases and Worm Infestation | Ascaris — Ascaris | writing |
-| 14 | 3 | teach | Communicable Intestinal Diseases and Worm Infestation | Preventing worm infestation — Preventing worm infestation | writing |
-| 15 | 3 | teach | Communicable Intestinal Diseases and Worm Infestation | Preparing oral rehydration solution — Preparing oral rehydration solution | writing |
-| 16 | 3 | teach | Disease Vectors | Meaning and examples of vectors — Meaning and examples of vectors | writing |
-| 17 | 3 | teach | Disease Vectors | Cockroaches and their habitat — Cockroaches and their habitat | writing |
-| 18 | 3 | teach | Disease Vectors | Life cycle of cockroaches — Life cycle of cockroaches | writing |
+| 13 | 3 | teach | Communicable Intestinal Diseases and Worm Infestation | Ascaris — Ascaris | failed |
+| 14 | 3 | teach | Communicable Intestinal Diseases and Worm Infestation | Preventing worm infestation — Preventing worm infestation | failed |
+| 15 | 3 | teach | Communicable Intestinal Diseases and Worm Infestation | Preparing oral rehydration solution — Preparing oral rehydration solution | failed |
+| 16 | 3 | teach | Disease Vectors | Meaning and examples of vectors — Meaning and examples of vectors | failed |
+| 17 | 3 | teach | Disease Vectors | Cockroaches and their habitat — Cockroaches and their habitat | failed |
+| 18 | 3 | teach | Disease Vectors | Life cycle of cockroaches — Life cycle of cockroaches | failed |
 | 19 | 4 | teach | Disease Vectors | Houseflies — Houseflies | writing |
 | 20 | 4 | teach | Disease Vectors | Life cycle of houseflies — Life cycle of houseflies | writing |
 | 21 | 4 | teach | Disease Vectors | Mosquitoes and habitats — Mosquitoes and habitats | writing |
