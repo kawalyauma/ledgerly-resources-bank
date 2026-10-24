@@ -133,7 +133,7 @@
       "title": "Dangerous things on the road",
       "subtopic": "Dangerous things on the road",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Transport"
     },
     {
@@ -143,7 +143,7 @@
       "title": "Causes and control of road accidents",
       "subtopic": "Causes and control of road accidents",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Transport"
     },
     {
@@ -153,7 +153,7 @@
       "title": "Things we make at home",
       "subtopic": "Things we make at home",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Things we make and communication"
     },
     {
@@ -163,7 +163,7 @@
       "title": "Means of communication",
       "subtopic": "Means of communication",
       "kind": "teach",
-      "status": "writing",
+      "status": "failed",
       "unit": "Things we make and communication"
     },
     {
@@ -173,7 +173,7 @@
       "title": "Week 3 review",
       "subtopic": "Transport, Things we make and communication",
       "kind": "review",
-      "status": "writing",
+      "status": "failed",
       "unit": "Things we make and communication"
     },
     {
@@ -183,7 +183,7 @@
       "title": "Furniture and crafts",
       "subtopic": "Furniture and crafts",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Things we make and communication"
     },
     {
@@ -193,7 +193,7 @@
       "title": "Clothes and tools we make",
       "subtopic": "Clothes and tools we make",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Things we make and communication"
     },
     {
@@ -203,7 +203,7 @@
       "title": "Uses of things we make",
       "subtopic": "Uses of things we make",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Things we make and communication"
     },
     {
@@ -213,7 +213,7 @@
       "title": "Materials used to make things",
       "subtopic": "Materials used to make things",
       "kind": "teach",
-      "status": "pending",
+      "status": "writing",
       "unit": "Things we make and communication"
     },
     {
@@ -223,7 +223,7 @@
       "title": "Week 4 review",
       "subtopic": "Things we make and communication",
       "kind": "review",
-      "status": "pending",
+      "status": "writing",
       "unit": "Things we make and communication"
     },
     {
