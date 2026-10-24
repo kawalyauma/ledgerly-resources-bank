@@ -2,12 +2,12 @@
 
 | # | week | kind | unit | lesson | status |
 |---|---|---|---|---|---|
-| 1 | 1 | teach | History of Islam — Khadijah and the Revelation | Events immediately after the first revelation — Khadijah and the Revelation | writing |
-| 2 | 1 | teach | History of Islam — Khadijah and the Revelation | Khadijah's reaction to the first revelation — Khadijah and the Revelation | writing |
-| 3 | 1 | review | History of Islam — Khadijah and the Revelation | Week 1 review — History of Islam — Khadijah and the Revelation | writing |
-| 4 | 2 | teach | History of Islam — Khadijah and the Revelation | Role of Waraqa bin Nawfal — Khadijah and the Revelation | pending |
-| 5 | 2 | teach | Reading of the Qur'an — Rites of the Qur'an | Rites before reciting the Qur'an — Rites of the Qur’an | pending |
-| 6 | 2 | review | Reading of the Qur'an — Rites of the Qur'an | Week 2 review — History of Islam — Khadijah and the Revelation, Reading of the Qur'an — Rites of the Qur'an | pending |
+| 1 | 1 | teach | History of Islam — Khadijah and the Revelation | Events immediately after the first revelation — Khadijah and the Revelation | written |
+| 2 | 1 | teach | History of Islam — Khadijah and the Revelation | Khadijah's reaction to the first revelation — Khadijah and the Revelation | written |
+| 3 | 1 | review | History of Islam — Khadijah and the Revelation | Week 1 review — History of Islam — Khadijah and the Revelation | written |
+| 4 | 2 | teach | History of Islam — Khadijah and the Revelation | Role of Waraqa bin Nawfal — Khadijah and the Revelation | writing |
+| 5 | 2 | teach | Reading of the Qur'an — Rites of the Qur'an | Rites before reciting the Qur'an — Rites of the Qur’an | writing |
+| 6 | 2 | review | Reading of the Qur'an — Rites of the Qur'an | Week 2 review — History of Islam — Khadijah and the Revelation, Reading of the Qur'an — Rites of the Qur'an | writing |
 | 7 | 3 | teach | Reading of the Qur'an — Rites of the Qur'an | Performing Wudhu — Rites of the Qur’an | pending |
 | 8 | 3 | teach | Reading of the Qur'an — Rites of the Qur'an | Arabic vowels and syllables — Rites of the Qur’an | pending |
 | 9 | 3 | review | Reading of the Qur'an — Rites of the Qur'an | Week 3 review — Reading of the Qur'an — Rites of the Qur'an | pending |
