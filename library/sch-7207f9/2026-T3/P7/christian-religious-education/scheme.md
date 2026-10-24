@@ -5,15 +5,15 @@
 | 1 | 1 | teach | Strengthened by the Spirit we Accept the Events of Life | Meaning of success and failure — Meaning of success and failure | failed |
 | 2 | 1 | teach | Strengthened by the Spirit we Accept the Events of Life | Causes of success and failure — Causes of success and failure | failed |
 | 3 | 1 | review | Strengthened by the Spirit we Accept the Events of Life | Week 1 review — Strengthened by the Spirit we Accept the Events of Life | failed |
-| 4 | 2 | teach | Strengthened by the Spirit we Accept the Events of Life | Coping with life experiences — Coping with life experiences | writing |
-| 5 | 2 | teach | Strengthened by the Spirit we Accept the Events of Life | Fear in people and animals — Fear in people and animals | writing |
-| 6 | 2 | review | Strengthened by the Spirit we Accept the Events of Life | Week 2 review — Strengthened by the Spirit we Accept the Events of Life | writing |
+| 4 | 2 | teach | Strengthened by the Spirit we Accept the Events of Life | Coping with life experiences — Coping with life experiences | failed |
+| 5 | 2 | teach | Strengthened by the Spirit we Accept the Events of Life | Fear in people and animals — Fear in people and animals | written |
+| 6 | 2 | review | Strengthened by the Spirit we Accept the Events of Life | Week 2 review — Strengthened by the Spirit we Accept the Events of Life | written |
 | 7 | 3 | teach | Strengthened by the Spirit we Accept the Events of Life | Bible teachings about fear and courage — Bible teachings about fear and courage | writing |
 | 8 | 3 | teach | Strengthened by the Spirit we Accept the Events of Life | Recognising and managing emotions — Recognising and managing emotions | writing |
 | 9 | 3 | review | Strengthened by the Spirit we Accept the Events of Life | Week 3 review — Strengthened by the Spirit we Accept the Events of Life | writing |
-| 10 | 4 | teach | Praying in the Spirit | God's communication with people — God's communication with people | pending |
-| 11 | 4 | teach | Praying in the Spirit | Types of prayer — Types of prayer | pending |
-| 12 | 4 | review | Praying in the Spirit | Week 4 review — Praying in the Spirit | pending |
+| 10 | 4 | teach | Praying in the Spirit | God's communication with people — God's communication with people | writing |
+| 11 | 4 | teach | Praying in the Spirit | Types of prayer — Types of prayer | writing |
+| 12 | 4 | review | Praying in the Spirit | Week 4 review — Praying in the Spirit | writing |
 | 13 | 5 | teach | Praying in the Spirit | Importance and reasons for prayer — Importance and reasons for prayer | pending |
 | 14 | 5 | teach | Praying in the Spirit | Ways and principles of prayer — Ways and principles of prayer | pending |
 | 15 | 5 | review | Praying in the Spirit | Week 5 review — Praying in the Spirit | pending |
